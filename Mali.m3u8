@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1, IKAfm
+http://37.187.79.153:5034/;
+#EXTINF:-1, Radio Saghan Mopti
+http://zenorad.io:10604/;
+#EXTINF:-1, ORTM Chaine Nationale
+http://fluoz-01.radiojar.com/cyva9z92cq5tv?
+#EXTINF:-1, ORTM Chaine 2
+http://fluoz-02.radiojar.com/yb10r889aq5tv?
+#EXTINF:-1, Radio Bamakan
+http://38.107.243.226:8006/;stream.mp3
+#EXTINF:-1, Radio Jekafo
+http://38.107.243.226:8010/;stream.mp3
+#EXTINF:-1, Radio Wassoulou Internationale - 0
+http://streaming.radionomy.com/Radio-Wassoulou-Internationale?lang=en-US&appName=iTunes.m3u
+#EXTINF:-1, Radio Wassoulou Internationale - 1
+http://listen.radionomy.com/radio-wassoulou-internationale.m3u
+#EXTINF:-1, Radio Malijet
+http://ample-zeno-02.radiojar.com/yerp85sughwtv
+#EXTINF:-1, Radio ENERGIE 107.9 FM
+http://38.107.243.226:8012/;
+#EXTINF:-1, Radio Mamelon FM Sikasso Mali
+http://ample-zeno-12.radiojar.com/076z856avewtv
+#EXTINF:-1, Radio Patriote
+http://185.41.154.86:8002/;

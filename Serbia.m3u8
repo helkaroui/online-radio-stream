@@ -1,0 +1,1367 @@
+#EXTM3U
+#EXTINF:-1, Studio B
+http://radio.studiob.rs:8004/listen.pls
+#EXTINF:-1, Muzika iz Srbije - Radio Cirilica
+http://music.fromserbia.net/cirilica.pls
+#EXTINF:-1, Gong - 0
+http://www.radiogong.co.rs/listen.m3u
+#EXTINF:-1, Gong - 1
+http://www.radiogong.co.rs/listen.ram
+#EXTINF:-1, Gong - 2
+http://www.radiogong.co.rs/listen.wmx
+#EXTINF:-1, Top FM SmoothJazzSoul
+http://109.206.96.12:8005/listen.pls
+#EXTINF:-1, Srbobran - 0
+http://srbobranradio.plcomputers.net:8000/srbobran.ogg.m3u
+#EXTINF:-1, Srbobran - 1
+http://www.plnet.rs:8000/srbobran.ogg
+#EXTINF:-1, Vladix
+http://46.4.76.142:2011/listen.pls
+#EXTINF:-1, WinWin
+http://radio.winwin.rs:16005/listen.pls
+#EXTINF:-1, Radio 016 Leskovac - 0
+http://radiostreaming.ninet.rs:8400/stream/1/
+#EXTINF:-1, Radio 016 Leskovac - 1
+http://radiostreaming.ninet.rs:8400
+#EXTINF:-1, Radio Bela Crkva
+http://belacrkva32.streaming.rs:8140/
+#EXTINF:-1, Folk 2 Radio Beograd
+http://77.92.64.44:8097/
+#EXTINF:-1, Folk 3 Radio Beograd
+http://192.99.8.192:3074/
+#EXTINF:-1, Radio Fan Bajina Bašta - 0
+http://stream.fanradio.info:8000/
+#EXTINF:-1, Radio Fan Bajina Bašta - 1
+http://www.fanradio.info/Fan_Radio.m3u
+#EXTINF:-1, Radio Fan Bajina Bašta - 2
+http://stream.fanradio.info:8000/listen.pls
+#EXTINF:-1, Radio Fan Bajina Bašta - 3
+http://85.125.193.49:8000
+#EXTINF:-1, Radio Impuls Bačka Palanka - 0
+http://impulsradio.hallsys.net:8010/
+#EXTINF:-1, Radio Impuls Bačka Palanka - 1
+http://85.25.154.136:7779/;stream.nsv?1391472164218.mp3
+#EXTINF:-1, Radio 1 Antena Novi Sad
+http://antena.topstream.net:19322/
+#EXTINF:-1, Radio Bačka Bač
+http://radio.beotel.net:8020/
+#EXTINF:-1, Radio Belle Amie Niš
+http://92.60.230.200:5040/
+#EXTINF:-1, Beograund Radio Beograd - 0
+http://94.242.222.27:9000/bgdradio
+#EXTINF:-1, Beograund Radio Beograd - 1
+http://94.242.222.27:9000/bgdradio.mp3?type=.mp3
+#EXTINF:-1, Beograund Radio Beograd - 2
+http://94.242.222.27:9000/bgdradio.mp3.m3u
+#EXTINF:-1, Beograund Radio Beograd - 3
+http://94.242.222.27:9000/bgdradio.mp3/
+#EXTINF:-1, Naxi Dance Radio - 0
+http://naxidigital128.kbcnet.rs:8110/;stream.nsv/
+#EXTINF:-1, Naxi Dance Radio - 1
+http://naxidigital128.kbcnet.rs:8110/
+#EXTINF:-1, Radio Jugovic - Novi Sad
+http://jugovic.uk.to:8888
+#EXTINF:-1, Golubinjski Radio - Golubinje - 0
+http://login.streamplus.de/player.php?spt=2754.asx
+#EXTINF:-1, Golubinjski Radio - Golubinje - 1
+http://streamplus10.leonex.de:14190
+#EXTINF:-1, Radio Stari Milanovac - Gornji Milanovac - 0
+http://rsm32.streaming.rs:10300
+#EXTINF:-1, Radio Stari Milanovac - Gornji Milanovac - 1
+http://www.starimilanovac.in.rs/starimilanovac.m3u
+#EXTINF:-1, Radio Panter - Kruševac - 0
+http://94.23.38.225:7020/
+#EXTINF:-1, Radio Panter - Kruševac - 1
+http://94.23.38.225:6010/
+#EXTINF:-1, Radio Gong - Jagodina - 0
+http://stream1.contrateam.com:8044/
+#EXTINF:-1, Radio Gong - Jagodina - 1
+http://www.radiogong.co.rs/listen.m3u
+#EXTINF:-1, Radio Stari Grad Kragujevac - Party time
+http://88.198.118.60:8073/stream
+#EXTINF:-1, Radio Stari Grad Kragujevac - TOP 44
+http://88.198.118.60:8053/stream
+#EXTINF:-1, Radio Stari Grad Kragujevac 104.3 FM - 0
+http://88.198.118.60:8043/stream
+#EXTINF:-1, Radio Stari Grad Kragujevac 104.3 FM - 1
+http://88.198.118.60:8008/stream
+#EXTINF:-1, Radio Stari Grad Kragujevac 104.3 FM - 2
+http://stream.rsg.rs:8043
+#EXTINF:-1, Radio Stari Grad Kragujevac 104.3 FM - 3
+http://stream.rsg.rs:8043/listen.pls/;?1395841034250.mp3
+#EXTINF:-1, Radio Stari Grad Kragujevac 104.3 FM - 4
+http://stream.rsg.rs:8043/listen.pls
+#EXTINF:-1, Radio Duga 94.3 FM - 0
+http://46.163.77.127:9010
+#EXTINF:-1, Radio Duga 94.3 FM - 1
+http://www.dugaradio.net/AAC/playlist.asx
+#EXTINF:-1, Radio Pingvin - Strana muzika - 0
+http://148.251.68.37:10500
+#EXTINF:-1, Radio Pingvin - Strana muzika - 1
+http://www.radiopingvin.com/strani.asx
+#EXTINF:-1, Radio Tutancamon
+http://stream.radio-hosting.net:8000/tutancamon
+#EXTINF:-1, Radio Klik FM - Zrenjanin - 0
+http://klikfm1.yunethosting.net:8000/stream.m3u
+#EXTINF:-1, Radio Klik FM - Zrenjanin - 1
+http://klikfm1.yunethosting.net:8000/stream
+#EXTINF:-1, Radio Bor
+http://213.239.205.210:8014/
+#EXTINF:-1, Radio Cer Lipolist Šabac
+http://stream1.contrateam.com:8040/
+#EXTINF:-1, RADIO BUCA - NOVI SAD - VOJVODINA - SRBIJA
+http://live.bucaradio.com:8080/
+#EXTINF:-1, Újvidéki Rádió 2
+http://static.rtv.rs/audio/uzivo/rns2.asx
+#EXTINF:-1, Čivijaš radio - Šabac
+http://87.118.84.56:8000/
+#EXTINF:-1, Radio Stari Grad Kragujevac - Relax - 0
+http://stream.rsg.rs:8063/listen
+#EXTINF:-1, Radio Stari Grad Kragujevac - Relax - 1
+http://stream.rsg.rs:8063/listen.pls/;?1407278693109.mp3
+#EXTINF:-1, Radio Stari Grad Kragujevac - Relax - 2
+http://stream.rsg.rs:8063
+#EXTINF:-1, Muzika iz Srbije - Radio Latinica - 0
+http://music.fromserbia.net/latinica.pls
+#EXTINF:-1, Muzika iz Srbije - Radio Latinica - 1
+http://208.87.25.4:8002/
+#EXTINF:-1, Muzika iz Srbije - Radio Glagoljica - 0
+http://music.fromserbia.net/glagoljica.pls
+#EXTINF:-1, Muzika iz Srbije - Radio Glagoljica - 1
+http://208.87.25.4:7777/
+#EXTINF:-1, Radio D 94.0 FM - Lučani - 0
+http://213.239.205.210:6010/
+#EXTINF:-1, Radio D 94.0 FM - Lučani - 1
+http://stream1.contrateam.com:2199/tunein/pantelic.asx
+#EXTINF:-1, Radio Koliba - Radujevac
+http://5.9.81.79:19334
+#EXTINF:-1, Radio Morava 91.9 FM - Jagodina - 0
+http://s1.radiomorava.rs/;stream/1
+#EXTINF:-1, Radio Morava 91.9 FM - Jagodina - 1
+http://78.129.199.49:12100/
+#EXTINF:-1, Radio Morava 91.9 FM - Jagodina - 2
+http://s1.radiomorava.rs:80/
+#EXTINF:-1, Radio Morava 91.9 FM - Jagodina - 3
+http://www.radiomorava.rs/playlists/asx96.asx
+#EXTINF:-1, Radio Morava 91.9 FM - Jagodina - 4
+http://s2.radiomorava.rs:8020/
+#EXTINF:-1, Radio Morava 91.9 FM - Jagodina - 5
+http://www.radiomorava.rs/playlists/asx24.asx
+#EXTINF:-1, Radio DAK 101.5 FM Jagodina Cuprija Paracin - 0
+http://85.25.73.243:10150/
+#EXTINF:-1, Radio DAK 101.5 FM Jagodina Cuprija Paracin - 1
+http://www.radiodak.rs/listen.m3u
+#EXTINF:-1, Radio DAK 101.5 FM Jagodina Cuprija Paracin - 2
+http://85.25.73.243:10160/listen.pls
+#EXTINF:-1, RUBIN UP
+http://92.60.230.200:5055
+#EXTINF:-1, Radio Boemi Novi Sad - 0
+http://136.243.20.131:8570/
+#EXTINF:-1, Radio Boemi Novi Sad - 1
+http://136.243.20.131:8570/;stream.mp3
+#EXTINF:-1, Radio Rodna Gruda - 0
+http://stream.krajina-cafe.net:9203/
+#EXTINF:-1, Radio Rodna Gruda - 1
+http://stream.krajina-cafe.net:9203/;stream.mp3
+#EXTINF:-1, Radio Rodna Gruda - 2
+http://198.154.106.116:9203/;stream.mp3
+#EXTINF:-1, Radio Rodna Gruda - 3
+http://radiorodnagruda.net/slusaj/playlist.asx
+#EXTINF:-1, Radio Rodna Gruda - 4
+http://198.154.106.116:9203/
+#EXTINF:-1, Radio Antena 101.6 FM - Bor - 0
+http://www.antenabor.rs:8018/
+#EXTINF:-1, Radio Antena 101.6 FM - Bor - 1
+http://www.antenabor.rs:8018/;*.mp3
+#EXTINF:-1, Antena Radio Krusevac - 0
+http://antenaradio.org:7005/
+#EXTINF:-1, Antena Radio Krusevac - 1
+http://antenaradio.org:4550/
+#EXTINF:-1, Antena Radio Krusevac - 2
+http://antenaradio.org:4560
+#EXTINF:-1, Antena Radio Krusevac - 3
+http://94.23.38.225:4560/
+#EXTINF:-1, Antena Radio Krusevac - 4
+http://antenaradio.org:4550/listen.pls
+#EXTINF:-1, Bum Radio 87.6 FM - Kraljevo - 0
+http://217.24.17.31:8102/
+#EXTINF:-1, Bum Radio 87.6 FM - Kraljevo - 1
+http://gal.bitsyu.net:8100/
+#EXTINF:-1, Bum Radio 87.6 FM - Kraljevo - 2
+http://87.118.84.56:9060/
+#EXTINF:-1, Bum Radio 87.6 FM - Kraljevo - 3
+http://217.24.17.31:8102/;*.mp3
+#EXTINF:-1, iFM Radio 92.7 FM - Topola Oplenac - 0
+http://91.228.254.72:8000/
+#EXTINF:-1, iFM Radio 92.7 FM - Topola Oplenac - 1
+http://91.228.254.72:8000/;*.mp3
+#EXTINF:-1, Klik 105 FM - Zrenjanin - 0
+http://klikfm1.yunethosting.net:8000/stream
+#EXTINF:-1, Klik 105 FM - Zrenjanin - 1
+http://klikfm1.yunethosting.net:8000/stream.m3u
+#EXTINF:-1, Naxi Gold Radio Beograd - 0
+http://109.206.96.18:8060/
+#EXTINF:-1, Naxi Gold Radio Beograd - 1
+http://109.206.96.18:8060/;stream.nsv/
+#EXTINF:-1, Naxi Gold Radio Beograd - 2
+http://109.206.96.18:8065/
+#EXTINF:-1, Radio Amore 107.4 FM - Jagodina
+http://213.240.61.21:8000/amore
+#EXTINF:-1, TOP FM Beograd 106,8 - 0
+http://live192.topfm.rs:8000/
+#EXTINF:-1, TOP FM Beograd 106,8 - 1
+http://109.206.96.12:8000
+#EXTINF:-1, TOP FM Beograd 106,8 - 2
+http://109.206.96.11:8000
+#EXTINF:-1, Belami Radio - Niš
+http://92.60.230.200:5040/
+#EXTINF:-1, NARODNI FM :: Smederevska Palanka
+http://195.252.68.166:8036/
+#EXTINF:-1, OK Radio 94.2 FM - Beograd - 0
+http://live4.okradio.net:8052
+#EXTINF:-1, OK Radio 94.2 FM - Beograd - 1
+http://www.okradio.net/Ok%20Radio%20100,1%20MHz.m3u
+#EXTINF:-1, OK Radio 94.2 FM - Beograd - 2
+http://live3.okradio.net:8004/listen.pls
+#EXTINF:-1, OK Radio 94.2 FM - Beograd - 3
+http://live3.okradio.net:8002/listen.pls
+#EXTINF:-1, OK Radio 94.2 FM - Beograd - 4
+http://www.okradio.net/64.m3u
+#EXTINF:-1, Bravo FM Narodni Kragujevac
+http://195.252.68.166:8036
+#EXTINF:-1, Radio 101 Beograd
+http://87.118.84.56:9300
+#EXTINF:-1, Naxi Evergreen Radio - 0
+http://naxidigital128.kbcnet.rs:8010/listen.pls
+#EXTINF:-1, Naxi Evergreen Radio - 1
+http://naxidigital48.kbcnet.rs:8015/listen.pls
+#EXTINF:-1, Naxi Evergreen Radio - 2
+http://naxidigital128.kbcnet.rs:8010/
+#EXTINF:-1, Naxi Evergreen Radio - 3
+http://naxidigital128.kbcnet.rs:8010/;stream.mp3
+#EXTINF:-1, Pink Radio FM 91.3 FM - Beograd
+http://pink.exyuserver.com/
+#EXTINF:-1, TDI Radio - EDM
+http://streaming.tdiradio.com:8000/edm
+#EXTINF:-1, TDI Radio - Top 40
+http://streaming.tdiradio.com:8000/top40
+#EXTINF:-1, TDI Radio - Dj Akademija
+http://streaming.tdiradio.com:8000/djakademija
+#EXTINF:-1, TDI Radio - Eurodance
+http://streaming.tdiradio.com:8000/eurodance
+#EXTINF:-1, TDI Radio - Crna Gora
+http://streaming.tdiradio.com:8000/crnagora?
+#EXTINF:-1, Radio Karolina 106.3 FM - 0
+http://streaming.karolina.rs:8000/karolina
+#EXTINF:-1, Radio Karolina 106.3 FM - 1
+http://streaming.karolina.rs:8000/karolina.m3u
+#EXTINF:-1, Radio Slavoslovlje 90.7 FM - Subotica - 0
+http://198.178.121.76:8436/
+#EXTINF:-1, Radio Slavoslovlje 90.7 FM - Subotica - 1
+http://198.178.121.76:8436/stream?type=.mp3
+#EXTINF:-1, Radio Slavoslovlje 90.7 FM - Subotica - 2
+http://198.178.121.76:8436/stream.m3u
+#EXTINF:-1, Radio Slavoslovlje 90.7 FM - Subotica - 3
+https://cp13.shoutcheap.com:2199/tunein/slavoslo.asx
+#EXTINF:-1, Radio Slavoslovlje 90.7 FM - Subotica - 4
+https://cp13.shoutcheap.com:2199/tunein/slavoslo.pls
+#EXTINF:-1, Radio YU Eco - Subotica - 0
+http://213.240.61.51:8000/stream
+#EXTINF:-1, Radio YU Eco - Subotica - 1
+http://213.240.61.51:8000/stream?type=.mp3
+#EXTINF:-1, Radio YU Eco - Subotica - 2
+http://217.26.213.159:8000/radio.mp3
+#EXTINF:-1, Radio YU Eco - Subotica - 3
+http://217.26.213.159:8000/radio.mp3.m3u
+#EXTINF:-1, Radio YU Eco - Subotica - 4
+http://213.240.61.51:8000/stream.m3u
+#EXTINF:-1, OK Radio Plus Beograd - 0
+http://live.okplus.rs:8000
+#EXTINF:-1, OK Radio Plus Beograd - 1
+http://okplus.rs/okplus_uzivo.m3u
+#EXTINF:-1, RADIO SUMADIJA ARANDJELOVAC
+http://193.243.169.34:9500/
+#EXTINF:-1, Radio Delta 89,5 FM Novi Sad - 0
+http://213.240.61.36:8000/stream?type=.mp3
+#EXTINF:-1, Radio Delta 89,5 FM Novi Sad - 1
+http://213.240.61.36:8000/stream.m3u
+#EXTINF:-1, Radio Delta 89,5 FM Novi Sad - 2
+http://213.240.61.36:8000/stream
+#EXTINF:-1, Radio Šumadinac 3 Folk
+http://136.243.12.82:8004/
+#EXTINF:-1, Radio Šumadinac 2 Zabavna
+http://136.243.12.82:8002/
+#EXTINF:-1, Radio Šumadinac 1 Narodna
+http://136.243.12.82:8000/
+#EXTINF:-1, Radio Jammonite
+http://audio.jammonite.com:8000/airtime_128
+#EXTINF:-1, HitFm
+http://hitfm.rs/slusaj/hit.pls
+#EXTINF:-1, Radio Antena M - Podgorica - 0
+http://radioservis.me:8010/antenamlive?type=.mp3
+#EXTINF:-1, Radio Antena M - Podgorica - 1
+http://radioservis.me:8010/antenamlive.m3u
+#EXTINF:-1, Radio Antena M - Podgorica - 2
+http://radioservis.me:8010/antenamlive
+#EXTINF:-1, Radio Pancevo 92.1 FM
+http://s29.myradiostream.com:16654/;
+#EXTINF:-1, Naxi Usce Shoping Radio - 0
+http://109.206.96.18:8000/listen.pls
+#EXTINF:-1, Naxi Usce Shoping Radio - 1
+http://109.206.96.18:8005/listen.pls
+#EXTINF:-1, Radio SKAY 107.5 FM - Niš
+http://www.radioskay.com/download/playlist.pls
+#EXTINF:-1, Radio SKAY FM - Vranje
+http://46.163.77.127:9010
+#EXTINF:-1, Radio SKAY NARODNI - Vranje
+http://46.163.77.127:9012
+#EXTINF:-1, Play Radio - 0
+http://stream.playradio.rs:8001/play.mp3
+#EXTINF:-1, Play Radio - 1
+http://stream.playradio.rs:8001/play.mp3.m3u
+#EXTINF:-1, Play Radio - 2
+http://stream.playradio.rs:8001/play.aac.m3u
+#EXTINF:-1, Play Radio - 3
+http://stream.playradio.rs:8001/play-low.aac.m3u
+#EXTINF:-1, Bubamara 96,5 FM- Svrljig
+http://shoutcast.netsi.net:8400/listen.pls
+#EXTINF:-1, MB Radio 98,1 FM - Ub - 0
+http://188.40.95.74:8100/
+#EXTINF:-1, MB Radio 98,1 FM - Ub - 1
+http://188.40.95.74:8100/listen.asx
+#EXTINF:-1, MB Radio 98,1 FM - Ub - 2
+http://188.40.95.74:8100/stream
+#EXTINF:-1, RADIO 101 BGD - Belgrade - 0
+http://87.118.84.56:9300/;*.mp3
+#EXTINF:-1, RADIO 101 BGD - Belgrade - 1
+http://87.118.84.56:9300
+#EXTINF:-1, Radio Dunav 98.7 Fm - Apatin - 0
+http://dunav.yunethosting.net:8000/stream.ogg.m3u
+#EXTINF:-1, Radio Dunav 98.7 Fm - Apatin - 1
+http://dunav.yunethosting.net:8000/stream.ogg
+#EXTINF:-1, Naxi Radio City - Subotica
+http://109.206.96.34:8560/
+#EXTINF:-1, Radio Fantasy Naxy 106.5 FM - Vrbas
+http://109.206.96.34:8575/
+#EXTINF:-1, iFM Narodni Radio - Topola Oplenac
+http://91.228.254.72:7000/
+#EXTINF:-1, iFM World Radio - Topola, Srbija
+http://91.228.254.72:6060/
+#EXTINF:-1, Yu Caffe Network Radio
+http://sc14.topstream.net:19310/
+#EXTINF:-1, Radio LUNA Zapadna Srbija - 0
+http://77.105.36.218:8060/;stream.mp3
+#EXTINF:-1, Radio LUNA Zapadna Srbija - 1
+http://luna.orion.rs:8060/
+#EXTINF:-1, Radio LUNA Zapadna Srbija - 2
+http://77.105.36.218:8060
+#EXTINF:-1, Radio 3 Beograd - 0
+http://radio3-128.streaming.rs:9200/;*.mp3
+#EXTINF:-1, Radio 3 Beograd - 1
+http://radio3-128.streaming.rs:9200/
+#EXTINF:-1, Radio 3 Beograd - 2
+http://radio3-48.streaming.rs:9220/
+#EXTINF:-1, Radio 3 Beograd - 3
+http://www.radio3.rs/streamdownload/Radio3.asx
+#EXTINF:-1, Radio Zlatibor - 0
+http://192.240.102.3:8944
+#EXTINF:-1, Radio Zlatibor - 1
+http://192.240.102.3:8944/;stream
+#EXTINF:-1, Radio Zlatibor - 2
+http://192.240.102.3:8944/;*.mp3
+#EXTINF:-1, Radio Lux 102,0 FM - Smederevo - 0
+http://stream.konekt.rs:9102/
+#EXTINF:-1, Radio Lux 102,0 FM - Smederevo - 1
+http://stream.konekt.rs:9102/;?1412773989312.mp3
+#EXTINF:-1, Radio Javor 106.2 FM - Ivanjica
+http://javor.streaming.rs:9320/
+#EXTINF:-1, NO Limit Radio 91,1 FM Senta - 0
+http://webradio.sksyu.net:8000/nolimithq.ogg.m3u
+#EXTINF:-1, NO Limit Radio 91,1 FM Senta - 1
+http://webradio.sksyu.net:8000/nolimithq.ogg
+#EXTINF:-1, Radio Biser Plus 92.6 FM - Malo Crniće - 0
+http://185.17.188.18:8070/;stream.mp3
+#EXTINF:-1, Radio Biser Plus 92.6 FM - Malo Crniće - 1
+http://185.17.188.18:8070/
+#EXTINF:-1, RTS Stereorama - 0
+http://www.radiobeograd.rs/download/mp3s/stereorama.asx
+#EXTINF:-1, RTS Stereorama - 1
+http://rts.ipradio.rs:8008/listen.pls
+#EXTINF:-1, RTS Radio Beograd 2/3
+http://www.radiobeograd.rs/download/mp3s/radiobeograd2.asx
+#EXTINF:-1, RTS Beograd 202 - 0
+http://www.radiobeograd.rs/download/mp3s/radio202.asx
+#EXTINF:-1, RTS Beograd 202 - 1
+http://rts.ipradio.rs:8006/listen.pls
+#EXTINF:-1, Deluxe Radio Beograd
+http://cmr-hosting.com:8408/
+#EXTINF:-1, Nostalgie Radio Belgrade FM 105.2
+http://nostalgie128.streaming.rs:9250/
+#EXTINF:-1, Q Radio - Kula
+http://as.q-media.rs:8000/mp3?type=.mp3
+#EXTINF:-1, Radio Kaona - 0
+http://kamediacast.dyndns.org:11062/
+#EXTINF:-1, Radio Kaona - 1
+http://kamedia.info/player/radio-kaona/proba.m3u
+#EXTINF:-1, Radio Kaona Vlaski Kanal - 0
+http://kamedia.info/player/radio-kaona/radio-kaona-2-vlasko.m3u
+#EXTINF:-1, Radio Kaona Vlaski Kanal - 1
+http://kamediacast.dyndns.org:9193/;?1470089618267.mp3
+#EXTINF:-1, RADIO 101  - Beograd
+http://87.118.84.56:9300/;.mp3
+#EXTINF:-1, Radio Active 105.4 FM - Bečej - 0
+http://active96-naxinacional.streaming.rs:8555/;stream.mp3
+#EXTINF:-1, Radio Active 105.4 FM - Bečej - 1
+http://www.radioactive.rs/stream/Naxi_Active_Radio.asx
+#EXTINF:-1, Radio Ada
+http://212.108.200.53:7170/
+#EXTINF:-1, Radio Puls - Despotovac
+http://178.79.25.9:8026/;*.mp3
+#EXTINF:-1, Radio Hit FM - Srbija
+http://streaming.hitfm.rs:8000/hit
+#EXTINF:-1, Radio Pingvin World - Top 40 Hits
+http://www.radiopingvin.com:10500
+#EXTINF:-1, hit Radio Požarevac
+http://176.31.239.83:9124/
+#EXTINF:-1, Kragujevac plaza Radio - 0
+http://109.206.96.18:8020/;*.mp3
+#EXTINF:-1, Kragujevac plaza Radio - 1
+http://109.206.96.18:8020/;&type=mp3
+#EXTINF:-1, Radio 021 Novi Sad - 0
+http://109.206.96.106:8000/;stream.mp3
+#EXTINF:-1, Radio 021 Novi Sad - 1
+http://radiouzivo.021.rs/playlists/winamp.pls
+#EXTINF:-1, Humanitarni Radio - Kragujevac
+http://88.198.233.68:2125/;*.mp3
+#EXTINF:-1, Radio 101 Rock Beograd - 0
+http://radio101.rs/hmradio.m3u
+#EXTINF:-1, Radio 101 Rock Beograd - 1
+http://87.118.84.56:9300/;.mp3
+#EXTINF:-1, Radio 101 Rock Beograd - 2
+http://87.118.84.56:9300/;*.mp3
+#EXTINF:-1, TOP FM HitRadio Belgrade
+http://109.206.96.11:8000/
+#EXTINF:-1, Bum Bum Radio Novi - Beograd - 0
+http://bumbum-stream.netlogic.rs:8000/;stream
+#EXTINF:-1, Bum Bum Radio Novi - Beograd - 1
+http://bumbum-stream.netlogic.rs:8000/listen.pls
+#EXTINF:-1, Radio Novosti 104.7 FM -  Beograd - 0
+http://novostir.kbcnet.rs/listen.pls
+#EXTINF:-1, Radio Novosti 104.7 FM -  Beograd - 1
+http://www.radionovosti.rs:443/radionovosti56s.mp3.m3u
+#EXTINF:-1, Radio Novosti 104.7 FM -  Beograd - 2
+http://novostir.kbcnet.rs:443
+#EXTINF:-1, Radio Juzni Vetar - Beograd - 0
+http://62.75.216.99:8000/listen.pls
+#EXTINF:-1, Radio Juzni Vetar - Beograd - 1
+http://85.25.134.32:8000/listen.pls
+#EXTINF:-1, Radio Juzni Vetar - Beograd - 2
+http://62.75.216.99:8000/;*.mp3
+#EXTINF:-1, Radio Juzni Vetar - Beograd - 3
+http://62.75.216.99:8000/listen.asx
+#EXTINF:-1, Radio Volimo Net - Beograd
+http://136.243.12.82:9022/;stream.mp3
+#EXTINF:-1, Naxi RNB Radio Beograd - 0
+http://naxidigital-rnb128.streaming.rs:8120/listen.pls
+#EXTINF:-1, Naxi RNB Radio Beograd - 1
+http://naxidigital-rnb48.streaming.rs:8125/listen.pls
+#EXTINF:-1, Naxi RNB Radio Beograd - 2
+http://www.naxi.rs/media/58d71f-naxi-rnb-radio.asx
+#EXTINF:-1, Naxi Radio 96.9 FM - Beograd - 0
+http://naxi128.streaming.rs:9150/listen.pls
+#EXTINF:-1, Naxi Radio 96.9 FM - Beograd - 1
+http://naxi64.streaming.rs:9160/listen.pls
+#EXTINF:-1, Naxi Radio 96.9 FM - Beograd - 2
+http://www.naxi.rs/media/live/naxi128.asx
+#EXTINF:-1, Naxi Radio 96.9 FM - Beograd - 3
+http://109.206.96.14:8000/listen.pls
+#EXTINF:-1, Naxi Radio 96.9 FM - Beograd - 4
+http://109.206.96.18/listen.pls
+#EXTINF:-1, Radio Mačkica, Zabavna Muzika - Kruševac - 0
+http://cast2.name.ba:2199/tunein/radiomackica1.pls
+#EXTINF:-1, Radio Mačkica, Zabavna Muzika - Kruševac - 1
+http://cast2.name.ba:2199/tunein/radiomackica1.asx
+#EXTINF:-1, Radio Mačkica, Zabavna Muzika - Kruševac - 2
+http://cast2.name.ba:8157/stream
+#EXTINF:-1, Radio Mačkica, Narodna Muzika - Kruševac - 0
+http://cast2.name.ba:8153/stream
+#EXTINF:-1, Radio Mačkica, Narodna Muzika - Kruševac - 1
+http://cast2.name.ba:2199/tunein/radiomackica.pls
+#EXTINF:-1, Radio Mačkica, Narodna Muzika - Kruševac - 2
+http://cast2.name.ba:2199/tunein/radiomackica.asx
+#EXTINF:-1, Radio Slatki Poljupci
+http://5.9.25.50:9999/
+#EXTINF:-1, Radio Maria Serbia (Hungarian service) - 0
+http://dreamsiteradiocp.com:8014/
+#EXTINF:-1, Radio Maria Serbia (Hungarian service) - 1
+http://cloudrad.io/radiomariaserbiaung/listen.asx
+#EXTINF:-1, Radio Klas - 0
+http://136.243.12.82:9014/
+#EXTINF:-1, Radio Klas - 1
+http://136.243.12.82:9014/listen.pls
+#EXTINF:-1, Radio Krupanj 94.7 FM
+http://95.154.254.81:36137/
+#EXTINF:-1, Resavski Radio 88 FM - Despotovac
+http://78.129.199.49/
+#EXTINF:-1, Radio Džuboks Dolovo 102.7 FM - Pančevo - 0
+http://176.9.59.144:8090/dzuboks?type=.mp3
+#EXTINF:-1, Radio Džuboks Dolovo 102.7 FM - Pančevo - 1
+http://176.9.59.144:8090/dzuboks?1487962416921.mp3
+#EXTINF:-1, Radio Strela, Veliki Popović 90.7 FM - Despotovac - 0
+http://176.9.59.144:8090/strela?1487962906953.mp3
+#EXTINF:-1, Radio Strela, Veliki Popović 90.7 FM - Despotovac - 1
+http://176.9.59.144:8090/strela
+#EXTINF:-1, Radio Maria Serbia
+http://dreamsiteradiocp.com:8012
+#EXTINF:-1, Radio Naxi M 102.5 FM - Kraljevo
+http://mradio96-naxinacional.streaming.rs:8550/
+#EXTINF:-1, Radio Patrola 021- Novi Sad - 0
+http://62.210.30.56:9444/
+#EXTINF:-1, Radio Patrola 021- Novi Sad - 1
+http://www.patrola021.com/plejeri_slusanje/wma.asx
+#EXTINF:-1, Radio Dva Lazarevac - 0
+http://188.40.95.74:8058/;*.mp3
+#EXTINF:-1, Radio Dva Lazarevac - 1
+http://188.40.95.74:8058/stream.m3u
+#EXTINF:-1, Radio Srem 102.7 FM - Ruma
+http://stream.kingsnet.rs:8000/radio-srem
+#EXTINF:-1, Bravo 103.7 FM - Kragujevac
+http://streaming.orion.rs.:8030/
+#EXTINF:-1, Radio Centar 98,7 FM - Kragujevac - 0
+http://195.252.68.166:8038/
+#EXTINF:-1, Radio Centar 98,7 FM - Kragujevac - 1
+http://195.252.68.166:8038/listen.pls
+#EXTINF:-1, Radio Slovo Ljubve 107.3 Fm - 0
+http://166.62.125.27:8000/;*.mp3
+#EXTINF:-1, Radio Slovo Ljubve 107.3 Fm - 1
+http://166.62.125.27:8000/stream?type=.mp3
+#EXTINF:-1, Zeleni Radio - Beograd
+http://88.198.233.68:8016/stream
+#EXTINF:-1, Radio 025 Sombor - 0
+http://87.117.201.152:9653
+#EXTINF:-1, Radio 025 Sombor - 1
+http://87.117.201.152/listen.php?ip=87.117.201.152&port=9653
+#EXTINF:-1, ATOM Radio
+http://213.239.205.210:8053/stream
+#EXTINF:-1, Radio MORAVA - 0
+http://78.129.199.49:12100/listen.pls
+#EXTINF:-1, Radio MORAVA - 1
+http://www.radiomorava.rs/playlists/pls96.pls
+#EXTINF:-1, Radio MORAVA - 2
+http://www.radiomorava.rs/playlists/asx96.asx
+#EXTINF:-1, Radio MORAVA - 3
+http://www.radiomorava.rs/playlists/ram96.ram
+#EXTINF:-1, Radio MORAVA - 4
+http://www.radiomorava.rs/playlists/aac24.pls
+#EXTINF:-1, Radio MORAVA - 5
+http://www.radiomorava.rs/playlists/itunes24.pls
+#EXTINF:-1, Radio Gornji
+http://stream.radio-hosting.net:8000/gornji.mp3
+#EXTINF:-1, Naxi Rock Radio - 0
+http://naxidigital-rock128.streaming.rs:8180/listen.pls
+#EXTINF:-1, Naxi Rock Radio - 1
+http://naxidigital-rock48.streaming.rs:8185/listen.pls
+#EXTINF:-1, Naxi Rock Radio - 2
+http://www.naxi.rs/media/1c49b0-naxi-rock-radio.asx
+#EXTINF:-1, Naxi Jazz Radio - 0
+http://naxidigital-jazz128.streaming.rs:8170/listen.pls
+#EXTINF:-1, Naxi Jazz Radio - 1
+http://naxidigital-jazz48.streaming.rs:8175/listen.pls
+#EXTINF:-1, Naxi Jazz Radio - 2
+http://www.naxi.rs/media/04a81e-naxi-jazz-radio.asx
+#EXTINF:-1, Naxi Fresh Radio - 0
+http://naxidigital-fresh128.streaming.rs:8210/listen.pls
+#EXTINF:-1, Naxi Fresh Radio - 1
+http://naxidigital-fresh48.streaming.rs:8215/listen.pls
+#EXTINF:-1, Naxi Fresh Radio - 2
+http://www.naxi.rs/media/dfe457-naxi-fresh-radio.asx
+#EXTINF:-1, NXS Web Radio - Beograd
+http://88.198.233.68:2095/stream
+#EXTINF:-1, Veljko Pajovic
+http://195.252.113.118:8002/listen.pls
+#EXTINF:-1, Radio Strela 90.7 FM Veliki Popović - Despotovac
+http://176.9.59.144:8090/strela
+#EXTINF:-1, Radio Podrinje 97.8 MHz Loznica
+http://46.235.101.198:9090
+#EXTINF:-1, Radio Vedro - 0
+http://24.134.17.193:8100/live.mp3
+#EXTINF:-1, Radio Vedro - 1
+http://24.134.17.193:8100/live.mp3.m3u
+#EXTINF:-1, Radio Zavicaj Plus Godacica - Kraljevo
+http://s39.myradiostream.com:14870/listen.pls
+#EXTINF:-1, Radio Dijamant1 - Kraljevo - 0
+http://45.43.200.50:15524/
+#EXTINF:-1, Radio Dijamant1 - Kraljevo - 1
+http://stm21.srvstm.com:15524/;stream.mp3
+#EXTINF:-1, Radio SERBONA (радио СЕРБОНА)
+http://streams.museter.com:2199/tunein/goxydogsy.pls
+#EXTINF:-1, Krajiški radio - Valjevo
+http://37.59.28.208:8531
+#EXTINF:-1, Radio AMI 89,7 - Kikinda
+http://185.119.88.88:8005/;*.mp3
+#EXTINF:-1, Radio 012 Požarevac
+http://178.32.62.163:8762/stream
+#EXTINF:-1, Radio Romsko Srce - Kruševac - 0
+http://cast.az-streamingserver.com:8475/1
+#EXTINF:-1, Radio Romsko Srce - Kruševac - 1
+http://cast.az-streamingserver.com:8475
+#EXTINF:-1, Radio 12 Kruševac
+http://94.23.62.189:5516/listen.pls
+#EXTINF:-1, B-ton radio - Beograd
+http://a1.stream-e.com:8000/airtime_128
+#EXTINF:-1, Radio Beseda 91.8 MHz - Novi Sad - 0
+http://92.61.114.191:9180/;*.mp3
+#EXTINF:-1, Radio Beseda 91.8 MHz - Novi Sad - 1
+http://92.61.114.191:9180/listen.pls
+#EXTINF:-1, Radio Klik FM - Čačak - 0
+http://xanadu.yunethosting.net:8000/stream
+#EXTINF:-1, Radio Klik FM - Čačak - 1
+http://xanadu.yunethosting.net:8000/stream.m3u
+#EXTINF:-1, Cool Radio Opovo
+http://176.9.59.144:8090/coolopovo
+#EXTINF:-1, Max FM Radio - 0
+http://www.maxfm.rs/max.pls
+#EXTINF:-1, Max FM Radio - 1
+http://85.25.73.243:9840/;*.mp3
+#EXTINF:-1, Max FM Radio - 2
+http://85.25.73.243:9840/;stream.mp3
+#EXTINF:-1, Radio Dobrić - Žitoradja - 0
+http://5.9.25.50:9314/stream
+#EXTINF:-1, Radio Dobrić - Žitoradja - 1
+http://5.9.25.50:9314/
+#EXTINF:-1, Radio Dobrić - Žitoradja - 2
+http://5.9.25.50:9314/listen.pls
+#EXTINF:-1, RADIO CLUB037 - Kruševac
+http://streaming.radionomy.com/ItaloDisco?lang=en-US&appName=iTunes.m3u
+#EXTINF:-1, Radio 101 Love Beograd
+http://87.118.84.56:9300/;
+#EXTINF:-1, Radio 101 Dance Beograd - 0
+http://radio101.rs/hmradio.m3u
+#EXTINF:-1, Radio 101 Dance Beograd - 1
+http://87.118.84.56:9300/;.mp3
+#EXTINF:-1, Radio Centar FM 98.7 FM Kragujevac, Srbija
+http://195.252.68.166:8038/;*.mp3
+#EXTINF:-1, Radio 2M Beograd - 0
+http://protostar.shoutca.st:8157/stream;&type=mp3
+#EXTINF:-1, Radio 2M Beograd - 1
+http://protostar.shoutca.st:8157/stream
+#EXTINF:-1, Radio 34 Kragujevac
+http://88.198.118.60:8889/stream
+#EXTINF:-1, Radio Ljubav - Jagodina
+http://ljubav128.streaming.rs:9360
+#EXTINF:-1, Radio Maki - Jagodina - 0
+http://178.79.25.9:8014/
+#EXTINF:-1, Radio Maki - Jagodina - 1
+http://178.79.25.9:8014/;?1392475131703.mp3
+#EXTINF:-1, Novi Radio - Sombor
+http://95.154.202.117/stream.mp3?ipport=95.154.202.117_38349
+#EXTINF:-1, Naš radio 107.8 MHz - Žabalj
+http://nasradio.us.to:8888/
+#EXTINF:-1, Hit Radio, Salaš - Zeječar
+http://radio.tvistok.com:7031/live
+#EXTINF:-1, Radio Dženarika - Čačak
+http://stream.dzenarika.net:8000/stream
+#EXTINF:-1, Radio Tup Tup 100.4 FM  - Ljubovija - 0
+http://176.9.59.144:8012/stream
+#EXTINF:-1, Radio Tup Tup 100.4 FM  - Ljubovija - 1
+http://176.9.59.144:8120/tuptup
+#EXTINF:-1, Radio Tup Tup 100.4 FM  - Ljubovija - 2
+http://176.9.59.144:8012
+#EXTINF:-1, Radio Tup Tup 100.4 FM  - Ljubovija - 3
+http://78.129.189.182/stream.mp3?ipport=78.129.189.182_20755
+#EXTINF:-1, Radio Fruška Gora 105 FM - Vrdnik (Ruma)
+http://stream.kingsnet.rs:8000/radio-fruskagora
+#EXTINF:-1, Zlatiborski radio 106 - Kosjerić
+http://213.239.205.210:8053/stream
+#EXTINF:-1, Radio Stil 90.7 FM - Kostolac - 0
+http://188.40.95.74:8090/stream
+#EXTINF:-1, Radio Stil 90.7 FM - Kostolac - 1
+http://188.40.95.74:8090/;&type=mp3
+#EXTINF:-1, Radio Koran 88.7 FM - Priboj
+http://radio.orion.rs:10080/;stream.mp3
+#EXTINF:-1, Super Radio Nis - 0
+http://84.16.241.174:8008/stream
+#EXTINF:-1, Super Radio Nis - 1
+http://84.16.241.174:8008/stream?1520375082287
+#EXTINF:-1, Ivanjički Radio 92,4 FM - Ivanjica
+http://163.172.210.242:8010/stream
+#EXTINF:-1, Radio Laguna 93.7 FM - Beograd - 0
+http://stream.radiolaguna.rs:8000/;stream.mp3
+#EXTINF:-1, Radio Laguna 93.7 FM - Beograd - 1
+http://185.22.144.146:8000/listen.pls
+#EXTINF:-1, Radio Laguna 93.7 FM - Beograd - 2
+http://185.22.144.146:8000
+#EXTINF:-1, BIR - Beogradski Internet Radio
+http://87.117.201.152/stream.mp3?ipport=87.117.201.152_4848
+#EXTINF:-1, Energy Radio - Belgrade
+http://radio.energyradio.rs:7799/;*.mp3
+#EXTINF:-1, Disco Susret Radio - Beograd
+http://62.77.128.45:8004/;stream
+#EXTINF:-1, Mega Radio 89.2 FM - Indjija
+http://95.169.188.101:8000/;stream
+#EXTINF:-1, Radio Akord Media - Niš
+http://cp2.shout-cast.tk:8834/stream
+#EXTINF:-1, Radio Blagovesnik 95,7 FM - Sombor - 0
+http://blagovesnik.yunethosting.net:8000/stream.ogg
+#EXTINF:-1, Radio Blagovesnik 95,7 FM - Sombor - 1
+http://blagovesnik.yunethosting.net:8000/stream.ogg?1520721033776
+#EXTINF:-1, Radio Caribrod Dimitrovgrad
+http://176.9.59.144:8090/caribrod
+#EXTINF:-1, Radio Dzerdan
+http://87.117.197.33/records/radiouser1902310/record.mp3
+#EXTINF:-1, Radio JAT 90.2 FM - Beograd - 0
+http://streaming11.tdiradio.com:8000/radiojat
+#EXTINF:-1, Radio JAT 90.2 FM - Beograd - 1
+http://streaming.radiojat.rs:12121/listen.pls
+#EXTINF:-1, Radio JAT 90.2 FM - Beograd - 2
+http://streaming.radiojat.rs:12111/listen.pls
+#EXTINF:-1, Radio JAT 90.2 FM - Beograd - 3
+http://streaming4.radiojat.rs/listen.pls
+#EXTINF:-1, Radio JAT 90.2 FM - Beograd - 4
+http://streaming.radiojat.rs:12121/
+#EXTINF:-1, Radio JAT 90.2 FM - Beograd - 5
+http://streaming.radiojat.rs:8000/radiojat
+#EXTINF:-1, Radio Magnum 103 Mhz
+http://magnum.web-srbija.net:8121/;stream.mp3
+#EXTINF:-1, Radio Santos - Zrejanin
+http://radio.rtvsantos.com:8111/listen.pls
+#EXTINF:-1, Radio 3 95.8 - 0
+http://radio3-128.streaming.rs:9200/listen.pls
+#EXTINF:-1, Radio 3 95.8 - 1
+mms://195.178.44.140/radiotri1
+#EXTINF:-1, YuCafe Radio
+http://bombonica.topstream.net:19310/
+#EXTINF:-1, Radio Veseljaci
+http://akina.streampanel.net:2199/tunein/nuxejqlq.pls
+#EXTINF:-1, Prve Ruke Radio
+http://67.212.165.162:8074/
+#EXTINF:-1, TDI Radio - Classic's
+http://streaming.tdiradio.com/classics
+#EXTINF:-1, TDI Radio - Pop R'n'B Hits
+http://streaming.tdiradio.com/poprnbhits
+#EXTINF:-1, TDI Radio - Club House (CH)
+http://streaming.tdiradio.com/clubhouse
+#EXTINF:-1, Radio Rasanac
+http://stream.radio-hosting.net:8000/radiomp3
+#EXTINF:-1, Radio Ruf Petrovac na Mlavi - 0
+http://radio.striminghost.com:8084/listen.pls?sid=1
+#EXTINF:-1, Radio Ruf Petrovac na Mlavi - 1
+http://188.40.95.74:8020/;stream.mp3
+#EXTINF:-1, Radio Explorer - Beograd
+http://stream.radioexplorer.rs:8585/;stream.mp3
+#EXTINF:-1, Radio Ozon - Sremska Mitrovica - Vojvodina, Serbia
+http://188.40.95.74:8180/;
+#EXTINF:-1, Radio Razbibriga - Beograd - 0
+http://stream1.contrateam.com:2199/tunein/pukovnik.asx
+#EXTINF:-1, Radio Razbibriga - Beograd - 1
+http://213.239.205.210:8046/stream
+#EXTINF:-1, Radio Vladimirci
+http://185.102.236.30:8050/;
+#EXTINF:-1, Radio Zelengrad - Beograd - 0
+http://myradio.doscast.com/tunein/zeljko1.pls
+#EXTINF:-1, Radio Zelengrad - Beograd - 1
+http://rosetta.shoutca.st:8313/;
+#EXTINF:-1, Radio Zelengrad - Beograd - 2
+http://rosetta.shoutca.st:8313/;*.mp3
+#EXTINF:-1, Radio Zelengrad - Beograd - 3
+http://myradio.doscast.com/tunein/zeljko1.asx
+#EXTINF:-1, Radio Zelengrad - Beograd - 4
+http://myradio.doscast.com/tunein/zeljko1.ram
+#EXTINF:-1, Snaga Naroda NET - 0
+http://tachyon.shoutca.st:8847/;
+#EXTINF:-1, Snaga Naroda NET - 1
+http://cent5.serverhostingcenter.com:2199/tunein/dgnbfogr.pls
+#EXTINF:-1, Snaga Naroda NET - 2
+http://cent5.serverhostingcenter.com:2199/tunein/dgnbfogr.ram
+#EXTINF:-1, Snaga Naroda NET - 3
+http://cent5.serverhostingcenter.com:2199/tunein/dgnbfogr.qtl
+#EXTINF:-1, Radio Rodna Gruda - Sombor
+http://38.107.242.226:9203/
+#EXTINF:-1, Op Top Radio - Topola 106.4 FM - 0
+http://213.239.205.210:2199/tunein/optopitd.pls
+#EXTINF:-1, Op Top Radio - Topola 106.4 FM - 1
+http://213.239.205.210:8136/stream
+#EXTINF:-1, Radio Bačka - Bačka Topola 99.1 FM
+http://radio.beotel.net:8020/
+#EXTINF:-1, QLT Radio 106.4 FM
+http://85.125.193.44:8000/;stream.mp3
+#EXTINF:-1, Radio Becejsko Sokace
+http://144.76.15.238:8099/
+#EXTINF:-1, Radio Dina
+http://djleoelmedin.stream.radio-hosting.net:8000/dina.mp3
+#EXTINF:-1, Radio Puls - Grocka 88.7 FM - 0
+http://djleoelmedin.stream.radio-hosting.net:8000/radiopuls
+#EXTINF:-1, Radio Puls - Grocka 88.7 FM - 1
+http://176.9.59.144:8090/puls
+#EXTINF:-1, Radio Žig - Grocka
+http://95.154.202.117:31661/
+#EXTINF:-1, RADIO 996 FM - Kraljevo
+http://radio.en.rs:8000/
+#EXTINF:-1, Radio Diskos 98.2 MHz FM - Aleksandrovac
+http://192.99.35.215:5326/
+#EXTINF:-1, Radio Nešvil 102.2 FM - Bogatić
+http://96.31.90.115:9996/
+#EXTINF:-1, Narodni Radio Mig 107.3 FM - Bobovo
+http://67.212.189.122:8129/
+#EXTINF:-1, Radio L 95.9 FM - Leskovac
+http://217.147.94.171:37744
+#EXTINF:-1, Radio Rašanac - Petrovac na Mlavi
+http://stream.radio-hosting.net:8000/radiomp3
+#EXTINF:-1, No FM Internet Radio - Obrenovac
+http://178.238.236.240:8002/;stream.mp3
+#EXTINF:-1, Radio Apatin
+http://apatin96-naxinacional.streaming.rs:8500/;
+#EXTINF:-1, Vaga Radio - 0
+http://136.243.20.131:8943/listen.pls
+#EXTINF:-1, Vaga Radio - 1
+http://136.243.20.131:8943/;
+#EXTINF:-1, Radio AS 107.9 FM - Novi Sad - 0
+http://radioas.kbcnet.rs:8000/
+#EXTINF:-1, Radio AS 107.9 FM - Novi Sad - 1
+http://109.206.96.95:8020/;stream
+#EXTINF:-1, Radio AS 107.9 FM - Novi Sad - 2
+http://radioas.kbcnet.rs:8045/
+#EXTINF:-1, Radio AS 107.9 FM - Novi Sad - 3
+http://radioas.kbcnet.rs:8015/
+#EXTINF:-1, Radio AS 107.9 FM - Novi Sad - 4
+http://109.206.96.95:8045/;stream
+#EXTINF:-1, Radio Banker - 0
+http://banker96-naxinacional.streaming.rs:8540/;
+#EXTINF:-1, Radio Banker - 1
+https://radiobanker.rs/wp-content/uploads/bankercafe.pls
+#EXTINF:-1, Radio Dedal - Beograd
+http://174.36.232.227:8106/;stream.mp3
+#EXTINF:-1, Radio Inđija
+http://netradio.burina.net:8000/rti
+#EXTINF:-1, Hit Radio Istok 102.7 FM
+http://radio.tvistok.com:7031/live
+#EXTINF:-1, Radio Kragujevac
+http://95.211.166.127:8018/;&type=mp3
+#EXTINF:-1, Radio Lotel - Loznica
+http://188.40.95.74:8142/stream
+#EXTINF:-1, Radio MORAVAC 88.8 FM  Smederevska Palanka
+http://stm5.hosting022.com:19370/;stream.mp3
+#EXTINF:-1, Radio 978
+http://83.142.226.45:17438/;
+#EXTINF:-1, Radio Planeta 100,6 MHz, Novi Sad
+http://planeta96-naxinacional.streaming.rs:8520/;stream.mp3
+#EXTINF:-1, Radio Požega - Srbija
+http://vs4885.cloudhosting.rs:8000/stream
+#EXTINF:-1, Radio Rubin 92.2 FM - Kruševac
+http://83.142.226.45:17438/;
+#EXTINF:-1, Radio S
+http://edge-de-01.maksnet.tv/asmedia/radios/playlist.m3u8
+#EXTINF:-1, Radio Signal 98,8 MHz
+http://109.206.96.197:443/;
+#EXTINF:-1, Radio Soni Mihajlovac - (Smederevska Palanka) Smederevo
+http://stm5.hosting022.com:19392/;stream.mp3
+#EXTINF:-1, Radio Trstenik 94.2 Fm
+http://uk4-vn.mixstream.net:8120/;?sid=1
+#EXTINF:-1, Radio UB 98.1 FM - 0
+http://188.40.95.74:8100/;
+#EXTINF:-1, Radio UB 98.1 FM - 1
+http://188.40.95.74:8100/listen.asx
+#EXTINF:-1, Radio Zavičaj Plus 104,7 MHz Godačica - Kraljevo
+http://s39.myradiostream.com:14870/listen.mp3
+#EXTINF:-1, Radio Zvečka 97.7 FM - Kruševac
+http://192.99.35.215:5330/;
+#EXTINF:-1, RADIO.K1 - Kraljevo
+http://77.46.136.6:8000/stream/1/;&type=mp3
+#EXTINF:-1, Radio Delta i prijatelji - Narodna Muzika - 0
+http://88.198.233.68:2047/
+#EXTINF:-1, Radio Delta i prijatelji - Narodna Muzika - 1
+http://centova.dukahosting.com:2199/tunein/delta.pls
+#EXTINF:-1, Radio Glas Nade - Prvi Program
+http://109.235.71.229:8000/rgn1
+#EXTINF:-1, Tempo Naxi Radio 95.3 & 97.5 MHz FM - Zaječar - 0
+http://195.252.68.166:8200/listen.pls
+#EXTINF:-1, Tempo Naxi Radio 95.3 & 97.5 MHz FM - Zaječar - 1
+http://195.252.68.166:8200/
+#EXTINF:-1, RADIO101 EVERGREEN - Beograd
+http://87.118.84.56:9300/;.mp3
+#EXTINF:-1, NAXI ROCK RADIO (NAXI,Belgrade,Serbia) - NAXI, Beograd, Srbija
+http://naxidigital-rock128.streaming.rs:8180/
+#EXTINF:-1, Otvoreni radio - Beograd
+http://46.163.74.224:8136/stream
+#EXTINF:-1, NXS Radio - Beograd - 0
+http://88.198.233.68:2095/stream
+#EXTINF:-1, NXS Radio - Beograd - 1
+http://centova.dukahosting.com:2199/tunein/nxsradio.pls
+#EXTINF:-1, NXS Radio - Beograd - 2
+http://centova.dukahosting.com:2199/tunein/nxsradio.asx
+#EXTINF:-1, Radio D59B - Beograd
+http://d59b.radiokitstream.org/d59b.mp3
+#EXTINF:-1, NAXI LATINO RADIO (NAXI, Belgrade, Serbia) - NAXI, Beograd, Srbija
+http://naxidigital-latino128.streaming.rs:8230/
+#EXTINF:-1, NAXI EX YU RADIO (NAXI, Belgrade, Serbia, NAXI) - Beograd, Srbija
+http://naxidigital-exyu128.streaming.rs:8240/
+#EXTINF:-1, Radio 2 Srbija - Beograd - 0
+http://5.9.25.50:9324/
+#EXTINF:-1, Radio 2 Srbija - Beograd - 1
+http://5.9.25.50:9326/
+#EXTINF:-1, Rock Radio 96,2 FM - Beograd
+http://rockradio.kbcnet.rs:8025/
+#EXTINF:-1, Top Radio - Belgrade, Serbia
+http://91.228.254.120:9700/
+#EXTINF:-1, TOP FM 106,8 MHz - Beograd - 0
+http://topfm48.streaming.rs:9290/
+#EXTINF:-1, TOP FM 106,8 MHz - Beograd - 1
+http://topfm64.streaming.rs:9285/
+#EXTINF:-1, TOP FM 106,8 MHz - Beograd - 2
+http://topfm128.streaming.rs:9280/
+#EXTINF:-1, Zeleni radio Srbije - Beograd
+http://88.198.233.68:8016/stream
+#EXTINF:-1, Svetski radio - Beograd - 0
+http://comet.shoutca.st:8929/stream
+#EXTINF:-1, Svetski radio - Beograd - 1
+http://comet.shoutca.st:8929/;*.mp3
+#EXTINF:-1, Radio Tehnomanija - Beograd
+http://188.40.95.74:8058/stream
+#EXTINF:-1, Radio Aparat - Beograd
+http://ca3.rcast.net:8060/;stream.mp3
+#EXTINF:-1, Vladix Radio - Beograd - 0
+http://88.198.233.68:8000/stream
+#EXTINF:-1, Vladix Radio - Beograd - 1
+http://46.4.76.142:2011/listen.pls
+#EXTINF:-1, Vladix Radio - Beograd - 2
+http://vladix.dukahosting.com:8000/listen.pls
+#EXTINF:-1, Vladix Radio Rok - Beograd
+http://88.198.233.68:8010/stream
+#EXTINF:-1, Vladix Radio Soft - Beograd
+http://136.243.20.131:8676/
+#EXTINF:-1, Vladix Radio Rock - Beograd
+http://88.198.233.68:8022/stream
+#EXTINF:-1, Radio Zavičaju Moj - Beograd - 0
+http://89.36.216.142:9000
+#EXTINF:-1, Radio Zavičaju Moj - Beograd - 1
+http://89.36.216.142:9000/var/www/temp/9000/stream/1
+#EXTINF:-1, Radio 3 - Beograd - 0
+http://radio3-128.streaming.rs:9200/listen.pls
+#EXTINF:-1, Radio 3 - Beograd - 1
+http://radio3-48.streaming.rs:9220/listen.pls
+#EXTINF:-1, Radio 3 - Beograd - 2
+http://radio3-64.streaming.rs:9210/listen.pls
+#EXTINF:-1, Radio 3 - Beograd - 3
+http://www.radio3.rs/streamdownload/Radio3.asx
+#EXTINF:-1, Ritam Radio - Beograd - 0
+http://eu1.fastcast4u.com:3168/stream
+#EXTINF:-1, Ritam Radio - Beograd - 1
+http://37.187.79.56:2199/tunein/ritamrad.pls
+#EXTINF:-1, Ritam Radio - Beograd - 2
+http://eu1.fastcast4u.com:3168/stream?type=http&nocache=1326
+#EXTINF:-1, Ritam Radio - Beograd - 3
+http://37.187.79.56:2199/tunein/ritamrad.asx
+#EXTINF:-1, Radio 2M (Radio Boss) - Beograd - 0
+http://protostar.shoutca.st:8157/stream
+#EXTINF:-1, Radio 2M (Radio Boss) - Beograd - 1
+http://protostar.shoutca.st:8157/stream
+#EXTINF:-1, Radio 2M (Radio Boss) - Beograd - 2
+http://milanmilenkovic.com/playlist/winamp.pls
+#EXTINF:-1, Radio 2M (Radio Boss) - Beograd - 3
+http://milanmilenkovic.com/playlist/wmp.asx
+#EXTINF:-1, Đak Sport Radio - Beograd
+http://109.92.128.106:11111
+#EXTINF:-1, Radio Balkanfox - Beograd
+http://radio.balkanfox.com:9980/
+#EXTINF:-1, Cool Radio - Beograd - 0
+http://176.9.30.66/
+#EXTINF:-1, Cool Radio - Beograd - 1
+https://www.coolradio.rs/download/listen.pls
+#EXTINF:-1, Cool Radio - Beograd - 2
+http://176.9.30.66:80/cool64
+#EXTINF:-1, Cool Radio - Beograd - 3
+https://www.coolradio.rs/download/listen.asx
+#EXTINF:-1, Cool Radio - Beograd - 4
+http://live.coolradio.rs/;stream.mp3
+#EXTINF:-1, Cool Radio - Beograd - 5
+http://live.coolradio.rs/cool192
+#EXTINF:-1, Radio Jugo Boemija - Beograd
+http://46.105.43.31:8062/
+#EXTINF:-1, Veljko Pajović Radio - Beograd
+http://195.252.113.118:8002/listen.pls
+#EXTINF:-1, Radio Hit FM - Beograd - 0
+http://streaming.hitfm.rs:8000/hit
+#EXTINF:-1, Radio Hit FM - Beograd - 1
+http://streaming11.tdiradio.com:8000/hit
+#EXTINF:-1, Radio Hit FM - Beograd - 2
+http://hitfm.rs/slusaj/hit.pls
+#EXTINF:-1, Gradski Radio S4 - Beograd 102,2 FM
+http://edge-de-01.maksnet.tv/asmedia/gradski/chunklist_w734341150.m3u8
+#EXTINF:-1, Bum Bum Radio 89,4 FM - Beograd
+http://bumbum-stream.netlogic.rs:8000/
+#EXTINF:-1, Radio Ćirilica - Beograd
+http://music.fromserbia.net/cirilica.pls
+#EXTINF:-1, Deluxe Radio - Beograd
+http://cmr-hosting.com:8408/stream
+#EXTINF:-1, Radio Košava 1 - Beograd
+http://163.172.116.41:8544/;stream.mp3
+#EXTINF:-1, Radio Košava 2 - Beograd
+http://163.172.116.41:9996/;stream.mp3
+#EXTINF:-1, Radio Košava Love 1 - Beograd
+http://163.172.116.41:9978/;stream.mp3
+#EXTINF:-1, Radio Košava Latino - Beograd
+http://163.172.116.41:9974/;stream.mp3
+#EXTINF:-1, Radio Košava Koncert 1 - Beograd
+http://163.172.116.41:9972/;stream.mp3
+#EXTINF:-1, Radio Košava Koncert 2 - Beograd
+http://163.172.116.41:9970/;stream.mp3
+#EXTINF:-1, Radio Košava Kids - Beograd
+http://163.172.116.41:9966/;stream.mp3
+#EXTINF:-1, Radio Košava Classic - Beograd
+http://163.172.116.41:9968/;stream.mp3
+#EXTINF:-1, Radio Košava Rap - Beograd
+http://163.172.116.41:9980/;stream.mp3
+#EXTINF:-1, Radio Košava Jazz - Beograd
+http://163.172.116.41:9964/;stream.mp3
+#EXTINF:-1, Radio Košava Info - Beograd
+http://163.172.116.41:9962/;stream.mp3
+#EXTINF:-1, Radio Košava Freedom - Beograd
+http://163.172.116.41:9960/;stream.mp3
+#EXTINF:-1, Radio Košava Folk 1 - Beograd
+http://163.172.116.41:9982/;stream.mp3
+#EXTINF:-1, Radio Košava Folk 2 - Beograd
+http://163.172.116.41:8050/;stream.mp3
+#EXTINF:-1, Radio Košava Folk 3 - Beograd
+http://163.172.116.41:9954/;stream.mp3
+#EXTINF:-1, Radio Košava Evergreen - Beograd
+http://163.172.116.41:9952/;stream.mp3
+#EXTINF:-1, Radio Košava Clubbing - Beograd
+http://163.172.116.41:9302/;stream.mp3
+#EXTINF:-1, Radio Košava City - Beograd
+http://163.172.116.41:9948/;stream.mp3
+#EXTINF:-1, Radio Košava Caffe - Beograd
+http://163.172.116.41:9946/;stream.mp3
+#EXTINF:-1, Radio Pingvin - Beograd
+http://uzivo.radiopingvin.com:8187/domaci2/;stream/1
+#EXTINF:-1, Radio Pingvin Strani Kanal - Beograd
+http://uzivo.radiopingvin.com:8187/strani2;stream/1
+#EXTINF:-1, Radio Južni Vetar - Beograd - 0
+http://62.75.216.99:8000/
+#EXTINF:-1, Radio Južni Vetar - Beograd - 1
+http://85.25.134.32:8000/
+#EXTINF:-1, Romski Radio Novi Svet - Beograd
+http://136.243.20.131:8660/
+#EXTINF:-1, OK Radio - Beograd - 0
+http://live.okradio.net:8054/
+#EXTINF:-1, OK Radio - Beograd - 1
+http://okradio.net/listen256.pls
+#EXTINF:-1, OK Radio - Beograd - 2
+http://live6.okradio.net:8054
+#EXTINF:-1, OK Radio - Beograd - 3
+http://live7.okradio.net
+#EXTINF:-1, OK Radio - Beograd - 4
+http://okradio.net/OkRadio256.m3u
+#EXTINF:-1, OK Radio Plus - Beograd
+http://live.okplus.rs:8000/;*.mp3
+#EXTINF:-1, Radio Karolina - Beograd 106,3 FM
+http://streaming.karolina.rs:8000/karolina
+#EXTINF:-1, Radio Beograd 1
+http://www.radiobeograd.rs/download/koktel/intpoz163.mp3
+#EXTINF:-1, Radio S2 - Beograd
+http://edge-fr-02.maksnet.tv/asmedia/index/playlist.m3u8
+#EXTINF:-1, Vudulicious Radio - Beograd - 0
+http://109.206.96.34:8200/
+#EXTINF:-1, Vudulicious Radio - Beograd - 1
+http://www.vudulicious.net/streamdownload/Vudulicious.pls
+#EXTINF:-1, Vudulicious Radio - Beograd - 2
+http://www.vudulicious.net/streamdownload/Vudulicious.asx
+#EXTINF:-1, Vip Radio - Beograd - 0
+http://vip64.streaming.rs:8110/
+#EXTINF:-1, Vip Radio - Beograd - 1
+http://vip128.streaming.rs:8110/;&type=mp3
+#EXTINF:-1, Radio Vedro - Beograd
+http://24.134.17.193:8100/live.mp3
+#EXTINF:-1, TDI Radio Eurodance - Beograd
+http://streaming.tdiradio.com:8000/eurodance
+#EXTINF:-1, Radio Studio B - Beograd
+http://radio.studiob.rs:8004/
+#EXTINF:-1, Naxi Radio 96,9 MHz - Beograd - 0
+http://naxi128.streaming.rs:9150/
+#EXTINF:-1, Naxi Radio 96,9 MHz - Beograd - 1
+http://naxi48.streaming.rs:9180/listen.pls
+#EXTINF:-1, Radio Latinica - Beograd - 0
+http://208.87.25.4:8002/
+#EXTINF:-1, Radio Latinica - Beograd - 1
+http://music.fromserbia.net/latinica.pls
+#EXTINF:-1, Radio Laguna 93,7 MHz - Beograd
+http://stream.radiolaguna.rs:8000/;stream.mp3
+#EXTINF:-1, Kum Radio - Beograd
+http://www.mr-streaming.com:9050/
+#EXTINF:-1, Radio Klas - Beograd
+http://136.243.12.82:9014/
+#EXTINF:-1, Radio Jat - Beograd
+http://streaming.radiojat.rs:8000/radiojat
+#EXTINF:-1, Radio HostingMania - Beograd
+http://193.243.169.34:8000/
+#EXTINF:-1, Radio Glagoljica - Beograd - 0
+http://music.fromserbia.net/glagoljica.pls
+#EXTINF:-1, Radio Glagoljica - Beograd - 1
+http://208.87.25.4:7777/
+#EXTINF:-1, Naxi Boem Radio - Beograd - 0
+http://109.206.96.18:8050/
+#EXTINF:-1, Naxi Boem Radio - Beograd - 1
+http://naxidigital-boem128.streaming.rs:8160/listen.pls
+#EXTINF:-1, Naxi Boem Radio - Beograd - 2
+http://naxidigital-boem48.streaming.rs:8165/listen.pls
+#EXTINF:-1, Naxi Boem Radio - Beograd - 3
+http://www.naxi.rs/media/482cf9-naxi-boem-radio.asx
+#EXTINF:-1, Radio Slovo Ljubve 107,3 MHz - Beograd
+http://166.62.125.27:8000/
+#EXTINF:-1, Naxi Love Radio - Beograd - 0
+http://naxidigital128.kbcnet.rs:8100/
+#EXTINF:-1, Naxi Love Radio - Beograd - 1
+http://naxidigital-love128.streaming.rs:8100/listen.pls
+#EXTINF:-1, Naxi Love Radio - Beograd - 2
+http://naxidigital-love48.streaming.rs:8105/listen.pls
+#EXTINF:-1, Naxi Love Radio - Beograd - 3
+http://www.naxi.rs/media/0e4c06-naxi-love-radio.asx
+#EXTINF:-1, Naxi Evergreen Radio - Beograd - 0
+http://naxidigital-evergreen128.streaming.rs:8010/
+#EXTINF:-1, Naxi Evergreen Radio - Beograd - 1
+http://naxidigital-evergreen48.streaming.rs:8015/
+#EXTINF:-1, Naxi Evergreen Radio - Beograd - 2
+http://www.naxi.rs/media/0fb81c-naxi-evergreen-radio.asx
+#EXTINF:-1, Naxi Dance Radio - Beograd - 0
+http://naxidigital128.kbcnet.rs:8110/
+#EXTINF:-1, Naxi Dance Radio - Beograd - 1
+http://naxidigital-dance48.streaming.rs:8115/
+#EXTINF:-1, Naxi Dance Radio - Beograd - 2
+http://naxidigital-dance128.streaming.rs:8110/
+#EXTINF:-1, Naxi Dance Radio - Beograd - 3
+http://www.naxi.rs/media/c8c5f7-naxi-dance-radio.asx
+#EXTINF:-1, TDI Radio DJ Akademija - Beograd
+http://streaming.tdiradio.com:8000/djakademija
+#EXTINF:-1, TDI Radio Domaćica - Beograd
+http://streaming.tdiradio.com:8000/domacica
+#EXTINF:-1, TDI Radio Top 40 - Beograd
+http://streaming.tdiradio.com:8000/top40
+#EXTINF:-1, Radio Ada 107.7 FM - Vojvodinci
+http://94.130.196.243:9010/stream
+#EXTINF:-1, RTS Radio Beograd 1
+http://rtsradio-live.morescreens.com/RTS_2_001/audio/chunklist.m3u8
+#EXTINF:-1, Haos Radio - Beograd
+http://streaming.shoutcast.com/HaosRadio
+#EXTINF:-1, Radio Srpski Sion 105.5 FM - Ruma - 0
+http://fmradiolive.net:8006/;
+#EXTINF:-1, Radio Srpski Sion 105.5 FM - Ruma - 1
+http://www.fmradiolive.net:8006/stream
+#EXTINF:-1, Dens FM Live Radio Cuprija
+http://stream.radio-hosting.net:8000/dfmlive
+#EXTINF:-1, Radio Serbona - Beograd
+http://192.184.9.158:8099/stream
+#EXTINF:-1, Radio AMI Naxi 89.7 FM - Kikinda
+http://185.119.88.88:8005/;*.mp3
+#EXTINF:-1, Radio DISKOS - Aleksandrovac
+http://192.99.35.215:5326/,
+#EXTINF:-1, Radio Snaga Naroda - Beograd
+http://tachyon.shoutca.st:8847/;
+#EXTINF:-1, Radio Kosava FM
+http://163.172.116.41:8544/;stream.mp3
+#EXTINF:-1, Radio Crown Waves - Beograd
+http://titan.shoutca.st:8302/live
+#EXTINF:-1, Radio Egeta - Brza Palanka
+http://server33305.streamplus.de/;stream.mp3
+#EXTINF:-1, Radio Karolina - Novi Sad 104,5 FM
+http://streaming.karolina.rs:8000/karolina.mp3
+#EXTINF:-1, Radio Ljubavne čarolije - Beograd
+http://178.238.236.237:8002/;
+#EXTINF:-1, iFM Music Radio Topola Oplenac
+http://91.228.254.72:8000/stream
+#EXTINF:-1, Radio Valjevo 95.8 FM - 0
+http://213.239.205.210:8118/
+#EXTINF:-1, Radio Valjevo 95.8 FM - 1
+http://213.239.205.210:8118/listen.mp3
+#EXTINF:-1, Radio Istocnik 100.2 FM - Valjevo
+http://stream.unlimited.rs:8026/
+#EXTINF:-1, Radio Košava Love 2 - Beograd
+http://163.172.116.41:9976/;stream.mp3
+#EXTINF:-1, Radio Sljivovica
+http://46.105.43.31:8114/;*.mp3
+#EXTINF:-1, Prvi Radio Novi Sad
+http://109.206.96.118:8015/listen.mp3
+#EXTINF:-1, Prvi Radio Užice uživo - 98.7 MHz FM
+http://109.206.96.118:8000/listen.mp3
+#EXTINF:-1, Radio Jedna Duša Dva Tela - Ruma
+http://stm37.srvstm.com:32424/;
+#EXTINF:-1, Radio Delta i prijatelji (folk), Užice
+http://88.198.233.68:2047/
+#EXTINF:-1, Radio Delta i prijatelji (zabavna), Užice
+http://88.198.233.68:2049/stream
+#EXTINF:-1, Šumadinka Radio - Lozovik
+http://stm5.hosting022.com:19698/;*.mp3
+#EXTINF:-1, Radio Novi Bečej (Radio NB)
+http://5.189.174.220:9050/
+#EXTINF:-1, Radio Bubamara 103 FM - Leposavić
+http://92.60.230.200:5010/;*.mp3
+#EXTINF:-1, Radio Koprijan 94.5 MHz FM - Doljevac - 0
+http://188.40.95.74:8110/;?1541424895386
+#EXTINF:-1, Radio Koprijan 94.5 MHz FM - Doljevac - 1
+http://188.40.95.74:8110/;*.mp3
+#EXTINF:-1, Radio Kačerac Arandjelovac - 0
+http://78.129.187.73:14820/stream
+#EXTINF:-1, Radio Kačerac Arandjelovac - 1
+http://78.129.187.73:14820/stream?1541425212666
+#EXTINF:-1, Radio Kiss FM 106.1 FM - Lazarevac
+http://88.198.233.68:8028/stream
+#EXTINF:-1, Jack radio Varvarin - Beograd - Srbija (Belgrade - Serbia) - 0
+http://78.129.187.73:7954/
+#EXTINF:-1, Jack radio Varvarin - Beograd - Srbija (Belgrade - Serbia) - 1
+http://192.99.8.170:6590/
+#EXTINF:-1, Naxi Kids Radio - 0
+http://naxidigital128.kbcnet.rs:8050/
+#EXTINF:-1, Naxi Kids Radio - 1
+http://naxidigital48.kbcnet.rs:8055/
+#EXTINF:-1, Naxi 80e Radio - Beograd - 0
+http://naxidigital-80s128.streaming.rs:8040/;
+#EXTINF:-1, Naxi 80e Radio - Beograd - 1
+http://naxidigital-80s48.streaming.rs:8045/listen.pls
+#EXTINF:-1, Naxi 80e Radio - Beograd - 2
+http://www.naxi.rs/media/580897-naxi-80e-radio.asx
+#EXTINF:-1, Naxi 80e Radio - Beograd - 3
+http://naxidigital-80s128.streaming.rs:8040/listen.pls
+#EXTINF:-1, Naxi Cafe Radio - Beograd - 0
+http://naxidigital-cafe128.streaming.rs:8020/listen.pls
+#EXTINF:-1, Naxi Cafe Radio - Beograd - 1
+http://naxidigital-cafe48.streaming.rs:8025/listen.pls
+#EXTINF:-1, Naxi Cafe Radio - Beograd - 2
+http://www.naxi.rs/media/c49a26-naxi-cafe-radio.asx
+#EXTINF:-1, Naxi House Radio - Beograd - 0
+http://naxidigital-house128.streaming.rs:8000/
+#EXTINF:-1, Naxi House Radio - Beograd - 1
+http://naxidigital-house48.streaming.rs:8005/
+#EXTINF:-1, Naxi House Radio - Beograd - 2
+http://www.naxi.rs/media/1c6682-naxi-house-radio.asx
+#EXTINF:-1, Naxi Classic Radio - Beograd - 0
+http://naxidigital-classic128.streaming.rs:8030/
+#EXTINF:-1, Naxi Classic Radio - Beograd - 1
+http://naxidigital-classic48.streaming.rs:8035/
+#EXTINF:-1, Naxi Classic Radio - Beograd - 2
+http://www.naxi.rs/media/66eaf3-naxi-classic-radio.asx
+#EXTINF:-1, Naxi Clubbing Radio - 0
+http://naxidigital128.kbcnet.rs:8090/listen.pls
+#EXTINF:-1, Naxi Clubbing Radio - 1
+http://naxidigital48.kbcnet.rs:8095/listen.pls
+#EXTINF:-1, Naxi Clubbing Radio - 2
+http://naxidigital-clubbing128.streaming.rs:8090/listen.pls
+#EXTINF:-1, Naxi Clubbing Radio - 3
+http://naxidigital-clubbing48.streaming.rs:8095/listen.pls
+#EXTINF:-1, Naxi Mix Radio  (NAXI,Belgrade,Serbia, NAXI) - Beograd,Srbija - 0
+http://naxidigital-mix128.streaming.rs:8220/listen.pls
+#EXTINF:-1, Naxi Mix Radio  (NAXI,Belgrade,Serbia, NAXI) - Beograd,Srbija - 1
+http://naxidigital-mix48.streaming.rs:8225/listen.pls
+#EXTINF:-1, Naxi Mix Radio  (NAXI,Belgrade,Serbia, NAXI) - Beograd,Srbija - 2
+http://www.naxi.rs/media/92d90a-naxi-mix-radio.asx
+#EXTINF:-1, Radio Banja 2 - Vrnjačka Banja 99.1 & 100.7 FM - 0
+http://45.43.200.186:19936
+#EXTINF:-1, Radio Banja 2 - Vrnjačka Banja 99.1 & 100.7 FM - 1
+http://46.105.43.31:8078/;
+#EXTINF:-1, Radio Pingvin - Domaća muzika
+http://uzivo.radiopingvin.com:8187/domaci2/;stream/1
+#EXTINF:-1, Sunset Radio - Leskovac
+http://cmr-hosting.com:8425/stram
+#EXTINF:-1, Radio Trstenik 94.2 FM
+http://uk4-vn.mixstream.net:8120/
+#EXTINF:-1, Radio Tri 95.8 MHz - Beograd - 0
+http://radio3-128.streaming.rs:9200/
+#EXTINF:-1, Radio Tri 95.8 MHz - Beograd - 1
+http://radio3-48.streaming.rs:9220/
+#EXTINF:-1, Radio Signal 98.8 MHz - Novi Sad
+http://109.206.96.197:443/;*.mp3
+#EXTINF:-1, Radio S - Beograd
+http://edge-de-03.maksnet.tv/asmedia/radios/chunklist_w2129942935.m3u8
+#EXTINF:-1, Radio Regije 107.9 FM - Bačka Topola
+http://topola.yunethosting.net:8000/live
+#EXTINF:-1, Radio Poljubac - 0
+http://media017.info:8000/
+#EXTINF:-1, Radio Poljubac - 1
+http://media017.info:8000/listen.pls
+#EXTINF:-1, Radio Planeta 100.6 MHz - Novi Sad
+http://planeta96-naxinacional.streaming.rs:8520/
+#EXTINF:-1, Radio Nostalgija 105.2 FM - Beograd - 0
+http://nostalgie128.streaming.rs:9250/
+#EXTINF:-1, Radio Nostalgija 105.2 FM - Beograd - 1
+http://nostalgie48.streaming.rs:9270/
+#EXTINF:-1, Radio Srce Krajine - Novi Sad - 0
+http://173.249.24.74:9330/;*.mp3
+#EXTINF:-1, Radio Srce Krajine - Novi Sad - 1
+http://173.249.24.74:9330/live
+#EXTINF:-1, Prvi Radio - Subotica
+http://109.206.96.118:8020/listen.mp3
+#EXTINF:-1, Radio LovaLova - Subotica
+http://eu4.radioboss.fm:8158/stream
+#EXTINF:-1, Radio Subotica 104.4 FM
+http://vtvsu.yunethosting.net:8000/stream
+#EXTINF:-1, Bunjevački Radio - Subotica
+http://s45.myradiostream.com:12522/listen.mp3
+#EXTINF:-1, Subotički Mađarski Radio - Subotica
+http://breddstream.unrealhosting.hu:4110/
+#EXTINF:-1, Pannon Rádió
+http://breddstream.unrealhosting.hu:4120/listen.pls
+#EXTINF:-1, Ami Naxi Radio 89.7 MHz - Kikinda
+http://185.119.88.88:8005/
+#EXTINF:-1, Pallas radio 94.8 MHz - Kikinda
+http://185.119.88.88:8065/
+#EXTINF:-1, Radio Prijedor Brdo
+http://94.23.62.189:5692/;stream.mp3
+#EXTINF:-1, TDI Radio bez reklama - Beograd
+http://streaming.tdiradio.com:8000/tdiradiobezreklama.mp3
+#EXTINF:-1, TDI Radio - Novi Sad
+http://streaming.tdiradio.com:8000/tdiradionovisad.mp3
+#EXTINF:-1, TDI Radio - Kovin, Smederevo
+http://streaming.tdiradio.com:8000/tdiradiokovin.mp3
+#EXTINF:-1, TDI Radio - Kragujevac
+http://streaming.tdiradio.com:8000/tdiradiokragujevac.mp3
+#EXTINF:-1, TDI Radio - Kraljevo, Vranjačka Banja
+http://streaming.tdiradio.com:8000/tdiradiokraljevo.mp3
+#EXTINF:-1, TDI Radio - Niš
+http://streaming.tdiradio.com:8000/tdiradionis.mp3
+#EXTINF:-1, TDI Radio - Bor, Negotin, Zaječar
+http://streaming.tdiradio.com:8000/tdiradiobor.mp3
+#EXTINF:-1, TDI Radio - Prijepolje
+http://streaming.tdiradio.com:8000/tdiradioprijepolje.mp3
+#EXTINF:-1, TDI Radio - House
+http://streaming.tdiradio.com:8000/house.mp3
+#EXTINF:-1, TDI Radio - TOP 40
+http://streaming.tdiradio.com:8000/top40.mp3
+#EXTINF:-1, TDI Radio - POP RnB Hits
+http://streaming.tdiradio.com:8000/poprnbhits.mp3
+#EXTINF:-1, TDI Radio - Chill Out
+http://streaming.tdiradio.com:8000/chillout.mp3
+#EXTINF:-1, TDI Radio - Domaćica
+http://streaming.tdiradio.com:8000/domacica.mp3
+#EXTINF:-1, TDI Radio - Classics 80s & 90s
+http://streaming.tdiradio.com:8000/classics.mp3
+#EXTINF:-1, TDI Radio - Love
+http://streaming.tdiradio.com:8000/love.mp3
+#EXTINF:-1, Jack folk radio Varvarin - Beograd - Srbija (Belgrade - Serbia) - 0
+http://78.129.187.73:10400
+#EXTINF:-1, Jack folk radio Varvarin - Beograd - Srbija (Belgrade - Serbia) - 1
+http://192.99.8.170:6397
+#EXTINF:-1, Jack folk radio Varvarin - Beograd - Srbija (Belgrade - Serbia) - 2
+http://192.99.8.170:6348
+#EXTINF:-1, TDI Radio - Beograd - 0
+http://streaming.tdiradio.com:8000/tdiradio.mp3
+#EXTINF:-1, TDI Radio - Beograd - 1
+http://streaming.tdiradio.com/tdiradio
+#EXTINF:-1, TDI Radio - YU Euro Dance
+http://streaming.tdiradio.com:8000/yudance.mp3
+#EXTINF:-1, Radio Košava Rock - Beograd
+http://163.172.116.41:9984/;stream.mp3
+#EXTINF:-1, Radio Saška 98.3 MHz - Mosna
+http://176.9.59.144:8056/
+#EXTINF:-1, Radio Zlatar 106.8 FM - Nova Varoš - 0
+http://195.252.113.118:8018/
+#EXTINF:-1, Radio Zlatar 106.8 FM - Nova Varoš - 1
+http://195.252.113.118:8018/;&type=mp3
+#EXTINF:-1, Prvi Radio 103 FM - Subotica
+http://109.206.96.118:8020/listen.mp3
+#EXTINF:-1, Play Radio - Beograd 92,5 FM - 0
+http://stream.playradio.rs:8001/play.aac
+#EXTINF:-1, Play Radio - Beograd 92,5 FM - 1
+http://stream.playradio.rs:8001/play-low.aac
+#EXTINF:-1, Play Radio - Beograd 92,5 FM - 2
+http://stream.playradio.rs:8001/play.mp3
+#EXTINF:-1, Radio Krajišnik - Beograd - 0
+http://173.249.24.74:9334/;audio.mp3
+#EXTINF:-1, Radio Krajišnik - Beograd - 1
+http://173.249.24.74:9334/

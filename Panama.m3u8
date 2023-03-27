@@ -1,0 +1,75 @@
+#EXTM3U
+#EXTINF:-1, CNTP Radio
+http://67.212.189.122:8173/listen.pls
+#EXTINF:-1, Babaganousha Radio - 0
+http://babaganousha.net:8000
+#EXTINF:-1, Babaganousha Radio - 1
+http://babaganousha.net/playlist_fast.asx
+#EXTINF:-1, Prisa - Los 40 Principales » Panamá - 0
+http://provisioning.streamtheworld.com/pls/LOS40_PANAAC.pls
+#EXTINF:-1, Prisa - Los 40 Principales » Panamá - 1
+http://provisioning.streamtheworld.com/asx/LOS40_PANAAC.asx
+#EXTINF:-1, Prisa - Los 40 Principales » Panamá - 2
+http://provisioning.streamtheworld.com/pls/LOS40_PAN.pls
+#EXTINF:-1, Prisa - Los 40 Principales » Panamá - 3
+http://provisioning.streamtheworld.com/asx/LOS40_PAN.asx
+#EXTINF:-1, Prisa - Radio Panamá
+http://provisioning.streamtheworld.com/asx/RADIO_PANAMAFMAAC.asx
+#EXTINF:-1, Radio hogar
+http://200.46.87.83:8000/listen.pls
+#EXTINF:-1, Antena 8 FM 100.1
+http://provisioning.streamtheworld.com/pls/ANT8AAC.pls
+#EXTINF:-1, Radio Maria Panamá
+http://dreamsiteradiocp.com:8082/
+#EXTINF:-1, Radio Disney Panamá
+http://ic.streann.com:8000/disneypanama
+#EXTINF:-1, Radio Mil - 0
+http://i30.letio.com/9184.aac
+#EXTINF:-1, Radio Mil - 1
+http://i50.letio.com/9184.aac
+#EXTINF:-1, Lo Nuestro 102.1 FM
+http://www.streaming507.com:8136/stream
+#EXTINF:-1, TropiQ 99.7 FM - 0
+http://streaming507.com:8140/stream
+#EXTINF:-1, TropiQ 99.7 FM - 1
+http://node-04.strongradiohost.com/8nrgaugv0d5tv
+#EXTINF:-1, Mais Kizomba - 0
+http://audio.ptisp.com:2199/tunein/38843-stream.pls
+#EXTINF:-1, Mais Kizomba - 1
+http://109.71.41.6:8123/stream
+#EXTINF:-1, Mais Kizomba - 2
+http://audio.ptisp.com:2199/tunein/38843-stream.asx
+#EXTINF:-1, Marbella Stereo 104.3 FM - 0
+http://argentina-streaming.com/GRadio/?pl=winamp&c=AC%20Pro%20Radio
+#EXTINF:-1, Marbella Stereo 104.3 FM - 1
+http://70.38.73.27:8017/live
+#EXTINF:-1, Ritmo Stereo 97.5 FM /  - Ciudad de Panamá 97.5 FM
+http://streaming507.com:8018/stream
+#EXTINF:-1, Estéreo Vida 105.1 fm
+http://node-05.strongradiohost.com/4nbphxxu0d5tv
+#EXTINF:-1, Festival 1540 AM
+http://streaming507.com:8128/stream
+#EXTINF:-1, Metrópolis Radio 93.5 FM
+http://190.140.49.125:8000/;
+#EXTINF:-1, Presidente 98.5 FM
+http://streaming507.com:8126/stream
+#EXTINF:-1, Radio Bautista de Panamá
+http://212.83.172.164:9910/;
+#EXTINF:-1, Radio Claret
+http://stream2.emisorasvirtuales.com:8066/;
+#EXTINF:-1, Radio Dinamismo
+http://stream.jlchost.com:9181/stream
+#EXTINF:-1, Radio Mensabé 1410 AM
+http://streaming507.com:8014/stream
+#EXTINF:-1, Radio Mia Panama
+http://185.105.4.53:8104/;stream.mp3
+#EXTINF:-1, Ultra Stereo 98.9 FM
+http://www.streaming507.com:8134/stream
+#EXTINF:-1, Stereo Fe 96.1 FM Poderosa
+http://192.99.35.215:5163/;
+#EXTINF:-1, SERTV Nacional FM
+http://192.240.98.34:1935/emisoras/nacional.stream/playlist.m3u8
+#EXTINF:-1, SERTV Crisol FM
+http://192.240.98.34:1935/emisoras/crisol.stream/playlist.m3u8
+#EXTINF:-1, Radio Reforma - 102.7 FM
+http://streaming507.com:8072/stream

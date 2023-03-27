@@ -1,0 +1,279 @@
+#EXTM3U
+#EXTINF:-1, Nova FM
+http://195.184.101.204/nova128
+#EXTINF:-1, Radio Max 105 Fm
+http://netradio.radiomax.dk:8002/max.mp3
+#EXTINF:-1, Radio Alfa - Always Elvis Radio
+http://netradio.radioalfa.dk/alwayselvisradio
+#EXTINF:-1, Party FM
+http://stream.partyfm.dk/Party128
+#EXTINF:-1, Radio Play myROCK
+http://stream.myrock.fm/myrock128
+#EXTINF:-1, Pop Fm
+http://195.184.101.202/pop128
+#EXTINF:-1, The Voice (Denmark) - 0
+http://195.184.101.203/voice128
+#EXTINF:-1, The Voice (Denmark) - 1
+http://stream.voice.dk/voice128
+#EXTINF:-1, Radio SLR
+http://netradio.radioslr.dk/
+#EXTINF:-1, Radio Diablo
+http://icecast1.radiostuff.dk:8000/Diablo128
+#EXTINF:-1, Radio24syv - 0
+http://streaming.radio24syv.dk/pls/24syv_128_TuneIn.pls
+#EXTINF:-1, Radio24syv - 1
+http://streaming.radio24syv.dk/pls/24syv_64_TuneIn.pls
+#EXTINF:-1, Radio Soft
+http://onair.100fmlive.dk/soft_live.mp3
+#EXTINF:-1, KNR - The Greenlandic Broadcasting Corporation
+http://radio.knr.gl:8000/
+#EXTINF:-1, Radio M
+http://netradio.radiom.dk/
+#EXTINF:-1, Retro-Radio - 0
+http://stream128.retro-radio.dk/retro
+#EXTINF:-1, Retro-Radio - 1
+http://stream64.retro-radio.dk/retro64
+#EXTINF:-1, Retro-Radio - 2
+http://streammp3.retro-radio.dk/retro-mp3
+#EXTINF:-1, Radio folk denmark
+http://radio.folkemusik.dk:8000/danishfolk
+#EXTINF:-1, Psyradio - Alternative Channel
+http://komplex2.psyradio.org:8040/
+#EXTINF:-1, Psyradio - Goa-Chill Channel - 0
+http://streamer.psyradio.org:8020/listen.pls
+#EXTINF:-1, Psyradio - Goa-Chill Channel - 1
+http://komplex2.psyradio.org:8020/
+#EXTINF:-1, Psyradio - Goa-Chill Channel - 2
+http://komplex2.psyradio.org:8020/listen.pls
+#EXTINF:-1, Psyradio - Goa-Chill Channel - 3
+http://komplex2.psyradio.org:8020
+#EXTINF:-1, Psyradio - Progressive Channel - 0
+http://ipx.psyradio.org:8010
+#EXTINF:-1, Psyradio - Progressive Channel - 1
+http://komplex2.psyradio.org:8010/
+#EXTINF:-1, Psyradio - Progressive Channel - 2
+http://ipx.psyradio.org:8010/listen.pls
+#EXTINF:-1, Psyradio - Progressive Channel - 3
+http://komplex2.psyradio.org:8010/listen.pls
+#EXTINF:-1, Psyradio - Progressive Channel - 4
+http://streamer.psyradio.org:8010/listen.pls
+#EXTINF:-1, Psyradio -  Psytrance Channel - 0
+http://streamer.psyradio.org:8030/listen.pls
+#EXTINF:-1, Psyradio -  Psytrance Channel - 1
+http://komplex2.psyradio.org:8030
+#EXTINF:-1, Psyradio -  Psytrance Channel - 2
+http://komplex2.psyradio.org:8030/listen.pls
+#EXTINF:-1, Psyradio -  Psytrance Channel - 3
+http://komplex2.psyradio.org:8030/
+#EXTINF:-1, go!FM
+http://netradio.gofm.dk/
+#EXTINF:-1, Radio ABC
+http://netradio.radioabc.dk
+#EXTINF:-1, Radio Skive
+http://netradio.radioskive.dk
+#EXTINF:-1, Solo FM
+http://netradio.solofm.dk
+#EXTINF:-1, Ekstra Bladet Radio
+http://stream.myradio.dk:8000/eb
+#EXTINF:-1, Radio ANR DK - ANR Nordjyske
+http://stream.anr.dk/nordjyske
+#EXTINF:-1, AASR 98.7 FM
+http://stream.aasr.dk:8000/;?icy=http
+#EXTINF:-1, Radio Marimanga
+http://91.82.85.71:9084/
+#EXTINF:-1, DinRadio Jylland
+http://stream.wlmm.dk/DinRadioOestmp3
+#EXTINF:-1, Radio 40 Plus 95.6 FM
+http://stream.radiosolutions.dk:60060/hsr
+#EXTINF:-1, Radio Halsnæs 105.3 FM
+http://45.32.238.225/;
+#EXTINF:-1, Radio HLR 104.5 FM - 0
+http://stream.radiosolutions.dk:60010/radiohlr
+#EXTINF:-1, Radio HLR 104.5 FM - 1
+http://stream.radiohlr.dk:9010/
+#EXTINF:-1, Radio Beatles
+http://51.255.235.165:5148/;listen.mp3
+#EXTINF:-1, Radio NORDJYSKE
+http://stream.anr.dk/nordjyske2
+#EXTINF:-1, Radio Rollo
+http://stream.radiosolutions.dk:60050/web
+#EXTINF:-1, Radio Silkeborg
+http://netradio.radiom.dk/silkeborg
+#EXTINF:-1, Radio Victoria 106.3 FM
+http://stream.wlmm.dk/NyRadiomp3
+#EXTINF:-1, Radio Rønde 101.7 FM
+http://media.wlmm.dk/djurs
+#EXTINF:-1, Radio Projekti 21
+http://64.150.176.42:8178/;
+#EXTINF:-1, Radio Zëri i Kosovës
+http://174.36.206.197:8038/;
+#EXTINF:-1, Radio Odsherred 107.9 FM
+http://5.103.128.66:88/broadwave.mp3
+#EXTINF:-1, Vendsyssel FM
+http://arnehansen.net:8000/;
+#EXTINF:-1, Radio Alfa - Fyn
+http://icecast1.radiostuff.dk:8000/Alfasydfyn128
+#EXTINF:-1, Radio Seni
+http://streaming.4-p.org:8136/1/
+#EXTINF:-1, Radio SydhavsØerne
+http://netradio.dk/
+#EXTINF:-1, Radio Køge
+http://stream.wlmm.dk/stream/53/
+#EXTINF:-1, Radio Limfjord
+http://media.limfjordnetradio.dk/limfjord128
+#EXTINF:-1, Radio Limfjord Mix
+http://media.limfjordnetradio.dk/plus128
+#EXTINF:-1, Radio Limfjord Schlager
+http://media.limfjordnetradio.dk/plusslager128
+#EXTINF:-1, Nordic Lodge Copenhagen - 0
+http://sky1.torontocast.com:9095/stream
+#EXTINF:-1, Nordic Lodge Copenhagen - 1
+http://sky1.torontocast.com:9095/stream2
+#EXTINF:-1, Radio 2000
+http://icecast3.radiostuff.dk:8000/radio2000
+#EXTINF:-1, Radio Alfa - Midtjylland
+http://89.249.7.68/alfamidt
+#EXTINF:-1, Radio Nord FM 98.6
+http://stream.radiosolutions.dk:60100/NORD
+#EXTINF:-1, DK4 - Dansktop
+http://stream.radiosolutions.dk/dk4hi
+#EXTINF:-1, DK4 - Schlager
+http://stream.radiosolutions.dk/slagerhi
+#EXTINF:-1, Radio Als
+http://webradio.classicfm.dk/classichorsens.aac
+#EXTINF:-1, Radio Ballerup 90.2 FM
+http://stream.vibefm.dk/live
+#EXTINF:-1, Radio Klitholm
+http://stream.radioklitholm.dk:8000/stream
+#EXTINF:-1, skala.fm
+http://webradio.skala.fm/kolding
+#EXTINF:-1, Radio ALFA - Gold
+http://89.249.7.68/alfaevent
+#EXTINF:-1, Radio 100 FM Denmark - 0
+http://onair.100fmlive.dk/100fm_live.mp3
+#EXTINF:-1, Radio 100 FM Denmark - 1
+http://live-bauerdk.sharp-stream.com/radio100_dk_mp3
+#EXTINF:-1, Radio Globus
+http://media.wlmm.dk/radioglobus
+#EXTINF:-1, Globus Guld
+http://media.wlmm.dk/globusguld
+#EXTINF:-1, Radio Klassisk 90.0 FM
+http://onair.100fmlive.dk/klassisk_live.mp3
+#EXTINF:-1, Radio ANR DK - ANR FM 87.6 MHz Aalborg C
+http://stream.anr.dk/anr
+#EXTINF:-1, Radio ANR DK - ANR Aura
+http://stream.anr.dk/aura
+#EXTINF:-1, Globus Guld Juleradio
+http://media.wlmm.dk/jul
+#EXTINF:-1, Radio Alfa - Silkeborg
+http://netradio.radioalfa.dk/silkeborg
+#EXTINF:-1, Radio ALR - Denmark
+http://streamer.radio.co/s6a9beb92e/listen
+#EXTINF:-1, Radio VLR Horsens - 0
+http://webradio.vlr.dk/vlrvejle
+#EXTINF:-1, Radio VLR Horsens - 1
+http://horsens.radiostreaming.dk:8050/horsens.m3u
+#EXTINF:-1, Radio VLR Horsens - 2
+http://horsens.radiostreaming.dk:8050/horsens
+#EXTINF:-1, Rusty Leather Radio - 0
+http://cabhs32.sonixcast.com:20066/listen.m3u
+#EXTINF:-1, Rusty Leather Radio - 1
+http://cabhs32.sonixcast.com:20066
+#EXTINF:-1, Radio Ras
+http://152.115.138.218:8000/radioras
+#EXTINF:-1, PartyZone - Denmark - 0
+http://stream3.partyzone.nu/mp3
+#EXTINF:-1, PartyZone - Denmark - 1
+http://radiogruppen.dk/AIO/?pl=winamp&c=Partyzone
+#EXTINF:-1, Abinayam FM Canada
+http://192.99.170.8:5756/;
+#EXTINF:-1, DR - P1 - 0
+http://live-icy.gss.dr.dk:8000/A/A03H.mp3
+#EXTINF:-1, DR - P1 - 1
+http://live-icy.gss.dr.dk:8000/A/A03L.mp3
+#EXTINF:-1, DR - P1 - 2
+http://drradio1-lh.akamaihd.net/i/p1_9@143503/master.m3u8
+#EXTINF:-1, DR - P2 Klassisk - 0
+http://live-icy.gss.dr.dk:8000/A/A04H.mp3
+#EXTINF:-1, DR - P2 Klassisk - 1
+http://live-icy.gss.dr.dk:8000/A/A04L.mp3
+#EXTINF:-1, DR - P2 Klassisk - 2
+http://drradio2-lh.akamaihd.net/i/p2_9@143504/index_64_a-p.m3u8
+#EXTINF:-1, DR - P3 - 0
+http://live-icy.gss.dr.dk:8000/A/A05H.mp3
+#EXTINF:-1, DR - P3 - 1
+http://live-icy.gss.dr.dk:8000/A/A05L.mp3
+#EXTINF:-1, DR - P3 - 2
+http://drradio3-lh.akamaihd.net/i/p3_9@143506/master.m3u8
+#EXTINF:-1, DR - P7 MIX - 0
+http://live-icy.gss.dr.dk:8000/A/A01H.mp3
+#EXTINF:-1, DR - P7 MIX - 1
+http://live-icy.gss.dr.dk:8000/A/A21L.mp3
+#EXTINF:-1, DR - P7 MIX - 2
+http://drradio1-lh.akamaihd.net/i/p7mix_9@143522/master.m3u8
+#EXTINF:-1, DR - P8 JAZZ - 0
+http://live-icy.gss.dr.dk:8000/A/A22H.mp3.m3u
+#EXTINF:-1, DR - P8 JAZZ - 1
+http://live-icy.gss.dr.dk:8000/A/A22L.mp3.m3u
+#EXTINF:-1, DR - P8 JAZZ - 2
+http://drradio2-lh.akamaihd.net/i/p8jazz_9@143524/master.m3u8
+#EXTINF:-1, DR - P5 - 0
+http://live-icy.gss.dr.dk:8000/A/A25H.mp3
+#EXTINF:-1, DR - P5 - 1
+http://live-icy.gss.dr.dk:8000/A/A25L.mp3
+#EXTINF:-1, DR - P5 - 2
+http://drradio1-lh.akamaihd.net/i/p5_9@143530/master.m3u8
+#EXTINF:-1, DR - P6 BEAT - 0
+http://live-icy.gss.dr.dk:8000/A/A29H.mp3.m3u
+#EXTINF:-1, DR - P6 BEAT - 1
+http://live-icy.gss.dr.dk:8000/A/A29L.mp3.m3u
+#EXTINF:-1, DR - P6 BEAT - 2
+http://drradio3-lh.akamaihd.net/i/p6beat_9@143533/master.m3u8
+#EXTINF:-1, DR - P4 København - 0
+http://live-icy.gss.dr.dk:8000/A/A08H.mp3
+#EXTINF:-1, DR - P4 København - 1
+http://live-icy.gss.dr.dk:8000/A/A08L.mp3
+#EXTINF:-1, DR - P4 Midt & Vest - 0
+http://live-icy.gss.dr.dk:8000/A/A09H.mp3
+#EXTINF:-1, DR - P4 Midt & Vest - 1
+http://live-icy.gss.dr.dk:8000/A/A09L.mp3
+#EXTINF:-1, DR - P4 Nordjylland - 0
+http://live-icy.gss.dr.dk:8000/A/A10H.mp3
+#EXTINF:-1, DR - P4 Nordjylland - 1
+http://live-icy.gss.dr.dk:8000/A/A10L.mp3
+#EXTINF:-1, DR - P4 Østjylland - 0
+http://live-icy.gss.dr.dk:8000/A/A14H.mp3
+#EXTINF:-1, DR - P4 Østjylland - 1
+http://live-icy.gss.dr.dk:8000/A/A14L.mp3
+#EXTINF:-1, DR - P4 Sjælland - 0
+http://live-icy.gss.dr.dk:8000/A/A11H.mp3
+#EXTINF:-1, DR - P4 Sjælland - 1
+http://live-icy.gss.dr.dk:8000/A/A11L.mp3
+#EXTINF:-1, DR - P4 Syd - 0
+http://live-icy.gss.dr.dk:8000/A/A12H.mp3
+#EXTINF:-1, DR - P4 Syd - 1
+http://live-icy.gss.dr.dk:8000/A/A12L.mp3
+#EXTINF:-1, DR - P4 Trekanten - 0
+http://live-icy.gss.dr.dk:8000/A/A13H.mp3
+#EXTINF:-1, DR - P4 Trekanten - 1
+http://live-icy.gss.dr.dk:8000/A/A13L.mp3
+#EXTINF:-1, DR - P4 Bornholm - 0
+http://live-icy.gss.dr.dk:8000/A/A06H.mp3
+#EXTINF:-1, DR - P4 Bornholm - 1
+http://live-icy.gss.dr.dk:8000/A/A06L.mp3
+#EXTINF:-1, DR - P4 Fyn - 0
+http://live-icy.gss.dr.dk:8000/A/A07H.mp3
+#EXTINF:-1, DR - P4 Fyn - 1
+http://live-icy.gss.dr.dk:8000/A/A07L.mp3
+#EXTINF:-1, DR - P4 Esbjerg - 0
+http://live-icy.gss.dr.dk:8000/A/A15H.mp3
+#EXTINF:-1, DR - P4 Esbjerg - 1
+http://live-icy.gss.dr.dk:8000/A/A15L.mp3
+#EXTINF:-1, DR - Nyheder - 0
+http://live-icy.gss.dr.dk:8000/A/A02H.mp3
+#EXTINF:-1, DR - Nyheder - 1
+http://live-icy.gss.dr.dk:8000/A/A02L.mp3
+#EXTINF:-1, Radio Alfa - Alfa Jul
+http://89.249.7.68/alfaevent
+#EXTINF:-1, VLR Vejle 101.7 FM - Odense, Denmark
+http://webradio.vlr.dk/vlrvejle

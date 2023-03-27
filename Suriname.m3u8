@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1, Ishara FM - Radio Ishara - 0
+http://nickerie.webhop.net:8000/;
+#EXTINF:-1, Ishara FM - Radio Ishara - 1
+http://www.isharafm.com/modules/mod_ngs_shoutcast/singleplaylist.php?ip=nickerie.webhop.net&port=8000&format=ASX
+#EXTINF:-1, Radio 10 Magic
+http://streams.radio.co/s28bc986cd/listen
+#EXTINF:-1, Radio Fawaka - 0
+http://192.111.140.6:8117/;
+#EXTINF:-1, Radio Fawaka - 1
+http://192.111.140.6:8117/;stream.mp3
+#EXTINF:-1, Dagblad Suriname - Rapar 91.3 FM
+http://168.195.218.193:8000/radio1-1
+#EXTINF:-1, Dagblad Suriname  - RP The Hot One (THO) 89.7 FM
+http://168.195.218.193:8000/radio1-3
+#EXTINF:-1, Dagblad Suriname - Beet FM 92.1
+http://168.195.218.193:8000/radio2-2
+#EXTINF:-1, Radio SRS Suriname
+http://streaming.shoutcast.com/963FM
+#EXTINF:-1, Radio Apintie
+http://apintie.sr:7000/;
+#EXTINF:-1, Sangeetmala - Paramaribo
+http://sgm.kloud.xyz:8030/radio.mp3
+#EXTINF:-1, Radio Trishul - Paramaribo
+http://tbn.kloud.xyz:8050/radio.mp3

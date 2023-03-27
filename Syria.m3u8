@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1, Radio Farah FM 97.3
+http://radio.farah.fm:8015/
+#EXTINF:-1, Radio Melody Syria FM 97.9
+http://streaming.inet.sy:8000/melodyfm
+#EXTINF:-1, Radio Rayan FM 90.2
+http://www.rayanfm.com:9998/
+#EXTINF:-1, Radio Asima FM 99.8
+http://asima.out.airtime.pro:8000/asima_a
+#EXTINF:-1, Radio Nasaem Syria fm
+http://s1.voscast.com:10002
+#EXTINF:-1, Radio Arabesque 102.3FM
+http://185.4.87.79:8765/stream
+#EXTINF:-1, Radio Amwaj FM 98.2/105.3
+http://radioliveb.rtv.gov.sy:8002/RadioAmwaj
+#EXTINF:-1, Radio Damascus 88.7 FM
+http://radioliveb.rtv.gov.sy:8002/RadioDimshq
+#EXTINF:-1, Radio Sawt Alshabab 89.9 FM
+http://radioliveb.rtv.gov.sy:8002/RadioShabab
+#EXTINF:-1, Radio Souryana 88.3 FM
+http://radioliveb.rtv.gov.sy:8008/RadioSouryana
+#EXTINF:-1, Radio El Karma 104.4 FM
+http://radioliveb.rtv.gov.sy:8002/RadioKarma
+#EXTINF:-1, Radio Fuse FM Syria 91.1
+http://192.99.17.12:4986/;stream.mp3
+#EXTINF:-1, Radio Rozana
+http://ample-zeno-07.radiojar.com/43ssay93pvduv
+#EXTINF:-1, Radio Sham FM 92.3
+http://radio.sham.fm:8400/;

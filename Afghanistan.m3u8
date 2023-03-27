@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1, Radio Arman
+http://158.69.225.238:3953/;stream.mp3
+#EXTINF:-1, RTA Radio Afghanistan 1107 AM & 105.2 FM
+http://cast5.servcast.net:8072/stream
+#EXTINF:-1, RTA Radio Kabul
+http://cast5.servcast.net:8068/stream
+#EXTINF:-1, Afghan Radio - Sadaye Zindagi
+http://afghanradio.org:8000/;.mp3
+#EXTINF:-1, Radio Srood
+http://stream.radiosrood.com:8000/live
+#EXTINF:-1, Radio Salam Watandar
+http://s10.myradiostream.com:12238/;

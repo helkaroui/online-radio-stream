@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1, Radio Vaticana - Canale 1
+http://live.vaticanwebradio.org/channel1.mp3
+#EXTINF:-1, Radio Vaticana - Canale 2
+http://live.vaticanwebradio.org/channel2.mp3
+#EXTINF:-1, Radio Vaticana - Canale 3
+http://live.vaticanwebradio.org/channel3.mp3
+#EXTINF:-1, Radio Vaticana - Canale 4
+http://live.vaticanwebradio.org/channel4.mp3
+#EXTINF:-1, Radio Vaticana - Canale 5
+http://live.vaticanwebradio.org/channel5.mp3
+#EXTINF:-1, Radio Vaticana - Canale 6
+http://live.vaticanwebradio.org/channel6.mp3
+#EXTINF:-1, Radio Vaticana - Canale 7
+http://live.vaticanwebradio.org/channel7.mp3
+#EXTINF:-1, Radio Vaticana - Canale 8
+http://live.vaticanwebradio.org/channel8.mp3
+#EXTINF:-1, Radio Vaticana - Canale 9
+http://live.vaticanwebradio.org/channel9.mp3
+#EXTINF:-1, Radio Vaticana - Canale 10
+http://live.vaticanwebradio.org/channel10.mp3
+#EXTINF:-1, Radio Watykanskie Aktualnosci Wieczorne (codziennie nowe)
+http://www2.vaticanwebradio.org/webcasting/rg_polacco_1_1.mp3
+#EXTINF:-1, Radio Vatican News Hindi (daily new podcast)
+http://www2.vaticanwebradio.org/webcasting/hindi_1.mp3
+#EXTINF:-1, Radio Vatican News Vietnam(daily new podcast)
+http://www2.vaticanwebradio.org/webcasting/vietnamita_1.mp3
+#EXTINF:-1, Radio Watykańskie - Msze przy Grobie Jana Pawła II (co 7 dni) - 0
+http://www2.vaticanwebradio.org/webcasting/messa_polacca_1.mp3
+#EXTINF:-1, Radio Watykańskie - Msze przy Grobie Jana Pawła II (co 7 dni) - 1
+http://www2.vaticanwebradio.org/webcasting/messa_polacca_1.rm

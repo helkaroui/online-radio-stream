@@ -1,0 +1,449 @@
+#EXTM3U
+#EXTINF:-1, Telestereo
+http://67.212.179.138:8300/
+#EXTINF:-1, Radio Libertad - Lima
+http://iplinea.com:9972/
+#EXTINF:-1, Radio 1550
+http://212.83.146.67:7212
+#EXTINF:-1, Radio Huancayo
+http://212.83.146.67:7208
+#EXTINF:-1, Radio Milenia
+http://67.212.179.138:7130/
+#EXTINF:-1, Radio MIX - Pisco
+http://serverstreamgroup.biz:8000/stream
+#EXTINF:-1, Radio San Pedro 98.1 FM
+http://69.175.20.242:8072/live.m3u
+#EXTINF:-1, Radio Veritas
+http://65.60.45.74:5180/listen.pls
+#EXTINF:-1, Radio Altamar 102.3 FM * ¡¡¡Mas Arriba!!!
+http://iplinea.com:9942/
+#EXTINF:-1, Radio Señorial 88.3 FM - otro estilo !!, Huancayo, Peru
+http://212.83.146.67:7214
+#EXTINF:-1, Radio La Kalle
+http://167.114.118.120:7448/
+#EXTINF:-1, Radio Karibeña
+http://167.114.118.120:7442
+#EXTINF:-1, RadioExitosa
+http://167.114.118.120:7444
+#EXTINF:-1, Radio Amor
+http://167.114.118.120:7450/
+#EXTINF:-1, Radio Retro - Tacna , Peru
+http://195.154.56.114:9158/listen.pls
+#EXTINF:-1, Radio Doble Nueve
+http://198.100.158.66:9028/
+#EXTINF:-1, AZUL RADIO TV
+http://167.114.118.120:7134/
+#EXTINF:-1, Malki Radio
+http://www.servershd.net:7032/
+#EXTINF:-1, RADIO PIRATA 103.3 FM
+http://167.114.118.120:7628/
+#EXTINF:-1, La Noventera
+http://198.100.158.66:7016
+#EXTINF:-1, CONEXION VIDA - Tu Radio on-line
+http://198.100.158.66:9052
+#EXTINF:-1, Radio Oechsle
+http://playservistream.net:7010
+#EXTINF:-1, Orbita Radio, Trujillo
+http://212.83.146.67:6016
+#EXTINF:-1, RADIO AREQUIPA VISION
+http://65.60.2.26:8198
+#EXTINF:-1, Radio Blessing
+http://iplinea.com:8006
+#EXTINF:-1, Radio Central Galáctica
+http://212.83.146.67:7222
+#EXTINF:-1, Radio Doble Nueve Classic
+http://198.100.158.66:7032
+#EXTINF:-1, Radio Doble Nueve Heritage
+http://198.100.158.66:7030
+#EXTINF:-1, Radio Doble Nueve Millennial
+http://198.100.158.66:9030
+#EXTINF:-1, Radio Folk Peru
+http://151.80.243.30:7060
+#EXTINF:-1, Radio Santa Beatriz 101.3 FM
+http://167.114.118.120:7288/
+#EXTINF:-1, Radio Cutivalú 630 AM
+http://167.114.118.120:7380/
+#EXTINF:-1, Radio La Inolvidable 93.7 FM - 0
+http://provisioning.streamtheworld.com/pls/CRP_LIAAC.pls
+#EXTINF:-1, Radio La Inolvidable 93.7 FM - 1
+http://provisioning.streamtheworld.com/pls/CRP_LI.pls
+#EXTINF:-1, Red Radio Integridad
+http://62.210.189.222:9292
+#EXTINF:-1, IRTP Radio Cultural Filarmonía 102.7 FM
+http://m.mediastream.pe/av_filarmonia/livestream/playlist.m3u8
+#EXTINF:-1, Radio Maria Peru - 0
+http://dreamsiteradiocp4.com:8020/
+#EXTINF:-1, Radio Maria Peru - 1
+http://cloudrad.io/radiomariaperu/listen.asx
+#EXTINF:-1, Radio Federacion de Periodistas del Perú
+http://198.100.158.66:9064/;
+#EXTINF:-1, liveatc.net - SPJC Tower
+http://d.liveatc.net/spjc
+#EXTINF:-1, Top Latino Radio
+http://online.radiodifusion.net:8020/listen.pls
+#EXTINF:-1, Radiodancing.com - Latin NRG
+http://playservistream.net:7030/;
+#EXTINF:-1, Kpopway Radio
+http://smoke.wavestreamer.com:2684/stream/1/
+#EXTINF:-1, OGM - Radio Exito
+http://67.212.166.178:7152/
+#EXTINF:-1, RBC Satelital
+http://67.212.179.138:8730
+#EXTINF:-1, Perufolkradio.com
+http://gnstreammedia.net:8020
+#EXTINF:-1, Radio 96 FM
+http://wowzaserver.net:9610/stream;
+#EXTINF:-1, Radio Andina - Chota
+http://167.114.118.120:7058/
+#EXTINF:-1, Radio Andina 106.1 FM Internacional
+http://163.182.171.202:9300/;
+#EXTINF:-1, Radio Doble N
+http://www.radiodoblen.com/emision.m3u
+#EXTINF:-1, Radio Frecuencia Popular 100.3 FM
+http://radio.sistemasandinos.org:7142/stream
+#EXTINF:-1, Radio Nova - Chimbote 104.3 FM
+http://playservistream.net:7162/
+#EXTINF:-1, Radio Nova - Chiclayo 94.9 FM
+http://67.212.179.138:9022
+#EXTINF:-1, Radio Nova - Trujillo 105.1 FM
+http://playservistream.net:7064
+#EXTINF:-1, Radio Nueva Q 107.1 FM - 0
+http://playerservices.streamtheworld.com/api/livestream-redirect/CRP_NQ_SC
+#EXTINF:-1, Radio Nueva Q 107.1 FM - 1
+http://provisioning.streamtheworld.com/asx/CRP_NQ.asx
+#EXTINF:-1, Radio Nueva Q 107.1 FM - 2
+http://provisioning.streamtheworld.com/pls/CRP_NQ.pls
+#EXTINF:-1, Radio Ollantay - Cajamarca 102.5 FM
+http://37.187.250.76:9812/
+#EXTINF:-1, Radio Inca 540AM - 0
+http://playerservices.streamtheworld.com/api/livestream-redirect/CRP_INC_SC
+#EXTINF:-1, Radio Inca 540AM - 1
+http://provisioning.streamtheworld.com/asx/CRP_INC.asx
+#EXTINF:-1, Radio Inca 540AM - 2
+http://provisioning.streamtheworld.com/pls/CRP_INC.pls
+#EXTINF:-1, Radio Tacna 104.3 FM
+http://173.244.209.219:6032/;
+#EXTINF:-1, Radio Uno 93.7
+http://173.244.209.219:6012/;
+#EXTINF:-1, Radio Planeta 107.7 FM - 0
+http://playerservices.streamtheworld.com/pls/CRP_PLAAAC.pls
+#EXTINF:-1, Radio Planeta 107.7 FM - 1
+http://playerservices.streamtheworld.com/pls/CRP_PLA.pls
+#EXTINF:-1, Radio Ritmo Romántica 93.1FM - 0
+http://playerservices.streamtheworld.com/pls/CRP_RITAAC.pls
+#EXTINF:-1, Radio Ritmo Romántica 93.1FM - 1
+http://playerservices.streamtheworld.com/pls/CRP_RIT.pls
+#EXTINF:-1, Radio Scala de Oro 107.1
+http://46.4.33.73:5034/
+#EXTINF:-1, Radio Sensacion
+http://195.154.56.114:9080/;
+#EXTINF:-1, Radio Superstereo Arequipa
+http://94.23.84.122:7012/;stream
+#EXTINF:-1, Radio Titanka - Andahuaylas
+http://67.212.179.138:7102/listen.pls
+#EXTINF:-1, Radio Titanka - Abancay
+http://67.212.179.138:7116/listen.pls
+#EXTINF:-1, Radio Vision Peru
+http://190.223.55.179:8000/;stream.mp3
+#EXTINF:-1, Viva FM 104.7 - 0
+http://65.60.45.74:5420/;stream.mp3
+#EXTINF:-1, Viva FM 104.7 - 1
+http://65.60.45.74:5420/
+#EXTINF:-1, Radio Cinetica 96.1
+http://stm40.srvstm.com:9782
+#EXTINF:-1, Radio Comas 101.7 FM
+http://65.60.2.26:8044
+#EXTINF:-1, Radio Las Vegas 100.1 FM
+http://167.114.118.120:7286/
+#EXTINF:-1, Radio 1160
+http://192.99.148.184:3624
+#EXTINF:-1, Radio Panamericana
+http://192.99.148.184:6710
+#EXTINF:-1, Radio Reina de la Selva
+http://playservistream.net:7046/
+#EXTINF:-1, Radio TV San Viator 105.7 FM
+http://stream.codigosur.org:8000/sanviator.mp3
+#EXTINF:-1, Radio Turbo Mix 92.5 FM
+http://167.114.118.120:7624/
+#EXTINF:-1, Radio Turbo Mix 1540 AM
+http://167.114.118.120:7626/
+#EXTINF:-1, Radio Yaravi 106.3 FM
+http://99.198.110.162:7012/
+#EXTINF:-1, Radio Z Rock & Pop 88.3
+http://167.114.118.120:7440
+#EXTINF:-1, Radio Unión 880 AM
+http://67.212.166.178:7042/
+#EXTINF:-1, Radio Unión 103.3 FM
+http://playservistream.net:7218/
+#EXTINF:-1, Radio Disney Perú
+http://173.192.105.252:8000
+#EXTINF:-1, Radio Maxima 96.9FM - Huacho
+http://62.210.189.222:9020
+#EXTINF:-1, Radio Paraiso 103.5FM - Huacho
+http://173.208.253.26:7150
+#EXTINF:-1, Radio Latidos 94.7FM - Huaral
+http://ip.peruhits.com:9944/stream
+#EXTINF:-1, Latidos.pe
+http://ip.peruhits.com:7230/stream
+#EXTINF:-1, Radio Litoral 105.9 FM - Huacho
+http://playservistream.net:7050/
+#EXTINF:-1, Radio Matucana 102.9FM - Huarochiri
+http://radio.transmite.pe:9316/
+#EXTINF:-1, Radio Lider 100.3FM San Mateo - Huarochiri
+http://167.114.118.120:7220/
+#EXTINF:-1, Radio Emoción 96.3FM - Huaral
+http://167.114.118.119:7058
+#EXTINF:-1, Oxigeno
+http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_OXIGENO.mp3
+#EXTINF:-1, RPP Noticias
+http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_RPP.mp3
+#EXTINF:-1, RPP Trujillo
+http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_RPP_TRUJILLO.mp3
+#EXTINF:-1, Asia la radio 98.7FM Asia - Cañete
+http://167.114.118.120:7804
+#EXTINF:-1, Asia La Extrema 105.9FM Asia - Cañete
+http://167.114.118.120:7678
+#EXTINF:-1, DUNK Radio
+http://www.radioking.com/play/dunk-radio
+#EXTINF:-1, Radio Moda 97.3FM - 0
+http://provisioning.streamtheworld.com/pls/CRP_MODAAC.pls
+#EXTINF:-1, Radio Moda 97.3FM - 1
+http://provisioning.streamtheworld.com/asx/CRP_MOD.asx
+#EXTINF:-1, Radio Moda 97.3FM - 2
+http://provisioning.streamtheworld.com/pls/CRP_MOD.pls
+#EXTINF:-1, Radio Moda 97.3FM - 3
+http://19263.live.streamtheworld.com:3690/CRP_MOD_SC
+#EXTINF:-1, Radio Mágica 88.3FM - 0
+http://playerservices.streamtheworld.com/pls/MAG.pls
+#EXTINF:-1, Radio Mágica 88.3FM - 1
+http://provisioning.streamtheworld.com/asx/MAG.asx
+#EXTINF:-1, Radio Mágica 88.3FM - 2
+http://provisioning.streamtheworld.com/pls/MAG.pls
+#EXTINF:-1, Radio Mágica 88.3FM - 3
+http://18313.live.streamtheworld.com/MAG.mp3?
+#EXTINF:-1, Radiomar Plus 106.3 FM - 0
+http://playerservices.streamtheworld.com/pls/CRP_MARAAC.pls
+#EXTINF:-1, Radiomar Plus 106.3 FM - 1
+http://playerservices.streamtheworld.com/pls/CRP_MAR.pls
+#EXTINF:-1, Radiomar Plus 106.3 FM - 2
+http://19793.live.streamtheworld.com/CRP_MAR.mp3?
+#EXTINF:-1, Radio Oasis 100.1 FM - 0
+http://playerservices.streamtheworld.com/pls/CRP_OASAAC.pls
+#EXTINF:-1, Radio Oasis 100.1 FM - 1
+http://playerservices.streamtheworld.com/pls/CRP_OAS.pls
+#EXTINF:-1, Radio Oasis 100.1 FM - 2
+http://13743.live.streamtheworld.com/CRP_OAS.mp3?
+#EXTINF:-1, FM Hits 80s - 0
+http://streaming.radionomy.com/CountryMusicTime?lang=en-US&appName=iTunes.m3u
+#EXTINF:-1, FM Hits 80s - 1
+http://listen64.radionomy.com/fmhits80s
+#EXTINF:-1, FM Hits 80s - 2
+http://listen64.radionomy.com/fmhits80s
+#EXTINF:-1, FM Hits 80s - 3
+http://listen64.radionomy.com/fmhits80s
+#EXTINF:-1, FM Hits 80s - 4
+http://listen64.radionomy.com/fmhits80s
+#EXTINF:-1, FM Hits 80s - 5
+http://listen.radionomy.com/fmhits80s
+#EXTINF:-1, Radio Antena 10 Sullana
+http://37.187.92.29:9970/
+#EXTINF:-1, Radio Bulevar
+http://198.100.158.66:7022/
+#EXTINF:-1, Radio Music Okey
+http://195.154.167.62:9600/
+#EXTINF:-1, Dirty Beats Radio
+http://s.dirtybeatsradio.com/
+#EXTINF:-1, Radio Full Fiesta
+http://oyotunstream.com:8090/
+#EXTINF:-1, Radio INKA TROPICAL
+http://192.95.23.188:8004/stream
+#EXTINF:-1, Radio Ollantay - Virú 102.3 FM
+http://37.187.250.76:9806
+#EXTINF:-1, Radio Antena Sur 90.3 FM
+http://108.178.57.196:8047/;
+#EXTINF:-1, Radio La Fuerte 104.7 FM
+http://167.114.118.119:7322/
+#EXTINF:-1, Radio Onda Cero
+http://192.99.148.184:6720/
+#EXTINF:-1, Radio Cumbia Mix - 99.1
+http://192.99.148.184:6730
+#EXTINF:-1, Radio Tarma 99.3 FM
+http://167.114.118.120:7460/stream
+#EXTINF:-1, Studio 92
+http://elguapo.latinstreamhost.com/4wa3u9cu1d5tv
+#EXTINF:-1, Estación Solar FM
+http://167.114.118.120:7330/
+#EXTINF:-1, RN radio
+http://167.114.118.120:7302
+#EXTINF:-1, radio Zona 5
+http://167.114.118.120:7216
+#EXTINF:-1, Radio Santa Monica Arequipa 1440 * Trasmitiendo desde Arequipa Peru ...
+http://46.4.33.73:5072
+#EXTINF:-1, Radio Rede Peru - Evolucionando tus oídos - Escuchanos
+http://195.154.56.114:9120
+#EXTINF:-1, Radio MÉDICA LIMA - 99.5 FM - 0
+http://195.154.56.114:9150/
+#EXTINF:-1, Radio MÉDICA LIMA - 99.5 FM - 1
+http://195.154.56.114:9140
+#EXTINF:-1, Radio Canto Grande Fm - 97.7 FM ::: Lima Este
+http://65.60.2.26:8050/
+#EXTINF:-1, Radio Master Mix
+http://195.154.56.114:9200/
+#EXTINF:-1, Radio Studio 97 Huaraz
+http://216.245.215.125:8010/
+#EXTINF:-1, Radio Buenaza Radio En vivo - Radio Buenaza 102.9 Fm Huanta
+http://195.154.56.114:9128
+#EXTINF:-1, Radio Corazon fm
+http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_CORAZONAAC.aac
+#EXTINF:-1, Radio Felicidad
+http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_FELICIDADAAC.aac
+#EXTINF:-1, Radio La Zona
+http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_LAZONAAAC.aac
+#EXTINF:-1, Sonorama Rock & Pop hecho en el Perú - 0
+http://provisioning.streamtheworld.com/pls/CRP_SONAAC.pls
+#EXTINF:-1, Sonorama Rock & Pop hecho en el Perú - 1
+http://14523.live.streamtheworld.com:80/CRP_SONAAC_SC
+#EXTINF:-1, Radio Fiel y Verdadero - 0
+http://ample.radiojar.com/0ff3cw6gxbwtv
+#EXTINF:-1, Radio Fiel y Verdadero - 1
+http://162.13.25.174/0ff3cw6gxbwtv
+#EXTINF:-1, IRTP Radio Nacional del Perú 103.9
+http://cdnh4.iblups.com/hls/WtadCBUHxP.m3u8
+#EXTINF:-1, IRTP Radio La Crónica AM 1320
+http://cdnh4.iblups.com/hls/3KBokMgDQi.m3u8
+#EXTINF:-1, Cadena Top Urbano - 0
+http://online.radiodifusion.net:8020
+#EXTINF:-1, Cadena Top Urbano - 1
+http://online.radiodifusion.net:8020/stream/1/
+#EXTINF:-1, Radio Capital - 0
+http://playerservices.streamtheworld.com/pls/RADIO_CAPITALAAC.pls
+#EXTINF:-1, Radio Capital - 1
+http://playerservices.streamtheworld.com/pls/RADIO_CAPITAL.pls
+#EXTINF:-1, Radio Capital - 2
+http://15383.live.streamtheworld.com/RADIO_CAPITAL_SC
+#EXTINF:-1, Radio Trueno
+http://212.83.146.67:7962/listen.pls
+#EXTINF:-1, Radio Tushurami
+http://5.135.183.124/tunein/tushurami.pls
+#EXTINF:-1, Radio Super Latina 93.1FM - Huaral
+http://167.114.118.119:7840/stream
+#EXTINF:-1, Radio Kalidad 102.7FM Lunahuaná - Cañete
+http://173.208.253.26:7098
+#EXTINF:-1, Retro Rock & Pop* en español - 0
+http://streaming.radionomy.com/RetroRock-Pop-Latino?lang=en-US&appName=iTunes.m3u
+#EXTINF:-1, Retro Rock & Pop* en español - 1
+http://listen.radionomy.com/retrorock-pop-latino
+#EXTINF:-1, Retro rock - 0
+http://streaming.radionomy.com/Radio-Retro-Rock--Pop?lang=en-US&appName=iTunes.m3u
+#EXTINF:-1, Retro rock - 1
+http://listen.radionomy.com/radio-retro-rock--pop?1339902690087.mp3
+#EXTINF:-1, Angienet Radio 1540AM - Barranca
+http://195.154.56.114:9224
+#EXTINF:-1, Radio Americana fm
+http://167.114.118.120:7694/
+#EXTINF:-1, Radio Bacan SAT Huancayo 1320 AM
+http://74.115.208.124:6018
+#EXTINF:-1, Radio Bacan SAT Lima 1130 AM - 0
+http://209.9.238.4:8944/listen.pls
+#EXTINF:-1, Radio Bacan SAT Lima 1130 AM - 1
+http://lin1.ash.fast-serv.com:8944/;
+#EXTINF:-1, Radio Melodía 1220 AM
+http://167.114.118.119:7086/
+#EXTINF:-1, Radio Sónica 103.3 FM
+http://51.255.123.116:6017/stream
+#EXTINF:-1, OGM - Metropolitana Radio
+http://99.198.110.162:8130/;
+#EXTINF:-1, Radio Ancash
+http://216.245.215.125:8006/
+#EXTINF:-1, Radio Arequipa internacional
+http://167.114.118.120:7084/
+#EXTINF:-1, Radio Calor 105.7 FM
+http://corporacionlatina.com:8000
+#EXTINF:-1, Radio Ecos 99.9 FM
+http://216.245.215.125:8018/
+#EXTINF:-1, Radio Elite 104.1 FM
+http://195.154.56.114:9030/
+#EXTINF:-1, SOL - Frecuencia Primera - 0
+http://65.60.45.74:2199/tunein/frecuenciap8084.pls
+#EXTINF:-1, SOL - Frecuencia Primera - 1
+http://65.60.45.74:2199/tunein/frecuenciap8084.asx
+#EXTINF:-1, SOL - Frecuencia Primera - 2
+http://65.60.45.74:2199/tunein/frecuenciap8084.ram
+#EXTINF:-1, Radio Fama Sur 106.7 FM
+http://199.15.251.230:8086/;stream.mp3
+#EXTINF:-1, AnimeObsesion
+http://animeobsesion.pe:8000/listen.pls
+#EXTINF:-1, Radio Comas 1300 AM
+http://65.60.2.26:8044/;
+#EXTINF:-1, RPP Chiclayo - 0
+http://playerservices.streamtheworld.com/pls/RADIO_RPP_CHICLAYOAAC.pls
+#EXTINF:-1, RPP Chiclayo - 1
+http://playerservices.streamtheworld.com/pls/RADIO_RPP_CHICLAYO.pls
+#EXTINF:-1, RPP Chiclayo - 2
+https://17983.live.streamtheworld.com/RADIO_RPP_CHICLAYO.mp3
+#EXTINF:-1, RPP Arequipa - 0
+http://playerservices.streamtheworld.com/pls/RADIO_RPP_AREQUIPAAAC.pls
+#EXTINF:-1, RPP Arequipa - 1
+http://playerservices.streamtheworld.com/pls/RADIO_RPP_AREQUIPA.pls
+#EXTINF:-1, RPP Arequipa - 2
+https://20823.live.streamtheworld.com/RADIO_RPP_AREQUIPA.mp3
+#EXTINF:-1, Radio La vaca - Lima - 0
+http://65.60.2.26:2199/tunein/streaming7028.pls
+#EXTINF:-1, Radio La vaca - Lima - 1
+http://67.212.166.178:7028/;
+#EXTINF:-1, Radio Inti Raymi
+http://ip.melodyradios.com:9372/;
+#EXTINF:-1, Radio Oriente 560 AM
+http://stm2.srvstm.com:18090/;
+#EXTINF:-1, Radio Santa Rosa
+http://195.154.182.222:3401/;
+#EXTINF:-1, Radio JR Fm
+http://99.198.110.162:8038/;
+#EXTINF:-1, Radio La Hechicera 98.1 FM
+http://67.212.179.138:9028/;
+#EXTINF:-1, Radio Santo Domingo - 102.1 FM - CHIMBOTE
+http://67.212.179.138:7164/;
+#EXTINF:-1, level hits radio
+http://ip.peruhits.com:7234/;
+#EXTINF:-1, Radio San juan - 0
+http://ip.peruhits.com:7228/;
+#EXTINF:-1, Radio San juan - 1
+http://iplinea.com:7228/;
+#EXTINF:-1, RADIO TOP MIX - Lima
+http://ip.peruhits.com:7232/;
+#EXTINF:-1, Radio Amistad 100.5FM - Huaral
+http://ca3.radioboss.fm:8012/;
+#EXTINF:-1, Radio La Luz 1080 AM
+http://radio.transmite.pe:9310/stream
+#EXTINF:-1, RPP Huancayo - 0
+http://playerservices.streamtheworld.com/pls/RADIO_RPPAAC.pls
+#EXTINF:-1, RPP Huancayo - 1
+http://playerservices.streamtheworld.com/pls/RADIO_RPP.pls
+#EXTINF:-1, RPP Huancayo - 2
+https://15363.live.streamtheworld.com/RADIO_RPP.mp3
+#EXTINF:-1, Radio Fortaleza 101.5FM - Barranca
+http://us.streamprochile.com:9300/;mp3
+#EXTINF:-1, Radio A1 88.7FM - Cañete
+http://radio.ancashserver.com:9570/
+#EXTINF:-1, Radio Expresión 106.9 FM - Ilo
+http://200.60.98.202:8010/expresionilo.ogg
+#EXTINF:-1, Radio Expresión 106.9 FM - Moquegua
+http://200.60.98.202:8010/expresionmoq-ilo.ogg
+#EXTINF:-1, Radio Girasol - 107.1 FM Piura
+http://167.114.130.228:7004/;
+#EXTINF:-1, Radio Girasol 99.5 FM - Sechura
+http://167.114.130.228:8542/
+#EXTINF:-1, Radio Girasol 90.1 FM - Paita
+http://167.114.130.228:8518/;
+#EXTINF:-1, La Ochentera
+http://65.60.2.26:6052/;stream
+#EXTINF:-1, Radio Escarabajo
+http://1stream.onliveperu.com:9710/;
+#EXTINF:-1, Radio Girasol 96.1 FM - Chiclayo
+http://167.114.130.228:8688/;
+#EXTINF:-1, Frecuencia 100 FM
+http://oyotunstream.com:7066/
+#EXTINF:-1, Radio Melodía 104.3 FM
+http://198.144.188.47:9308/;
+#EXTINF:-1, AOR Radio Rock Live , Peru
+http://188.40.135.197:8442/stream

@@ -1,0 +1,65 @@
+#EXTM3U
+#EXTINF:-1, Radio Colmenar
+http://s9.viastreaming.net:7220/
+#EXTINF:-1, Radio FM Concert
+http://65.254.54.218:9000/
+#EXTINF:-1, san Ignacio f.m.
+http://67.212.166.178:7074/listen.pls
+#EXTINF:-1, Radio ZP-30 Filadelfia (Chaco Paraguay) - 0
+http://cp3.shoutcheap.com:2199/tunein/iwtipqeu-stream.pls
+#EXTINF:-1, Radio ZP-30 Filadelfia (Chaco Paraguay) - 1
+http://cp3.shoutcheap.com:2199/tunein/iwtipqeu-stream.asx
+#EXTINF:-1, Itapua FM 102.5
+http://radio.itapuafm.com.py:8000/itapuafm
+#EXTINF:-1, Radio Encarnacion 95.7 FM
+http://s23.myradiostream.com:6646/;stream/1
+#EXTINF:-1, RNP 920 AM
+http://correo.radionacionaldelparaguay.com.py:8085/920
+#EXTINF:-1, Radio Triunfo 93.1 FM
+http://giss.tv:8001/Sanfernando.mp3
+#EXTINF:-1, Radio Nacional ZP12 Carlos Antonia López, Pilar 700 AM
+http://audio.radionacional.gov.py:8085/700am
+#EXTINF:-1, Radio Maria Paraguay - 0
+http://dreamsiteradiocp.com:8090/
+#EXTINF:-1, Radio Maria Paraguay - 1
+http://cloudrad.io/radiomariaparaguay/listen.asx
+#EXTINF:-1, Los 40 Principales Paraguay - 0
+http://playerservices.streamtheworld.com/pls/FM92_3AAC.pls
+#EXTINF:-1, Los 40 Principales Paraguay - 1
+http://playerservices.streamtheworld.com/pls/FM92_3.pls
+#EXTINF:-1, Radio Ñanduti 1020 AM
+http://107.182.231.73:7048/;
+#EXTINF:-1, Radio Urbana 106.9 FM - 0
+http://playerservices.streamtheworld.com/pls/URBANAAAC.pls
+#EXTINF:-1, Radio Urbana 106.9 FM - 1
+http://playerservices.streamtheworld.com/pls/URBANA.pls
+#EXTINF:-1, Radio Urbana 106.9 FM - 2
+http://17833.live.streamtheworld.com/URBANAAAC.aac
+#EXTINF:-1, Radio Luz Y Vida FM 87.5
+http://170.75.146.162:22744/;
+#EXTINF:-1, radio educación 99.7 FM Ciudad del Este
+http://198.50.206.237:8050/;
+#EXTINF:-1, Radio America fm 95.3 - Coronel Oviedo
+http://reseller01.shockmedia.com.ar:9860/;
+#EXTINF:-1, FM San Fernando - 100.3 FM - Bella Vista, Paraguay
+http://giss.tv:8001/Sanfernando.mp3
+#EXTINF:-1, ENERGY921  - Asunción
+http://reseller01.shockmedia.com.ar:9914/;
+#EXTINF:-1, Radio 1000 AM
+http://72.29.70.22:8302/;stream.mp3
+#EXTINF:-1, Radio Cardinal 92.3 FM /730 AM - Asuncion
+http://node-05.strongradiohost.com/y2xg6qbs8f5tv
+#EXTINF:-1, Radio Express Paraguari
+http://63.247.91.178:13334/stream
+#EXTINF:-1, Radio Satelital 91.3 FM
+http://audio.satelitalfm.com:8001/stream
+#EXTINF:-1, Radio union fm paraguay
+http://stm47.srvstm.com:27956/;
+#EXTINF:-1, Radio Yeruti FM Caazap-Paraguay
+http://radioserver1.us:7026/;
+#EXTINF:-1, Radio Disney Paraguay - 0
+http://rds1.radiomagic.com.py:8000/stream
+#EXTINF:-1, Radio Disney Paraguay - 1
+https://rds1.radiomagic.com.py:9433/stream
+#EXTINF:-1, Radio Mensajero
+http://131.153.29.58:9338/;

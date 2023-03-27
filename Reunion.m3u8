@@ -1,0 +1,137 @@
+#EXTM3U
+#EXTINF:-1, Radio Star
+http://www.streamakaci.com/radios/radiostar.asx
+#EXTINF:-1, R.I.L. FM
+http://91.121.29.128:8068/listen.pls
+#EXTINF:-1, Exo FM (Saint-Denis, Reunion)
+http://statslive.infomaniak.ch/playlist/exofm/exofm-64.aac/playlist.m3u
+#EXTINF:-1, RSL Radio
+http://rslradio.ice.infomaniak.ch/rslradio-128.mp3
+#EXTINF:-1, Radio Arc-en-Ciel - 0
+http://str43.streamakaci.com:6650/;*.nsv
+#EXTINF:-1, Radio Arc-en-Ciel - 1
+http://www.streamakaci.com/radios/radioarcenciel.m3u
+#EXTINF:-1, Radio Arc-en-Ciel - 2
+http://www.streamakaci.com/radios/radioarcenciel.pls
+#EXTINF:-1, Radio Arc-en-Ciel - 3
+http://www.streamakaci.com/radios/radioarcenciel.ram
+#EXTINF:-1, Radio Arc-en-Ciel - 4
+http://www.streamakaci.com/radios/radioarcenciel.asx
+#EXTINF:-1, Capital FM 90.2 FM - 0
+http://capitalfmreunion.ice.infomaniak.ch/capitalfmreunion.mp3
+#EXTINF:-1, Capital FM 90.2 FM - 1
+http://capitalfmreunion.ice.infomaniak.ch/capitalfmreunion.mp3
+#EXTINF:-1, Capital FM 90.2 FM - 2
+http://capitalfmreunion.ice.infomaniak.ch/capitalfmreunion.mp3
+#EXTINF:-1, Capital FM 90.2 FM - 3
+http://statslive.infomaniak.ch/playlist/capitalfmreunion/capitalfmreunion.mp3/playlist.m3u
+#EXTINF:-1, Capital FM 90.2 FM - 4
+http://statslive.infomaniak.ch/playlist/capitalfmreunion/capitalfmreunion.mp3/playlist.pls
+#EXTINF:-1, Capital FM 90.2 FM - 5
+http://statslive.infomaniak.ch/playlist/capitalfmreunion/capitalfmreunion.mp3/playlist.asx
+#EXTINF:-1, Fun Radio La Réunion - 0
+http://www.streamakaci.com/radios/funradio.m3u
+#EXTINF:-1, Fun Radio La Réunion - 1
+http://www.streamakaci.com/radios/funradio.pls
+#EXTINF:-1, Fun Radio La Réunion - 2
+http://www.streamakaci.com/radios/funradio.ram
+#EXTINF:-1, Fun Radio La Réunion - 3
+http://www.streamakaci.com/radios/funradio.asx
+#EXTINF:-1, Hit FM Réunion - 0
+http://hitfm.ice.infomaniak.ch/hitfm-192.mp3
+#EXTINF:-1, Hit FM Réunion - 1
+http://broadcast.infomaniak.net/hitfm-192.mp3
+#EXTINF:-1, Hit FM Réunion - 2
+http://broadcast.infomaniak.ch/hitfm-192.mp3
+#EXTINF:-1, Hit FM Réunion - 3
+http://statslive.infomaniak.ch/playlist/hitfm/hitfm-192.mp3/playlist.m3u
+#EXTINF:-1, Hit FM Réunion - 4
+http://statslive.infomaniak.ch/playlist/hitfm/hitfm-192.mp3/playlist.pls
+#EXTINF:-1, Hit FM Réunion - 5
+http://statslive.infomaniak.ch/playlist/hitfm/hitfm-192.mp3/playlist.asx
+#EXTINF:-1, RM9
+http://193.253.100.59/;
+#EXTINF:-1, Radio Sud Plus
+http://srv1.coollabel-productions.com:8040/listen.pls
+#EXTINF:-1, RTL Réunion - 0
+http://rtlreunion.ice.infomaniak.ch/rtlreunion-64.aac
+#EXTINF:-1, RTL Réunion - 1
+http://statslive.infomaniak.ch/playlist/rtlreunion/rtlreunion-64.aac/playlist.m3u
+#EXTINF:-1, Radio Entre-Deux FM 106 - 0
+http://www.streamakaci.com/radios/entredeuxfm.m3u
+#EXTINF:-1, Radio Entre-Deux FM 106 - 1
+http://www.streamakaci.com/radios/entredeuxfm.pls
+#EXTINF:-1, Radio Entre-Deux FM 106 - 2
+http://www.streamakaci.com/radios/entredeuxfm.asx
+#EXTINF:-1, Radio Entre-Deux FM 106 - 3
+http://www.streamakaci.com/radios/entredeuxfm.ram
+#EXTINF:-1, Réunion 1ère
+http://radios.la1ere.fr/reunion
+#EXTINF:-1, Louange Reunion
+http://sv2.vestaradio.com/LOUANGEREUNION
+#EXTINF:-1, Chérie FM Réunion - 0
+http://cdn.nrjaudio.fm/adwz1/fr_re/55731/mp3_128.mp3
+#EXTINF:-1, Chérie FM Réunion - 1
+http://185.52.127.159/fr_re/55731/mp3_128.mp3
+#EXTINF:-1, Chérie FM Réunion - 2
+http://cdn.nrjaudio.fm/adwz1/fr_re/55731/aac_64.mp3
+#EXTINF:-1, Chérie FM Réunion - 3
+http://185.52.127.159/fr_re/55731/aac_64.mp3
+#EXTINF:-1, First Réunion - 0
+http://firstreunion.ice.infomaniak.ch/firstreunion-64.aac
+#EXTINF:-1, First Réunion - 1
+http://broadcast.infomaniak.net/firstreunion-64.aac
+#EXTINF:-1, First Réunion - 2
+http://broadcast.infomaniak.ch/firstreunion-64.aac
+#EXTINF:-1, First Réunion - 3
+http://statslive.infomaniak.ch/playlist/firstreunion/firstreunion-64.aac/playlist.m3u
+#EXTINF:-1, First Réunion - 4
+http://statslive.infomaniak.ch/playlist/firstreunion/firstreunion-64.aac/playlist.pls
+#EXTINF:-1, First Réunion - 5
+http://statslive.infomaniak.ch/playlist/firstreunion/firstreunion-64.aac/playlist.asx
+#EXTINF:-1, Radio Free Dom 2
+http://freedomice.streamakaci.com/freedom2.mp3
+#EXTINF:-1, Radio Free Dom FM
+http://www.streamakaci.com/radios/freedommp3.m3u
+#EXTINF:-1, Fréquence Oasis - 0
+http://frequenceoasis.ice.infomaniak.ch/frequenceoasis-128.mp3
+#EXTINF:-1, Fréquence Oasis - 1
+http://broadcast.infomaniak.net/frequenceoasis-128.mp3
+#EXTINF:-1, Fréquence Oasis - 2
+http://broadcast.infomaniak.ch/frequenceoasis-128.mp3
+#EXTINF:-1, Fréquence Oasis - 3
+http://statslive.infomaniak.ch/playlist/frequenceoasis/frequenceoasis-128.mp3/playlist.m3u
+#EXTINF:-1, Fréquence Oasis - 4
+http://statslive.infomaniak.ch/playlist/frequenceoasis/frequenceoasis-128.mp3/playlist.pls
+#EXTINF:-1, Fréquence Oasis - 5
+http://statslive.infomaniak.ch/playlist/frequenceoasis/frequenceoasis-128.mp3/playlist.ram
+#EXTINF:-1, Fréquence Sud
+http://51.15.166.181:8006//;?1513810695714.mp3
+#EXTINF:-1, Rire & Chansons Réunion
+http://cdn.nrjaudio.fm/adwz1/fr_re/55730/aac_64.mp3?
+#EXTINF:-1, Trace FM La Réunion
+http://chai5she.cdn.dvmr.fr/trace_fm_reunion-midfi.aac
+#EXTINF:-1, Radio Optimum FM 97.4 - 0
+http://streaming.radionomy.com/RADIOOPTIMUMFM974?lang=en-US&appName=iTunes.m3u
+#EXTINF:-1, Radio Optimum FM 97.4 - 1
+http://laradiofm.com/download/1058-en-pls/
+#EXTINF:-1, Radio Optimum FM 97.4 - 2
+http://laradiofm.com/download/1058-en-m3u/
+#EXTINF:-1, Radio Optimum FM 97.4 - 3
+http://laradiofm.com/download/1058-en-asx/
+#EXTINF:-1, LFM Reunion
+http://www.radioking.com/api/radio/lfm-reunion.pls
+#EXTINF:-1, NRJ.re - La Réunion - 0
+http://cdn.nrjaudio.fm/adwz1/fr_re/55759/mp3_128.mp3
+#EXTINF:-1, NRJ.re - La Réunion - 1
+http://cdn.nrjaudio.fm/adwz1/fr_re/55759/aac_64.mp3
+#EXTINF:-1, NRJ.re - La Réunion - 2
+http://185.52.127.159/fr_re/55759/aac_64.mp3
+#EXTINF:-1, Azot Radio - 0
+http://statslive2.infomaniak.ch/playlist/azotradio1/azotradio1-128.mp3/playlist.pls
+#EXTINF:-1, Azot Radio - 1
+http://statslive2.infomaniak.ch/playlist/azotradio1/azotradio1-128.mp3/playlist.ram
+#EXTINF:-1, Azot Radio - 2
+http://statslive2.infomaniak.ch/playlist/azotradio1/azotradio1-128.mp3/playlist.m3u
+#EXTINF:-1, Radio Vie - Sainte-Clotilde
+http://listen.radioking.com/radio/88363/stream/126736

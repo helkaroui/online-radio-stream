@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1, Radio Monaco - 0
+http://radiomonaco.ice.infomaniak.ch/radiomonaco-128.mp3
+#EXTINF:-1, Radio Monaco - 1
+http://www.tv-radio.com/station/mcone-mp3/mcone-mp3-128k.pls
+#EXTINF:-1, Riviera Radio 106.5 FM - 0
+http://statslive.infomaniak.ch/playlist/rivieraradio/rivieraradio-high.mp3/playlist.asx
+#EXTINF:-1, Riviera Radio 106.5 FM - 1
+http://statslive.infomaniak.ch/playlist/rivieraradio/rivieraradio-high.aac/playlist.m3u
+#EXTINF:-1, Riviera Radio 106.5 FM - 2
+http://statslive.infomaniak.ch/playlist/rivieraradio/rivieraradio-high.mp3/playlist.m3u
+#EXTINF:-1, Riviera Electro Dance - 0
+http://streaming.radionomy.com/RIVIERAELECTRODANCE?lang=en-US&appName=iTunes.m3u
+#EXTINF:-1, Riviera Electro Dance - 1
+http://listen.radionomy.com/rivieraelectrodance
+#EXTINF:-1, Cool Med Radio Monaco
+http://176.31.107.8:8590/;
+#EXTINF:-1, RMC Info Talk sport
+http://chai5she.lb.vip.cdn.dvmr.fr/rmcinfo

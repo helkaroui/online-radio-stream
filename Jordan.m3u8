@@ -1,0 +1,43 @@
+#EXTM3U
+#EXTINF:-1, Radio Sama - 0
+http://serv02.streamsfortheworld.com:8000/radiosama_hi
+#EXTINF:-1, Radio Sama - 1
+http://serv02.streamsfortheworld.com:8000/radiosama_low
+#EXTINF:-1, Radio Hayat FM 100.8
+http://stream.purecore.net:8000/;?1396790272093.mp3
+#EXTINF:-1, Radio Fann 97.7 FM
+http://188.247.86.67:8000/2
+#EXTINF:-1, Radio Hala
+http://76.164.217.100:7302
+#EXTINF:-1, Hala Radio - 0
+http://76.164.217.100:7302/;?1459405308772.mp3
+#EXTINF:-1, Hala Radio - 1
+http://76.164.217.100:7306/;?1459405333524.mp3
+#EXTINF:-1, Rotana Tarab
+http://188.247.86.67:8008/3
+#EXTINF:-1, Radio Jordan 96.3 FM - 0
+http://8.26.21.252:1935/live/en/chunklist_w2058407145.m3u8
+#EXTINF:-1, Radio Jordan 96.3 FM - 1
+http://stream.joinvisions.net:1935/live/en/playlist.m3u8
+#EXTINF:-1, Radio Mood FM 91.5/92 FM
+http://192.184.9.81:8048/live
+#EXTINF:-1, Jordan Radio 90 FM
+http://stream.joinvisions.net:1935/jorlive/Jordan_Radio_Audio/playlist.m3u8?
+#EXTINF:-1, Radio Bliss Amman 104.3 FM
+http://66.55.145.43:7006/
+#EXTINF:-1, Radio Beat FM Amman 102.5 - 0
+http://192.184.9.81:8049/live
+#EXTINF:-1, Radio Beat FM Amman 102.5 - 1
+http://vtuner.com/setupapp/guide/asp/func/dynampls.asp?link=1&id=19477
+#EXTINF:-1, Quran Radio Jordan 93.1 FM
+http://stream.joinvisions.net:1935/jorlive/Jordan_Radio_Audio/chunklist_w508593984_DVR.m3u8
+#EXTINF:-1, Radio Mazaj FM 95.3
+http://ice5.securenetsystems.net/MAZAJFM
+#EXTINF:-1, Watar FM 88.3 FM
+http://192.184.9.81:8388/live
+#EXTINF:-1, Radio Yaqeen FM Amman 103.7 - 0
+http://listen.shoutcast.com/YAQEENRADIOJORDAN
+#EXTINF:-1, Radio Yaqeen FM Amman 103.7 - 1
+http://vtuner.com/setupapp/guide/asp/func/dynampls.asp?link=1&id=28580
+#EXTINF:-1, JBC Radio 88.7 FM
+http://stream.joinvisions.net:1935/jbc_video/video/playlist.m3u8

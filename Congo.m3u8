@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1, Radio Congo Planete
+http://www.congoplanet.com/radio/Congo_Planete_Radio.asx
+#EXTINF:-1, RTVMC
+http://37.59.42.207:8080/;stream.mp3
+#EXTINF:-1, Radio Okapi
+http://rs1.radiostreamer.com:8000/;stream/1
+#EXTINF:-1, Radio Maria Democratic Republic of Congo - 0
+http://dreamsiteradiocp.com:8116/
+#EXTINF:-1, Radio Maria Democratic Republic of Congo - 1
+http://cloudrad.io/radiomariademrepcong/listen.asx
+#EXTINF:-1, Radio Maria Congo Brazaville
+http://dreamsiteradiocp.com:8120/
+#EXTINF:-1, Radio Mucodec 100.3 FM
+http://rsfradio.streamakaci.com/
+#EXTINF:-1, Top Congo 88.4FM
+http://topcongofm2.ice.infomaniak.ch/topcongofm2-64.mp3
+#EXTINF:-1, Media Plus Congo Horizons - 0
+http://radio2.citrus3.com:2199/tunein/gregoirewatupa.pls
+#EXTINF:-1, Media Plus Congo Horizons - 1
+http://radio2.citrus3.com:8164/;stream.mp3
+#EXTINF:-1, Media Plus Congo Horizons - 2
+http://radio2.citrus3.com:2199/tunein/gregoirewatupa.asx

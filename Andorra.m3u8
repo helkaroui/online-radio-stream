@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1, Ràdio Valira
+http://91.187.93.115:8020/;stream/1
+#EXTINF:-1, Radio Nacional d'Andorra
+http://194.158.80.31:443/live/rna/playlist.m3u8
+#EXTINF:-1, Andorra Música AM
+http://194.158.80.31:443/live/am/playlist.m3u8
+#EXTINF:-1, Flaix FM Andorra 93.8
+http://91.121.45.224:8010/;
+#EXTINF:-1, Andorra 1 Ràdio Flaixbac 96.0
+http://91.121.45.224:8000/;
+#EXTINF:-1, Pròxima FM 94.6
+http://91.187.93.115:8000/

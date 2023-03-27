@@ -1,0 +1,1801 @@
+#EXTM3U
+#EXTINF:-1, Krivotos
+http://s3.onweb.gr:8452/
+#EXTINF:-1, Radio Rizites
+http://s1.onweb.gr:8040/
+#EXTINF:-1, Mini 107.1 FM
+http://eco.onestreaming.com:8142/
+#EXTINF:-1, HotStation - Greek Radio
+http://www.hotstation.gr/live.m3u
+#EXTINF:-1, ANDROMEDA NET RADIO Athens - 0
+http://www.andromedanet.com/listen.m3u
+#EXTINF:-1, ANDROMEDA NET RADIO Athens - 1
+http://www.andromedanet.com/listen.asx
+#EXTINF:-1, ANDROMEDA NET RADIO Athens - 2
+http://www.andromedanet.com/listen.ram
+#EXTINF:-1, ANDROMEDA NET RADIO Athens - 3
+http://www.andromedanet.com/listen.pls
+#EXTINF:-1, ANDROMEDA NET RADIO Athens - 4
+http://stream2.shoutcastusa.com/proxy.php?stream=andromed
+#EXTINF:-1, Fos Radio/TV
+http://www.patras-church.gr/new/fos.asx
+#EXTINF:-1, Radio Pieria
+http://s6.onweb.gr:8018/listen.pls
+#EXTINF:-1, Radio Parasita - 0
+http://radioparasita.org:8000/mp3.m3u
+#EXTINF:-1, Radio Parasita - 1
+http://radioparasita.org:8000/ogg.m3u
+#EXTINF:-1, JukeBox Cafe
+http://79.129.0.61:8000/stream.mp3
+#EXTINF:-1, Radio Melodiafm
+http://live.streamsolutions.gr:8692/
+#EXTINF:-1, Δημοτική Ραδιοφωνία Τρίπολης 91.5 (Tripoli) - 0
+http://link.onestreaming.com/pls/drt.pls
+#EXTINF:-1, Δημοτική Ραδιοφωνία Τρίπολης 91.5 (Tripoli) - 1
+http://link.onestreaming.com/asx/drt.asx
+#EXTINF:-1, Δημοτική Ραδιοφωνία Τρίπολης 91.5 (Tripoli) - 2
+http://eco.onestreaming.com/tunein.php/drt/playlist.qtl
+#EXTINF:-1, FM Life 105.3 (Kalymnos)
+http://s6.onweb.gr:8044
+#EXTINF:-1, Αλήθεια FM 96.3 (Kalymnos)
+http://stream.alithiafm.gr:8016
+#EXTINF:-1, Αρχιπέλαγος 87.6 (Lesvos)
+http://s4.onweb.gr:8428
+#EXTINF:-1, Ραδιόφωνο 108 (Lesvos)
+http://s5.onweb.gr:8498
+#EXTINF:-1, Venus Radio 99.3 (Mykonos)
+http://s7.onweb.gr:8410
+#EXTINF:-1, Πάρος FM 98.5 (Paros) - 0
+http://s1.onweb.gr:8098
+#EXTINF:-1, Πάρος FM 98.5 (Paros) - 1
+http://www.onradio.gr/url_mp/428.asx
+#EXTINF:-1, Pirate FM 91 (Chios)
+http://live.piratefm.net:8000
+#EXTINF:-1, 2000 FM 99.8 (Samos)
+http://s6.onweb.gr:8014
+#EXTINF:-1, Radio Cafe 102.4 (Samos)
+http://s6.onweb.gr:8046
+#EXTINF:-1, 98 fm (Athens) - 0
+http://147.102.82.129:8000/high
+#EXTINF:-1, 98 fm (Athens) - 1
+http://147.102.82.129:8000/medium
+#EXTINF:-1, 98 fm (Athens) - 2
+http://147.102.82.129:8000/low
+#EXTINF:-1, Ράδιο 96.2 FM (Agrinio)
+http://live.962fm.gr:9870/
+#EXTINF:-1, Πεμπτουσία fm (Web) - Pemptousia Mount Athos Orthodox Web Radio
+http://pemptousia2.primcast.com:5824
+#EXTINF:-1, Ghost Radio (Web)
+http://www.ghostradio.gr/world-128
+#EXTINF:-1, Aquarius 105.5 (Pyrgos)
+http://s1.onweb.gr:8008
+#EXTINF:-1, Cavo Paradiso Radio (Web)
+http://s5.onweb.gr:8488/
+#EXTINF:-1, Cool FM 106.5 (Salonica)
+http://sc.greekstream.net:4010
+#EXTINF:-1, Heat Radio 88.3 (Alexandroupolis) - 0
+http://eu02.egihosting.com:9108/listen.pls
+#EXTINF:-1, Heat Radio 88.3 (Alexandroupolis) - 1
+http://eu02.egihosting.com:9108/
+#EXTINF:-1, Magic fm 98.2 (Chania)
+http://sc2.streamwithq.com:8042/
+#EXTINF:-1, Radio DeeJay 90.6 (Xanthi)
+http://s4.onweb.gr:8402
+#EXTINF:-1, Ράδιο Άστρο 96.4 (Rethymno)
+http://eco.onestreaming.com:8099
+#EXTINF:-1, Magic Fm 102.9 (Agrinio) - 0
+http://live.magicfmagrinio.net:9500/
+#EXTINF:-1, Magic Fm 102.9 (Agrinio) - 1
+http://www.magicfmagrinio.net/playerlinks/playlist.asx
+#EXTINF:-1, Kiss FM 89 (Kalamata)
+http://www.realserver.info:8006
+#EXTINF:-1, Star FM 94.1 (Sparta)
+http://s1.onweb.gr:8056
+#EXTINF:-1, Super FM 89.6 (Chania)
+http://s3.onweb.gr:8454
+#EXTINF:-1, Star FM 88.8 (Corfu)
+http://s1.onweb.gr:8800
+#EXTINF:-1, Ράδιο Πρέβεζα 93 (Preveza)
+http://sc2.streamwithq.com:8050
+#EXTINF:-1, Zbutsam Radio (Web) - 0
+http://radio.zbutsam.net:30570/
+#EXTINF:-1, Zbutsam Radio (Web) - 1
+http://noc.ezhellas.com:30570/
+#EXTINF:-1, Traffic FM 91.8 (Heraklion)
+http://s5.onweb.gr:8506
+#EXTINF:-1, Angel 102.8 (Karditsa) - 0
+http://s5.onweb.gr:8502
+#EXTINF:-1, Angel 102.8 (Karditsa) - 1
+http://www.onradio.gr/url_wa/678.pls
+#EXTINF:-1, Echoes (Web) - 0
+http://www.echoes.gr/mp3.pls
+#EXTINF:-1, Echoes (Web) - 1
+http://www.echoes.gr/echoesLive160K.pls
+#EXTINF:-1, Echoes (Web) - 2
+http://www.echoes.gr/aac.pls
+#EXTINF:-1, Echoes (Web) - 3
+http://www.echoes.gr/echoesLive64K.pls
+#EXTINF:-1, Echoes (Web) - 4
+http://www.echoes.gr/echoesLive32K.asx
+#EXTINF:-1, Maximum FM 93.6 (Alexandroupolis)
+http://s1.onweb.gr:8838
+#EXTINF:-1, Polis 102.6 (Alexandroupolis)
+http://eco.onestreaming.com:8334
+#EXTINF:-1, Status Radio 94.2 (Alexandroupolis)
+http://eco.onestreaming.com:8131
+#EXTINF:-1, Legend FM 101.6 (Xanthi)
+http://s6.onweb.gr:8002
+#EXTINF:-1, Super FM 88 (Xanthi)
+http://eco.onestreaming.com:8354
+#EXTINF:-1, Action Radio Κόνιτσα 98.2 (Ioannina - Konitsa)
+http://eco.onestreaming.com:8153/stream
+#EXTINF:-1, Sky Radio 99.2 (Ioannina)
+http://live.skyradio.gr:9920
+#EXTINF:-1, Live FM 89.6 (Chalkida)
+http://eco.onestreaming.com:8033
+#EXTINF:-1, Master Fm 90.2 (Egio)
+http://streaming.468.gr:9902
+#EXTINF:-1, Venus FM 105.1 (Amaliada)
+http://s3.onweb.gr:8808
+#EXTINF:-1, Best FM 97.3 (Kalamata)
+http://stream.24100.com:8000/bestfm
+#EXTINF:-1, Brake Fm 101.6 (Corinth)
+http://stream2.proradio.gr:8004/brake
+#EXTINF:-1, L Radio 87.5 (Loutraki - Corinth)
+http://s3.onweb.gr:8472
+#EXTINF:-1, VOX 103.3 (Pyrgos)
+http://sc2.streamwithq.com:8086/;?1394904641988.mp3
+#EXTINF:-1, Fly FM 89.7 (Sparta)
+http://eco.onestreaming.com:8272
+#EXTINF:-1, Power 100.2 (Volos)
+http://s1.onweb.gr:8854
+#EXTINF:-1, Top FM 106.4 (Volos)
+http://s6.onweb.gr:8012
+#EXTINF:-1, Party 97.1 (Larissa)
+http://s1.onweb.gr:8824
+#EXTINF:-1, Scanner FM 102.2 (Larissa)
+http://s1.onweb.gr:8074
+#EXTINF:-1, Loud 88.8 (Trikala)
+http://s3.onweb.gr:8888
+#EXTINF:-1, Ράδιο Life 106.8 (Trikala)
+http://s6.onweb.gr:8004
+#EXTINF:-1, Νέο Ραδιόφωνο 97.9 FM (Corfu)
+http://s1.onweb.gr:8820/
+#EXTINF:-1, Dazz Radio (Web)
+http://live.dazzradio.com:9976
+#EXTINF:-1, Hellenic World Radio (Web)
+http://148.251.14.220:9908
+#EXTINF:-1, Mood Radio (Web)
+http://82.145.43.92:8018
+#EXTINF:-1, ECHOES.gr (Thessaloniki) - 0
+http://85.17.75.143/;?1400248874234.mp3
+#EXTINF:-1, ECHOES.gr (Thessaloniki) - 1
+http://85.17.75.143:80/
+#EXTINF:-1, Κύμα 90.3 FM (Corfu)
+http://s1.onweb.gr:8028/
+#EXTINF:-1, Antenna Κέρκυρας 92.6 FM (Corfu)
+http://go.e-rad.io/asx/ant1kerkyra.asx
+#EXTINF:-1, Ράδιο Κιβωτός 87.8 (Larissa)
+http://s8.onweb.gr:8710
+#EXTINF:-1, Ηχος FM 91 (Larissa)
+http://S5.onweb.gr:8508
+#EXTINF:-1, Λαϊκός 105.7 (Larissa)
+http://s7.onweb.gr:8542
+#EXTINF:-1, Παραδοσιακός 106.6 (Larissa)
+http://s4.onweb.gr:8826
+#EXTINF:-1, Ράδιο Τύρναβος 103.8 (Larissa)
+http://s3.onweb.gr:8528
+#EXTINF:-1, Ραδιοφωνία Κισσάβου 97.8 (Larissa)
+http://eco.onestreaming.com:8103
+#EXTINF:-1, Πρωινός 105.3 (Trikala)
+http://s4.onweb.gr:8076
+#EXTINF:-1, Ράδιο Σταγών 87.6 (Trikala)
+http://s1.onweb.gr:8830
+#EXTINF:-1, Ραδιοφωνική Λέσχη 97.6 (Trikala)
+http://s3.onweb.gr:8438
+#EXTINF:-1, Ραδιο Κέφι 101.3 (Pyrgos)
+http://live.kefiradio.gr:9988
+#EXTINF:-1, Τσιρίγο FM 105.6 (Kythera)
+http://s2.onweb.gr:8622
+#EXTINF:-1, Ακτίνα Radio 95 (Corinth)
+http://live.e-streaming.eu:8110
+#EXTINF:-1, Επικοινωνία 89.1 (Corinth)
+http://s2.onweb.gr:8608
+#EXTINF:-1, Ράδιο Ενέργεια 106.4 (Corinth)
+http://s1.onweb.gr:8828
+#EXTINF:-1, Ανατολικός FM 95.8 (Argos)
+http://s1.onweb.gr:8022
+#EXTINF:-1, Ράδιο Αργοσαρωνικός 106.4 (Argos)
+http://s3.onweb.gr:8536
+#EXTINF:-1, Ράδιο Ερμιονίδα 104.3 (Ermioni - Argos)
+http://eco.onestreaming.com:8482
+#EXTINF:-1, Παλμός 95 (Lamia)
+http://s7.onweb.gr:8554
+#EXTINF:-1, ΡΑΔΙΟ ΕΝΑ 98.1 (Chalkida)
+http://proradio.gr:8004/radio981m
+#EXTINF:-1, Δημοτικό Ράδιο Τυχερού 92.6 (Alexandrouplis)
+http://s6.onweb.gr:8042
+#EXTINF:-1, Θράκη fm 99.8 (Alexandroupolis)
+http://eco.onestreaming.com:8010
+#EXTINF:-1, Ράδιο Παρατηρητής 94 (Komotini)
+http://s6.onweb.gr:8020
+#EXTINF:-1, Ράδιο Χρόνος 87.5 (Komotini)
+http://s6.onweb.gr:8006
+#EXTINF:-1, Ράδιο Ξάνθη 93.5 (Xanthi)
+http://78.47.56.126:8022
+#EXTINF:-1, Γαύδος FM 88.8 (Gavdos - Crete)
+http://streaming.multiserver.gr:8044
+#EXTINF:-1, ΣΚΑΪ 92.1 (Heraklion)
+http://sc2.streamwithq.com:8048
+#EXTINF:-1, Ηχόραμα 100.8 (Karditsa)
+http://s4.onweb.gr:8822
+#EXTINF:-1, Ράδιο Λασίθι 92.3 (Ierapetra - Ag. Nikolaos)
+http://s7.onweb.gr:8802
+#EXTINF:-1, Ράδιο Λέχοβο 97.1 (Florina)
+http://s4.onweb.gr:8468
+#EXTINF:-1, Ράδιο Μετέωρα 90.3 (Trikala)
+http://s1.onweb.gr:8834
+#EXTINF:-1, Ζιζάνιο 89.2 (Kefalonia)
+http://listen.onestreaming.com/asx/zizanio.asx
+#EXTINF:-1, Μελωδία 101.1 (Arta)
+http://s14.myradiostream.com:11840/
+#EXTINF:-1, Ιόνιον FM 96.1 (Pyrgos)
+http://chris.dna.gr:8004/ionionfmf
+#EXTINF:-1, Καστοριά FM 91.5 (Kastoria)
+http://eco.onestreaming.com:8107/
+#EXTINF:-1, Κόσμος FM 100 (Chalkida)
+http://s1.onweb.gr:8856
+#EXTINF:-1, Λάμψη 105.7 (Kavala) - 0
+http://stream2.proradio.gr:8004/lampsi
+#EXTINF:-1, Λάμψη 105.7 (Kavala) - 1
+mms://stream2.proradio.gr:8004/lampsi
+#EXTINF:-1, Ακρόαμα 95.5 (Corinth)
+http://live.e-streaming.eu:8100
+#EXTINF:-1, Μύκονος FM 98.1 (Mykonos)
+http://178.21.169.118:8007/stream
+#EXTINF:-1, Ρόδος FM 90.7 (Rhodes)
+http://www.realserver.info:8013
+#EXTINF:-1, Αιγαίο Live 95.8 (Syros)
+http://shoutcast.24radio.gr:8052
+#EXTINF:-1, Ράδιο Σαντορίνη 106.4 (Santorini) - 0
+http://eco.onestreaming.com:8316
+#EXTINF:-1, Ράδιο Σαντορίνη 106.4 (Santorini) - 1
+mms://eco.onestreaming.com:8316
+#EXTINF:-1, Αρμονία 103.2 (Samos)
+http://s3.onweb.gr:8500
+#EXTINF:-1, Ρυθμός 99.7 (Corfu)
+http://s4.onweb.gr:8832
+#EXTINF:-1, Αρτεμης FM 94.4 (Leros)
+http://s1.onweb.gr:8416
+#EXTINF:-1, Ραδιοκύματα 104.4 (Salonica)
+http://s1.onweb.gr:8812
+#EXTINF:-1, Κρήτη FM 87.5 (Athens)
+http://s3.onweb.gr:8878/
+#EXTINF:-1, Ρυθμός 106 (Xanthi)
+http://s4.onweb.gr:8406/
+#EXTINF:-1, Ρυθμός 104.5 (Heraklion)
+http://stream.cretanservers.gr/1045fm
+#EXTINF:-1, Ρυθμός 89.2 (Trikala)
+http://s4.onweb.gr:8892
+#EXTINF:-1, 902 Αριστερά στα FM (Web) - 0
+http://icecast.902.gr:8000/902
+#EXTINF:-1, 902 Αριστερά στα FM (Web) - 1
+mms://mediaserver2.otenet.gr/radio902gr
+#EXTINF:-1, Ράδιο Παρέα (Web)
+http://parearadio.gr:8000
+#EXTINF:-1, Play Radio (Web)
+http://stream1.playradio.gr:8222
+#EXTINF:-1, PylosLive Radio (Web)
+http://s4.myradiostream.com:14374
+#EXTINF:-1, Radio1 GREEK (Rhodes) - 0
+http://111.gr:8014
+#EXTINF:-1, Radio1 GREEK (Rhodes) - 1
+http://www.radio1.gr/live/greek.asx
+#EXTINF:-1, Radio1 GREEK (Rhodes) - 2
+http://www.radio1.gr/live/greek.pls
+#EXTINF:-1, Radio1 GREEK (Rhodes) - 3
+http://www.radio1.gr/live/greek.qtl
+#EXTINF:-1, Radio1 GREEK (Rhodes) - 4
+http://www.radio1.gr/live/greek.ram
+#EXTINF:-1, Radio1 FM 88 (Rhodes) - 0
+http://111.gr:8000
+#EXTINF:-1, Radio1 FM 88 (Rhodes) - 1
+http://111.gr:8800
+#EXTINF:-1, Το Ποτάμι (Web Radio)
+http://stream.radiojar.com/a4uxtybmb.mp3
+#EXTINF:-1, Velvet (Web) - 0
+http://go.e-rad.io/asx/velvetfm.asx
+#EXTINF:-1, Velvet (Web) - 1
+http://ice.onestreaming.com/velvetfm
+#EXTINF:-1, Athens Party (Web) - 0
+http://go.e-rad.io/asx/athensparty.asx
+#EXTINF:-1, Athens Party (Web) - 1
+http://ice.onestreaming.com/athensparty
+#EXTINF:-1, UPfm 89.9 (Patras) - 0
+http://150.140.147.131:8000
+#EXTINF:-1, UPfm 89.9 (Patras) - 1
+http://150.140.147.131:8000/listen.pls
+#EXTINF:-1, Arion Radio 2 (Web)
+http://ice.onestreaming.com/arionstigmes
+#EXTINF:-1, Radio Gold Greece
+http://radiogold.live24.gr/radiogold
+#EXTINF:-1, Radio Arion Laikos
+http://ice.onestreaming.com/arionlaikos
+#EXTINF:-1, Kiss FM 100.4 (Karditsa)
+http://s4.onweb.gr:8492
+#EXTINF:-1, loop - 0
+http://37.187.90.121:3364/;
+#EXTINF:-1, loop - 1
+http://eu2.fastcast4u.com:3364/;
+#EXTINF:-1, Non Stop Radio - 0
+http://stream.radiojar.com/afg9wxkkb
+#EXTINF:-1, Non Stop Radio - 1
+http://stream.radiojar.com/afg9wxkkb.pls
+#EXTINF:-1, Non Stop Radio - 2
+http://stream.radiojar.com/afg9wxkkb.m3u
+#EXTINF:-1, Melodia fm 101.1 Artas
+http://s14.myradiostream.com:11840/
+#EXTINF:-1, Athletic Radio 104.2 FM (Heraklion) - 0
+http://eco.onestreaming.com:8052
+#EXTINF:-1, Athletic Radio 104.2 FM (Heraklion) - 1
+http://go.e-rad.io/asx/athletic.asx
+#EXTINF:-1, Athletic Radio 104.2 FM (Heraklion) - 2
+http://s4.onweb.gr:8840/listen.pls
+#EXTINF:-1, Sport fm 89.5 (Volos) - 0
+http://www.gointernet.gr:8005/
+#EXTINF:-1, Sport fm 89.5 (Volos) - 1
+http://go.e-rad.io/asx/sportfmvolos.asx
+#EXTINF:-1, TrollRadio.gr
+http://stream.radiojar.com/trollradio-gr.mp3
+#EXTINF:-1, Athens Pirate Radio Station - 93.8FM
+http://147.102.82.129:8000/medium.m3u
+#EXTINF:-1, gingeRadio * 2013 (Web)
+http://netradio.live24.gr/gingeradio
+#EXTINF:-1, Armonia (Web Athens)
+http://eco.onestreaming.com:8447/
+#EXTINF:-1, Arion Λαϊκός (Web)
+http://ice.onestreaming.com/arionlaikos
+#EXTINF:-1, Cannibal Radio (Web)
+http://213.239.206.179:8238/
+#EXTINF:-1, Antenna Νότιας Ελλάδας 97.2 (Sparta)
+http://listen.onestreaming.com/asx/ant1south.asx
+#EXTINF:-1, panikosfm - 0
+http://78.47.96.202:8092/panikosfm
+#EXTINF:-1, panikosfm - 1
+http://panikosfm.cf/stream.asx
+#EXTINF:-1, Akous - 80s
+http://golive.onestreaming.com/akous80s
+#EXTINF:-1, Akous - Gazi
+http://golive.onestreaming.com/akousgazi
+#EXTINF:-1, Akous - Dreams - 0
+http://golive.onestreaming.com/akousdreams
+#EXTINF:-1, Akous - Dreams - 1
+http://ice.onestreaming.com/akousdreams
+#EXTINF:-1, Akous - Dreams - 2
+http://eco.onestreaming.com:8059/stream
+#EXTINF:-1, Akous - Jazz in - 0
+http://golive.onestreaming.com/akousjazzin
+#EXTINF:-1, Akous - Jazz in - 1
+http://ice.onestreaming.com/akousjazzin
+#EXTINF:-1, Akous - Jazz in - 2
+mms://golive.onestreaming.com/akousjazzin
+#EXTINF:-1, Akous - Deluxe - 0
+http://golive.onestreaming.com/akousdeluxe
+#EXTINF:-1, Akous - Deluxe - 1
+http://ice.onestreaming.com/akousdeluxe
+#EXTINF:-1, Akous - In love - 0
+http://golive.onestreaming.com/akousinlove
+#EXTINF:-1, Akous - In love - 1
+http://ice.onestreaming.com/akousinlove
+#EXTINF:-1, Akous - My Classic - 0
+http://golive.onestreaming.com/akousmyclassic
+#EXTINF:-1, Akous - My Classic - 1
+http://ice.onestreaming.com/akousmyclassic
+#EXTINF:-1, Akous - Palko
+http://golive.onestreaming.com/akouspalko
+#EXTINF:-1, Music Life 95.1 {Agrinio}
+http://213.239.206.179:9501/
+#EXTINF:-1, Music Art club
+http://37.59.32.115:8090/
+#EXTINF:-1, Radio Hot FM 104.6
+http://hotfm.live24.gr/hotfm
+#EXTINF:-1, Chroma Nature Sounds
+http://chromaradio.com:8024/listen.pls
+#EXTINF:-1, Chroma Soul Funk (Web)
+http://chromaradio.com:8038/listen.pls
+#EXTINF:-1, Chroma Rock (Web)
+http://chromaradio.com:8020/listen.pls
+#EXTINF:-1, Chroma New Age (Web)
+http://chromaradio.com:8026/listen.pls
+#EXTINF:-1, Chroma Metal (Web)
+http://chromaradio.com:8022/listen.pls
+#EXTINF:-1, Chroma Ballads (Web)
+http://chromaradio.com:8006/listen.pls
+#EXTINF:-1, Chroma Christmas (Web)
+http://chromaradio.com:8044/listen.pls
+#EXTINF:-1, Chroma Classic Jazz (Web)
+http://chromaradio.com:8028/listen.pls
+#EXTINF:-1, Chroma Jazz Smooth (Web)
+http://chromaradio.com:8036/listen.pls
+#EXTINF:-1, Chroma Greek Smooth (Web)
+http://chromaradio.com:8014/listen.pls
+#EXTINF:-1, Chroma Classic Rock (Web)
+http://chromaradio.com:8010/listen.pls
+#EXTINF:-1, Chroma Classical (Web)
+http://chromaradio.com:8008/listen.pls
+#EXTINF:-1, Chroma Opera
+http://chromaradio.com:8030/listen.pls
+#EXTINF:-1, Chroma SPA (also Nature Sounds)
+http://chromaradio.com:8040/listen.pls
+#EXTINF:-1, Chroma Greek Laico
+http://chromaradio.com:8016/listen.pls
+#EXTINF:-1, Chroma 80's
+http://chromaradio.com:8002/listen.pls
+#EXTINF:-1, Chroma Piano
+http://chromaradio.com:8032/listen.pls
+#EXTINF:-1, thnx Radio (Web)
+http://144.76.92.208:7100/;
+#EXTINF:-1, Marconi Radio 96.1 (Volos)
+http://np1.nfs.gr:11000/
+#EXTINF:-1, Sfera 94.1 (Nafplio) - 0
+http://go.e-rad.io/asx/sferaargolida.asx
+#EXTINF:-1, Sfera 94.1 (Nafplio) - 1
+http://netradio.live24.gr:80/sfera941nauplio
+#EXTINF:-1, A100FM 107.4 (Athens) - 0
+http://go.e-rad.io/asx/a100.asx
+#EXTINF:-1, A100FM 107.4 (Athens) - 1
+http://bestgreek.info:8104
+#EXTINF:-1, Galaxy 92 (Athens) - 0
+http://go.e-rad.io/asx/galaxy92.asx
+#EXTINF:-1, Galaxy 92 (Athens) - 1
+http://galaxy.live24.gr:80/galaxy9292
+#EXTINF:-1, Love Radio 97.5 (Athens) - 0
+http://go.e-rad.io/asx/loveradio.asx
+#EXTINF:-1, Love Radio 97.5 (Athens) - 1
+http://loveradio.live24.gr/loveradio-1000
+#EXTINF:-1, Ελληνικός FM 93.2 (Athens) - 0
+http://go.e-rad.io/asx/orange.asx
+#EXTINF:-1, Ελληνικός FM 93.2 (Athens) - 1
+http://orange.live24.gr:80/orange9320
+#EXTINF:-1, Red 96.3 (Athens) - 0
+http://go.e-rad.io/asx/red963.asx
+#EXTINF:-1, Red 96.3 (Athens) - 1
+http://s8.streammonster.com:8325/listen.pls
+#EXTINF:-1, Βήμα fm 99.5 (Athens) - 0
+http://go.e-rad.io/asx/vimafm995.asx
+#EXTINF:-1, Βήμα fm 99.5 (Athens) - 1
+http://vimafm.live24.gr:80/vimafm
+#EXTINF:-1, Radio1 BALLADS (Rhodes)
+http://www.radio1.gr/live/Ballads.asx
+#EXTINF:-1, Λάμψη 92.3 (Athens) - 0
+http://go.e-rad.io/asx/lampsifm.asx
+#EXTINF:-1, Λάμψη 92.3 (Athens) - 1
+http://91.132.6.21:8005
+#EXTINF:-1, Δρόμος 89.8 FM (Athens) - 0
+http://go.erad.io/asx/dromosfm.asx
+#EXTINF:-1, Δρόμος 89.8 FM (Athens) - 1
+http://dromos898.live24.gr:80/dromos898
+#EXTINF:-1, Ερωτικός fm 94.8 (Salonica) - 0
+http://go.e-rad.io/asx/erotikos.asx
+#EXTINF:-1, Ερωτικός fm 94.8 (Salonica) - 1
+http://eu7.fastcast4u.com:6154/
+#EXTINF:-1, Republic Radio 100.3 (Salonica) - 0
+http://go.e-rad.io/asx/republic.asx
+#EXTINF:-1, Republic Radio 100.3 (Salonica) - 1
+http://s10.voscast.com:9878
+#EXTINF:-1, Republic Radio 100.3 (Salonica) - 2
+http://85.25.207.34:9992/
+#EXTINF:-1, More 103 (Salonica) - 0
+http://go.e-rad.io/asx/more103.asx
+#EXTINF:-1, More 103 (Salonica) - 1
+http://85.25.214.240:8140
+#EXTINF:-1, Libero 107.4 (Salonica) - 0
+http://go.e-rad.io/asx/liberofm.asx
+#EXTINF:-1, Libero 107.4 (Salonica) - 1
+http://eco.onestreaming.com:8081
+#EXTINF:-1, Arena Sports 89.4 (Salonica) - 0
+http://go.e-rad.io/asx/arenasports.asx
+#EXTINF:-1, Arena Sports 89.4 (Salonica) - 1
+http://www.arenafm.gr:45054/;stream.mp3
+#EXTINF:-1, Arena Sports 89.4 (Salonica) - 2
+http://eco.onestreaming.com:8081
+#EXTINF:-1, Σοχός FM 88.7 (Salonica) - 0
+http://go.e-rad.io/asx/sohos.asx
+#EXTINF:-1, Σοχός FM 88.7 (Salonica) - 1
+http://s5.onweb.gr:8418
+#EXTINF:-1, Ράδιο Θεσσαλονίκη 94.5 (Salonica) - 0
+http://go.e-rad.io/asx/radiothess.asx
+#EXTINF:-1, Ράδιο Θεσσαλονίκη 94.5 (Salonica) - 1
+http://eu7.fastcast4u.com:6156
+#EXTINF:-1, Ράδιο Θεσσαλονίκη 94.5 (Salonica) - 2
+http://s2.voscast.com:9010
+#EXTINF:-1, Ράδιο Θεσσαλονίκη 94.5 (Salonica) - 3
+http://178.32.72.192:8060/rthes
+#EXTINF:-1, Αθλητικό Metropolis 95.5 (Salonica) - 0
+http://go.e-rad.io/asx/metropolis.asx
+#EXTINF:-1, Αθλητικό Metropolis 95.5 (Salonica) - 1
+http://s10.voscast.com:9934
+#EXTINF:-1, Cosmoradio 95.1 (Salonica) - 0
+http://go.e-rad.io/asx/kosmoradio.asx
+#EXTINF:-1, Cosmoradio 95.1 (Salonica) - 1
+http://80.86.82.101:8130
+#EXTINF:-1, Λαϊκός 87.6 (Salonica) - 0
+http://go.e-rad.io/asx/laikos.asx
+#EXTINF:-1, Λαϊκός 87.6 (Salonica) - 1
+http://derti.live24.gr/laikos876
+#EXTINF:-1, Λυδία η Φιλιππησία 94.2 (Salonica) - 0
+http://82.192.84.30:1086
+#EXTINF:-1, Λυδία η Φιλιππησία 94.2 (Salonica) - 1
+http://go.e-rad.io/asx/lydiafm.asx
+#EXTINF:-1, Λυδία η Φιλιππησία 94.2 (Salonica) - 2
+http://go.e-rad.io/asx/lydiafm.asx
+#EXTINF:-1, Alpha Radio 96.5 (Salonica) - 0
+http://go.e-rad.io/asx/alpha965.asx
+#EXTINF:-1, Alpha Radio 96.5 (Salonica) - 1
+http://46.4.121.138:8888
+#EXTINF:-1, Ράδιο ΔΕΘ 104.9 (Salonica) - 0
+http://go.e-rad.io/asx/radiodeth.asx
+#EXTINF:-1, Ράδιο ΔΕΘ 104.9 (Salonica) - 1
+http://s3.onweb.gr:8436
+#EXTINF:-1, 1431 AM - Αυτοοργανωμένο Ραδιόφωνο (Salonica) - 0
+http://go.e-rad.io/asx/1431am.asx
+#EXTINF:-1, 1431 AM - Αυτοοργανωμένο Ραδιόφωνο (Salonica) - 1
+http://155.207.18.114:8000/1431high
+#EXTINF:-1, 1431 AM - Αυτοοργανωμένο Ραδιόφωνο (Salonica) - 2
+http://155.207.18.114:8000/1431med
+#EXTINF:-1, 1431 AM - Αυτοοργανωμένο Ραδιόφωνο (Salonica) - 3
+http://155.207.18.114:8000/1431ogg
+#EXTINF:-1, 1431 AM - Αυτοοργανωμένο Ραδιόφωνο (Salonica) - 4
+http://155.207.18.114:8000/1431ogglow
+#EXTINF:-1, 1431 AM - Αυτοοργανωμένο Ραδιόφωνο (Salonica) - 5
+http://go.e-rad.io/asx/1431am.asx
+#EXTINF:-1, Χρώμα 105.8 (Salonica) - 0
+http://go.e-rad.io/asx/chroma1058.asx
+#EXTINF:-1, Χρώμα 105.8 (Salonica) - 1
+http://hroma1058thess.live24.gr:80/hroma1058thess
+#EXTINF:-1, Velvet 96.8 (Salonica) - 0
+http://go.e-rad.io/asx/velvet968.asx
+#EXTINF:-1, Velvet 96.8 (Salonica) - 1
+http://s10.voscast.com:9942
+#EXTINF:-1, Velvet 96.8 (Salonica) - 2
+http://188.138.112.127:8006
+#EXTINF:-1, V FM 91.1 (Salonica) - 0
+http://go.e-rad.io/asx/vfm911.asx
+#EXTINF:-1, V FM 91.1 (Salonica) - 1
+http://stream.myip.gr:8054
+#EXTINF:-1, Studio 3 103.5 (Salonica) - 0
+http://go.e-rad.io/asx/studio3.asx
+#EXTINF:-1, Studio 3 103.5 (Salonica) - 1
+http://s1.onweb.gr:8408
+#EXTINF:-1, RSO 91.7 (salonica) - 0
+http://go.e-rad.io/asx/rso.asx
+#EXTINF:-1, RSO 91.7 (salonica) - 1
+http://rso.isolservers.com:8200
+#EXTINF:-1, Rock Radio 104.7 (Salonica) - 0
+http://go.e-rad.io/asx/rockradio.asx
+#EXTINF:-1, Rock Radio 104.7 (Salonica) - 1
+http://rockradio.gr:1111
+#EXTINF:-1, Plus Radio 102.6 (Salonica) - 0
+http://go.e-rad.io/asx/plusradio.asx
+#EXTINF:-1, Plus Radio 102.6 (Salonica) - 1
+http://85.25.214.240:8120
+#EXTINF:-1, North 98 (Salonica) - 0
+http://go.e-rad.io/asx/radionorth.asx
+#EXTINF:-1, North 98 (Salonica) - 1
+http://eco.onestreaming.com:8382
+#EXTINF:-1, Imagine 89.7 (Salonica) - 0
+http://go.e-rad.io/asx/imagine.asx
+#EXTINF:-1, Imagine 89.7 (Salonica) - 1
+http://imagine.1stepstream.com:8000/live
+#EXTINF:-1, Rainbow 89 (Salonica) - 0
+http://go.e-rad.io/asx/rainbow89.asx
+#EXTINF:-1, Rainbow 89 (Salonica) - 1
+http://80.86.85.86:8006
+#EXTINF:-1, 1055 Rock 105.5 (Salonica) - 0
+http://go.e-rad.io/asx/rock1055.asx
+#EXTINF:-1, 1055 Rock 105.5 (Salonica) - 1
+http://radio.onweb.gr:8078
+#EXTINF:-1, Real FM 107.1 (Salonica) - 0
+http://go.e-rad.io/asx/realfmthess.asx
+#EXTINF:-1, Real FM 107.1 (Salonica) - 1
+http://realfm.megabyte.gr:8999
+#EXTINF:-1, Zoo 90.8 (Salonica) - 0
+http://go.e-rad.io/asx/zooradio.asx
+#EXTINF:-1, Zoo 90.8 (Salonica) - 1
+http://s10.voscast.com:9940
+#EXTINF:-1, Focus 103.6 (Salonica) - 0
+http://go.e-rad.io/asx/focusthess.asx
+#EXTINF:-1, Focus 103.6 (Salonica) - 1
+http://focus.greekstream.net:80
+#EXTINF:-1, Ορθόδοξη Παρουσία 106.8 (Salonica) - 0
+http://go.e-rad.io/asx/oparousia1068.asx
+#EXTINF:-1, Ορθόδοξη Παρουσία 106.8 (Salonica) - 1
+http://188.226.161.133:8008/listen.pls
+#EXTINF:-1, Ράδιο Μυγδονία 100.6 (Salonica) - 0
+http://go.e-rad.io/asx/mygdonia.asx
+#EXTINF:-1, Ράδιο Μυγδονία 100.6 (Salonica) - 1
+http://62.38.111.94:8000/radio.mp3
+#EXTINF:-1, Antenna Αιγαίου 105 (Chios)
+http://eco.onestreaming.com:8440
+#EXTINF:-1, Μεσόγειος 105.4 (Naxos)
+http://live3.istoikona.net:2199/tunein/mesogios.pls
+#EXTINF:-1, Σφαιρικός FM 99.3 (Feres - Alexandroupolis)
+http://eco.onestreaming.com:8012/
+#EXTINF:-1, Ράδιο Πολιτεία 90.7 (Sparta)
+http://listen.onestreaming.com/pls/politia.pls
+#EXTINF:-1, Underground Radio 100.3 (Xanthi)
+http://cp.usa6.fastcast4u.com:2199/tunein/undrad03-stream.pls
+#EXTINF:-1, Μελωδικός 105.7 (Xanthi)
+http://centova.magicstreams.gr:9078/
+#EXTINF:-1, Radio City 107.6 (Komotini)
+http://ip17.radyotelekom.com:9998/;stream.mp3
+#EXTINF:-1, Λαμία FM1 96.2 (Lamia)
+http://sc2.streamwithq.com:8092/
+#EXTINF:-1, Ρυθμός 94.6 (Lamia)
+http://sc2.streamwithq.com:8098/
+#EXTINF:-1, Φάσμα 99.7 (Patras) - 0
+http://cp2.shoutcheap.com:2199/tunein/fasmafm.ram
+#EXTINF:-1, Φάσμα 99.7 (Patras) - 1
+http://cp2.shoutcheap.com:2199/tunein/fasmafm.pls
+#EXTINF:-1, Αγιος Σπυρίδων 91.1 (Corfu)
+http://eco.onestreaming.com:8516/
+#EXTINF:-1, ClubFM 93.7 (Ierapetra)
+http://eco.onestreaming.com:8518/
+#EXTINF:-1, Star FM 88.4 (Heraklion)
+http://144.76.92.208:8840
+#EXTINF:-1, Style FM 100 (Ag. Nikolaos- Sitia)
+http://listen.onestreaming.com/asx/style100.asx
+#EXTINF:-1, Λάμψη 88.6 (Volos)
+http://s6.onweb.gr:8036
+#EXTINF:-1, Ελληνικό Παραδοσιακό (Web)
+http://listen.onestreaming.com/pls/elpar.pls
+#EXTINF:-1, Chroma Top 40 (Web)
+http://chromaradio.com:8012/listen.pls
+#EXTINF:-1, Chroma Lounge Cafe (Web)
+http://chromaradio.com:8018/
+#EXTINF:-1, Chroma Ambient
+http://chromaradio.com:8004/
+#EXTINF:-1, City Radio 103.8 (Kalamata)
+http://213.239.206.179:7027/
+#EXTINF:-1, Radio DeeJay 95.7 (Larissa)
+http://s4.onweb.gr:8850
+#EXTINF:-1, Radio DeeJay 94.2 (Korinthos)
+http://usa2-vn.mixstream.net:8018
+#EXTINF:-1, Radio Energy 96.6 FM (Kavala)
+http://liveradio.energy966.com:8008/
+#EXTINF:-1, HΙΤ FM 103.5 (Chalkida)
+http://94.23.62.189:5650/;.mp3
+#EXTINF:-1, Ianos Web Radio Station
+http://stream8040.radioname.net:8040/ianos.mp3
+#EXTINF:-1, Iera Mitropoli Larissas & Tyrnavou FM
+http://s1.onweb.gr:8004/;
+#EXTINF:-1, MAD Radio 107 (Agrinio)
+http://37.59.14.77:7038/stream
+#EXTINF:-1, Metalzone Internet Radio
+http://144.76.92.208:8282/;stream.mp3
+#EXTINF:-1, Mikel Radio
+http://78.46.73.91:9073/;stream.mp3
+#EXTINF:-1, MondoBongo radio
+http://50.7.76.250:8787/;stream/1.mp3
+#EXTINF:-1, My Radio 89.6 (Corinth)
+http://eco.onestreaming.com:8528/;
+#EXTINF:-1, Music Society (Web)
+http://213.239.206.179:2199/tunein/musicsocietyradio.pls
+#EXTINF:-1, Perfect 103.3 Volos
+http://solid1.streamupsolutions.com:54987/stream
+#EXTINF:-1, Party FM 104 (Athens)
+http://178.21.169.118:8006/stream
+#EXTINF:-1, Pepper 96.6 (Athens) - 0
+http://stream.radiojar.com/pepper
+#EXTINF:-1, Pepper 96.6 (Athens) - 1
+http://pepper966.live24.gr/pepper9660
+#EXTINF:-1, Pepper 96.6 (Athens) - 2
+http://go.erad.io/asx/pepper966.asx
+#EXTINF:-1, Radio DeeJay 97.5 (Corfu)
+http://s4.onweb.gr:8470
+#EXTINF:-1, ΣΟΚ FM 104.8 (Chalkida) - 0
+http://go.e-rad.io/asx/sokfm.asx
+#EXTINF:-1, ΣΟΚ FM 104.8 (Chalkida) - 1
+http://sokfm.lalala.gr:8000
+#EXTINF:-1, Νταλκάς 88.2 (Chalkida) - 0
+http://go.e-rad.io/asx/dalkas.asx
+#EXTINF:-1, Νταλκάς 88.2 (Chalkida) - 1
+http://212.7.211.73:8018
+#EXTINF:-1, Ράδιο Αλφα 96 (Lemnos)
+http://sc2.streamwithq.com:8058
+#EXTINF:-1, Εύριπος 90FM (Chalkida) - 0
+http://go.e-rad.io/asx/evripos.asx
+#EXTINF:-1, Εύριπος 90FM (Chalkida) - 1
+http://stereo.wavestreamer.com:8412
+#EXTINF:-1, ΣΚΑΪ 100.3 (Athens) - 0
+http://go.e-rad.io/asx/skairadio.asx
+#EXTINF:-1, ΣΚΑΪ 100.3 (Athens) - 1
+http://iphone.live24.gr:80/skai1003
+#EXTINF:-1, Atlantis FM 105.2 (Athens)
+http://144.76.140.103:8308/
+#EXTINF:-1, Μελωδός (Βόλος)
+http://46.165.220.22:8018/melwdos
+#EXTINF:-1, Easy 93.2 (Chania)
+http://sc2.streamwithq.com:8118
+#EXTINF:-1, FM 100 (Lemnos)
+http://radio.limnosfm100.gr:9998
+#EXTINF:-1, FM 100 Δημοτικό Ραδιόφωνο Θεσσαλονίκης (Salonica)
+http://178.62.176.153:8000/stream
+#EXTINF:-1, Just Radio 93 (Chalkida)
+http://185.14.203.115:8002
+#EXTINF:-1, My FM 89.5 (Komotini)
+http://pstnet2.shoutcastnet.com:26800
+#EXTINF:-1, Stone Radio
+http://eu4.fastcast4u.com:5248/;
+#EXTINF:-1, Apollon FM 98.1 (Kalamata)
+http://apollonfm981.dyndns.org:8124/;
+#EXTINF:-1, Nostos 100.6 FM (Athens) - 0
+http://foni.info/nostos/media/audio.pls
+#EXTINF:-1, Nostos 100.6 FM (Athens) - 1
+http://foni.info/nostos/media/audio.m3u
+#EXTINF:-1, Chromaradio - Soul & Funk
+http://chromaradio.com:8038/listen.pls
+#EXTINF:-1, Chromaradio - Nature Sounds
+http://chromaradio.com:8024/listen.pls
+#EXTINF:-1, Rock Melodic Radio
+http://live.rockmelodic-radio.com:8124/
+#EXTINF:-1, Radio Kreta
+http://streamplus3.leonex.de:42422
+#EXTINF:-1, Radio Korfu
+http://www.radio-korfu.de/rkr.m3u
+#EXTINF:-1, Focus 88.8 FM (Alexandroupolis)
+http://s3.onweb.gr:8014/
+#EXTINF:-1, Metro FM 97.8 FM (Alexandroupolis)
+http://s8.onweb.gr:8706/
+#EXTINF:-1, ΕΡΤ Δεύτερο Πρόγραμμα 103,7 & 102,9
+http://radiostreaming.ert.gr/ert-deftero
+#EXTINF:-1, ΕΡΤ Τρίτο Πρόγραμμα 90,9 & 95,6
+http://radiostreaming.ert.gr/ert-trito
+#EXTINF:-1, ΕΡΤ Κόσμος 93,6 & 107
+http://radiostreaming.ert.gr/ert-kosmos
+#EXTINF:-1, ΕΡΤ Η Φωνή Της Ελλάδος
+http://radiostreaming.ert.gr/ert-voiceofgreece
+#EXTINF:-1, Menta 88 fm (Athens) - 0
+http://stream.radiojar.com/menta
+#EXTINF:-1, Menta 88 fm (Athens) - 1
+http://radiostreaming.ert.gr/menta-trans
+#EXTINF:-1, Menta 88 fm (Athens) - 2
+http://go.e-rad.io/asx/menta88.asx
+#EXTINF:-1, ΕΡΤ 102fm - Radio Channel of Macedonia
+http://radiostreaming.ert.gr/ert-102fm
+#EXTINF:-1, ΕΡΤ 958fm - Culture Channel
+http://radiostreaming.ert.gr/ert-958fm
+#EXTINF:-1, ΕΡΤ Πρώτο Πρόγραμμα 91,6 & 105,8
+http://radiostreaming.ert.gr/ert-proto
+#EXTINF:-1, Sport24 Radio 103.3 (Athens)
+http://sport24radio.live24.gr/sport24radio
+#EXTINF:-1, Sport fm 94.6 (Athens)
+http://sportfm.live24.gr/sportfm7712
+#EXTINF:-1, Kiss FM 96.1 (Heraklion)
+http://192.240.102.131:9864
+#EXTINF:-1, Kiss FM 101.5 (Lesvos)
+http://eco.onestreaming.com:8550
+#EXTINF:-1, Prime Radio 100.3 (Syros)
+http://s20.myradiostream.com:6738/;stream.mp3
+#EXTINF:-1, Ακτίνα FM 104.7 (Corfu) - 0
+http://sc2.streamwithq.com:8016/;
+#EXTINF:-1, Ακτίνα FM 104.7 (Corfu) - 1
+http://edge.vidblee.com:80/aktina/aktina/playlist.m3u8
+#EXTINF:-1, MAD Radio 106.2 (Athens)
+http://mediaserver.mad.tv:8000/stream
+#EXTINF:-1, ERTOPEN - Athens 106.7
+http://radio.ertopen.com/erasport
+#EXTINF:-1, Πενιές FM 88.3 (Athens)
+http://s2.onweb.gr:8632
+#EXTINF:-1, NRG 95 (Chalkida) - 0
+http://go.e-rad.io/asx/nrgfm.asx
+#EXTINF:-1, NRG 95 (Chalkida) - 1
+http://nrg.lalala.gr:8012/
+#EXTINF:-1, Sfera 102.2 FM - 0
+http://sfera.live24.gr/sfera4132
+#EXTINF:-1, Sfera 102.2 FM - 1
+http://netradio.live24.gr/sfera4132
+#EXTINF:-1, Radio Play 91.5 (Xanthi)
+http://s6.onweb.gr:8058
+#EXTINF:-1, Ράδιο Άμφισσα 104.4 (Amfissa)
+http://stream3.468.gr:8104/
+#EXTINF:-1, Ράδιο Ξηρόμερο 88.3 (Agrinio)
+http://alfahost.no-ip.biz:8895/
+#EXTINF:-1, Ράδιο Νεμέα 107.6 (Corinth) - 0
+http://nemea.streamingtvradios.com:2199/tunein/nemearadio-192Kbps-www-NemeaRadio-gr.asx
+#EXTINF:-1, Ράδιο Νεμέα 107.6 (Corinth) - 1
+http://nemea.streamingtvradios.com:2199/tunein/nemearadio-192Kbps-www-NemeaRadio-gr.pls
+#EXTINF:-1, Ράδιο Νεμέα 107.6 (Corinth) - 2
+http://nemea.streamingtvradios.com:2199/tunein/nemearadio-192Kbps-www-NemeaRadio-gr.ram
+#EXTINF:-1, ΕΡΑσπορ 101,8 & 100,9
+http://radiostreaming.ert.gr/ert-erasport
+#EXTINF:-1, Ράδιο Ηπειρος 94.5 (Ioannina)
+http://el1.info:9450
+#EXTINF:-1, Orthodoxi Parousia FM 103.7 (Larisa)
+http://streamyourdream.org:8042/imd
+#EXTINF:-1, Δίεση 101.3 (Athens) - 0
+http://diesi.live24.gr/diesi1013
+#EXTINF:-1, Δίεση 101.3 (Athens) - 1
+http://go.e-rad.io/asx/diesi.asx
+#EXTINF:-1, DieSeele
+http://centauri.shoutca.st:8668/stream
+#EXTINF:-1, JAZZ ONE RADIO - 0
+http://37.187.79.93:8368/stream
+#EXTINF:-1, JAZZ ONE RADIO - 1
+http://37.187.79.93:8368/stream2
+#EXTINF:-1, JAZZ TUNE RADIO
+http://37.187.79.93:8368/stream3
+#EXTINF:-1, Kiss FM Extra 92.2 (Patras)
+http://stream.kiisextra.gr:48500/kiis.mp3
+#EXTINF:-1, Sport News 90.1 FM (Larisa)
+http://78.129.163.82/stream.mp3?ipport=78.129.163.82_22231
+#EXTINF:-1, Alpha FM 104.7 (Rethymno) - 0
+http://78.47.56.126:9219/stream
+#EXTINF:-1, Alpha FM 104.7 (Rethymno) - 1
+http://stream.myip.gr:2199/tunein/alpha1047.pls
+#EXTINF:-1, Bravo FM 89.6 (Zante)
+http://144.76.101.249:9304/;stream/cid=1
+#EXTINF:-1, Stigma FM 97.6 (Zante)
+http://144.76.101.249:9300/;stream/cid=1
+#EXTINF:-1, Island FM 88.6 (Zante)
+http://144.76.101.249:9302/;stream/1
+#EXTINF:-1, easyfm2 (Web)
+http://94.23.62.189:5054
+#EXTINF:-1, Galaxy 106.1 (Patras)
+http://5.9.17.142:8032/
+#EXTINF:-1, City 93 (Kos)
+http://live.city93.gr:9996/
+#EXTINF:-1, Blue Heart FM 105.1 (Volos)
+http://46.165.220.22:8018/melwdos
+#EXTINF:-1, KLIK FM 106.2 (Rhodes) - 0
+http://www.111.gr:8042
+#EXTINF:-1, KLIK FM 106.2 (Rhodes) - 1
+http://www.klikfm.net/onair.asx
+#EXTINF:-1, KLIK FM 106.2 (Rhodes) - 2
+http://www.klikfm.net/onair.pls
+#EXTINF:-1, KLIK FM 106.2 (Rhodes) - 3
+http://www.klikfm.net/onair.qtl
+#EXTINF:-1, KLIK FM 106.2 (Rhodes) - 4
+http://www.klikfm.net/onair.ram
+#EXTINF:-1, Life FM 88 (Kalamata)
+http://life.onairsolution.gr:48500/life.mp3
+#EXTINF:-1, Life Radio 91.6 (Pyrgos)
+http://78.129.234.163:32912/
+#EXTINF:-1, Like Radio 88.2 (Patras)
+http://streams.onairsolution.gr:48500/like.mp3
+#EXTINF:-1, MAD Radio 107 (Orestiada)
+http://sc2.streamwithq.com:8018
+#EXTINF:-1, Ι. Μητρ. Λαρίσης και Τυρνάβου 96.3 (Larissa)
+http://s1.onweb.gr:8004
+#EXTINF:-1, Ι. Μητρ. Αιτωλίας και Ακαρνανίας 106.3 (Mesologi)
+http://144.76.140.103:8048/;listen.pls
+#EXTINF:-1, Ι. Μητρ. Φθιώτιδας 89.4 (Lamia)
+http://eco.onestreaming.com:8264
+#EXTINF:-1, Ι. Μητρ. ΠαροΝαξίας 92.3 (Cyclades)
+http://s6.onweb.gr:8080/
+#EXTINF:-1, Ι. Μητρ. Χαλκίδος - Άγ. Τιμόθεος Ευρίπου 97.7 (Chalkida)
+http://go.e-rad.io/asx/imxalkidas.asx
+#EXTINF:-1, Q-Radio / Sport fm 102.7 (Chania) - 0
+http://s4.onweb.gr:8896
+#EXTINF:-1, Q-Radio / Sport fm 102.7 (Chania) - 1
+http://s4.onweb.gr:8896/listen.pls
+#EXTINF:-1, Top FM Δωδεκανήσου 102.4 (Rhodes) - 0
+http://live3.istoikona.com:8376/
+#EXTINF:-1, Top FM Δωδεκανήσου 102.4 (Rhodes) - 1
+http://go.e-rad.io/asx/topfm.asx
+#EXTINF:-1, Top FM Δωδεκανήσου 102.4 (Rhodes) - 2
+http://netradio.live24.gr:80/sportfmpatras
+#EXTINF:-1, Όλα fm 98.7 (Alexandroupolis)
+http://eco.onestreaming.com:8667/stream/
+#EXTINF:-1, Grey Radio
+http://144.76.92.208:8442
+#EXTINF:-1, Χρώμα fm 102.1 (Patras)
+http://streams.onairsolution.gr:48500/xroma.mp3
+#EXTINF:-1, Χριστιανισμός (Web) - 0
+http://s1.fastcast4u.com:9326/
+#EXTINF:-1, Χριστιανισμός (Web) - 1
+http://s1.fastcast4u.com:9326/listen.pls
+#EXTINF:-1, Χριστιανισμός (Web) - 2
+http://www.christianity.gr/radio2.asx
+#EXTINF:-1, Τοξότης FM 96.3 (Giannitsa)
+http://eco.onestreaming.com:8240/;listen.pls
+#EXTINF:-1, Στύρα FM 95.4 (Nea Styra)
+http://148.251.148.59:9968/
+#EXTINF:-1, Ράδιο Οδύσσεια (Web)
+http://5.79.106.143/odysseia-laika-hi
+#EXTINF:-1, Ρυθμός 94.3 (Zante)
+http://eco.onestreaming.com:8217/
+#EXTINF:-1, Ραδ. Σταθμός Μεσολογγίου 92 (Mesologi)
+http://eco.onestreaming.com:8021/
+#EXTINF:-1, 111 ATHENS RADIO (Web)
+http://78.46.73.91:9060/
+#EXTINF:-1, Ράδιο Χερσόνησος 97.2 (Heraklion)
+http://178.59.22.125:8081/live
+#EXTINF:-1, Ράδιο Στουρναραιϊκα 92.5 (Trikala)
+http://88.198.10.229:8103/stream
+#EXTINF:-1, Ράδιο Νίκη 96.4 (Filiatra)
+http://78.129.224.15:17388
+#EXTINF:-1, Ράδιο Μακιστία 98.6 (Pyrgos)
+http://eco.onestreaming.com:8598/
+#EXTINF:-1, Ράδιο Ικαρία 87.6 (Ikaria)
+http://stream.radio-ikaria.gr:8000
+#EXTINF:-1, Ράδιο Δίστομο 94.6 & 106.1 (Levadia)
+http://radio.icehosting.com:8091/live.mp3
+#EXTINF:-1, Σείριος FM 95.8 (Levadia)
+http://proradio.gr:8004/siriosfm
+#EXTINF:-1, Ελληνικός 90.3 (Levadia)
+http://live.ellinikos.gr:8010/903.mp3
+#EXTINF:-1, Ράδιο Φάρος 91.8 (Chania)
+http://s3.onweb.gr:8012/
+#EXTINF:-1, ΕΡΤ - Κομοτηνή 98,1 &ΑΜ 1404 KHz
+http://radiostreaming.ert.gr/ert-komotini
+#EXTINF:-1, ΕΡΤ - Κοζάνηi 100,2 - 100,6
+http://radiostreaming.ert.gr/ert-kozani
+#EXTINF:-1, ΕΡΤ - Κέρκυρα 99,3
+http://radiostreaming.ert.gr/ert-kerkyra
+#EXTINF:-1, ΕΡΤ - Καλαμάτα 107,2
+http://radiostreaming.ert.gr/ert-kalamata
+#EXTINF:-1, ΕΡΤ - Καβάλα 96,3
+http://radiostreaming.ert.gr/ert-kavala
+#EXTINF:-1, ΕΡΤ - Ιωάννινα 88,2 - 100,3 ΜΗz
+http://radiostreaming.ert.gr/ert-ioannina
+#EXTINF:-1, ΕΡΤ - Ηράκλειο Κρήτης 97,5 - 105,6 MHz
+http://radiostreaming.ert.gr/ert-heraklio
+#EXTINF:-1, ΕΡΤ - Ζάκυνθος 95,2 - 93,2 MHz & AM 927 KHz
+http://radiostreaming.ert.gr/ert-zakynthos
+#EXTINF:-1, ΕΡΤ - Βόλος 100.7 - 101.2 MHz & AM 1485 KHz
+http://radiostreaming.ert.gr/ert-volos
+#EXTINF:-1, ΕΡΤ - Βορείου Αιγαίου 104,4 - 103 - 99,4 - 105,9 - 100,1 - 95,2 - 96,5 - 89,7 - 91,7 - 89,1
+http://radiostreaming.ert.gr/ert-aigaiou
+#EXTINF:-1, ΕΡΤ - Χανιά 100,6 - 104 & AM 1512 ΚΗz
+http://radiostreaming.ert.gr/ert-chania
+#EXTINF:-1, ΕΡΤ - Φλώρινα 96,6 - 99,1 & AM 1278 KHz
+http://radiostreaming.ert.gr/ert-florina
+#EXTINF:-1, ΕΡΤ - Τρίπολη 101,5
+http://radiostreaming.ert.gr/ert-tripoli
+#EXTINF:-1, ΕΡΤ - Σέρρες 96,4 - 101,5
+http://radiostreaming.ert.gr/ert-serres
+#EXTINF:-1, ΕΡΤ - Ρόδος 92,7 - 93,1 - 98,4
+http://radiostreaming.ert.gr/ert-rodos
+#EXTINF:-1, ΕΡΤ - Πάτρα 92,5 - 93,9 - 89,9
+http://radiostreaming.ert.gr/ert-patra
+#EXTINF:-1, ΕΡΤ - Λάρισα  98.3
+http://radiostreaming.ert.gr/ert-larisa
+#EXTINF:-1, ΕΡΤ - Ορεστιάδα 103,5
+http://radiostreaming.ert.gr/ert-orestiada
+#EXTINF:-1, Ράδιο Αρχάγγελος 94.1 (Rhodes)
+http://eco.onestreaming.com:8536/;listen.pls
+#EXTINF:-1, Ράδιο Αμφιλοχία 104.5 (Mesologi-Amfilochia)
+http://s1.magicstreams.gr:9964
+#EXTINF:-1, Best Fm Μυτιλήνη 98.1 (Lesvos)
+http://eco.onestreaming.com:8628/
+#EXTINF:-1, Μεθόριος 96 (Alexandroupolis)
+http://eco.onestreaming.com:8505
+#EXTINF:-1, Μαγεία Fm 104.7 (Agrinio)
+http://s2.e-resellers.gr:8064/
+#EXTINF:-1, Λατώ FM 103.3 (Ag. Nikolaos)
+http://stream.latofm.gr:8100/latofm?.mp3
+#EXTINF:-1, Ρυθμός 104 (Florina)
+http://37.59.14.77:8108/stream
+#EXTINF:-1, Κανάλι 20 107.5 (Kalamata)
+http://213.239.206.179:7086
+#EXTINF:-1, Κίμωλος 106 FM (Kimolos)
+http://46.4.81.216:8000/;listen.pls
+#EXTINF:-1, Ι. Μητρ. Βέροιας - Παύλειος Λόγος 90.2 (Veria) - 0
+http://eco.onestreaming.com:8548/
+#EXTINF:-1, Ι. Μητρ. Βέροιας - Παύλειος Λόγος 90.2 (Veria) - 1
+http://go.e-rad.io/asx/pavleioslogos.asx
+#EXTINF:-1, Ι. Μονή Παμμεγίστων Ταξιαρχών - Μοναχική Διακονία 87.5 (Volos) - 0
+http://live3.istoikona.net:2199/tunein/monaxikidiakonia.pls
+#EXTINF:-1, Ι. Μονή Παμμεγίστων Ταξιαρχών - Μοναχική Διακονία 87.5 (Volos) - 1
+http://live3.istoikona.net:2199/tunein/monaxikidiakonia.asx
+#EXTINF:-1, Ι. Μητρ. Σερρών & Νιγρήτης - Ράδιο Κιβωτός 99.2 (Serres)
+http://s3.onweb.gr:8452
+#EXTINF:-1, Ι. Αρχιεπ. Κρήτης - Το Φως 99.7 (Heraklion)
+http://s1.onweb.gr:8432
+#EXTINF:-1, ΣΚΑΪ Αιγαίου 99.8 (Lesvos) - 0
+http://live.isol.biz:8500/listen.pls
+#EXTINF:-1, ΣΚΑΪ Αιγαίου 99.8 (Lesvos) - 1
+http://www.isol.gr/skaiaegean/listen.asx
+#EXTINF:-1, Up Radio (Web) - 0
+http://go.e-rad.io/asx/886upradio.asx
+#EXTINF:-1, Up Radio (Web) - 1
+http://netradio.live24.gr/886radio
+#EXTINF:-1, SEDUCTION DANCE TUNES RADIO - 0
+http://24streams.me:2199/tunein/tonyg2.pls
+#EXTINF:-1, SEDUCTION DANCE TUNES RADIO - 1
+http://24streams.me:2199/tunein/tonyg2.asx
+#EXTINF:-1, SEDUCTION DANCE TUNES RADIO - 2
+http://24streams.me:2199/tunein/tonyg2.ram
+#EXTINF:-1, SEDUCTION DANCE TUNES RADIO - 3
+http://24streams.me:2199/tunein/tonyg2.qtl
+#EXTINF:-1, SEDUCTION DANCE TUNES RADIO - 4
+http://88.99.164.126:8057/;listen.mp3
+#EXTINF:-1, SEDUCTION DANCE TUNES RADIO - 5
+http://88.99.164.126:8057
+#EXTINF:-1, Ι. Μητρ. Αργολίδας - Ορθόδοξη Ομολογία - 105.2 (Argos) - 0
+http://listen.onestreaming.com/asx/imargol1052.asx
+#EXTINF:-1, Ι. Μητρ. Αργολίδας - Ορθόδοξη Ομολογία - 105.2 (Argos) - 1
+http://eco.onestreaming.com:8556
+#EXTINF:-1, Shelter radio - 0
+http://stream.radiojar.com/ybsce67mz0mtv
+#EXTINF:-1, Shelter radio - 1
+http://stream.radiojar.com/ybsce67mz0mtv.m3u
+#EXTINF:-1, Shelter radio - 2
+http://stream.radiojar.com/ybsce67mz0mtv.pls
+#EXTINF:-1, Καραμέλα 92.4 (Salonica)
+http://sc.greekstream.net:4014
+#EXTINF:-1, Ble FM 93,1 (Salonica)
+http://radio.lancom.gr:8004/stream1
+#EXTINF:-1, HIT 889 - 88.9 FM (Athens)
+http://64.150.176.42:8146
+#EXTINF:-1, Επικοινωνία 94.0 FM (Athens)
+http://176.9.82.229:9998/;stream.mp3
+#EXTINF:-1, Εκκλησία της Ελλάδος 89.5 (Athens)
+http://85.10.206.222:8002/;listen.pls
+#EXTINF:-1, Πειραϊκή Εκκλησία 91.2 (Piraeus)
+http://144.76.140.103:8310/;listen.pls
+#EXTINF:-1, Rock FM 96.9 (Athens)
+http://rockfmlive.mdc.akamaized.net/strmRCFm/userRCFm/chunks.m3u8
+#EXTINF:-1, Athens' Voice 102.5 (Athens) - 0
+http://go.e-rad.io/asx/nitro.asx
+#EXTINF:-1, Athens' Voice 102.5 (Athens) - 1
+http://nitro.live24.gr/nitro4555
+#EXTINF:-1, Radio Art - Satie
+http://live.radioart.com/fEric_satie.mp3
+#EXTINF:-1, www.streetradio.gr
+http://46.165.220.22:8082/stream
+#EXTINF:-1, Alpha Radio 98.9 (Athens) - 0
+http://go.e-rad.io/asx/alpha989.asx
+#EXTINF:-1, Alpha Radio 98.9 (Athens) - 1
+http://194.219.46.2:8080/live
+#EXTINF:-1, AYTOKRATORIA.FM
+http://83.142.226.45:9726
+#EXTINF:-1, ##Peripou Web Radio## - 0
+http://streaming.radionomy.com/PERIPOU-web-radio?lang=en-US&appName=iTunes.m3u
+#EXTINF:-1, ##Peripou Web Radio## - 1
+http://streaming.radionomy.com/PERIPOU-web-radio?.mp3
+#EXTINF:-1, ##Peripou Web Radio## - 2
+http://streaming.radionomy.com/PERIPOU-web-radio?.wma
+#EXTINF:-1, Radio Entexnos (Patra) - 0
+http://shoutcast.24radio.gr:8068/;
+#EXTINF:-1, Radio Entexnos (Patra) - 1
+http://go.erad.io/asx/entexnos.asx
+#EXTINF:-1, Radio Art - Indie - 0
+http://air.radioart.com/fIndie.mp3
+#EXTINF:-1, Radio Art - Indie - 1
+http://air.radioart.com/fIndie.mp3?dlid=
+#EXTINF:-1, Radio Art - Rock & Indie - 0
+http://air.radioart.com/fRock_and_indie.mp3
+#EXTINF:-1, Radio Art - Rock & Indie - 1
+http://air.radioart.com/fRock_and_indie.mp3?dlid=
+#EXTINF:-1, Radio Art - Stress Relief
+http://air.radioart.com/fStress_relief.mp3
+#EXTINF:-1, Radio Art - Frederic Chopin
+http://air.radioart.com/fChopin.mp3?dlid=
+#EXTINF:-1, Radio Art - Yoga
+http://air.radioart.com/fYoga.mp3?dlid=
+#EXTINF:-1, Radio Art - After Midnight
+http://air.radioart.com/fAfter_midnight.mp3?dlid=
+#EXTINF:-1, Radio Art - Paris
+http://air.radioart.com/fParis.mp3?dlid=
+#EXTINF:-1, Radio Art - Smooth jazz
+http://air.radioart.com/fSmooth_jazz.mp3?dlid=
+#EXTINF:-1, Radio Art - Love Songs
+http://air.radioart.com/fLove_songs.mp3?dlid=
+#EXTINF:-1, Radio Art - Cool jazz
+http://air.radioart.com/fCool_jazz.mp3?dlid=
+#EXTINF:-1, Radio Art - Classical
+http://air.radioart.com/fClassical.mp3?dlid=
+#EXTINF:-1, Radio Art - Classical For Sleep
+http://air.radioart.com/fClassical_for_sleep.mp3?dlid=
+#EXTINF:-1, Radio Art - Swing
+http://air.radioart.com/fSwing.mp3?dlid=
+#EXTINF:-1, Radio Art - Up tempo grooves
+http://air.radioart.com/fUp_tempo_grooves.mp3?dlid=
+#EXTINF:-1, Radio Art - Tango
+http://air.radioart.com/fTango.mp3?dlid=
+#EXTINF:-1, Radio Art - Guitar
+http://air.radioart.com/fGuitar.mp3?dlid=
+#EXTINF:-1, Radio Art - Vocal Jazz
+http://air.radioart.com/fVocal_jazz.mp3?dlid=
+#EXTINF:-1, Radio Art - Solo Flute
+http://air.radioart.com/fSolo_flute.mp3?dlid=
+#EXTINF:-1, Radio Art - Tokyo
+http://air.radioart.com/fTokyo.mp3?dlid=
+#EXTINF:-1, Radio Art - Beethoven
+http://air.radioart.com/fBeethoven.mp3?dlid=
+#EXTINF:-1, Radio Art - For Inspiration
+http://air.radioart.com/fFor_inspiration.mp3?dlid=
+#EXTINF:-1, Radio Art - Solo Piano
+http://air.radioart.com/fSolo_piano.mp3?dlid=
+#EXTINF:-1, Radio Art - Country
+http://air.radioart.com/fCountry.mp3?dlid=
+#EXTINF:-1, Radio Art - Vivaldi
+http://air.radioart.com/fVivaldi.mp3?dlid=
+#EXTINF:-1, Radio Art - Oldies
+http://air.radioart.com/fOldies.mp3?dlid=
+#EXTINF:-1, Radio Art - Celtic
+http://air.radioart.com/fCeltic.mp3?dlid=
+#EXTINF:-1, Radio Art - Acoustic Blues
+http://air.radioart.com/fAcoustic_blues.mp3?dlid=
+#EXTINF:-1, Radio Art - Just Blues
+http://air.radioart.com/fJust_blues.mp3?dlid=
+#EXTINF:-1, Radio Art - Ethnic
+http://air.radioart.com/fEthnic.mp3?dlid=
+#EXTINF:-1, Radio Art - Spa
+http://air.radioart.com/fSpa.mp3?dlid=
+#EXTINF:-1, Radio Art - Piano (Classical)
+http://air.radioart.com/fPiano.mp3?dlid=
+#EXTINF:-1, Radio Art - Opera
+http://air.radioart.com/fOpera.mp3?dlid=
+#EXTINF:-1, Radio Art - Big Bands
+http://air.radioart.com/fBig_bands.mp3?dlid=
+#EXTINF:-1, Radio Art - Fusion
+http://air.radioart.com/fFusion.mp3?dlid=
+#EXTINF:-1, Radio Art - Greek contemporay
+http://air.radioart.com/fGreek_art_contemporary.mp3?dlid=
+#EXTINF:-1, Radio Art - Manos & mikis
+http://air.radioart.com/fManos_and_mikis.mp3?dlid=
+#EXTINF:-1, Radio Art - Rome
+http://air.radioart.com/fRome.mp3?dlid=
+#EXTINF:-1, Radio Art - Meditation
+http://air.radioart.com/fMeditation.mp3?dlid=
+#EXTINF:-1, Radio Art - Positivity
+http://air.radioart.com/fPositivity.mp3?dlid=
+#EXTINF:-1, Radio Art - Bach
+http://air.radioart.com/fBach.mp3?dlid=
+#EXTINF:-1, Radio Art - Schumann
+http://air.radioart.com/fSchumann.mp3?dlid=
+#EXTINF:-1, Radio Art - Piano & guitar
+http://air.radioart.com/fPiano_and_guitar.mp3?dlid=
+#EXTINF:-1, Radio Art - Sleep
+http://air.radioart.com/fSleep.mp3?dlid=
+#EXTINF:-1, Radio Art - Just Jazz
+http://air.radioart.com/fJust_jazz.mp3?dlid=
+#EXTINF:-1, Radio Art - Mozart
+http://air.radioart.com/fMozart.mp3?dlid=
+#EXTINF:-1, Radio Art - Relationship
+http://air.radioart.com/fRelationship.mp3?dlid=
+#EXTINF:-1, Radio Art - Broadway
+http://air.radioart.com/fBroadway.mp3?dlid=
+#EXTINF:-1, Radio Art - For Work
+http://air.radioart.com/fFor_work.mp3?dlid=
+#EXTINF:-1, Radio Art - Folk soft rock
+http://air.radioart.com/fFolk_and_soft_rock.mp3?dlid=
+#EXTINF:-1, Radio Art - Ballet music
+http://air.radioart.com/fBallet_music.mp3?dlid=
+#EXTINF:-1, Radio Art - Classical Crossover
+http://air.radioart.com/fClassical_crossover.mp3?dlid=
+#EXTINF:-1, Radio Art - Solo Harp
+http://air.radioart.com/fSolo_harp.mp3?dlid=
+#EXTINF:-1, Radio Art - Music for moms
+http://air.radioart.com/fMusic_for_moms.mp3?dlid=
+#EXTINF:-1, Radio Art - Latin
+http://air.radioart.com/fLatin.mp3?dlid=
+#EXTINF:-1, Radio Art - Film Scores
+http://air.radioart.com/fFilm_scores.mp3?dlid=
+#EXTINF:-1, Radio1 ROCK (Rhodes) - 0
+http://www.radio1.gr/live/rock.pls
+#EXTINF:-1, Radio1 ROCK (Rhodes) - 1
+http://www.radio1.gr/live/rock.asx
+#EXTINF:-1, Radio1 ROCK (Rhodes) - 2
+http://www.radio1.gr/live/rock.ram
+#EXTINF:-1, Radio1 ROCK (Rhodes) - 3
+http://111.gr:8000/;
+#EXTINF:-1, RadioIn 80s
+http://213.239.206.179:8383/;
+#EXTINF:-1, RadiQ
+http://radiq.no-ip.biz:99/;
+#EXTINF:-1, Radio1 CLASSIC (Rhodes) - 0
+http://www.radio1.gr/live/classic.ram
+#EXTINF:-1, Radio1 CLASSIC (Rhodes) - 1
+http://www.radio1.gr/live/classic.asx
+#EXTINF:-1, Radio1 CLASSIC (Rhodes) - 2
+http://www.radio1.gr/live/classic.pls
+#EXTINF:-1, Akous - RODON NOW
+http://ice2.onestreaming.com/akousrodon
+#EXTINF:-1, Pickup Radio
+http://173.249.0.141:8142/stream
+#EXTINF:-1, Pickupradio Retro Vintage
+http://173.249.0.141:8148/stream
+#EXTINF:-1, Chillout Radio (Web)
+http://live.chilloutradio.tk:8999/;stream.mp3
+#EXTINF:-1, Radio Art - Romantic Period
+http://air.radioart.com/fRomantic_period.mp3
+#EXTINF:-1, Radio Art - Lute
+http://air.radioart.com/fLute.mp3
+#EXTINF:-1, Radio Art - Jazz piano
+http://air.radioart.com/fJazz_piano.mp3?dlid=
+#EXTINF:-1, Radio Art - Reiki
+http://air.radioart.com/fReiki.mp3
+#EXTINF:-1, Radio Art - Shakuhachi
+http://air.radioart.com/fShakuhachi.mp3
+#EXTINF:-1, Radio Art - Lullaby
+http://air.radioart.com/fLullaby.mp3
+#EXTINF:-1, Radio Art - Didgeridoo
+http://air.radioart.com/fDidgeridoo.mp3
+#EXTINF:-1, Radio Art - Ambient Piano
+http://air.radioart.com/fAmbient_piano.mp3
+#EXTINF:-1, Radio Art - Nature
+http://air.radioart.com/fNature.mp3
+#EXTINF:-1, Radio Art - Dreamscapes
+http://air.radioart.com/fDreamscapes.mp3
+#EXTINF:-1, Radio Art - Aura
+http://air.radioart.com/fAura.mp3
+#EXTINF:-1, Radio Art - New Age
+http://air.radioart.com/fNew_age.mp3
+#EXTINF:-1, Radio Art - Ambient
+http://air.radioart.com/fAmbient.mp3
+#EXTINF:-1, Radio Art - Mantras
+http://air.radioart.com/fMantras.mp3
+#EXTINF:-1, Radio Art - Healing
+http://air.radioart.com/fHealing.mp3
+#EXTINF:-1, Radio Art - Vocal New Age
+http://air.radioart.com/fVocal_new_age.mp3
+#EXTINF:-1, Radio Art - Wisdom
+http://air.radioart.com/fWisdom.mp3
+#EXTINF:-1, Radio Art - Chillout
+http://air.radioart.com/fChillout.mp3
+#EXTINF:-1, Radio Art - Just Classical
+http://air.radioart.com/fJust_classical.mp3
+#EXTINF:-1, Radio Art - Chillout & Tropical
+http://air.radioart.com/fChillout_and_tropical.mp3
+#EXTINF:-1, Radio Art - Classical Relaxation
+http://air.radioart.com/fClassical_relaxation.mp3
+#EXTINF:-1, Radio Art - Vocal Chillout
+http://air.radioart.com/fVocal_chillout.mp3
+#EXTINF:-1, Radio Art - Chamber Works
+http://air.radioart.com/fChamber_works.mp3
+#EXTINF:-1, Hermoupolis Radio
+http://173.249.0.141:8172/stream
+#EXTINF:-1, Jamendo Lounge - 0
+http://streaming.radionomy.com/JamendoLounge?lang=en-US&appName=iTunes.m3u
+#EXTINF:-1, Jamendo Lounge - 1
+http://listen.radionomy.com/jamendolounge
+#EXTINF:-1, Jamendo Lounge - 2
+http://listen.radionomy.com/radioelounda.m3u
+#EXTINF:-1, MajorScaleRadio - 0
+http://streaming.radionomy.com/MajorScaleRadio?lang=en-US&appName=iTunes.m3u
+#EXTINF:-1, MajorScaleRadio - 1
+http://listen.radionomy.com/majorscaleradio.m3u
+#EXTINF:-1, RadioMonaco (Web)
+http://46.165.220.22:8028/stream
+#EXTINF:-1, Star FM 93.3 (Grevena)
+http://proradio.gr:8004/star933
+#EXTINF:-1, Ellinikosfm.com - 0
+http://www.ellinikosfm.com/ellinikosfmLQ.m3u
+#EXTINF:-1, Ellinikosfm.com - 1
+http://www.ellinikosfm.com/ellinikosfmHQ.m3u
+#EXTINF:-1, Ellinikosfm.com - 2
+http://37.187.79.56:8000/live
+#EXTINF:-1, Ι. Μητρ. Κυδωνίας & Αποκορώνου - Ράδιο Μαρτυρία 99.5 (Chania)
+http://sc2.streamwithq.com:8006/;
+#EXTINF:-1, Nova FM 92.1 (Lamia)
+http://s3.onweb.gr:8032/;stream/1
+#EXTINF:-1, Audiophile Rock and Blues (Web)
+http://8.38.78.173:8240/;
+#EXTINF:-1, Audiophile Classical (Web)
+http://8.38.78.173:8093/;
+#EXTINF:-1, Audiophile Jazz (Web)
+http://8.38.78.173:8210/;
+#EXTINF:-1, Wave Fm 97.4 (Patras)
+http://live.webhosting4u.gr:8007/;
+#EXTINF:-1, Web Music Radio - Athens, Greece
+http://188.165.187.84:8098/;
+#EXTINF:-1, Radio DeeJay 89.6 (Ioannina)
+http://50.7.130.2:7546/;
+#EXTINF:-1, Radio DeeJay 93.4 (Preveza)
+http://162.244.80.139:8044/;
+#EXTINF:-1, Radio DeeJay 95.2 (Athens)
+http://radiodjlive.mdc.akamaized.net/strmDj952/usrDj952/playlist.m3u8
+#EXTINF:-1, Radio1 DANCE (Rhodes) - 0
+http://www.radio1.gr/live/dance.pls
+#EXTINF:-1, Radio1 DANCE (Rhodes) - 1
+http://www.radio1.gr/live/dance.asx
+#EXTINF:-1, Radio1 DANCE (Rhodes) - 2
+http://www.radio1.gr/live/dance.ram
+#EXTINF:-1, Radio1 GOLD (Rhodes) - 0
+http://www.radio1.gr/live/gold.pls
+#EXTINF:-1, Radio1 GOLD (Rhodes) - 1
+http://www.radio1.gr/live/gold.asx
+#EXTINF:-1, Radio1 GOLD (Rhodes) - 2
+http://www.radio1.gr/live/gold.ram
+#EXTINF:-1, Radio1 LAIKA (Rhodes) - 0
+http://www.radio1.gr/live/laika.pls
+#EXTINF:-1, Radio1 LAIKA (Rhodes) - 1
+http://www.radio1.gr/live/laika.asx
+#EXTINF:-1, Radio1 LAIKA (Rhodes) - 2
+http://www.radio1.gr/live/laika.ram
+#EXTINF:-1, Radio1 LOUNGE (Rhodes) - 0
+http://www.radio1.gr/live/lounge.pls
+#EXTINF:-1, Radio1 LOUNGE (Rhodes) - 1
+http://www.radio1.gr/live/lounge.asx
+#EXTINF:-1, Radio1 LOUNGE (Rhodes) - 2
+http://www.radio1.gr/live/lounge.ram
+#EXTINF:-1, Red 96.3 - 00's (Web)
+http://ample-06.radiojar.com/red00s
+#EXTINF:-1, Red 96.3 - 80's (Web)
+http://ample-04.radiojar.com/red80s
+#EXTINF:-1, Red 96.3 - 90's (Web)
+http://ample-04.radiojar.com/red90s
+#EXTINF:-1, Red 96.3 - Red Classics (Web)
+http://ample-01.radiojar.com/redclassics
+#EXTINF:-1, Red 96.3 - Red Metal (Web)
+http://ample-10.radiojar.com/redmetal
+#EXTINF:-1, Red 96.3 - Red New Music (Web)
+http://ample-05.radiojar.com/rednewmusic
+#EXTINF:-1, Red 96.3 - Freedom (Web)
+http://ample-11.radiojar.com/freedomwebradio
+#EXTINF:-1, Beton7 Art Radio (Web) - 0
+http://us7.streamingpulse.com/1979/?pl=winamp&c=Beton7%20Artradio
+#EXTINF:-1, Beton7 Art Radio (Web) - 1
+http://us7.streamingpulse.com/1979/?pl=wmp&c=Beton7%20Artradio
+#EXTINF:-1, Beton7 Art Radio (Web) - 2
+http://uk1.streamingpulse.com:8092/stream
+#EXTINF:-1, Ernest Radio (Web)
+http://solid1.streamupsolutions.com:13262/stream
+#EXTINF:-1, Greca FM 99.4 (Pyrgos)
+http://eco.onestreaming.com:8109/;
+#EXTINF:-1, Melody 88.8 (Patras)
+http://stream.melody888.gr:48500/melody.mp3
+#EXTINF:-1, My 80's (Web) - 0
+http://pstnet3.shoutcastnet.com:36800/;
+#EXTINF:-1, My 80's (Web) - 1
+http://81.196.107.43:36800/;
+#EXTINF:-1, Octava Radio (Web) - 0
+http://octavaradio.gr/players/listen.pls
+#EXTINF:-1, Octava Radio (Web) - 1
+http://octavaradio.gr/players/playlist.asx
+#EXTINF:-1, Octava Radio (Web) - 2
+http://46.4.238.84:9302/stream/;
+#EXTINF:-1, Omega Radio (Web)
+http://streaming.omegaradio.gr:9962/stream
+#EXTINF:-1, Plus U Radio (web)
+http://cast4.magicstreams.gr:10064/live
+#EXTINF:-1, Power FM 93.2 (Larissa)
+http://centova.32bit.gr:8003/;
+#EXTINF:-1, Radio Enter 91.7 (Patras)
+http://europa.shoutca.st:8203/;
+#EXTINF:-1, Radio Thessaloniki 94.5 FM - 0
+http://37.59.32.115:6156/;
+#EXTINF:-1, Radio Thessaloniki 94.5 FM - 1
+http://37.59.32.115:6156/stream
+#EXTINF:-1, Radio Venus 99.3 FM Mykonos (Greek Islands)
+http://s7.onweb.gr:8410/;
+#EXTINF:-1, RadioIn 106.5 (Mandra) - 0
+http://213.239.206.179:8383/;
+#EXTINF:-1, RadioIn 106.5 (Mandra) - 1
+http://213.239.206.179:8383/stream
+#EXTINF:-1, Rock Aces - On Line Radio - 0
+http://rockaces.com/player/?pl=winamp&c=Rockaces%20Online%20Radio
+#EXTINF:-1, Rock Aces - On Line Radio - 1
+http://cast.radiohost.ovh:9203/;
+#EXTINF:-1, Rock Aces - On Line Radio - 2
+http://rockaces.com/player/?pl=wmp&c=Rockaces%20Online%20Radio
+#EXTINF:-1, Rock Aces - On Line Radio - 3
+http://rockaces.com/player/?pl=vlc&c=Rockaces%20Online%20Radio
+#EXTINF:-1, Sfera 91 (Patmos)
+http://eco.onestreaming.com:8070/;
+#EXTINF:-1, Smart Fm 100.7 (Patras)
+http://solid1.streamupsolutions.com:36713/stream
+#EXTINF:-1, Sport fm 103.3 (Rethymno) - Κρήτη, Ρέθυμνο  Αθλητικά, Ποπ & Ροκ
+http://185.78.220.57:9206/;
+#EXTINF:-1, Star FM 92.9 (Argos)
+http://netradio.live24.gr/star929-nauplio
+#EXTINF:-1, BluestarFM (Web) - Volos
+http://bluestarfm.media.friktoria.net:8000/bluestarfm.mp3
+#EXTINF:-1, Top Melody 104.9 (Santorini) - 0
+http://5.133.182.174:39284/;
+#EXTINF:-1, Top Melody 104.9 (Santorini) - 1
+http://5.133.182.174/stream.mp3?ipport=5.133.182.174_39284
+#EXTINF:-1, Yes 91.2 (Patras) - 0
+http://5.9.17.142:8024/;
+#EXTINF:-1, Yes 91.2 (Patras) - 1
+http://5.9.17.142:8024/;0stream.nsv
+#EXTINF:-1, Yes! PLUS
+http://5.9.17.142:8024/;
+#EXTINF:-1, Αμαρτια FM (Web) - 0
+http://cast.innviweb.com:9030/;
+#EXTINF:-1, Αμαρτια FM (Web) - 1
+http://cast.innviweb.com:9030/stream
+#EXTINF:-1, Ανάσες (Web) - 0
+http://88.99.164.126:8051/;
+#EXTINF:-1, Ανάσες (Web) - 1
+http://88.99.164.126:8051/anases
+#EXTINF:-1, Αρκαδία 938 (Tripolis)
+http://ample-06.radiojar.com/g34k4f92n74tv
+#EXTINF:-1, Αστέρας Radio 100.1 (Tripolis)
+http://85.25.105.192:9998/;
+#EXTINF:-1, Ελληνικό Φαινόμενο (Web)
+http://213.239.206.179:9888/;stream.mp3
+#EXTINF:-1, Εν Λευκώ 87.7 (Athens)
+http://ample-05.radiojar.com/enlefko877
+#EXTINF:-1, Ηχος fm 94.2 (Rethymno)
+http://shoutcast.24radio.gr:8010/;
+#EXTINF:-1, Ηχώ FM 102.1 (Paros)
+http://eco.onestreaming.com:8280/;
+#EXTINF:-1, Πανικός fm (Web) - 0
+http://s2.free-shoutcast.com:18022/stream
+#EXTINF:-1, Πανικός fm (Web) - 1
+http://s2.free-shoutcast.com:18022/stream
+#EXTINF:-1, Πανικός fm (Web) - 2
+http://78.47.96.202:8092/;
+#EXTINF:-1, Ράδιο Αίγιο 99.2 (Egio)
+http://eu7.fastcast4u.com:6130/;
+#EXTINF:-1, Ράδιο Αλήθεια 95.7 (Chios)
+http://soho.wavestreamer.com:7337/;
+#EXTINF:-1, Ράδιο Δράμα 99.1 (Drama)
+http://87.117.201.152:19657/;
+#EXTINF:-1, Ράδιο Νεολαία (Web)
+http://ample-03.radiojar.com/neolaiagr.mp3
+#EXTINF:-1, BLUE RADIO (Web) - 0
+http://sip.blueradio.gr:8441/;
+#EXTINF:-1, BLUE RADIO (Web) - 1
+http://cent6.directhostingcenter.com:2199/tunein/ldyoiftp.asx
+#EXTINF:-1, 96.5 fm Ο σταθμός των εργαζομένων (Chalkida)
+http://88.99.23.26:9972/;
+#EXTINF:-1, Akous - Breeze
+http://live.akous.gr/akousbreeze
+#EXTINF:-1, Aria FM 107.4 (Agrinio)
+http://cast4.magicstreams.gr:10131/;stream.mp3
+#EXTINF:-1, Burradio (web)
+http://38.107.243.188:8678/stream
+#EXTINF:-1, DJDARKY2.16 (Web)
+http://37.59.14.8:9982/;stream.mp3
+#EXTINF:-1, Driver FM - driverfm.gr
+http://192.111.140.6:8524/stream
+#EXTINF:-1, Kiss FM Extra 95.8 (Corfu)
+http://streams2.onairsolution.gr:48500/kiis958.mp3
+#EXTINF:-1, LXR RADIO
+http://stream.streamaudio.de:8000/lxr-radio
+#EXTINF:-1, Minore Fm 104.3 (Athens)
+http://minorefm.live24.gr/minorefm
+#EXTINF:-1, Oscar Radio
+http://88.198.47.41:8001/live
+#EXTINF:-1, Paradise Radio 101.6
+http://213.239.206.179:8850/;stream.mp3
+#EXTINF:-1, Radio 88miso
+http://solid33.streamupsolutions.com:30000/stream
+#EXTINF:-1, Radio Art - Greek Art Standards
+http://air.radioart.com/fGreek_art_standards.mp3
+#EXTINF:-1, Mindradio
+http://s6.streammonster.com:8036/live
+#EXTINF:-1, Radio Gallimi
+http://85.10.206.222:8010/stream
+#EXTINF:-1, Ελληνική Ραδιοφωνία Μάνα Ελλάδα (Web)
+http://50.7.71.219:9714/;
+#EXTINF:-1, Scream 106.3 (Kozani)
+http://176.9.184.196:8292/stream/;
+#EXTINF:-1, Star FM 97.1 (Salonica)
+http://eco.onestreaming.com:8434/;
+#EXTINF:-1, Sunradio 97.1 FM (Drama)
+http://78.129.224.15:13831/;
+#EXTINF:-1, Sunshine 107.7 (Salonika)
+http://188.165.192.5:8558/;
+#EXTINF:-1, Super 90.4 (Heraklion) - 0
+http://dione.shoutca.st:8206/;
+#EXTINF:-1, Super 90.4 (Heraklion) - 1
+http://dione.shoutca.st/tunein/super.pls
+#EXTINF:-1, The Press Project
+http://ample-04.radiojar.com/qgra821mrtwtv
+#EXTINF:-1, Time FM 90.9 (Kalamata) - 0
+http://muse.multiserver.gr:2199/tunein/timefm-stream.pls
+#EXTINF:-1, Time FM 90.9 (Kalamata) - 1
+http://muse.multiserver.gr:2199/tunein/timefm-stream.asx
+#EXTINF:-1, X fm 94.3 (Athens)
+http://147.135.252.4:10198/;stream.mp3
+#EXTINF:-1, Αθήνα 98.4 FM (Athens)
+http://athina984.live24.gr/athina984
+#EXTINF:-1, Ανεμος FM 93.7 (Agrinio)
+http://netradio.live24.gr/agrinio937
+#EXTINF:-1, ΕΡΤ - Πύργος 102.4
+http://radiostreaming.ert.gr/ert-pyrgos
+#EXTINF:-1, Ηλέκτρα 98.8 (Corinth)
+http://stream.hlektra.fm:8300/;
+#EXTINF:-1, Κρητικός 88.7 (Heraklion) - 0
+http://dione.shoutca.st/tunein/kritikos.pls
+#EXTINF:-1, Κρητικός 88.7 (Heraklion) - 1
+http://dione.shoutca.st:8433/;
+#EXTINF:-1, Μελωδικός  (Web)
+http://213.239.206.179:8383/stream
+#EXTINF:-1, Μεσσάτιδα 98 (Patras)
+http://147.135.252.4:10115/;
+#EXTINF:-1, Μύθος FM 90.6 (Patras)
+http://148.251.148.59:8020/;stream.mp3
+#EXTINF:-1, Ομορφη Πόλη 89.9 (Xanthi)
+http://193.92.70.63:8081/broadwavehigh.mp3
+#EXTINF:-1, Ράδιο Άλφα 104.7 FM (Alexandroupolis)
+http://78.47.56.126:9219/stream
+#EXTINF:-1, Ράδιο Άργος 98.4 (Argos)
+http://sc.cast-control.eu:8012/listen.pls;listen.pls
+#EXTINF:-1, Ράδιο Ελασσόνα 88.4 (Larissa)
+http://stream2.greekradios.gr:8008/;
+#EXTINF:-1, Ράδιο Εύβοια 104.1 (Chalkida)
+http://136.243.200.184:9900/;
+#EXTINF:-1, Ράδιο Θήβα 97.5 (Thiva)
+http://realserver.info:8034/stream
+#EXTINF:-1, Ράδιο Ιωνία 105.2 (Samos)
+http://eco.onestreaming.com:8596/;
+#EXTINF:-1, Ράδιο Λήμνος 98 (Lemnos)
+http://148.251.44.106:8022/stream
+#EXTINF:-1, Ράδιο Νετ 101.9 (Lamia) - 0
+http://www.radio-net.gr/player/?pl=winamp&c=Radio%20NET%20101,9
+#EXTINF:-1, Ράδιο Νετ 101.9 (Lamia) - 1
+http://147.135.252.4:10167/live
+#EXTINF:-1, Ρόδον FM 95 (Serres) - 0
+http://live3.istoikona.net:8324/stream
+#EXTINF:-1, Ρόδον FM 95 (Serres) - 1
+http://live3.istoikona.net:8324/;
+#EXTINF:-1, Ρυθμός 94.9 (Athens)
+http://ample-09.radiojar.com/g4tyehk5yvduv
+#EXTINF:-1, Στυλίδα FM 94.1 (Lamia)
+http://cast.internetsolution.gr:8050/;
+#EXTINF:-1, Liquid Web Radio
+http://ice.streamcloud.mediacdn.com/freeradio-1000
+#EXTINF:-1, RadioActive 91.3 - Sifnos
+http://46.165.220.22:8050/radioactive
+#EXTINF:-1, RnB Hits Radio - 0
+http://streaming.radionomy.com/RnBHitsRadio?lang=en-US&appName=iTunes.m3u
+#EXTINF:-1, RnB Hits Radio - 1
+http://listen.radionomy.com/rnbhitsradio
+#EXTINF:-1, JB Radio2 - 0
+http://bluford.torontocast.com:8482/aac-64.m3u
+#EXTINF:-1, JB Radio2 - 1
+http://bluford.torontocast.com:8482/live.opus
+#EXTINF:-1, Ελληνικός FM - Ellinikos FM (Web) - 0
+http://www.ellinikosfm.com/ellinikosfmHQ.pls
+#EXTINF:-1, Ελληνικός FM - Ellinikos FM (Web) - 1
+http://www.ellinikosfm.com/ellinikosfmHQ.m3u
+#EXTINF:-1, Στο Κόκκινο 93.4 (Thessaloniki)
+http://ample-10.radiojar.com/kokkino-thes
+#EXTINF:-1, Radio Melody 96.7 (Lemnos)
+http://eu6.fastcast4u.com/proxy/tmatso002?mp=/1
+#EXTINF:-1, Avanti 97.7  (Lamia)
+http://avanti977lamia.live24.gr/avanti977lamia
+#EXTINF:-1, Nova Radio 93.1 (Xanthi)
+http://stream-mp3aac.live24.gr/nova931
+#EXTINF:-1, Paradise Radio 90.3 (Xanthi)
+http://stream-mp3aac.live24.gr/paradise903
+#EXTINF:-1, Best Radio 90.7 (Ioannina)
+http://907ioannina.live24.gr/907ioannina
+#EXTINF:-1, Metro 90.3 (Lamia)
+http://metro903.live24.gr/metro903
+#EXTINF:-1, Μινώρε FM (Web)
+http://minorefm.live24.gr/minorefm
+#EXTINF:-1, Αθήνα Radio (Web)
+http://iservsp.mediacdn.com/athinaradio
+#EXTINF:-1, Antenna 94  (Grevena) - 0
+http://ant1grevena.live24.gr/ant1grevena
+#EXTINF:-1, Antenna 94  (Grevena) - 1
+mms://ant1grevena.live24.gr/ant1grevena
+#EXTINF:-1, Αέρας FM 99.5 (Agrinio)
+http://ice.streamcloud.mediacdn.com/aerasfm995
+#EXTINF:-1, Χρώμα 98.5 (Lamia)
+http://xroma985.live24.gr/xroma985
+#EXTINF:-1, Ραδιοφωνία Κυκλάδων 101.3 (Cyclades)
+http://ice.streamcloud.mediacdn.com/rkykladwn
+#EXTINF:-1, Λάμψη 92.9 (Heraklion) - 0
+http://ice.streamcloud.mediacdn.com/lampsi929herakleio
+#EXTINF:-1, Λάμψη 92.9 (Heraklion) - 1
+mms://ice.streamcloud.mediacdn.com/lampsi929herakleio
+#EXTINF:-1, Sfera 98.9 (Chios)
+http://stream-mp3aac.live24.gr/sfera989
+#EXTINF:-1, Avanti 101.2 (Chalkida)
+http://netradio.live24.gr/metrofm1012xalkida
+#EXTINF:-1, Arion Radio 1 (Web) - 0
+http://arion.onestreaming.com/arion
+#EXTINF:-1, Arion Radio 1 (Web) - 1
+http://golive.onestreaming.com/arion
+#EXTINF:-1, Sfera 102.2 (Athens)
+http://sfera.live24.gr/sfera4132
+#EXTINF:-1, Sport fm 96.3 (Patras)
+http://netradio.live24.gr/sportfmpatras
+#EXTINF:-1, Avanti 107.6 (Larisa) - 0
+http://avantifm.live24.gr/avantifm
+#EXTINF:-1, Avanti 107.6 (Larisa) - 1
+http://go.e-rad.io/asx/avantifm.asx
+#EXTINF:-1, Best FM 103.1 (Rhodes)
+http://iservsp.mediacdn.com/bestradiorho2
+#EXTINF:-1, Καλαμαριά FM 101.7 (Salonica) - 0
+http://sc.greekstream.net/;.mp3
+#EXTINF:-1, Καλαμαριά FM 101.7 (Salonica) - 1
+http://go.e-rad.io/asx/kalamariafm.asx
+#EXTINF:-1, DRi 92.2 FM (Άργος)
+http://95.154.254.129:23143
+#EXTINF:-1, Radio Art - For Study
+http://live.radioart.com/fFor_study.mp3?
+#EXTINF:-1, Χρώμα 88.2 (Volos)
+http://metrovolos882.live24.gr:/metrovolos882
+#EXTINF:-1, MaxFM 93.4 (Patras)
+http://netradio.live24.gr/maxfm93-4-patra
+#EXTINF:-1, LUX Radio 102.7 (Patras)
+http://netradio.live24.gr/lux102-7-patra
+#EXTINF:-1, Παραπολιτικά Πάτρας 90 (Patras)
+http://netradio.live24.gr/parapolitikapatra
+#EXTINF:-1, chimeres
+http://stream.chimeres.info/live
+#EXTINF:-1, Easy 97.2 FM (Athens)
+http://stream.radiojar.com/cthtwxk5yvduv.mp3
+#EXTINF:-1, Παραπολιτικά FM 90.1 (Athens) - 0
+http://netradio.live24.gr/athinaradio
+#EXTINF:-1, Παραπολιτικά FM 90.1 (Athens) - 1
+http://go.e-rad.io/asx/parapolitikafm.asx
+#EXTINF:-1, Real FM 97.8 (Athens) - 0
+http://realfm.live24.gr/realfm
+#EXTINF:-1, Real FM 97.8 (Athens) - 1
+http://realfm.live24.gr/realfm
+#EXTINF:-1, Real FM 97.8 (Athens) - 2
+http://realfm2.live24.gr/realfm
+#EXTINF:-1, Best Radio 92.6 (Athens)
+http://best.live24.gr/best1222
+#EXTINF:-1, Kiss 92.9 (Athens) - 0
+http://kissfm.live24.gr/kissfmathens
+#EXTINF:-1, Kiss 92.9 (Athens) - 1
+http://kissfm.live24.gr/kiss2111
+#EXTINF:-1, Kiss 92.9 (Athens) - 2
+http://go.e-rad.io/asx/kissfm.asx
+#EXTINF:-1, Υδρόγειος FM 106.9 (Heraklion) - 0
+http://netradio.live24.gr/ydrogeios1069her
+#EXTINF:-1, Υδρόγειος FM 106.9 (Heraklion) - 1
+http://listen.onestreaming.com/asx/ydrogeios.asx
+#EXTINF:-1, Υδρόγειος FM 106.9 (Heraklion) - 2
+mms://golive.onestreaming.com/ydrogeios
+#EXTINF:-1, Παλμός 99.5 (Rhodes)
+http://netradio.live24.gr/palmos995-rho
+#EXTINF:-1, Πίνδος FM 107.7 (Metsovo)
+http://netradio.live24.gr/radiopindos1077
+#EXTINF:-1, Μοναδική Πολιτεία 96 (Nafpaktos)
+http://netradio.live24.gr/monadikipolitia96
+#EXTINF:-1, Μελωδία 99.2 (Athens)
+http://netradio.live24.gr/melodia
+#EXTINF:-1, Ι. Μητρ. Μαρωνείας & Κομοτηνής 95.8 (Komotini)
+http://ice.streamcloud.mediacdn.com/imkomotini
+#EXTINF:-1, Love Radio 102.8 (Heraklion)
+http://loveradio-her.live24.gr/loveradio-her2
+#EXTINF:-1, 24*7 ραδιόφωνο 91.4 (Salonica)
+http://netradio.live24.gr/886athens
+#EXTINF:-1, Music Radio 89.2 (Athens)
+http://ample-02.radiojar.com/k0hua7u1yk5tv?
+#EXTINF:-1, Στο Κόκκινο 105.5 (Athens) - 0
+http://stream.radiojar.com/kokkino-ath.mp3
+#EXTINF:-1, Στο Κόκκινο 105.5 (Athens) - 1
+http://go.e-rad.io/asx/kokkino.asx
+#EXTINF:-1, Ράδιο Κυπαρισσία 93.6 (Kyparisia - Kalamata)
+http://radio936.radioca.st/stream/
+#EXTINF:-1, Μουσικός 98.6 (Athens)
+http://netradio.live24.gr/mousikos986
+#EXTINF:-1, ΘΕΜΑ 104.6 (Athens)
+http://stream.radiojar.com/cdk030dsvv5tv
+#EXTINF:-1, Κανάλι 1 – Δημοτική Ραδιοφωνία Πειραιά 90.4 (Piraeus)
+http://netradio.live24.gr/kanali1peiraia
+#EXTINF:-1, Derti 98.6 (Athens)
+http://derti.live24.gr/derty1000
+#EXTINF:-1, Radio Thalassa - 0
+http://rs2.stream24.org:8320/
+#EXTINF:-1, Radio Thalassa - 1
+http://82.197.165.143:80
+#EXTINF:-1, Radio Thalassa - 2
+http://stream2143.init7.net/
+#EXTINF:-1, Radio Thalassa - 3
+http://stream2143.init7.net:80/
+#EXTINF:-1, Radio Thalassa - 4
+http://www.radiothalassa.gr/streams/6000.m3u
+#EXTINF:-1, Radio Thalassa - 5
+http://www.radiothalassa.gr/streams/qt6000.pls
+#EXTINF:-1, RockGenesis Radio (Web)
+http://ample-02.radiojar.com/rockingradio?
+#EXTINF:-1, Φάρος FM 104 (Syros) - 0
+http://s41.myradiostream.com:28554/;
+#EXTINF:-1, Φάρος FM 104 (Syros) - 1
+http://5.135.154.66:28554/;
+#EXTINF:-1, OK FM 94.5 (Volos)
+http://www.gointernet.gr:8034/;stream.mp3
+#EXTINF:-1, Light Radio Net
+http://solid33.streamupsolutions.com:30021/;stream/1
+#EXTINF:-1, Ι.Μητροπόλεως Γορτύνης & Αρκαδίας - Ο Εύδιος Λιμήν (Ηράκλειο)
+http://eco.onestreaming.com:8650/;
+#EXTINF:-1, Kiss FM Kefalonia 100.6
+http://live.radiokiss.gr/kissfm1006hq.mp3
+#EXTINF:-1, You FM 100.1 (Patras) - 0
+http://www.youfmradio.gr:8880/stream
+#EXTINF:-1, You FM 100.1 (Patras) - 1
+http://www.youfmradio.gr:8880/listen.pls?sid=1
+#EXTINF:-1, You FM 100.1 (Patras) - 2
+http://listen.onestreaming.com/asx/youfm.asx
+#EXTINF:-1, You FM 100.1 (Patras) - 3
+http://go.erad.io/asx/youfm.asx
+#EXTINF:-1, NRG 91 FM
+http://s3.onweb.gr:9100/;
+#EXTINF:-1, Antenna Δυτικής Κρήτης 97.0 (Chania)
+http://sc2.streamwithq.com:8008/;stream.mp3
+#EXTINF:-1, Δημοτική Ραδιοφωνία Πρέβεζας 87.9 (Preveza)
+http://sc2.streamwithq.com:8028/stream;;audio.mp3
+#EXTINF:-1, Υπάρχω FM 101.4 (Alexandroupolis)
+http://147.135.252.4:10186/;
+#EXTINF:-1, Ράδιο Έβρος 97.1 (Alexandroupolis - Orestiada)
+http://live.radioevros.gr:8000/live
+#EXTINF:-1, Nobacco Radio
+http://95.211.186.69:8156/;stream.mp3
+#EXTINF:-1, Noize Radio 93.5 - Serres
+http://37.187.57.33:8014/stream
+#EXTINF:-1, X-Radio Athens - 0
+http://protostar.shoutca.st:8571/;
+#EXTINF:-1, X-Radio Athens - 1
+http://protostar.shoutca.st:8571/stream
+#EXTINF:-1, Sfera 90.7 (Volos)
+http://37.59.14.77:8243/;
+#EXTINF:-1, 99fm / ράδιο 1 (Thessaloniki) - 0
+http://62.212.82.208:8000/;
+#EXTINF:-1, 99fm / ράδιο 1 (Thessaloniki) - 1
+http://eco.onestreaming.com:8336/listen.pls
+#EXTINF:-1, Butterfly Webradio (Web) - 0
+http://centova.innviweb.com:9120/stream
+#EXTINF:-1, Butterfly Webradio (Web) - 1
+http://centova.magicstreams.gr:2199/tunein/xmalousi.asx
+#EXTINF:-1, Butterfly Webradio (Web) - 2
+http://centova.magicstreams.gr:2199/tunein/xmalousi.ram
+#EXTINF:-1, Star Radio 104.6 (Symi)
+http://starradio.no-ip.biz:8000/;
+#EXTINF:-1, Radio Gold @net (Web)
+http://radiogold.live24.gr/radiogold
+#EXTINF:-1, Ράδιο Φλόγα - Το Ορθόδοξο Νεανικό Κυκλαδίτικο Ραδιόφωνο (Web)
+http://protostar.shoutca.st:8066/;
+#EXTINF:-1, Star FM 93.5 (Drama)
+http://188.165.248.218:8011/;
+#EXTINF:-1, Proto FM 99 (Karditsa)
+http://s1.onweb.gr:8052/;
+#EXTINF:-1, Sky Fm 100.7 (Akexandroupolis)
+http://213.239.206.179:8107/;listen.pls
+#EXTINF:-1, G 92 Galaxy FM
+http://galaxy.live24.gr/galaxy9292
+#EXTINF:-1, Ραδιο Γάμμα 94.0 (Patras)
+http://radiogamma.live24.gr/radiogamma
+#EXTINF:-1, Δίαυλος Ροδόπης 92.4 (Komotini)
+http://eco.onestreaming.com:8588/;audio.mp3
+#EXTINF:-1, Κνωσός FM 100.6 (Heraklion)
+http://streaming.ekriti.gr:1935/KnossosFM/KnossosFM/playlist.m3u8
+#EXTINF:-1, Αστρα Ράδιο 93.2 (Lesvos) / Astra Radio 93.2
+http://eco.onestreaming.com:8554/;
+#EXTINF:-1, Sfera 96.6 (Patras)  / Sphere 96.6
+http://netradio.live24.gr/sfera96-6-patra
+#EXTINF:-1, Sport24 Radio 104.1 (Patras)
+http://37.187.136.85:9525/stream.mp3
+#EXTINF:-1, Ράδιο Κρήτη 101.5 (Heraklion) Radio Kriti FM 101.5
+http://streaming.ekriti.gr:1935/RadioKriti/RadioKriti/master.m3u8
+#EXTINF:-1, Μελωδία 100.4 (Patras)
+http://37.187.136.85:9523/stream.mp3
+#EXTINF:-1, Station no name - 0
+http://usa7.fastcast4u.com/proxy/gqawrfue?mp=/1
+#EXTINF:-1, Station no name - 1
+http://192.99.17.12:5146/stream
+#EXTINF:-1, Ράδιο Νύχτα (Web)
+https://rantebou.eu/Nyxta
+#EXTINF:-1, Γαλαξίας FM 92.1 (Amfissa)
+http://streaming.shoutcast.com/GalaxiasFM92-1
+#EXTINF:-1, ΣΚΑΪ 89.4 (Patras)
+http://37.187.136.85:9519/stream.mp3
+#EXTINF:-1, Λουτράκι Fm 96.9 (Loutraki - Corinth)
+http://comet.shoutca.st:8312/;
+#EXTINF:-1, news 24*7  88.6 (Athens)
+http://netradio.live24.gr/886athens
+#EXTINF:-1, Θαβώρ Web Radio
+http://85.25.195.172:9300/;
+#EXTINF:-1, Cosmos FM 99.5 (Karditsa)
+http://solid2.streamupsolutions.com:24896/stream
+#EXTINF:-1, Στο Κόκκινο 88.4 (Heraklion)
+http://144.76.92.208:8840/;stream.mp3
+#EXTINF:-1, Anntena Patras 105,3 (Real FM)
+http://163.172.35.62:1053/
+#EXTINF:-1, RealChristmas.gr
+http://realxmas.live24.gr:80/realxmas
+#EXTINF:-1, Erotokritos Irakleio Kriti 87,9
+http://stream2.proradio.gr:8004/erotokritos
+#EXTINF:-1, WEB RADIO NTIRISMAKIA
+http://95.154.254.81:11613/;
+#EXTINF:-1, Ράδιο Πάτρα 106.5 (Patra)
+http://live.cast-control.eu:9102/;
+#EXTINF:-1, Ράδιο Πόλις 99.4 (Larissa)
+http://162.244.80.118:6726/;
+#EXTINF:-1, ΑΥΤΟΚΡΑΤΟΡΙΑ.FM
+http://95.154.254.129:13172/

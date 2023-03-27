@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1, HI FM 95.9 - 0
+http://s8.viastreaming.net:7840/listen.pls
+#EXTINF:-1, HI FM 95.9 - 1
+http://s8.viastreaming.net:7840/
+#EXTINF:-1, Radio Hala FM 102.7
+http://s8.viastreaming.net:7850/
+#EXTINF:-1, Radio Merge Oman 104.8 FM
+http://uk7.internet-radio.com:8040/stream?icy=http
+#EXTINF:-1, Al Wisal - Radio Wisal Oman
+http://uk7.internet-radio.com:8067/stream
+#EXTINF:-1, Oman Radio - General Public Radio
+http://38.96.148.35:1935/live/general01/playlist.m3u8
+#EXTINF:-1, Oman Radio Youth 100.0 FM
+http://38.96.148.35:1935/live/youth01/playlist.m3u8
+#EXTINF:-1, Oman Radio Quran 93.2 FM
+http://38.96.148.35:1935/live/quran01/playlist.m3u8
+#EXTINF:-1, Oman Radio 94.4 FM
+http://38.96.148.35:1935/live/sout01/playlist.m3u8
+#EXTINF:-1, Oman Radio English 90.4 FM
+http://38.96.148.35:1935/live/english01/playlist.m3u8

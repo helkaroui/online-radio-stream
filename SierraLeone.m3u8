@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1, African Internet Radio - 0
+http://www.africaninternetradio.com/SLR-high.pls
+#EXTINF:-1, African Internet Radio - 1
+http://mega3.radioserver.co.uk:8114
+#EXTINF:-1, African Internet Radio - 2
+http://www.africaninternetradio.com/SLR-high.asx
+#EXTINF:-1, Radio Maria Sierra Leone
+http://dreamsiteradiocp2.com:8056/
+#EXTINF:-1, Capital Radio
+http://tx.sharp-stream.com/http_live.php?i=capitalradiosl.mp3

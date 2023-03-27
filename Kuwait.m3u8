@@ -1,0 +1,73 @@
+#EXTM3U
+#EXTINF:-1, Radio Aldawri Al-Kuwait Sports
+http://www.vtuner.com/vtunerweb/mms/m3u43491.m3u
+#EXTINF:-1, Marina FM 90.40 Kuwait
+http://31.14.40.102:8090/stream.ogg
+#EXTINF:-1, Kuwait Radio Two 95.7 FM
+http://svs.itworkscdn.net/kradio2live/kradio2/playlist.m3u8
+#EXTINF:-1, Kuwait Radio One 88.5 FM
+http://svs.itworkscdn.net/kradioonelive/kone/playlist.m3u8
+#EXTINF:-1, The Old Arabic Signing 87.9 FM
+http://svs.itworkscdn.net/koldlive/kold/playlist.m3u8
+#EXTINF:-1, Traditional Station 94.9 FM
+http://svs.itworkscdn.net/ktraditionallive/ktraditional/playlist.m3u8
+#EXTINF:-1, Super Station 99.7 FM
+http://svs.itworkscdn.net/ksuperstationlive/ksuper/playlist.m3u8
+#EXTINF:-1, Easy 92.5 FM
+http://svs.itworkscdn.net/keasylive/keasy/playlist.m3u8
+#EXTINF:-1, OFM  93.3
+http://svs.itworkscdn.net/kofmlive/kofm/playlist.m3u8
+#EXTINF:-1, ALQuran Alkarem 98.9 FM
+http://svs.itworkscdn.net/kquranlive/kquran/playlist.m3u8
+#EXTINF:-1, Kuwait FM 103.7
+http://svs.itworkscdn.net/kuwaitfmlive/kfm/playlist.m3u8
+#EXTINF:-1, MarinaFM 90.4
+http://31.14.40.102:8090/stream.ogg
+#EXTINF:-1, سعد الغامدى
+http://live.mp3quran.net:9976/;
+#EXTINF:-1, Quraan.com.kw - Quran in Spanish by EDC
+http://quraan.us:9960/;
+#EXTINF:-1, Quraan.com.kw - Quran in Indonesian by EDC
+http://quraan.us:9978/;
+#EXTINF:-1, Quraan.com.kw - Quran in Portuguese by EDC
+http://quraan.us:9966/;
+#EXTINF:-1, Quraan.com.kw - Quran in French by EDC
+http://quraan.us:9988/;
+#EXTINF:-1, Quraan.com.kw - Quran in Korean by EDC
+http://quraan.us:9972/;
+#EXTINF:-1, Quraan.com.kw - Quran in Kurdish by EDC
+http://quraan.us:9970/;
+#EXTINF:-1, Quraan.com.kw - Quran in Somali by EDC
+http://quraan.us:9930/;
+#EXTINF:-1, Quraan.com.kw - Tafseer AsSaadi in Russian by EDC
+http://quraan.us:9862/;
+#EXTINF:-1, Quraan.com.kw - Quran in German by EDC
+http://quraan.us:9986/;
+#EXTINF:-1, Quraan.com.kw - Quran in Kashmiri by EDC
+http://quraan.us:9974/;
+#EXTINF:-1, Quraan.com.kw - Quran in Malayalam by EDC
+http://quraan.us:9968/;
+#EXTINF:-1, Quraan.com.kw - Quran in Greek by EDC
+http://quraan.us:9984/;
+#EXTINF:-1, Quraan.com.kw - Quran in Bosnian by EDC
+http://quraan.us:9994/;
+#EXTINF:-1, Quraan.com.kw - Reading of Ibn Jummaz from Abu Jafar by AlSultani
+http://quraan.us:9942/stream
+#EXTINF:-1, Quraan.com.kw - Quran in Uyghur by EDC
+http://quraan.us:9950/;
+#EXTINF:-1, Quraan.com.kw - Quran in Persian by EDC
+http://quraan.us:9936/;
+#EXTINF:-1, Quraan.com.kw - Quran Khalid alQahtani by EDC
+http://quraan.us:9900/;
+#EXTINF:-1, Quraan.com.kw - Quran AlHosari through AdDouris narration by EDC
+http://quraan.us:9870/;
+#EXTINF:-1, Quraan.com.kw - Sh AbderRasheed Sufis Recitation of the Quran Shuba Asem by EDC
+http://quraan.us:9866/;
+#EXTINF:-1, Quraan.com.kw - Yusuf ibn Nooh Ahmads Recitation of the Quran Bazzi Ibn Kathir by EDC
+http://quraan.us:9868/;
+#EXTINF:-1, Quraan.com.kw - Recited Mushaf for Reciter Majdi AlBaltaji from Ibn Zakwan by EDC
+http://quraan.us:9864/;
+#EXTINF:-1, Quraan.com.kw - Translation of the Quran in Swahili
+http://quraan.us:9860/;
+#EXTINF:-1, Quran In Bosnian By Edc
+http://quraan.us:9994/

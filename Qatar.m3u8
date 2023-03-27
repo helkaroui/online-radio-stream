@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1, QBS Radio 97.5 FM - 0
+http://msqbstreamer1.qatarbroadcast.qa:1935/HR07/RD07.stream/playlist.m3u8
+#EXTINF:-1, QBS Radio 97.5 FM - 1
+http://msqbstreamer1.qatarbroadcast.qa:1935/HR07/RD07.stream/chunklist_w1052001806.m3u8
+#EXTINF:-1, Qatar Radio Al Rayyan - 0
+http://msqbstreamer1.qatarbroadcast.qa:1935/HR03/RD03.stream/playlist.m3u8
+#EXTINF:-1, Qatar Radio Al Rayyan - 1
+http://msqbstreamer1.qatarbroadcast.qa:1935/HR03/RD03.stream/chunklist_w1345674935.m3u8
+#EXTINF:-1, ORYX 94.0FM - 0
+http://msqbstreamer1.qatarbroadcast.qa:1935/HR08/RD08.stream/playlist.m3u8
+#EXTINF:-1, ORYX 94.0FM - 1
+http://msqbstreamer1.qatarbroadcast.qa:1935/HR08/RD08.stream/chunklist_w2090564473.m3u8
+#EXTINF:-1, Qatar Radio - 0
+http://msqbstreamer1.qatarbroadcast.qa:1935/HR02/RD02.stream/playlist.m3u8
+#EXTINF:-1, Qatar Radio - 1
+http://msqbstreamer1.qatarbroadcast.qa:1935/HR02/RD02.stream/chunklist_w316396230.m3u8
+#EXTINF:-1, Radio Al Jazeera - 0
+http://msqbstreamer1.qatarbroadcast.qa:1935/HR02/RD02.stream/playlist.m3u8
+#EXTINF:-1, Radio Al Jazeera - 1
+http://msqbstreamer1.qatarbroadcast.qa:1935/HR02/RD02.stream/chunklist_w1663262156.m3u8
+#EXTINF:-1, Qatar Radio Quran Karim - 0
+http://msqbstreamer1.qatarbroadcast.qa:1935/HR01/RD01.stream/playlist.m3u8
+#EXTINF:-1, Qatar Radio Quran Karim - 1
+http://msqbstreamer1.qatarbroadcast.qa:1935/HR01/RD01.stream/chunklist_w687669602.m3u8
+#EXTINF:-1, Radio South Al Khaleej FM - 0
+http://msqbstreamer1.qatarbroadcast.qa:1935/HR04/RD04.stream/playlist.m3u8
+#EXTINF:-1, Radio South Al Khaleej FM - 1
+http://msqbstreamer1.qatarbroadcast.qa:1935/HR04/RD04.stream/chunklist_w1363363317.m3u8
+#EXTINF:-1, Radio South Al Khaleej FM - 2
+http://icy1.abacast.com/ihorizonsradio-sakfmmp3-48

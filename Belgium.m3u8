@@ -1,0 +1,1195 @@
+#EXTM3U
+#EXTINF:-1, Radio Eurodance Classic - Strictly 90's
+http://www.radio-eurodance-classic.eu/stream/radio-eurodance-classic.m3u
+#EXTINF:-1, Radio Campus Bruxelles 92.1
+http://164.15.20.12:8000/stream.mp3
+#EXTINF:-1, A.I.R. Radio Freestyle Slow
+http://www.freestylefm.org/radio/listen/freestyleslow.m3u
+#EXTINF:-1, Zen FM - Gent, Belgium - 0
+http://stream.zenfm.be/zenfm.mp3.m3u
+#EXTINF:-1, Zen FM - Gent, Belgium - 1
+http://stream.zenfm.be/zenfm.aac.m3u
+#EXTINF:-1, Radio Star - Herzele , Be
+http://internetradio.radiostar.be:8000/;stream.nsv
+#EXTINF:-1, Radio Internazionale - 0
+http://players.fluidstream.net/radiointernazionale.pls
+#EXTINF:-1, Radio Internazionale - 1
+http://str01.fluidstream.net:80/fluid06.mp3
+#EXTINF:-1, Radio Internazionale - 2
+http://wma07.fluidstream.net:8080/fluid713.aac
+#EXTINF:-1, Radio Italia Charleroi
+http://players.fluidstream.net/charleroi.pls
+#EXTINF:-1, Radio Contact
+http://audiostream.rtl.be/contactfr192
+#EXTINF:-1, GOLD FM Turk Belcika - 0
+http://www.goldfm.be/onair.m3u
+#EXTINF:-1, GOLD FM Turk Belcika - 1
+http://www.goldfm.be/onair.pls
+#EXTINF:-1, Hit Radio - 94.9 FM Namur
+http://94.23.31.72:8000/hitradio.mp3
+#EXTINF:-1, Hit FM - 99.2 FM Hasselt
+http://94.23.48.124:8000
+#EXTINF:-1, Radio - Bonheur Be - 0
+http://france1.coollabel-productions.com:2199/tunein/radiobonheur317.pls
+#EXTINF:-1, Radio - Bonheur Be - 1
+http://france1.coollabel-productions.com:2199/tunein/radiobonheur317.asx
+#EXTINF:-1, Charleking Radio - 106.5 FM Charleroi
+http://charlekingradio.ice.infomaniak.ch/charlekingradio.mp3
+#EXTINF:-1, Randstad 99FM - Mechelen, Be
+http://randstad.wirelessbelgie.be:8330/;stream.mp3
+#EXTINF:-1, RGR FM 106.5Fm Heist op den Berg, Be - 0
+http://www.rgrfm.be/rgr1282.pls
+#EXTINF:-1, RGR FM 106.5Fm Heist op den Berg, Be - 1
+http://www.rgrfm.be/rgr1282.asx
+#EXTINF:-1, RGR FM 106.5Fm Heist op den Berg, Be - 2
+http://shoutcast01.edpnet.net:10210
+#EXTINF:-1, Canal Voyage
+http://91.121.59.45:10117/stream
+#EXTINF:-1, Komilfoo FM - 106.9 FM Aarschot - 0
+http://www.komilfoo.be/live/komilfoo.asx
+#EXTINF:-1, Komilfoo FM - 106.9 FM Aarschot - 1
+http://www.komilfoo.be/live/komilfoo.pls
+#EXTINF:-1, Komilfoo FM - 106.9 FM Aarschot - 2
+http://www.komilfoo.be/live/komilfoo.wax
+#EXTINF:-1, Komilfoo FM - 106.9 FM Aarschot - 3
+http://www.komilfoo.be/live/komilfoo.m3u
+#EXTINF:-1, Radio Valencia 105 FM - Meer, Be - 0
+http://panel.beheerstream.com:2199/tunein/radiovalenciafm.pls
+#EXTINF:-1, Radio Valencia 105 FM - Meer, Be - 1
+http://panel.beheerstream.com:2199/start/radiovalenciafm/
+#EXTINF:-1, Radio Valencia 105 FM - Meer, Be - 2
+http://37.59.195.28:8140/stream?*.mp3
+#EXTINF:-1, Radio SCORPIO - Leuven, Be - 0
+http://193.190.253.57:8000/stream.m3u
+#EXTINF:-1, Radio SCORPIO - Leuven, Be - 1
+http://www.radioscorpio.be/luister.asx
+#EXTINF:-1, Radio Golden Flash - Westerlo , Be - 0
+http://www.goldenflash.be/servers/winamp192.pls
+#EXTINF:-1, Radio Golden Flash - Westerlo , Be - 1
+http://www.goldenflash.be/servers/media192.wax
+#EXTINF:-1, Jouwradio - Antwerpen, Be - 0
+http://www.jouwradio.be/stream/jouwradio_128.asx
+#EXTINF:-1, Jouwradio - Antwerpen, Be - 1
+http://www.jouwradio.be/stream/jouwradio_128.pls
+#EXTINF:-1, Jouwradio - Antwerpen, Be - 2
+http://luister.jouwradio.be
+#EXTINF:-1, Radio Plus [Liège]
+http://radioplus23.ice.infomaniak.ch/radioplus23-48.aac
+#EXTINF:-1, Radio Opsinjoor - 105.5 FM Mechelen - 0
+http://www.opsinjoor.be/stream.php?ext=wax
+#EXTINF:-1, Radio Opsinjoor - 105.5 FM Mechelen - 1
+http://www.opsinjoor.be/stream.php?ext=pls
+#EXTINF:-1, Radio Opsinjoor - 105.5 FM Mechelen - 2
+http://streams.movemedia.eu:8800
+#EXTINF:-1, Radio Monza - 106.5FM Kinrooi , be
+http://stream.intronic.nl/radiomonza.m3u
+#EXTINF:-1, Radio Minerva - Antwerpen - 0
+http://www.radio-minerva.be/stream.php?ext=pls
+#EXTINF:-1, Radio Minerva - Antwerpen - 1
+http://www.radio-minerva.be/stream.php?ext=wax
+#EXTINF:-1, Radio Minerva - Antwerpen - 2
+http://www.radio-minerva.be/stream.php?ext=ram
+#EXTINF:-1, Radio Paloma 106 FM - Poppel, Be
+http://84.80.98.187:8000/paloma106
+#EXTINF:-1, Urgent FM -105.3  Gent, Be - 0
+http://urgent.stream.flumotion.com/urgent/high.mp3.m3u
+#EXTINF:-1, Urgent FM -105.3  Gent, Be - 1
+http://urgent.stream.flumotion.com/urgent/low.mp3.m3u
+#EXTINF:-1, Urgent FM -105.3  Gent, Be - 2
+http://urgent.stream.flumotion.com/urgent/high.asf.asx
+#EXTINF:-1, Urgent FM -105.3  Gent, Be - 3
+http://urgent.stream.flumotion.com/urgent/low.asf.asx
+#EXTINF:-1, Urgent FM -105.3  Gent, Be - 4
+http://urgent.stream.flumotion.com/urgent/high.ogg.m3u
+#EXTINF:-1, Urgent FM -105.3  Gent, Be - 5
+http://urgent.stream.flumotion.com/urgent/low.ogg.m3u
+#EXTINF:-1, Radio Contact Eupen - 0
+http://radio-contact.dh-media.net:7000
+#EXTINF:-1, Radio Contact Eupen - 1
+http://www.eupen.radiocontact.be/aspnet_client/contacteupen.m3u
+#EXTINF:-1, Radio Contact Eupen - 2
+http://www.radiocontact.de/media/contacteupen.m3u
+#EXTINF:-1, Radio Contact Eupen - 3
+http://www.eupen.radiocontact.be/aspnet_client/contacteupen.asx
+#EXTINF:-1, Radio Contact Eupen - 4
+http://www.radiocontact.de/media/contacteupen.wax
+#EXTINF:-1, Phare FM Mons
+http://str0.creacast.com/pharefm_mons
+#EXTINF:-1, Radio 700 - Büllingen, Be - 0
+http://www.radio700.eu/streams/radio700-dsl.pls
+#EXTINF:-1, Radio 700 - Büllingen, Be - 1
+http://www.radio700.eu/streams/radio700-dsl.asx
+#EXTINF:-1, Radio 700 - Büllingen, Be - 2
+http://www.radio700.eu/streams/radio700-dsl.ram
+#EXTINF:-1, Radio 700 - Büllingen, Be - 3
+http://streamserver.funkhaus.info:8010/listen.pls
+#EXTINF:-1, Max FM
+http://176.31.111.221:9290
+#EXTINF:-1, RGR Oldies Radio 105.6Fm - Leuven , Be - 0
+http://stream.intronic.nl/rgrfm_oldiesradio
+#EXTINF:-1, RGR Oldies Radio 105.6Fm - Leuven , Be - 1
+http://5.255.85.4/rgrfm_oldiesradio
+#EXTINF:-1, Radio Utopia 107.9 - Baal, Be - 0
+http://panel.beheerstream.com:2199/tunein/radioutopia.pls
+#EXTINF:-1, Radio Utopia 107.9 - Baal, Be - 1
+http://panel.beheerstream.com:2199/tunein/radioutopia.asx
+#EXTINF:-1, Versuz Radio
+http://versuzradio.live-streams.nl/live.m3u
+#EXTINF:-1, Fréquence - Eghezée
+http://statslive.infomaniak.ch/playlist/frequenceeghezee/frequenceeghezee-128.mp3/playlist.m3u
+#EXTINF:-1, 7 FM - 0
+http://7fm2.ice.infomaniak.ch/7fm2.mp3
+#EXTINF:-1, 7 FM - 1
+http://broadcast.infomaniak.net/7fm2-0.aac
+#EXTINF:-1, Buzz Radio - charleroi, Be
+http://buzzradio.ice.infomaniak.ch/buzzradio-128.aac?type=mp3
+#EXTINF:-1, Radio Wfm 105.4
+http://178.19.116.3:8094/low?1457192173750.aac
+#EXTINF:-1, FM Brussel 98.8
+http://stream.fmbrussel.be
+#EXTINF:-1, Radio M.i.G - Geeraardsbergen
+http://radiomig.be/luister/playlist.php?name=listen.pls
+#EXTINF:-1, Radio Meteor
+http://37.59.195.28:8035/;stream.mp3
+#EXTINF:-1, JOE fm Vlaanderen -104.1FM -  Egem - 0
+http://icecast-qmusic.cdp.triple-it.nl/JOEfm_be_live_128.mp3
+#EXTINF:-1, JOE fm Vlaanderen -104.1FM -  Egem - 1
+http://icecast-qmusic.cdp.triple-it.nl/JOEfm_be_live_96.mp3
+#EXTINF:-1, ClubFM Vlaanderen
+http://clubfmserver.be:8000/clubfm.mp3
+#EXTINF:-1, Radio Beverland, 106.1Fm Beveren
+http://livestream.beverland.info:8009/Beverland
+#EXTINF:-1, Radio Noorderkempen 107.5 FM
+http://streams.movemedia.eu:8350
+#EXTINF:-1, C-Dance Vlaanderen
+http://91.121.219.80:8050
+#EXTINF:-1, Geel FM 107.0
+http://geelfm.dlinkddns.com:8000/geelfm.mp3
+#EXTINF:-1, Q-Music Belgium - 0
+http://icecast-qmusic.cdp.triple-it.nl/Qmusic_be_live_128.mp3
+#EXTINF:-1, Q-Music Belgium - 1
+http://icecast-qmusic.cdp.triple-it.nl/Qmusic_be_live_64.aac
+#EXTINF:-1, Q-Music Belgium - 2
+http://icecast-qmusic.cdp.triple-it.nl/Qmusic_be_live_32.aac
+#EXTINF:-1, Channel-X
+http://shoutcast6.wirelessantwerpen.be:8346/
+#EXTINF:-1, Family Radio Vlaanderen - 0
+http://www.clubfmserver.be:8000/family.mp3
+#EXTINF:-1, Family Radio Vlaanderen - 1
+http://www.clubfmserver.be:8000/family.mp3.m3u
+#EXTINF:-1, DH Radio - 0
+http://dhradio.ice.infomaniak.ch/dhradio-192.mp3
+#EXTINF:-1, DH Radio - 1
+http://broadcast.infomaniak.net/dhradio-192.mp3
+#EXTINF:-1, DH Radio - 2
+http://broadcast.infomaniak.ch/dhradio-192.mp3
+#EXTINF:-1, DH Radio - 3
+http://statslive.infomaniak.ch/playlist/dhradio/dhradio-192.mp3/playlist.m3u
+#EXTINF:-1, DH Radio - 4
+http://statslive.infomaniak.ch/playlist/dhradio/dhradio-192.mp3/playlist.pls
+#EXTINF:-1, DH Radio - 5
+http://statslive.infomaniak.ch/playlist/dhradio/dhradio-192.mp3/playlist.asx
+#EXTINF:-1, RQC 95 FM
+http://5.39.80.55:8000/live;
+#EXTINF:-1, RCF Bruxelles
+http://rcf.streamakaci.com/rcfbruxelles.mp3
+#EXTINF:-1, RCF Liège
+http://rcf.streamakaci.com/rcfliege.mp3
+#EXTINF:-1, Nostalgie.be - Jazz
+http://jazz.ice.infomaniak.ch/jazz-128.mp3?
+#EXTINF:-1, Nostalgie.be - Soul Party
+http://nostalgiesoulparty.ice.infomaniak.ch/nostalgiesoulparty-128.mp3
+#EXTINF:-1, Nostalgie.be - Love
+http://nostalgielove.ice.infomaniak.ch/nostalgielove-128.mp3
+#EXTINF:-1, Nostalgie.be - La Story
+http://nostalgielastory.ice.infomaniak.ch/nostalgielastory-128.mp3
+#EXTINF:-1, Nostalgie.be - 90
+http://nostalgie90.ice.infomaniak.ch/nostalgie90-128.mp3
+#EXTINF:-1, Nostalgie.be - 80
+http://nostalgie80.ice.infomaniak.ch/nostalgie80-128.mp3
+#EXTINF:-1, Nostalgie.be - 70
+http://nostalgie70.ice.infomaniak.ch/nostalgie70-128.mp3
+#EXTINF:-1, Nostalgie.be - 60
+http://nostalgie60.ice.infomaniak.ch/nostalgie60-128.mp3
+#EXTINF:-1, Nostalgie.be - POP 80
+http://pop80.ice.infomaniak.ch/pop80-128.mp3
+#EXTINF:-1, Nostalgie.be - POP 90
+http://pop90.ice.infomaniak.ch/pop90-128.mp3
+#EXTINF:-1, Nostalgie.be - ROCK 80
+http://rock80.ice.infomaniak.ch/rock80-128.mp3
+#EXTINF:-1, Nostalgie.be - ROCK 90
+http://rock90.ice.infomaniak.ch/rock90-128.mp3
+#EXTINF:-1, Nostalgie.be - DANCE 80
+http://dance80.ice.infomaniak.ch/dance80-128.mp3
+#EXTINF:-1, Nostalgie.be - DANCE 90
+http://dance90.ice.infomaniak.ch/dance90-128.mp3
+#EXTINF:-1, Nostalgie.be - NEW WAVE
+http://newwave.ice.infomaniak.ch/newwave-128.mp3
+#EXTINF:-1, Nostalgie.be - CINEMA
+http://cinema.ice.infomaniak.ch/cinema-128.mp3
+#EXTINF:-1, Nostalgie.be - Rock Classics
+http://nostalgierockparty.ice.infomaniak.ch/nostalgierockparty-128.mp3
+#EXTINF:-1, Nostalgie.be - Chansons Françaises
+http://nostalgiechansonfrancaise.ice.infomaniak.ch/nostalgiechansonfrancaise-128.mp3
+#EXTINF:-1, Nostalgie.be - ITALIA
+http://italia.ice.infomaniak.ch/italia-128.mp3
+#EXTINF:-1, Nostalgie.be - Premium
+http://nostalgiepremium.ice.infomaniak.ch/nostalgiepremium-128.mp3
+#EXTINF:-1, Nostalgie.be - Camping
+http://nostalgiespecial2.ice.infomaniak.ch/nostalgiespecial2.mp3
+#EXTINF:-1, RCF Sud Belgique
+http://rcf.streamakaci.com/rcfsudbe.mp3
+#EXTINF:-1, Radio Al Manar - 0
+http://arabelfm.ice.infomaniak.ch/arabelprodcastfm.mp3
+#EXTINF:-1, Radio Al Manar - 1
+http://www.arabelfm.ice.infomaniak.ch/arabelprodcastfm.mp3
+#EXTINF:-1, UpRadio - 0
+http://srv6.streaming-ingenierie.fr:8034/
+#EXTINF:-1, UpRadio - 1
+http://srv6.streaming-ingenierie.fr:8034/;stream.mp3
+#EXTINF:-1, Ma Radio 90.1 FM - 0
+http://188.165.35.60:7150/
+#EXTINF:-1, Ma Radio 90.1 FM - 1
+http://188.165.35.60:7150/listen.pls
+#EXTINF:-1, Panach FM 101.8
+http://onair.turkuazfm.be:1018/stream
+#EXTINF:-1, Radio Ourthe Amblève ROA 106.2 FM - 0
+http://roa1062fm.ice.infomaniak.ch/roa1062fm-128.mp3
+#EXTINF:-1, Radio Ourthe Amblève ROA 106.2 FM - 1
+http://broadcast.infomaniak.net/roa1062fm-128.mp3
+#EXTINF:-1, Radio Ourthe Amblève ROA 106.2 FM - 2
+http://broadcast.infomaniak.ch/roa1062fm-128.mp3
+#EXTINF:-1, Radio Ourthe Amblève ROA 106.2 FM - 3
+http://statslive.infomaniak.ch/playlist/impactfm/roa1062fm-128.mp3/playlist.m3u
+#EXTINF:-1, Radio Ourthe Amblève ROA 106.2 FM - 4
+http://statslive.infomaniak.ch/playlist/impactfm/roa1062fm-128.mp3/playlist.pls
+#EXTINF:-1, Radio Ourthe Amblève ROA 106.2 FM - 5
+http://statslive.infomaniak.ch/playlist/impactfm/roa1062fm-128.mp3/playlist.asx
+#EXTINF:-1, Radio Prima Liegi
+http://37.187.114.62:8002/live
+#EXTINF:-1, Radio Sud 105 FM
+http://radiosud.ice.infomaniak.ch/radiosud-128.mp3
+#EXTINF:-1, Equinoxe Namur 106
+http://live.equinoxenamur.be:8000/Equinoxe.mp3
+#EXTINF:-1, Radio Sunshine FM 97.5
+http://radio-sunshine.dh-media.net:7010
+#EXTINF:-1, Radio 19 - 0
+http://audiostream.radio19.fm:8200/;
+#EXTINF:-1, Radio 19 - 1
+http://listen.radionomy.com/radio19gold
+#EXTINF:-1, Radio 8 Ardennes
+http://radio8.ice.infomaniak.ch/radio8-128.mp3
+#EXTINF:-1, Radio Lichtaart 106.6 FM - 0
+http://panel.beheerstream.com:2199/tunein/radiolichtaart.pls
+#EXTINF:-1, Radio Lichtaart 106.6 FM - 1
+http://panel.beheerstream.com:2199/tunein/radiolichtaart.asx
+#EXTINF:-1, Slow Radio - 0
+http://streams.slowradio.com/slowradio.pls?id=winamp
+#EXTINF:-1, Slow Radio - 1
+http://streams.slowradio.com/slowradio.pls?id=winamp4
+#EXTINF:-1, Stadsradio Goeiedag Aalst
+http://stream01.onairtools.com:8002/live
+#EXTINF:-1, Lazer Hot Hits
+http://streams.servicehosting.be:3730/listen.pls
+#EXTINF:-1, RootsRadio - 105.1 FM Turnhout, Be
+http://fire.wavestreamer.com:4947/listen.m3u?sid=1
+#EXTINF:-1, BRF1 - 0
+http://streaming.brf.be/brf1-high.mp3
+#EXTINF:-1, BRF1 - 1
+http://podcast.brf.be/stream/brf1.m3u
+#EXTINF:-1, BRF2 - 0
+http://streaming.brf.be/brf2-high.mp3
+#EXTINF:-1, BRF2 - 1
+http://podcast.brf.be/stream/brf2.m3u
+#EXTINF:-1, Radio Centraal Antwerpen - 0
+http://streaming.radiocentraal.org/centraal.pls
+#EXTINF:-1, Radio Centraal Antwerpen - 1
+http://www.radiocentraal.org/stream/centraal.wax
+#EXTINF:-1, Radio Centraal Antwerpen - 2
+http://streams.movemedia.eu/centraal
+#EXTINF:-1, Nostalgie.be - Age Tendre
+http://agetendre.ice.infomaniak.ch/agetendre-128.mp3?
+#EXTINF:-1, Nostalgie.be - Le Meilleur de Nostalgie
+http://nostalgietop1000.ice.infomaniak.ch/nostalgietop1000-128.mp3
+#EXTINF:-1, Nostalgie.be - Summer
+http://nostalgiespecial.ice.infomaniak.ch/nostalgiespecial-128.mp3?
+#EXTINF:-1, Chérie FM Belgique
+http://stream.cheriefm.be/cheriefm
+#EXTINF:-1, City Music
+http://5.255.85.19/citymusic
+#EXTINF:-1, Equinoxe FM 100.1
+http://equinoxefm.ddns.net:8000/;
+#EXTINF:-1, LNfm 104.8
+http://streaming.domainepublic.net:8000/lnfm.ogg
+#EXTINF:-1, Libellule FM 107.8
+http://live.libellulefm.com:8000/stream
+#EXTINF:-1, Warm
+http://stream01.warm.fm:9002/listen.pls
+#EXTINF:-1, Métropole Radio
+http://maxpag.eu:8000/metropole
+#EXTINF:-1, Fréquence Plus - 106.6 FM Andenne
+http://frequenceplusandenne.ice.infomaniak.ch/frequenceplusandenne-192.mp3
+#EXTINF:-1, RUN - Radio Universitaire Namuroise - 0
+http://stream.run.be:8000/run128.mp3.m3u
+#EXTINF:-1, RUN - Radio Universitaire Namuroise - 1
+http://stream.run.be:8000/run128.mp3
+#EXTINF:-1, Trudo FM
+http://184.154.202.243:8125/stream
+#EXTINF:-1, WebRadio-Waasland - 0
+http://yp.shoutcast.com/sbin/tunein-station.pls?id=1254861
+#EXTINF:-1, WebRadio-Waasland - 1
+http://yp.shoutcast.com/sbin/tunein-station.m3u?id=1254861
+#EXTINF:-1, WebRadio-Waasland - 2
+http://yp.shoutcast.com/sbin/tunein-station.m3u?id=1254861
+#EXTINF:-1, Radio GRK 107.4 - Genk , Be
+http://grk.stream01.level27.be/;stream.mp3
+#EXTINF:-1, Sportpaleis FM 107.0 - 0
+http://82.94.204.95/listen.pls
+#EXTINF:-1, Sportpaleis FM 107.0 - 1
+http://luister.storyfm.be
+#EXTINF:-1, Sportpaleis FM 107.0 - 2
+http://82.94.204.95/live
+#EXTINF:-1, FG.be - Vlaanderen - 0
+http://radiofg.impek.com/fga
+#EXTINF:-1, FG.be - Vlaanderen - 1
+http://radiofg.impek.com:80/fga64.aac
+#EXTINF:-1, Radio Music Sambre (RMS)
+http://radiomusicsambre.ice.infomaniak.ch/radiomusicsambre-128.mp3
+#EXTINF:-1, Canal Inter 98.2 FM
+http://canalinterbe.ice.infomaniak.ch/canalinterbe-64.aac
+#EXTINF:-1, Chérie FM - Zen - 0
+http://cdn.nrjaudio.fm/adwz1/be/55563/mp3_128.mp3
+#EXTINF:-1, Chérie FM - Zen - 1
+http://cdn.nrjaudio.fm/adwz1/be/55563/aac_64.mp3
+#EXTINF:-1, Chérie FM - Les Plus Belles Voix - 0
+http://cdn.nrjaudio.fm/adwz1/be/55565/mp3_128.mp3
+#EXTINF:-1, Chérie FM - Les Plus Belles Voix - 1
+http://cdn.nrjaudio.fm/adwz1/be/55565/aac_64.mp3
+#EXTINF:-1, Chérie FM - Love Songs - 0
+http://cdn.nrjaudio.fm/adwz1/be/55564/mp3_128.mp3
+#EXTINF:-1, Chérie FM - Love Songs - 1
+http://cdn.nrjaudio.fm/adwz1/be/55564/aac_64.mp3
+#EXTINF:-1, Chérie FM - 80's - 0
+http://cdn.nrjaudio.fm/adwz1/be/55567/mp3_128.mp3
+#EXTINF:-1, Chérie FM - 80's - 1
+http://cdn.nrjaudio.fm/adwz1/be/55567/aac_64.mp3
+#EXTINF:-1, Chérie FM - Ballads - 0
+http://cdn.nrjaudio.fm/adwz1/be/55568/aac_64.mp3
+#EXTINF:-1, Chérie FM - Ballads - 1
+http://cdn.nrjaudio.fm/adwz1/be/55568/aac_64.mp3
+#EXTINF:-1, Chérie FM - 90's - 0
+http://cdn.nrjaudio.fm/adwz1/be/55570/mp3_128.mp3
+#EXTINF:-1, Chérie FM - 90's - 1
+http://cdn.nrjaudio.fm/adwz1/be/55570/aac_64.mp3
+#EXTINF:-1, Chérie FM - Acoustic - 0
+http://cdn.nrjaudio.fm/adwz1/be/55572/mp3_128.mp3
+#EXTINF:-1, Chérie FM - Acoustic - 1
+http://cdn.nrjaudio.fm/adwz1/be/55572/aac_64.mp3
+#EXTINF:-1, Sud Radio
+http://sudradio.ice.infomaniak.ch/sudradio-96.aac
+#EXTINF:-1, Radio Alma 101.9 Bruxelles
+http://shoutcast2.wirelessbelgie.be:8310/;stream.mp3
+#EXTINF:-1, Radio Emotion 104.9 FM - 0
+http://87.98.189.101/;
+#EXTINF:-1, Radio Emotion 104.9 FM - 1
+http://www.radioemotion.be/stream/emotion.m3u
+#EXTINF:-1, Impact 106.9 fm - 0
+http://statslive.infomaniak.ch/playlist/impactfm/impactfm-64.aac/playlist.m3u
+#EXTINF:-1, Impact 106.9 fm - 1
+http://statslive.infomaniak.ch/playlist/impactfm/impactfm-64.aac/playlist.pls
+#EXTINF:-1, Impact 106.9 fm - 2
+http://statslive.infomaniak.ch/playlist/impactfm/impactfm-64.aac/playlist.asx
+#EXTINF:-1, Impact 106.9 fm - 3
+http://statslive.infomaniak.ch/playlist/impactfm/impactfm-64.aac/playlist.ram
+#EXTINF:-1, Radio Hitalia 106.7 fm
+http://wma02.fluidstream.net:8130/;stream.nsv
+#EXTINF:-1, Flash 88.4 FM - 0
+http://flashfm.ice.infomaniak.ch/flashfm-128.mp3
+#EXTINF:-1, Flash 88.4 FM - 1
+http://broadcast.infomaniak.net/flashfm-128.mp3
+#EXTINF:-1, NRJ.be - Hits Of The Week - 0
+http://hitsoftheweek-mp3.nrj.be
+#EXTINF:-1, NRJ.be - Hits Of The Week - 1
+http://cdn.nrjaudio.fm/adwz1/be/34011/mp3_128.mp3?
+#EXTINF:-1, NRJ.be - Youtube - 0
+http://youtube-mp3.nrj.be
+#EXTINF:-1, NRJ.be - Youtube - 1
+http://cdn.nrjaudio.fm/audio1/be/34023/mp3_128.mp3?
+#EXTINF:-1, NRJ.be - Pour le Sport - 0
+http://pourlesport-mp3.nrj.be
+#EXTINF:-1, NRJ.be - Pour le Sport - 1
+http://cdn.nrjaudio.fm/adwz1/be/55527/mp3_128.mp3?
+#EXTINF:-1, NRJ.be - MiKL - 0
+http://mikl-mp3.nrj.be
+#EXTINF:-1, NRJ.be - MiKL - 1
+http://cdn.nrjaudio.fm/adwz1/be/55528/mp3_128.mp3?
+#EXTINF:-1, NRJ.be - Hits Of The Month - 0
+http://hitsofthemonth-mp3.nrj.be
+#EXTINF:-1, NRJ.be - Hits Of The Month - 1
+http://cdn.nrjaudio.fm/adwz1/be/55153/mp3_128.mp3?
+#EXTINF:-1, NRJ.be - Cover Hits - 0
+http://coverhits-mp3.nrj.be
+#EXTINF:-1, NRJ.be - Cover Hits - 1
+http://cdn.nrjaudio.fm/adwz1/be/55152/mp3_128.mp3?
+#EXTINF:-1, NRJ.be - Love - 0
+http://love-mp3.nrj.be
+#EXTINF:-1, NRJ.be - Love - 1
+http://cdn.nrjaudio.fm/adwz1/be/34013/mp3_128.mp3?
+#EXTINF:-1, NRJ.be - Rap Fr - 0
+http://rapfr-mp3.nrj.be
+#EXTINF:-1, NRJ.be - Rap Fr - 1
+http://cdn.nrjaudio.fm/adwz1/be/34039/mp3_128.mp3?
+#EXTINF:-1, NRJ.be - Dance - 0
+http://dance-mp3.nrj.be
+#EXTINF:-1, NRJ.be - Dance - 1
+http://cdn.nrjaudio.fm/adwz1/be/34007/mp3_128.mp3?
+#EXTINF:-1, NRJ.be - Nouveautés - 0
+http://nouveautes-mp3.nrj.be
+#EXTINF:-1, NRJ.be - Nouveautés - 1
+http://cdn.nrjaudio.fm/adwz1/be/34017/mp3_128.mp3?
+#EXTINF:-1, NRJ.be - Best Hits ever - 0
+http://besthitsever-mp3.nrj.be
+#EXTINF:-1, NRJ.be - Best Hits ever - 1
+http://cdn.nrjaudio.fm/adwz1/be/34003/mp3_128.mp3?
+#EXTINF:-1, NRJ.be - Music Awards - 0
+http://musicawards-mp3.nrj.be
+#EXTINF:-1, NRJ.be - Music Awards - 1
+http://cdn.nrjaudio.fm/adwz1/be/34015/mp3_128.mp3?
+#EXTINF:-1, NRJ.be - Hits - 0
+http://hits-mp3.nrj.be
+#EXTINF:-1, NRJ.be - Hits - 1
+http://cdn.nrjaudio.fm/adwz1/be/34009/mp3_128.mp3?
+#EXTINF:-1, 2bfm.be - 0
+http://www.2bfm.be/players/2bfm.asx
+#EXTINF:-1, 2bfm.be - 1
+http://listen.radionomy.com/2bfm.m3u
+#EXTINF:-1, 2bfm.be - 2
+http://www.2bfm.be/players/2bfm.pls
+#EXTINF:-1, 2bfm.be - 2bfm 40 - 0
+http://www.2bfm.be/players/2bfm-40.asx
+#EXTINF:-1, 2bfm.be - 2bfm 40 - 1
+http://listen.radionomy.com/2bfm-40.m3u
+#EXTINF:-1, 2bfm.be - 2bfm 40 - 2
+http://www.2bfm.be/players/2bfm-40.pls
+#EXTINF:-1, 2bfm.be - 2bfm Classix - 0
+http://www.2bfm.be/players/2bfm-classix.asx
+#EXTINF:-1, 2bfm.be - 2bfm Classix - 1
+http://listen.radionomy.com/2bfm-classix.m3u
+#EXTINF:-1, 2bfm.be - 2bfm Classix - 2
+http://www.2bfm.be/players/2bfm-classix.pls
+#EXTINF:-1, Antwerpen FM 105.4 - 0
+http://streams.lazernet.be:2710/
+#EXTINF:-1, Antwerpen FM 105.4 - 1
+http://streams.lazernet.be:2710/;stream/1
+#EXTINF:-1, AWS Radio
+http://www.awsradio.com/aws.m3u
+#EXTINF:-1, Bel RTL 104.0 FM
+http://audiostream.rtl.be/belrtl128
+#EXTINF:-1, Radio Contact RnB
+http://audiostream.rtl.be/contactrnb
+#EXTINF:-1, Radio Contact-Dance - 0
+http://www.contact-dance.com/stream.php?port=80&ext=wax
+#EXTINF:-1, Radio Contact-Dance - 1
+http://www.contact-dance.com/stream.php?port=80&ext=pls
+#EXTINF:-1, Radio Contact-Dance - 2
+http://www.contact-dance.com/stream.php?port=80&ext=ram
+#EXTINF:-1, Radio Contact-Dance - 3
+http://streamserver1.contact-dance.com/contactdance
+#EXTINF:-1, Radio Contact-Dance - 4
+http://streamserver1.contact-dance.com/contactdance_aac
+#EXTINF:-1, Vibration FM 107.2 - 0
+http://www.electrofm.be/player/electrofm.m3u
+#EXTINF:-1, Vibration FM 107.2 - 1
+http://www.electrofm.be/player/electrofm.pls
+#EXTINF:-1, Vibration FM 107.2 - 2
+http://www.electrofm.be/player/electrofm
+#EXTINF:-1, Radio Victoria 105.2 Halle - 0
+http://livestream.radiovictoria.be/tijr.m3u
+#EXTINF:-1, Radio Victoria 105.2 Halle - 1
+http://livestream.radiovictoria.be/tijr
+#EXTINF:-1, Radio I.R.O. 107.6 FM - 0
+http://www.radio-iro.be/embeddedwebplayer/asx-pls/irohigh.asx
+#EXTINF:-1, Radio I.R.O. 107.6 FM - 1
+http://www.radio-iro.be/embeddedwebplayer/asx-pls/irohigh.m3u
+#EXTINF:-1, Radio I.R.O. 107.6 FM - 2
+http://www.radio-iro.be/embeddedwebplayer/asx-pls/irohigh.rm
+#EXTINF:-1, Radio I.R.O. 107.6 FM - 3
+http://www.radio-iro.be/embeddedwebplayer/asx-pls/iroaac.m3u
+#EXTINF:-1, Radio I.R.O. 107.6 FM - 4
+http://www.radio-iro.be/embeddedwebplayer/asx-pls/irohigh
+#EXTINF:-1, Radio I.R.O. 107.6 FM - 5
+http://www.radio-iro.be/embeddedwebplayer/asx-pls/iroaac
+#EXTINF:-1, Le Centre FM 106.3 - 0
+http://lecentrefm.ice.infomaniak.ch/lecentrefm.mp3
+#EXTINF:-1, Le Centre FM 106.3 - 1
+http://statslive.infomaniak.com/playlist/lecentrefm/lecentrefm.mp3/playlist.m3u
+#EXTINF:-1, LRM Radio 105.1 FM - 0
+http://stream.intronic.nl/lrmradio.m3u
+#EXTINF:-1, LRM Radio 105.1 FM - 1
+http://stream.intronic.nl/lrmradio
+#EXTINF:-1, Melodie FM 101.6 MHZ - 0
+http://streammelodie.dgnet.be:8008/listen.pls
+#EXTINF:-1, Melodie FM 101.6 MHZ - 1
+http://79.137.72.159:8008/;
+#EXTINF:-1, Mint Radio
+http://audiostream.rtl.be/mint
+#EXTINF:-1, Molenland FM 106.5 - 0
+http://streams.movemedia.eu:8550/listen.pls
+#EXTINF:-1, Molenland FM 106.5 - 1
+http://streams.movemedia.eu:8550
+#EXTINF:-1, Pacifique FM 95.1 - 0
+http://player.spacialnet.com/players/listen.asx.php?htmlview=no&stationID=121237
+#EXTINF:-1, Pacifique FM 95.1 - 1
+http://vt-net.org:8072/;
+#EXTINF:-1, Passion FM 106.5 - 0
+http://srv2.streaming-ingenierie.fr:8186/listen.pls
+#EXTINF:-1, Passion FM 106.5 - 1
+http://srv2.streaming-ingenierie.fr:8186/stream
+#EXTINF:-1, Passion FM 106.5 - 2
+http://srv2.streaming-ingenierie.fr:8186
+#EXTINF:-1, Power Radio Planet Rock
+http://streams.movemedia.eu:8330
+#EXTINF:-1, Radio 7 FM 106.4
+http://7fm2.ice.infomaniak.ch/7fm2.mp3
+#EXTINF:-1, Radio Air Libre 87.7 MHZ - 0
+http://streaming.domainepublic.net:8000/radioairlibre.ogg.m3u
+#EXTINF:-1, Radio Air Libre 87.7 MHZ - 1
+http://streaming.domainepublic.net:8000/radioairlibre.ogg
+#EXTINF:-1, Radio J600 FM 106.1 - 0
+http://manager2.streaming-ingenierie.fr:8106/;stream.mp3
+#EXTINF:-1, Radio J600 FM 106.1 - 1
+http://manager2.streaming-ingenierie.fr:8106/;stream
+#EXTINF:-1, Radio J600 FM 106.1 - 2
+http://manager2.streaming-ingenierie.fr:8106/
+#EXTINF:-1, Radio Judaïca 90.2 FM - 0
+http://radiojudaica.ice.infomaniak.ch/radiojudaica-128.mp3
+#EXTINF:-1, Radio Judaïca 90.2 FM - 1
+http://radiojudaica.ice.infomaniak.ch/radiojudaica-128
+#EXTINF:-1, Radio Maria België - 0
+http://stream.radiomaria.be/RadioMaria-96.m3u
+#EXTINF:-1, Radio Maria België - 1
+http://stream.radiomaria.be/RadioMaria-96.pls
+#EXTINF:-1, Radio Maria België - 2
+http://stream.radiomaria.be:8000/RadioMaria-96
+#EXTINF:-1, Radio Maria België - 3
+http://stream.radiomaria.be/RadioMaria-32.m3u
+#EXTINF:-1, Radio Maria België - 4
+http://stream.radiomaria.be/RadioMaria-32
+#EXTINF:-1, Panik Radio Moskou 105.4 Bruxelles - 0
+http://streaming.domainepublic.net:8000/radiopanik.ogg.m3u
+#EXTINF:-1, Panik Radio Moskou 105.4 Bruxelles - 1
+http://streaming.domainepublic.net:8000/radiopanik.ogg
+#EXTINF:-1, Panik Radio Moskou 105.4 Bruxelles - 2
+http://streaming.domainepublic.net:8000/radiopanik.ogg
+#EXTINF:-1, Radio Quartz 93.9 FM - 0
+http://manager2.streaming-ingenierie.fr:8026/listen.pls
+#EXTINF:-1, Radio Quartz 93.9 FM - 1
+http://91.121.29.128:8026/stream
+#EXTINF:-1, Radio Quartz 93.9 FM - 2
+http://91.121.29.128:8026/
+#EXTINF:-1, Radio Reflex 104.8 FM - 0
+http://www.radioreflex.be/radioreflex.asx
+#EXTINF:-1, Radio Reflex 104.8 FM - 1
+http://streams.lazernet.be:3400/listen.pls
+#EXTINF:-1, Radio Reflex 104.8 FM - 2
+http://streams.lazernet.be:3400/
+#EXTINF:-1, Radio Stad 107.8 FM
+http://stream2.radiostad.org:8344/
+#EXTINF:-1, Radio Studio One 107.1 FM - 0
+http://studiooneasbl.ice.infomaniak.ch/playlists/studiooneasbl-128.mp3.pls
+#EXTINF:-1, Radio Studio One 107.1 FM - 1
+http://studiooneasbl.ice.infomaniak.ch/studiooneasbl-128.mp3.m3u
+#EXTINF:-1, Radio Studio One 107.1 FM - 2
+http://studiooneasbl.ice.infomaniak.ch/playlists/studiooneasbl-128.mp3.asx
+#EXTINF:-1, Radio Studio One 107.1 FM - 3
+http://studiooneasbl.ice.infomaniak.ch:80/studiooneasbl-128.mp3
+#EXTINF:-1, Radio Studio One 107.1 FM - 4
+http://studiooneasbl.ice.infomaniak.ch:80/studiooneasbl-48.aac
+#EXTINF:-1, Radio Studio One 107.1 FM - 5
+http://studiooneasbl.ice.infomaniak.ch/playlists/studiooneasbl-48.aac.m3u
+#EXTINF:-1, Radio VRW 104.9 FM - 0
+http://www.movemedia.be/stream.php?port=8560&ext=wax
+#EXTINF:-1, Radio VRW 104.9 FM - 1
+http://www.movemedia.be/stream.php?port=8560&ext=pls
+#EXTINF:-1, Radio VRW 104.9 FM - 2
+http://www.movemedia.be/stream.php?port=8560&ext=ram
+#EXTINF:-1, Radio VRW 104.9 FM - 3
+http://streams.movemedia.eu:8560
+#EXTINF:-1, Ramdam Musique 105.6 FM - 0
+http://radio-shoutcast2.cyber-streaming.com:8156/;stream.mp3
+#EXTINF:-1, Ramdam Musique 105.6 FM - 1
+http://radio-shoutcast2.cyber-streaming.com:8156/;stream
+#EXTINF:-1, Ramdam Musique 105.6 FM - 2
+http://radio-shoutcast2.cyber-streaming.com:8156/
+#EXTINF:-1, Ultrason 105.8 FM - 0
+http://ultrason.ice.infomaniak.ch/ultrason-high.mp3
+#EXTINF:-1, Ultrason 105.8 FM - 1
+http://ultrason.ice.infomaniak.ch/ultrason-high.aac
+#EXTINF:-1, vbro radio
+http://stream.vbro.be:9100/vbro
+#EXTINF:-1, Studio 22
+http://stream.twinmedia.be:8010/;
+#EXTINF:-1, Ibiza Radio Club - 0
+http://www.ibizaradioclub.be/stream.pls
+#EXTINF:-1, Ibiza Radio Club - 1
+http://www.ibizaradioclub.be/stream.m3u
+#EXTINF:-1, Ibiza Radio Club - 2
+http://listen.radionomy.com/ibizaclub.m3u
+#EXTINF:-1, Nostalgie.be - Vlaanderen
+http://stream10.fluoline.net
+#EXTINF:-1, twr.be
+http://twrbe.out.airtime.pro:8000/twrbe_a
+#EXTINF:-1, Trendy FM - Ham, Be
+http://stream.trendyfm.be/;
+#EXTINF:-1, Organroxx Radio
+http://radio.organroxx.com:8000/freestream.mp3
+#EXTINF:-1, Maximum FM
+http://maximum.ice.infomaniak.ch/maximum-128.mp3
+#EXTINF:-1, Radio Yéyé - 0
+http://shadowfax.mediaradioplayer.com/ecoute.m3u
+#EXTINF:-1, Radio Yéyé - 1
+http://shadowfax.mediaradioplayer.com/ecoute-aac.m3u
+#EXTINF:-1, teesty radio
+http://stream.teesty.eu
+#EXTINF:-1, Radio Grensland Kinrooi - 0
+http://212.83.138.48:8468/stream
+#EXTINF:-1, Radio Grensland Kinrooi - 1
+http://dione.shoutca.st/tunein/radiogrensland.pls
+#EXTINF:-1, La Classica - 0
+http://stream.laclassica.be:8023/stream
+#EXTINF:-1, La Classica - 1
+http://stream.laclassica.be:8023/stream2
+#EXTINF:-1, Fantasy Dance FM 96.7 - 0
+http://fantasy967.de/playlist/HQ.pls
+#EXTINF:-1, Fantasy Dance FM 96.7 - 1
+http://fantasy967.de/playlist/mobile.pls
+#EXTINF:-1, Radio Arcadie - 0
+http://streaming.radionomy.com/arcadie?lang=en-US&appName=iTunes.m3u
+#EXTINF:-1, Radio Arcadie - 1
+http://www.radioarcadie.net/flux/arcadie.m3u
+#EXTINF:-1, Radio Arcadie - 2
+http://listen.radionomy.com/arcadie.m3u
+#EXTINF:-1, Wicca radio
+http://streaming.radionomy.com/wiccaradio?lang=en-US&appName=iTunes.m3u
+#EXTINF:-1, Erikbauer.be - American Top 40
+http://streaming.radionomy.com/AMERICANTOP40?lang=en-US&appName=iTunes.m3u
+#EXTINF:-1, Jeans Radio - 0
+http://streaming.radionomy.com/JeansRadio?lang=en-US&appName=iTunes.m3u
+#EXTINF:-1, Jeans Radio - 1
+http://www.jeansradio.com/listen/jeansradio.asx
+#EXTINF:-1, VinyleRock
+http://streaming.radionomy.com/Vinyle-Rock?lang=en-US&appName=iTunes.m3u
+#EXTINF:-1, In2Music
+http://streaming.radionomy.com/in2music?lang=en-US&appName=iTunes.m3u
+#EXTINF:-1, ROL Radio - Belgium - 0
+http://streaming.radionomy.com/rolradio?lang=en-US&appName=iTunes.m3u
+#EXTINF:-1, ROL Radio - Belgium - 1
+http://www.rolradio.eu/streamsnomy/listen128.wax
+#EXTINF:-1, Rtbf.be - Classic 21
+http://radios.rtbf.be/classic21-128.mp3
+#EXTINF:-1, Rtbf.be - Classic 21 90's
+http://radios.rtbf.be/wr-c21-90-128.mp3
+#EXTINF:-1, Rtbf.be - Classic 21 60's
+http://radios.rtbf.be/wr-c21-60-128.mp3
+#EXTINF:-1, Rtbf.be - Classic 21 70's
+http://radios.rtbf.be/wr-c21-70-128.mp3
+#EXTINF:-1, Rtbf.be - Classic 21 80's
+http://radios.rtbf.be/wr-c21-80-128.mp3
+#EXTINF:-1, Rtbf.be - OUFtivi
+http://radios.rtbf.be/wr-ouftivi-128.mp3
+#EXTINF:-1, Rtbf.be - Classic 21 Reggae
+http://radios.rtbf.be/wr-eventradio-128.mp3
+#EXTINF:-1, Rtbf.be - Classic 21 Metal
+http://radios.rtbf.be/wr-c21-metal-128.mp3
+#EXTINF:-1, Rtbf.be - Pure FM
+http://radios.rtbf.be/pure-128.mp3
+#EXTINF:-1, Rtbf.be - VivaCité Bruxelles 99.3 FM
+http://radios.rtbf.be/vivabxl-128.mp3
+#EXTINF:-1, Rtbf.be - VivaCité Charleroi 92.3 FM
+http://radios.rtbf.be/vivacharleroi-128.mp3
+#EXTINF:-1, Rtbf.be - VivaCité Liège 90.5 FM
+http://radios.rtbf.be/vivaliege-128.mp3
+#EXTINF:-1, Rtbf.be - VivaCité Namur Brabant Wallon 97.3 FM
+http://radios.rtbf.be/vivanamurbw-128.mp3
+#EXTINF:-1, Rtbf.be - musiq3
+http://radios.rtbf.be/musiq3-128.mp3
+#EXTINF:-1, Rtbf.be - International
+http://radios.rtbf.be/rtbfi-128.mp3
+#EXTINF:-1, Rtbf.be - Pure Like
+http://radios.rtbf.be/wr-pure2-128.mp3
+#EXTINF:-1, Rtbf.be - VivaCité Hainaut 97.1 FM
+http://radios.rtbf.be/vivahainaut-128.mp3
+#EXTINF:-1, Rtbf.be - VivaCité Sud-Luxembourg 91.5 FM
+http://radios.rtbf.be/vivalux-128.mp3
+#EXTINF:-1, Rtbf.be - Classic 21 Soulpower
+http://radios.rtbf.be/wr-c21-soul-128.mp3
+#EXTINF:-1, Rtbf.be - Tarmac
+http://radios.rtbf.be/tarmac-128.mp3
+#EXTINF:-1, Rtbf.be - Tarmac Chilin
+http://radios.rtbf.be/wr-tarmac-chillin-128.mp3
+#EXTINF:-1, Rtbf.be - Tarmac Hits
+http://radios.rtbf.be/wr-tarmac-hits-128.mp3
+#EXTINF:-1, Rtbf.be - Tarmac Island
+http://radios.rtbf.be/wr-tarmac-island-128.mp3
+#EXTINF:-1, Rtbf.be - Tarmac RnB
+http://radios.rtbf.be/wr-tarmac-rnb-128.mp3
+#EXTINF:-1, Rtbf.be - Tarmac US
+http://radios.rtbf.be/wr-tarmac-us-128.mp3
+#EXTINF:-1, Rtbf.be - Tarmac Worldwide
+http://radios.rtbf.be/wr-tarmac-world-128.mp3
+#EXTINF:-1, Rtbf.be - Classic 21 Route 66
+http://radios.rtbf.be/wr-c21-route66-128.mp3
+#EXTINF:-1, VRT Sporza - 0
+http://icecast.vrtcdn.be/sporza-high.mp3
+#EXTINF:-1, VRT Sporza - 1
+http://icecast.vrtcdn.be/sporza.aac
+#EXTINF:-1, VRT Sporza - 2
+http://icecast.vrtcdn.be/sporza-mid.mp3
+#EXTINF:-1, VRT Event - 0
+http://icecast.vrtcdn.be/vrtevent-high.mp3
+#EXTINF:-1, VRT Event - 1
+http://icecast.vrtcdn.be/vrtevent.aac
+#EXTINF:-1, VRT Event - 2
+http://icecast.vrtcdn.be/vrtevent-mid.mp3
+#EXTINF:-1, MAX Maximaal Radio - 0
+http://stream.radiomax.be:10090
+#EXTINF:-1, MAX Maximaal Radio - 1
+http://stream.radiomax.be:10460
+#EXTINF:-1, Wradio.be
+http://stream.wradio.es:9000/;
+#EXTINF:-1, Nostalgie.be - Xmas
+http://nostalgiespecial.ice.infomaniak.ch/nostalgiespecial-128.mp3
+#EXTINF:-1, Addictive 70s - 0
+http://streaming.radionomy.com/Addictive-70s?lang=en-US&appName=itunes.m2u
+#EXTINF:-1, Addictive 70s - 1
+http://www.radio-addictive-70s.eu/stream/addictive-70s.m3u
+#EXTINF:-1, Addictive 90s - 0
+http://streaming.radionomy.com/Addictive-90s?lang=en-US&appName=itunes.m2u
+#EXTINF:-1, Addictive 90s - 1
+http://www.radio-addictive-90s.eu/stream/addictive-90s.m3u
+#EXTINF:-1, Addictive 80s - 0
+http://streaming.radionomy.com/Addictive-80s?lang=en-US&appName=itunes.m2u
+#EXTINF:-1, Addictive 80s - 1
+http://www.radio-addictive-80s.eu/stream/addictive-80s.m3u
+#EXTINF:-1, Radio Vlaanderen Nationaal - 0
+http://streaming.radionomy.com/Vlaanderen-Nationaal??lang=en-US&appName=iTunes.m3u
+#EXTINF:-1, Radio Vlaanderen Nationaal - 1
+http://listen.radionomy.com/vlaanderen-nationaal
+#EXTINF:-1, Belgian Oldies Radio - 0
+http://streaming.radionomy.com/Belgian-Oldies-Radio?lang=en-US&appName=iTunes.m3u
+#EXTINF:-1, Belgian Oldies Radio - 1
+http://listen.radionomy.com/belgian-oldies-radio
+#EXTINF:-1, Fréquences - Relaxation - 0
+http://streaming.radionomy.com/Frequences-relaxation?lang=en-US&appName=iTunes.m3u
+#EXTINF:-1, Fréquences - Relaxation - 1
+http://listen.radionomy.com/frequences-relaxation
+#EXTINF:-1, TO DANCE STATION - 0
+http://streaming.radionomy.com/ABSOLUTECHILLOUT?lang=en-US&appName=iTunes.m3u
+#EXTINF:-1, TO DANCE STATION - 1
+http://listen.radionomy.com/to-dance-station
+#EXTINF:-1, ERiKA 1 - 0
+http://streaming.radionomy.com/ERiKA1?lang=en-US&appName=iTunes.m3u
+#EXTINF:-1, ERiKA 1 - 1
+http://listen.radionomy.com/erika1
+#EXTINF:-1, Radio Albatros Belgium - Asse - 0
+http://streaming.radionomy.com/RadioAlbatrosBelgium?lang=en-US&appName=iTunes.m3u
+#EXTINF:-1, Radio Albatros Belgium - Asse - 1
+http://listen.radionomy.com/radioalbatrosbelgium
+#EXTINF:-1, Radio Discosender - 0
+http://streaming.radionomy.com/Disco-Sender?lang=en-US&appName=iTunes.m3u
+#EXTINF:-1, Radio Discosender - 1
+http://listen.radionomy.com/disco-sender
+#EXTINF:-1, Lonestar Radio - 0
+http://streaming.radionomy.com/Lonestar-Radio?lang=en-US&appName=iTunes.m3u
+#EXTINF:-1, Lonestar Radio - 1
+http://listen.radionomy.com/lonestar-radio
+#EXTINF:-1, Retro House Belgium - 0
+http://streaming.radionomy.com/Retro-House-Belgium?lang=en-US&appName=iTunes.m3u
+#EXTINF:-1, Retro House Belgium - 1
+http://listen.radionomy.com/retro-house-belgium
+#EXTINF:-1, Vlaamse Wonderjaren Radio - 0
+http://streaming.radionomy.com/Vlaamse-Wonderjaren?lang=en-US&appName=iTunes.m3u
+#EXTINF:-1, Vlaamse Wonderjaren Radio - 1
+http://listen.radionomy.com/vlaamse-wonderjaren
+#EXTINF:-1, R1 Dubstep - 0
+http://streaming.radionomy.com/R1Dubstep?lang=en-US&appName=iTunes.m3u
+#EXTINF:-1, R1 Dubstep - 1
+http://listen.radionomy.com/r1dubstep.m3u
+#EXTINF:-1, Gothica radio - 0
+http://streaming.radionomy.com/Gothica?lang=en-US&appName=iTunes.m3u
+#EXTINF:-1, Gothica radio - 1
+http://listen.radionomy.com/gothica.m3u
+#EXTINF:-1, Soundtracks Forever Radio - 0
+http://streaming.radionomy.com/SoundtracksForever?lang=en-US&appName=iTunes.m3u
+#EXTINF:-1, Soundtracks Forever Radio - 1
+http://listen.radionomy.com/soundtracksforever.m3u
+#EXTINF:-1, Subarashii - 0
+http://streaming.radionomy.com/Subarashii?lang=en-US&appName=iTunes.m3u
+#EXTINF:-1, Subarashii - 1
+http://listen.radionomy.com/subarashii.m3u
+#EXTINF:-1, Radio Compile - 0
+http://streaming.radionomy.com/Radio--Compile?lang=en-US&appName=iTunes.m3u
+#EXTINF:-1, Radio Compile - 1
+http://listen.radionomy.com/radio--compile.m3u
+#EXTINF:-1, D-ONE - 0
+http://streaming.radionomy.com/D-ONE?lang=en-US&appName=iTunes.m3u
+#EXTINF:-1, D-ONE - 1
+http://listen.radionomy.com/d-one
+#EXTINF:-1, Strict Tempo Dance Music - 0
+http://streaming.radionomy.com/Strict-Tempo-Dance-Music?lang=en-US&appName=iTunes.m3u
+#EXTINF:-1, Strict Tempo Dance Music - 1
+http://listen.radionomy.com/strict-tempo-dance-music.m3u
+#EXTINF:-1, TradCan Radio - 0
+http://streaming.radionomy.com/TradCan?lang=en-US&appName=iTunes.m3u
+#EXTINF:-1, TradCan Radio - 1
+http://listen.radionomy.com/tradcan.m3u
+#EXTINF:-1, Our Jukebox - 0
+http://streaming.radionomy.com/Our-Jukebox?lang=en-US&appName=iTunes.m3u
+#EXTINF:-1, Our Jukebox - 1
+http://listen.radionomy.com/our-jukebox.m3u
+#EXTINF:-1, Bruxelles news - 0
+http://streaming.radionomy.com/Bruxelles-news?lang=en-US&appName=website.m3u
+#EXTINF:-1, Bruxelles news - 1
+http://streaming.radionomy.com/Bruxelles-news
+#EXTINF:-1, Nostalgia Radio - 0
+http://streaming.radionomy.com/Nostalgia-Radio?lang=en-US&appName=website.m3u
+#EXTINF:-1, Nostalgia Radio - 1
+http://listen.radionomy.com/nostalgia-radio.m3u
+#EXTINF:-1, Goeiedag radio (SpitsFM) - Opwijk, Be
+http://82.94.204.100/stream/stadsradiogoeiedag.pls?mp=/live
+#EXTINF:-1, Rtbf.be - La 1ere Wallonie - 0
+http://radios.rtbf.be/laprem1ere-128.mp3
+#EXTINF:-1, Rtbf.be - La 1ere Wallonie - 1
+http://radios.rtbf.be/laprem1ere-64.aac
+#EXTINF:-1, Rtbf.be - La 1ere Bruxelles - 0
+http://radios.rtbf.be/laprem1erebxl-128.mp3
+#EXTINF:-1, Rtbf.be - La 1ere Bruxelles - 1
+http://radios.rtbf.be/laprem1erebxl-128.mp3
+#EXTINF:-1, Rtbf.be - Pure Lazy
+http://radios.rtbf.be/wr-pure-lazy-128.mp3
+#EXTINF:-1, RLO Radio 93.1 FM
+http://94.23.27.6:8286/;stream.mp3
+#EXTINF:-1, Bruzz
+http://ice.cr1.streamzilla.xlcdn.com:8000/sz=fmbrussel=fmb988.mp3?token=08580be12c89d3f7c89233b94af139f7&time=5a874c38
+#EXTINF:-1, Crooze FM
+http://streams.crooze.fm:8000/;stream128
+#EXTINF:-1, Crooze FM - Chillout
+http://streams.crooze.fm:8006/;stream128
+#EXTINF:-1, Crooze FM - Lounge
+http://streams.crooze.fm:8008/;stream128
+#EXTINF:-1, Crooze FM - Easy
+http://streams.crooze.fm:8012/;stream128
+#EXTINF:-1, Crooze FM - Dinner
+http://streams.crooze.fm:8014/;stream128
+#EXTINF:-1, Crooze FM - Smooth Jazz
+http://streams.crooze.fm:8010/;stream128
+#EXTINF:-1, Crooze FM - Classical
+http://streams.crooze.fm:8016/;stream128
+#EXTINF:-1, Crooze FM - Jazz
+http://streams.crooze.fm:8002/;stream128
+#EXTINF:-1, Radio Benelux
+http://remote.radiobenelux.be/MP3
+#EXTINF:-1, Radio Bingo
+http://audiostreamen.nl:8044/stream/1/?1515929511773
+#EXTINF:-1, Radio Boo
+http://stream03.level27.be/;stream.mp3
+#EXTINF:-1, Radio Kompas 105.8 FM
+http://mediaserv33.live-streams.nl:8052/live.m3u
+#EXTINF:-1, Radiostad 107.8 FM
+http://radiostad.com/player/radiostad.m3u
+#EXTINF:-1, Harmony Radio
+http://server1.harmonyradio.be:8000/harmonyradio.mp3
+#EXTINF:-1, Webradio Atlantis - Zandvliet, Be
+http://s3.viastreaming.net:8505/listen.pls
+#EXTINF:-1, MooyZo
+http://stream.intronic.nl/mooyzo
+#EXTINF:-1, Pajot1
+http://stream.intronic.nl/pajot1
+#EXTINF:-1, DRIVE Radio - Back To The 80's
+http://streaming.radionomy.com/DRIVE?lang=en-US&appName=iTunes.m3u
+#EXTINF:-1, Radio Oost West
+http://streams.movemedia.eu:8550/;?type=mp3
+#EXTINF:-1, Radio Tamara
+http://audiostreamen.nl:8006
+#EXTINF:-1, ZZROCK
+http://listen.shoutcast.com/zzrock
+#EXTINF:-1, Fun Radio {Belgique} - 0
+http://broadcast.infomaniak.net/funradiobe-high.mp3
+#EXTINF:-1, Fun Radio {Belgique} - 1
+http://broadcast.infomaniak.net/funradiobe-high.mp3
+#EXTINF:-1, Fun Radio {Belgique} - 2
+http://broadcast.infomaniak.ch/funradiobe-low.aac
+#EXTINF:-1, Radio Emozioni Live
+http://streamingv2.shoutcast.com/radioemozionilive
+#EXTINF:-1, Nostalgie extra - BELPOP
+http://nostalgiewafbelpop.ice.infomaniak.ch/nostalgiewafbelpop-128.mp3
+#EXTINF:-1, Nostalgie extra - 1000
+http://nostalgiewafextra.ice.infomaniak.ch/nostalgiewafextra-128.mp3
+#EXTINF:-1, Nostalgie extra - 80
+http://nostalgiewaf80.ice.infomaniak.ch/nostalgiewaf80-128.mp3
+#EXTINF:-1, Nostalgie extra - 60 70
+http://nostalgiewaf6070.ice.infomaniak.ch/nostalgiewaf6070-128.mp3
+#EXTINF:-1, Nostalgie extra - 90
+http://nostalgiewaf90.ice.infomaniak.ch/nostalgiewaf90-128.mp3
+#EXTINF:-1, Nostalgie extra - NL-TALIG
+http://nostalgiewaflagelanden.ice.infomaniak.ch/nostalgiewaflagelanden-128.mp3
+#EXTINF:-1, Nostalgie extra - Relax
+http://nostalgiewafrelax.ice.infomaniak.ch/nostalgiewafrelax-128-0.mp3
+#EXTINF:-1, Nostalgie extra - Party
+http://nostalgiewafparty.ice.infomaniak.ch/nostalgiewafparty-128.mp3
+#EXTINF:-1, Nostalgie extra - Rock
+http://nostalgiewafrocks.ice.infomaniak.ch/nostalgiewafrocks-128.mp3
+#EXTINF:-1, Nostalgie extra - New Wave
+http://nostalgiewafnewwave.ice.infomaniak.ch/nostalgiewafnewwave-128.mp3
+#EXTINF:-1, Nostalgie  - What a feeling!
+http://nostalgiewhatafeeling.ice.infomaniak.ch/nostalgiewhatafeeling-128.mp3
+#EXTINF:-1, Radio Demerstad 105.1/107.9 FM - 0
+http://www.radiodiest.be/mp3_player/listen_level.ram
+#EXTINF:-1, Radio Demerstad 105.1/107.9 FM - 1
+http://www.radiodiest.be/mp3_player/itunes_level.m3u
+#EXTINF:-1, Radio Demerstad 105.1/107.9 FM - 2
+http://stream01.level27.be:8012/listen.pls
+#EXTINF:-1, Radio Demerstad 105.1/107.9 FM - 3
+http://www.radiodiest.be/mp3_player/diest_.mp3_level.m3u
+#EXTINF:-1, NRJ Vlaanderen
+http://str.nrjbelgie.be/nrj.mp3
+#EXTINF:-1, VBRO Evergreen
+http://stream.vbro.be:9400/evergreen
+#EXTINF:-1, Popradio3
+http://stream.vbro.be:9300/popradio3
+#EXTINF:-1, Zoe 80's - 0
+http://shoutcast.movemedia.eu/zoe80s128
+#EXTINF:-1, Zoe 80's - 1
+http://shoutcast.movemedia.eu/zoe80s320
+#EXTINF:-1, Zoe 80's - 2
+http://shoutcast.movemedia.eu/zoe80s192
+#EXTINF:-1, Zoe 80's - 3
+http://shoutcast.movemedia.eu/zoe80s64
+#EXTINF:-1, Zoe Vintage - 0
+http://shoutcast.movemedia.eu/zoevintage128
+#EXTINF:-1, Zoe Vintage - 1
+http://shoutcast.movemedia.eu/zoevintage320
+#EXTINF:-1, Zoe Vintage - 2
+http://shoutcast.movemedia.eu/zoevintage192
+#EXTINF:-1, Zoe Vintage - 3
+http://shoutcast.movemedia.eu/zoevintage64
+#EXTINF:-1, TOPradio Belgium - 0
+http://jwmp3.topradio.be/topradio.mp3
+#EXTINF:-1, TOPradio Belgium - 1
+http://jwaac.topradio.be/topradio.aac
+#EXTINF:-1, Omroep Neteland FM
+http://cstmn.gr/radio/8030/stream.mp3
+#EXTINF:-1, Radio FM Gold
+http://fmgold.mvserver.be:3181/;
+#EXTINF:-1, Radio Land Van Waas
+http://stream.rlvw.be:8480/stream
+#EXTINF:-1, Radio M FM - 107.6 FM  Zottegem, Be
+http://149.202.22.75:8248/;
+#EXTINF:-1, Radio PROS 105.8 FM
+http://audiostreamen.nl:8012/
+#EXTINF:-1, Studio Ajoin 106.7 FM - 0
+http://91.196.171.99/studioajoin
+#EXTINF:-1, Studio Ajoin 106.7 FM - 1
+http://stream.intronic.nl/studioajoin
+#EXTINF:-1, NRJ.be - Belgique - 0
+http://streamingp.shoutcast.com/NRJPremium64
+#EXTINF:-1, NRJ.be - Belgique - 1
+http://streamingp.shoutcast.com/NRJPremium?
+#EXTINF:-1, Rtbf.be - Classic 21 Blues
+http://radios.rtbf.be/wr-c21-blues-128.mp3
+#EXTINF:-1, Rtbf.be - Tarmac FR
+http://radios.rtbf.be/wr-tarmac-fr-128.mp3
+#EXTINF:-1, YOUFM 106.9
+http://youfm.ice.infomaniak.ch/youfm-96
+#EXTINF:-1, Duvel Radio
+http://stream1.sephimar.nl:8000/stream
+#EXTINF:-1, BXFM 104.3 - 0
+http://bxfmradio.ice.infomaniak.ch/bxfmradio-192.mp3
+#EXTINF:-1, BXFM 104.3 - 1
+http://bxfmradio.ice.infomaniak.ch/bxfmradio-192.mp3
+#EXTINF:-1, D-TWO
+http://listen.radionomy.com/D-2
+#EXTINF:-1, Radio Christina 106.1 FM - Heist op den Berg (Be)
+http://shoutcast2.wirelessbelgie.be:8100/;
+#EXTINF:-1, Accent FM - BE Wetteren/Gent
+http://www.clubfmserver.be:8000/accent.mp3
+#EXTINF:-1, 't Is Vloms
+http://cristina.torontocast.com:8194/stream
+#EXTINF:-1, Zoe FM - 104.9 FM Zoersel, Be - 0
+http://shoutcast.movemedia.eu/zoefm320
+#EXTINF:-1, Zoe FM - 104.9 FM Zoersel, Be - 1
+http://shoutcast.movemedia.eu/zoefm192
+#EXTINF:-1, Zoe FM - 104.9 FM Zoersel, Be - 2
+http://shoutcast.movemedia.eu/zoefm128
+#EXTINF:-1, Zoe FM - 104.9 FM Zoersel, Be - 3
+http://shoutcast.movemedia.eu/zoefm64
+#EXTINF:-1, Zoe FM - 104.9 FM Zoersel, Be - 4
+http://shoutcast.movemedia.eu/zoefm32
+#EXTINF:-1, Zoe FM - 104.9 FM Zoersel, Be - 5
+http://shoutcast.movemedia.eu/zoefm16
+#EXTINF:-1, BHotRadio DJ - 0
+http://listen.radionomy.com/b-hot-radio
+#EXTINF:-1, BHotRadio DJ - 1
+http://streaming.radionomy.com/B-Hot-Radio
+#EXTINF:-1, Goldies radio -St Niklaas, Be
+http://5.63.151.52:7064/stream/;live.mp3
+#EXTINF:-1, Rockin' Devil Radio - 0
+http://listen.radionomy.com/rockin-devilradio
+#EXTINF:-1, Rockin' Devil Radio - 1
+http://tunein.com/radio/Rockin-Devil-Radio-s209911
+#EXTINF:-1, Radio Podrinje Belgija
+http://163.172.213.155:8026/;
+#EXTINF:-1, Roxx radio
+http://www.clubfmserver.be:8000/roxx.mp3
+#EXTINF:-1, Radio VRD 106.5 FM Diepenbeek, Be - 0
+http://fs1.stream24.net:8440/;
+#EXTINF:-1, Radio VRD 106.5 FM Diepenbeek, Be - 1
+http://player.mdn.stream24.net/webradioplayer/livestream.php?servertyp=SC&server=fs1.stream24.net&port=8440&mp=&streamid=1&lang=nl&autostart=1&skin=5
+#EXTINF:-1, Radio Pallieter Lier, Be
+http://s39.myradiostream.com:14494//listen.mp3
+#EXTINF:-1, Radio De Musketiers - Limburg - 0
+http://demusketiers.shoutcaststream.com:8268/stream
+#EXTINF:-1, Radio De Musketiers - Limburg - 1
+http://panel.beheerstream.com:2199/tunein/demusketiers.pls
+#EXTINF:-1, Radio 100% BE - Heldergem, Be
+http://audiostreamen.nl:8106/;
+#EXTINF:-1, Radio Amigo's , Be
+http://streaming.radionomy.com/radioamigos
+#EXTINF:-1, Radio Ariane 107.6 FM - Kortessem, Be
+http://caster02.streampakket.com:8862/;
+#EXTINF:-1, Radio Ruby
+http://66.70.187.44:9153/stream
+#EXTINF:-1, Radio RSJ
+http://cc6.beheerstream.com:8621/;
+#EXTINF:-1, Radio Kadee - Lede, Be
+http://live.radiokadee.be:9080/;
+#EXTINF:-1, Radio KLT - Kasterlee, Be
+http://streamingv2.shoutcast.com/radio-klt
+#EXTINF:-1, Radio Lede
+http://eu1.reliastream.com:7230/radiolede
+#EXTINF:-1, Radio Media 107 FM
+http://shoutcast.movemedia.eu/radiomedia
+#EXTINF:-1, 22Live
+http://stream.twinmedia.be:8000/;
+#EXTINF:-1, Familyradio Beiaard 106.3FM
+http://54.36.89.71:8066/stream
+#EXTINF:-1, FM Goud - Noord-Limburg , Be
+http://stream01.level27.be:8008/listen.pls
+#EXTINF:-1, Radio Apollo FM 106.8 - Wiekevorst , Be - 0
+http://panel.beheerstream.com:2199/tunein/radioapollo.pls
+#EXTINF:-1, Radio Apollo FM 106.8 - Wiekevorst , Be - 1
+http://panel.beheerstream.com:2199/tunein/radioapollo.asx
+#EXTINF:-1, Radio Apollo FM 106.8 - Wiekevorst , Be - 2
+http://panel.beheerstream.com:2199/tunein/radioapollo.ram
+#EXTINF:-1, Radio Mol 105.2 FM
+http://radiomol.ice.infomaniak.ch/radiomol-192.mp3
+#EXTINF:-1, Radio Tequila Deinze 105.1 FM
+http://s43.myradiostream.com:20542/listen.mp3
+#EXTINF:-1, Radio Totaal 105.9 FM Kapellen, Be
+http://streamserver2.radiototaal.be:8000/radiototaal
+#EXTINF:-1, Stadsradio Halle - 0
+http://www.stadsradio.be/stream/stadsradio.pls
+#EXTINF:-1, Stadsradio Halle - 1
+http://www.stadsradio.be/stream/stadsradio.wax
+#EXTINF:-1, 100'5 DAS HITRADIO - Alemannia Livestream - 0
+http://stream.dashitradio.de/alemannia/mp3-128/stream.mp3
+#EXTINF:-1, 100'5 DAS HITRADIO - Alemannia Livestream - 1
+http://dashitradio-de-hz-fal-stream04-cluster01.radiohost.de:80/alemannia_128
+#EXTINF:-1, 100'5 DAS HITRADIO - 0
+http://stream.dashitradio.de/dashitradio/mp3-128/stream.mp3
+#EXTINF:-1, 100'5 DAS HITRADIO - 1
+http://dashitradio-de-hz-fal-stream02-cluster01.radiohost.de/dashitradio_128
+#EXTINF:-1, 48FM
+http://139.165.3.181:8000/48fm
+#EXTINF:-1, Angel Radio Limburg
+http://stream11.shoutcastsolutions.com:8153/stream
+#EXTINF:-1, Radio Parkies - 0
+http://radioparkies.crvh.fr/?pl=winamp&c=Radio%20Parkies
+#EXTINF:-1, Radio Parkies - 1
+http://radioparkies.crvh.fr/?pl=wmp&c=Radio%20Parkies
+#EXTINF:-1, Radio Instrumentals Forever - 0
+http://agnes.torontocast.com:8151/stream
+#EXTINF:-1, Radio Instrumentals Forever - 1
+http://agnes.torontocast.com:8151/aac
+#EXTINF:-1, Radio Instrumentals Forever - 2
+http://bb38.sonixcast.com:20042/;stream.mp3
+#EXTINF:-1, Instrumental Radio, Be
+http://streams.shoutcastsolutions.com:8599/stream
+#EXTINF:-1, Jess FM   Menen, Be
+http://95.85.21.223:8000/1
+#EXTINF:-1, Kustradio  Knokke-Heist, Be
+http://www.clubfmserver.be:8000/kustradio.mp3
+#EXTINF:-1, Maeva  Antwerpen, Be
+http://149.202.22.75:8598/live
+#EXTINF:-1, Paradise Internetradio
+http://orion.shoutca.st:8922/stream
+#EXTINF:-1, Park FM 105.6 - Antwerpen, Be
+http://streams.movemedia.eu:8054/;
+#EXTINF:-1, Puur Vlaams - Internetradio
+http://37.187.79.153:6158/stream
+#EXTINF:-1, Radio BaHeNa -  Baarle-Hertog, Be
+http://stream.bahena.be:8000/bahena.mp3
+#EXTINF:-1, Radio Only Music - Internetradio
+http://streaming.radionomy.com/radioonly-music?AppName=vTuner
+#EXTINF:-1, Omroep Voeren  -  Vroenhoven,  Be
+http://omroepvoeren.gkstreamen.nl:8110/;
+#EXTINF:-1, VRT Radio 2 Antwerpen - 0
+http://icecast.vrtcdn.be/ra2ant-high.mp3
+#EXTINF:-1, VRT Radio 2 Antwerpen - 1
+http://icecast.vrtcdn.be/ra2ant-mid.mp3
+#EXTINF:-1, VRT Radio 2 Limburg - 0
+http://icecast.vrtcdn.be/ra2lim-high.mp3
+#EXTINF:-1, VRT Radio 2 Limburg - 1
+http://icecast.vrtcdn.be/ra2lim-mid.mp3
+#EXTINF:-1, VRT Radio 2 Oost-Vlaanderen - 0
+http://icecast.vrtcdn.be/ra2ovl-high.mp3
+#EXTINF:-1, VRT Radio 2 Oost-Vlaanderen - 1
+http://icecast.vrtcdn.be/ra2ovl-mid.mp3
+#EXTINF:-1, VRT Radio 2 Vlaams-Brabant - 0
+http://icecast.vrtcdn.be/ra2vlb-high.mp3
+#EXTINF:-1, VRT Radio 2 Vlaams-Brabant - 1
+http://icecast.vrtcdn.be/ra2vlb-mid.mp3
+#EXTINF:-1, VRT Radio 2 West-Vlaanderen - 0
+http://icecast.vrtcdn.be/ra2wvl-high.mp3
+#EXTINF:-1, VRT Radio 2 West-Vlaanderen - 1
+http://icecast.vrtcdn.be/ra2wvl-mid.mp3
+#EXTINF:-1, VRT Klara - 0
+http://icecast.vrtcdn.be/klara-high.mp3
+#EXTINF:-1, VRT Klara - 1
+http://icecast.vrtcdn.be/klara-mid.mp3
+#EXTINF:-1, VRT Klara Continuo - 0
+http://icecast.vrtcdn.be/klaracontinuo-high.mp3
+#EXTINF:-1, VRT Klara Continuo - 1
+http://icecast.vrtcdn.be/klaracontinuo-mid.mp3
+#EXTINF:-1, VRT Studio Brussel - 0
+http://icecast.vrtcdn.be/stubru-high.mp3
+#EXTINF:-1, VRT Studio Brussel - 1
+http://icecast.vrtcdn.be/stubru-mid.mp3
+#EXTINF:-1, VRT Studio Brussel De Tijdloze - 0
+http://icecast.vrtcdn.be/stubru_tijdloze-high.mp3
+#EXTINF:-1, VRT Studio Brussel De Tijdloze - 1
+http://icecast.vrtcdn.be/stubru_tijdloze-mid.mp3
+#EXTINF:-1, VRT Radio 1 - 0
+http://icecast.vrtcdn.be/radio1-high.mp3
+#EXTINF:-1, VRT Radio 1 - 1
+http://icecast.vrtcdn.be/radio1-mid.mp3
+#EXTINF:-1, VRT MNM - 0
+http://icecast.vrtcdn.be/mnm-high.mp3
+#EXTINF:-1, VRT MNM - 1
+http://icecast.vrtcdn.be/mnm-mid.mp3
+#EXTINF:-1, VRT Nieuws - 0
+http://progressive-audio.lwc.vrtcdn.be/content/fixed/11_11niws-snip_hi.mp3
+#EXTINF:-1, VRT Nieuws - 1
+http://progressive-audio.lwc.vrtcdn.be/content/fixed/11_11niws-snip_mid.mp3
+#EXTINF:-1, VRT MNM UrbaNice - 0
+http://icecast.vrtcdn.be/mnm_urb-high.mp3
+#EXTINF:-1, VRT MNM UrbaNice - 1
+http://icecast.vrtcdn.be/mnm_urb-mid.mp3
+#EXTINF:-1, VRT Ketnet Hits - 0
+http://icecast.vrtcdn.be/ketnetradio-high.mp3
+#EXTINF:-1, VRT Ketnet Hits - 1
+http://icecast.vrtcdn.be/ketnetradio-mid.mp3
+#EXTINF:-1, VRT MNM Hits - 0
+http://icecast.vrtcdn.be/mnm_hits-high.mp3
+#EXTINF:-1, VRT MNM Hits - 1
+http://icecast.vrtcdn.be/mnm_hits-mid.mp3

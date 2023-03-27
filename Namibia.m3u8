@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1, 99FM
+http://ice31.securenetsystems.net/99FM
+#EXTINF:-1, Kanaal 7
+http://85.25.164.52
+#EXTINF:-1, Radiowave 96.7 FM
+http://ice8.securenetsystems.net/967FM
+#EXTINF:-1, Hitradio Namibia
+http://85.25.217.22:8000/hitradio-namibia.mp3
+#EXTINF:-1, Omulunga Radio
+http://ice31.securenetsystems.net/OMULUNGA
+#EXTINF:-1, Fresh FM 102.9
+http://ice31.securenetsystems.net/FRESHFM
+#EXTINF:-1, Kosmos 94.1
+http://sirius.shoutca.st:9171/stream
+#EXTINF:-1, West Coast FM 107.7
+http://s4.myradiostream.com:7648/;

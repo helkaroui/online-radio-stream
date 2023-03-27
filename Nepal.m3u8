@@ -1,0 +1,53 @@
+#EXTM3U
+#EXTINF:-1, Radio Kantipur 96.1 FM
+http://kantipur-stream.softnep.com:7248
+#EXTINF:-1, RadioSagar
+http://37.187.79.56:3084/
+#EXTINF:-1, Radio Bhaktapur Fm 105.4
+http://49.236.212.220:88/broadwave.asx?src=1&kbps=56
+#EXTINF:-1, Kalika FM 95.2 & 91
+http://kalika-stream.softnep.com:7740
+#EXTINF:-1, Radio Thaha Sanchar 99.6 FM
+http://streaming.softnep.net:8025
+#EXTINF:-1, Capital FM 92.4
+http://streaming.softnep.net:8037
+#EXTINF:-1, Radio PMC Nepal
+http://s8.voscast.com:8654/
+#EXTINF:-1, Hits FM 91.2
+http://usa4.fastcast4u.com:5098
+#EXTINF:-1, Nepaliko Radio 88.8 FM
+http://144.76.110.138:9888
+#EXTINF:-1, Radio Lumbini FM 96.8
+http://streaming.softnep.net:8085
+#EXTINF:-1, Himal Radio - Hindi Filmy
+http://144.76.110.138:9920/;
+#EXTINF:-1, Himal Radio - Nepali Filmy
+http://144.76.110.138:9900/;
+#EXTINF:-1, Radio Himalaya
+http://live.itechnepal.com:8541/stream
+#EXTINF:-1, GoodNews Radio 105.1 FM
+http://live.itech.host:8162/stream
+#EXTINF:-1, Radio Miteri
+http://streaming.softnep.net:8053/stream
+#EXTINF:-1, Radio Nepal
+http://www.radionepal.gov.np:40100/stream
+#EXTINF:-1, Big FM 101.2 Unik Chha
+http://50.7.99.163:16118/stream
+#EXTINF:-1, Radio Sinergy FM 91.6
+http://streaming.hamropatro.com:8399/;
+#EXTINF:-1, Ujyaalo FM
+http://ample-zeno-05.radiojar.com/wtuvp08xq1duv
+#EXTINF:-1, OnAir Nepal
+http://streaming.hamropatro.com:8553/;
+#EXTINF:-1, Radio Dhorbarahi 103.8 FM
+http://live.itech.host:9491/stream
+#EXTINF:-1, Nepali Ko Online
+http://144.76.110.138:9410/;
+#EXTINF:-1, Radio Namaste Nepal
+http://radio.itechnepal.com:9395/live
+#EXTINF:-1, Radio Amurta 91.6 FM
+http://148.66.135.69:9974/;
+#EXTINF:-1, Mero FM 93.5 FM
+http://streaming.hamropatro.com:8553/;
+#EXTINF:-1, Radio Annapurna Nepal 94 FM
+http://streaming.softnep.net:8091/;

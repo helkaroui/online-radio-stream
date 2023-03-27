@@ -1,0 +1,49 @@
+#EXTM3U
+#EXTINF:-1, Radio Pirata 99.9 FM Managua, Nicaragua - 0
+http://pirata.biz/mga128.m3u
+#EXTINF:-1, Radio Pirata 99.9 FM Managua, Nicaragua - 1
+http://pirata.biz/mga128.pls
+#EXTINF:-1, Radio Pirata 99.9 FM Managua, Nicaragua - 2
+http://pirata.biz/mga128.asx
+#EXTINF:-1, Radio Pirata 99.9 FM Managua, Nicaragua - 3
+http://pirata.biz/mga24.m3u
+#EXTINF:-1, Radio Pirata 99.9 FM Managua, Nicaragua - 4
+http://pirata.biz/mga24.asx
+#EXTINF:-1, Radio Managua YA - 0
+http://nuevaya.com.ni/ya.m3u
+#EXTINF:-1, Radio Managua YA - 1
+http://nuevaya.com.ni/ya.rm
+#EXTINF:-1, Radio Managua YA - 2
+http://nuevaya.com.ni/ya.asx
+#EXTINF:-1, La Nueva Radio YA
+http://66.225.205.22/
+#EXTINF:-1, Advent Stereo - 0
+http://www.adventstereo.org/Advent_Stereo.pls
+#EXTINF:-1, Advent Stereo - 1
+http://streaming.admediasystem.net:1935/adms/adventstereo/playlist.m3u8
+#EXTINF:-1, Radio Corporación
+http://vtuner.com/setupapp/guide/asp/func/dynampls.asp?link=1&id=1098
+#EXTINF:-1, Radio Maria Nicaragua
+http://dreamsiteradiocp4.com:8048/
+#EXTINF:-1, Radio Bautista FM 103.1
+http://192.240.102.198:14006/stream
+#EXTINF:-1, Radio Catolica de Nicaragua AM 720 - 0
+http://icecasthd.net:2199/tunein/rcn.pls
+#EXTINF:-1, Radio Catolica de Nicaragua AM 720 - 1
+http://195.154.182.222:25195/;
+#EXTINF:-1, Radio Disney Nicaragua - 0
+http://ic.streann.com:8000/disneynicaragua
+#EXTINF:-1, Radio Disney Nicaragua - 1
+http://radios-cr.cdn.nedmedia.io/radios/disneynic.m3u8
+#EXTINF:-1, Radio La Primerísima - Managua - 0
+http://server.3hostingnica.com:9000/;
+#EXTINF:-1, Radio La Primerísima - Managua - 1
+http://server.3hostingnica.com:9000/&type=mp3
+#EXTINF:-1, Radio Monumental 96.5 Fm - 0
+http://107.6.142.243:9328/;stream.mp3
+#EXTINF:-1, Radio Monumental 96.5 Fm - 1
+http://107.6.142.243:9328/;
+#EXTINF:-1, 101.5 Radio Juvenil - Managua
+http://198.27.80.205:5744/;
+#EXTINF:-1, Radio Maranatha 103.5 FM / 1440 AM Managua
+http://stream2.servercristianonetwork.com:8096/;

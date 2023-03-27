@@ -1,0 +1,83 @@
+#EXTM3U
+#EXTINF:-1, Everlastin-gee Radio
+http://46.28.49.164:7153/
+#EXTINF:-1, Dasuna Web Radio
+http://s3.voscast.com:8854
+#EXTINF:-1, Siyatha FM 98.2 98.4
+http://s3.voscast.com:8408
+#EXTINF:-1, Varnam FM 90.4 90.6
+http://s3.voscast.com:8402
+#EXTINF:-1, Radio kissfm Sri lanka
+http://s3.voscast.com:8404
+#EXTINF:-1, RealRadio  Sri lanka
+http://s3.voscast.com:8406
+#EXTINF:-1, Radio Siyathafm
+http://s3.voscast.com:8408
+#EXTINF:-1, Kiss FM 96.9 - 0
+http://s3.voscast.com:8404
+#EXTINF:-1, Kiss FM 96.9 - 1
+http://198.178.123.8:8404
+#EXTINF:-1, RED FM 99.5 & 99.7
+http://shaincast.caster.fm:47830/listen.mp3
+#EXTINF:-1, Sun FM 98.9 or 98.7
+http://cdncities.com/sunfmradio/sunfmradio/playlist.m3u8
+#EXTINF:-1, FAITH FM - 0
+http://faithfm.net:9000/;
+#EXTINF:-1, FAITH FM - 1
+http://magimaifm.com/cast/tunein.php/faithfm/playlist.pls
+#EXTINF:-1, ITN FM 93.5 / 97.3
+http://93.190.141.15:7271/1/
+#EXTINF:-1, Vasantham FM
+http://76.164.217.100:7489/1/
+#EXTINF:-1, Fox 91.4 FM
+http://69.46.24.226:7673/start
+#EXTINF:-1, Hiru FM 961 / 96.3 - 0
+http://cp1.serverse.com:1935/hirufm/hirufm/playlist.m3u8
+#EXTINF:-1, Hiru FM 961 / 96.3 - 1
+http://209.133.216.3:7018/;
+#EXTINF:-1, Isira FM 93.9 FM - Colombo, Sri Lanka
+http://stream.tnltv.lk:8010/live.mp3
+#EXTINF:-1, SLBC Asia Hindi Service
+http://220.247.227.6:8000/Asiastream
+#EXTINF:-1, SLBC Yaal FM
+http://220.247.227.6:8000/Yaalstream
+#EXTINF:-1, SLBC Tamil National Service
+http://220.247.227.6:8000/Tnsstream
+#EXTINF:-1, SLBC Sinhala National Service
+http://220.247.227.6:8000/Snsstream
+#EXTINF:-1, SLBC City FM
+http://220.247.227.20:8000/citystream
+#EXTINF:-1, SLBC Sinhala Commercial Service
+http://220.247.227.6:8000/Scomstream
+#EXTINF:-1, SLBC Thendral FM
+http://220.247.227.20:8000/Threndralstream
+#EXTINF:-1, SLBC Asia English Service
+http://220.247.227.20:8000/RSLstream
+#EXTINF:-1, Ruu Radio Int
+http://shaincast.caster.fm:47814/listen.mp3
+#EXTINF:-1, Shaa FM 90.9 / 91.1
+http://209.133.216.3:7073/;
+#EXTINF:-1, Sooriyan FM -  103.4 / 103.6 FM - 0
+http://209.133.216.3:7071/;stream.mp3
+#EXTINF:-1, Sooriyan FM -  103.4 / 103.6 FM - 1
+http://209.133.216.3:7071/;stream.mp3
+#EXTINF:-1, Radio Tharu Sinhala
+http://146.185.18.251:7014/;stream.mp3
+#EXTINF:-1, Gold FM 93 or 93.2 - 0
+http://cdncities.com/goldfm/goldfm/playlist.m3u8
+#EXTINF:-1, Gold FM 93 or 93.2 - 1
+http://209.133.216.3:7048/;stream.mp3
+#EXTINF:-1, Neth Fm 95.0 * 94.8
+http://69.46.24.226:7669/stream
+#EXTINF:-1, Rangiri Sri Lanka Radio
+http://108.61.34.50:7000/stream
+#EXTINF:-1, ABC Gold FM 93 FM
+http://209.133.216.3:7048/;
+#EXTINF:-1, Sirasa FM 106.5 *106.7
+http://live.trusl.com:1170/;
+#EXTINF:-1, Yes FM 101 & 100.8
+http://live.trusl.com:1150/;
+#EXTINF:-1, Y FM 92.7 - Sri Lanka
+http://live.trusl.com:1180/;
+#EXTINF:-1, TNL Radio 99.2 & 101.8
+http://live.tnlrn.com:8010/live.mp3

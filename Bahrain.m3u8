@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1, AFN 360 - Bahrain - 0
+http://playerservices.streamtheworld.com/pls/AFNE_BHN.pls
+#EXTINF:-1, AFN 360 - Bahrain - 1
+http://playerservices.streamtheworld.com/pls/AFNE_BHNAAC.pls
+#EXTINF:-1, BRTC Bahrain Radio 102.3
+http://185.105.4.106:1935/live/radio-102-3/playlist.m3u8
+#EXTINF:-1, BRTC Bahrain FM 93.3
+http://185.105.4.106:1935/live/radio-93-3/playlist.m3u8
+#EXTINF:-1, BRTC TRAD'L Music 95.0
+http://185.105.4.106:1935/live/radio-95-0/playlist.m3u8
+#EXTINF:-1, BRTC Holy Quran 106.1
+http://185.105.4.106:1935/live/radio-106-1/playlist.m3u8
+#EXTINF:-1, BRTC Radio Bahrain 96.5
+http://185.105.4.106:1935/live/radio-96-5/playlist.m3u8

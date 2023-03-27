@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1, Vibe CT 105.1 FM Port of Spain
+http://media.guardian.co.tt:8000/vibect105
+#EXTINF:-1, Aakash Vani 106.5 FM
+http://media.guardian.co.tt:8000/aakashvaniradio
+#EXTINF:-1, High Energy FM - 0
+http://46.28.49.164:7760/
+#EXTINF:-1, High Energy FM - 1
+http://centovacast.divinestreams.co.uk/tunein/highenergyfm.asx
+#EXTINF:-1, Sangeet 106fm
+http://media.guardian.co.tt:8000/sangeet106
+#EXTINF:-1, Soca Switch Radio
+http://5.189.142.165:8403/stream
+#EXTINF:-1, Hott 93
+http://ice41.securenetsystems.net/HOTT93
+#EXTINF:-1, TAJ 92.3 FM
+http://ice66.securenetsystems.net/TAJ
+#EXTINF:-1, WACK 90.1 FM (Culture Crazy Radio) - 0
+http://ample-zeno-07.radiojar.com/6178mp9emq5tv
+#EXTINF:-1, WACK 90.1 FM (Culture Crazy Radio) - 1
+http://ample-zeno-09.radiojar.com/6178mp9emq5tv
+#EXTINF:-1, WIN Radio 101.1 FM
+http://stream.radio.co/s9f46a9bb1/listen
+#EXTINF:-1, Bacchanal Radio
+http://www.bacchanalradio.com/play.asx
+#EXTINF:-1, Soca 91.9 FM - Port of Spain, Trinidad-Tobago
+http://stardust.wavestreamer.com:2152/;

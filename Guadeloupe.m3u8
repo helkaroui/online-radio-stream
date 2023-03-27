@@ -1,0 +1,125 @@
+#EXTM3U
+#EXTINF:-1, Radio Haute Tension
+http://haute-tension.ice.infomaniak.ch/playlists/haute-tension-high.mp3.asx
+#EXTINF:-1, Fun Radio Guadeloupe - 0
+http://www.funradioantilles.fr/player/stream.m3u
+#EXTINF:-1, Fun Radio Guadeloupe - 1
+http://www.funradioantilles.fr/player/stream.pls
+#EXTINF:-1, Fun Radio Guadeloupe - 2
+http://www.funradioantilles.fr/player/stream.wax
+#EXTINF:-1, Fun Radio Guadeloupe - 3
+http://www.funradioantilles.fr/player/stream.rm
+#EXTINF:-1, Chérie FM Guadeloupe
+http://2stream.dyndns.org:8000/cheriefmgp
+#EXTINF:-1, Guadeloupe 1ère
+http://radios.la1ere.fr/guadeloupe
+#EXTINF:-1, NRJ Antilles - Guadeloupe
+http://cdn.nrjaudio.fm/adwz1/fr_an/55248/mp3_128.mp3
+#EXTINF:-1, RSA 88.5FM
+http://statslive.infomaniak.ch/playlist/radiosofaia/radiosofaia-high.mp3/playlist.m3u
+#EXTINF:-1, RCI Guadeloupe
+http://188.165.52.176/rcigp.mp3
+#EXTINF:-1, NRJ Antilles - R'n'B Hits - 0
+http://cdn.nrjaudio.fm/adwz1/fr_an/55013/mp3_128.mp3
+#EXTINF:-1, NRJ Antilles - R'n'B Hits - 1
+http://cdn.nrjaudio.fm/adwz1/fr_an/55013/aac_64.mp3
+#EXTINF:-1, NRJ Antilles - Urban Hits - 0
+http://cdn.nrjaudio.fm/adwz1/fr_an/55021/mp3_128.mp3
+#EXTINF:-1, NRJ Antilles - Urban Hits - 1
+http://cdn.nrjaudio.fm/adwz1/fr_an/55021/aac_64.mp3
+#EXTINF:-1, NRJ Antilles - Zouk - 0
+http://cdn.nrjaudio.fm/adwz1/fr_an/55049/mp3_128.mp3
+#EXTINF:-1, NRJ Antilles - Zouk - 1
+http://cdn.nrjaudio.fm/adwz1/fr_an/55049/aac_64.mp3
+#EXTINF:-1, NRJ Antilles - Reggae - 0
+http://cdn.nrjaudio.fm/adwz1/fr_an/55039/mp3_128.mp3
+#EXTINF:-1, NRJ Antilles - Reggae - 1
+http://cdn.nrjaudio.fm/adwz1/fr_an/55039/aac_64.mp3
+#EXTINF:-1, NRJ Antilles - Ragga - 0
+http://cdn.nrjaudio.fm/adwz1/fr_an/55045/mp3_128.mp3
+#EXTINF:-1, NRJ Antilles - Ragga - 1
+http://cdn.nrjaudio.fm/adwz1/fr_an/55045/aac_64.mp3
+#EXTINF:-1, NRJ Antilles - Latino Hits - 0
+http://cdn.nrjaudio.fm/adwz1/fr_an/55025/mp3_128.mp3
+#EXTINF:-1, NRJ Antilles - Latino Hits - 1
+http://cdn.nrjaudio.fm/adwz1/fr_an/55025/aac_64.mp3
+#EXTINF:-1, NRJ Antilles - Club Hits - 0
+http://cdn.nrjaudio.fm/adwz1/fr_an/55011/mp3_128.mp3
+#EXTINF:-1, NRJ Antilles - Club Hits - 1
+http://cdn.nrjaudio.fm/adwz1/fr_an/55011/aac_64.mp3
+#EXTINF:-1, NRJ Antilles - Lounge - 0
+http://cdn.nrjaudio.fm/adwz1/fr_an/55053/mp3_128.mp3
+#EXTINF:-1, NRJ Antilles - Lounge - 1
+http://cdn.nrjaudio.fm/adwz1/fr_an/55053/aac_64.mp3
+#EXTINF:-1, NRJ Antilles - Romantic - 0
+http://cdn.nrjaudio.fm/adwz1/fr_an/55023/mp3_128.mp3
+#EXTINF:-1, NRJ Antilles - Romantic - 1
+http://cdn.nrjaudio.fm/adwz1/fr_an/55023/aac_64.mp3
+#EXTINF:-1, NRJ Antilles - Rihanna's Hits - 0
+http://cdn.nrjaudio.fm/audio1/fr_an/55067/mp3_128.mp3
+#EXTINF:-1, NRJ Antilles - Rihanna's Hits - 1
+http://cdn.nrjaudio.fm/audio1/fr_an/55067/aac_64.mp3
+#EXTINF:-1, NRJ Antilles - Classic Rap US - 0
+http://cdn.nrjaudio.fm/adwz1/fr_an/55075/mp3_128.mp3
+#EXTINF:-1, NRJ Antilles - Classic Rap US - 1
+http://185.52.127.159/fr_an/55075/aac_64.mp3
+#EXTINF:-1, NRJ Antilles - Classic R'n'B - 0
+http://cdn.nrjaudio.fm/adwz1/fr_an/55077/mp3_128.mp3
+#EXTINF:-1, NRJ Antilles - Classic R'n'B - 1
+http://cdn.nrjaudio.fm/adwz1/fr_an/55077/aac_64.mp3
+#EXTINF:-1, NRJ Antilles - Extrava Dance - 0
+http://cdn.nrjaudio.fm/adwz1/fr_an/55031/mp3_128.mp3
+#EXTINF:-1, NRJ Antilles - Extrava Dance - 1
+http://cdn.nrjaudio.fm/adwz1/fr_an/55031/aac_64.mp3
+#EXTINF:-1, NRJ Antilles - Hits Remix - 0
+http://cdn.nrjaudio.fm/adwz1/fr_an/55073/mp3_128.mp3
+#EXTINF:-1, NRJ Antilles - Hits Remix - 1
+http://cdn.nrjaudio.fm/adwz1/fr_an/55073/aac_64.mp3
+#EXTINF:-1, RCI - Kassav
+http://188.165.52.176/rci-kassav.mp3
+#EXTINF:-1, RCI - Latino
+http://188.165.52.176/rci-latino.mp3
+#EXTINF:-1, RCI - Live
+http://188.165.52.176/rci-live.mp3
+#EXTINF:-1, RCI - Compas
+http://188.165.52.176/rci-compas.mp3
+#EXTINF:-1, RCI - Dancehall
+http://188.165.52.176/rci-dancehall.mp3
+#EXTINF:-1, RCI - Zouk
+http://188.165.52.176/rci-zouk.mp3
+#EXTINF:-1, Média Tropical
+http://serveur.wanastream.com:15400/;
+#EXTINF:-1, Radio Vie Meilleure (RVM)
+http://guadadvent.org:8000/rvm
+#EXTINF:-1, Trace FM Guadeloupe
+http://chai5she.cdn.dvmr.fr/trace_fm_guadeloupe-midfi.aac
+#EXTINF:-1, Radio Basses Internationale
+http://213.186.61.62:7400/;stream.nsv
+#EXTINF:-1, Radio Karata (RLK)
+http://168.235.88.127:8076/RLK.mp3
+#EXTINF:-1, Radio Madras FM (MFM)
+http://163.172.16.107:5000/;stream.2069
+#EXTINF:-1, Mfm - Zouk Nouveautes
+http://163.172.16.107:5002/;stream.mp3
+#EXTINF:-1, Mfm - Compas New Generation
+http://163.172.16.107:5004/;stream.mp3
+#EXTINF:-1, Mfm - Rétro Zouk
+http://163.172.16.107:5008/;stream.mp3
+#EXTINF:-1, Mfm - Rétro Compas
+http://163.172.16.107:5006/;stream.mp3
+#EXTINF:-1, Radio Massabielle
+http://167.114.0.166:8000/massabielle.mp3
+#EXTINF:-1, Radio Saphir 89.4 FM
+http://ns354585.ovh.net:8000/stream.mp3
+#EXTINF:-1, BEL RADIO Guadeloupe
+http://188.165.52.176/belradiogp.mp3
+#EXTINF:-1, Nostalgie.fr - Guadeloupe
+http://sv3.vestaradio.com/nostalgieguadeloupe
+#EXTINF:-1, RTL2  Guadeloupe 106.2 FM - 0
+http://radio-shoutcast.cyber-streaming.com:8090
+#EXTINF:-1, RTL2  Guadeloupe 106.2 FM - 1
+http://163.172.96.134:8090/;
+#EXTINF:-1, Zouk'Newz 94.6
+http://zouknews.ice.infomaniak.ch/zouknews-192
+#EXTINF:-1, RCI - Tradition
+http://188.165.52.176/rcigp.mp3

@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1, Radio Plus Live
+http://198.178.123.11:8432
+#EXTINF:-1, WORLDTAMILFM MAURITIUS
+http://s6.voscast.com:7108/;?1448044008632.mp3
+#EXTINF:-1, MBC Best FM
+http://202.123.27.133/hls-live/audio-only/bestfm/_definst_/liveevent/livestream.m3u8
+#EXTINF:-1, MBC Kool FM
+http://www.mbcradio.tv/sites/all/themes/mbcradiotv/radiostreams/koolfm.m3u8
+#EXTINF:-1, MBC Music FM
+http://www.mbcradio.tv/sites/all/themes/mbcradiotv/radiostreams/musicfm.m3u8
+#EXTINF:-1, MBC Radio Maurice
+http://www.mbcradio.tv/sites/all/themes/mbcradiotv/radiostreams/radiomaurice.m3u8
+#EXTINF:-1, MBC Taal FM
+http://www.mbcradio.tv/sites/all/themes/mbcradiotv/radiostreams/taalfm.m3u8
+#EXTINF:-1, MBC Radio Mauritius
+http://www.mbcradio.tv/sites/all/themes/mbcradiotv/radiostreams/radiomauritius.m3u8
+#EXTINF:-1, MBC Rodrigues FM
+http://www.mbcradio.tv/sites/all/themes/mbcradiotv/radiostreams/rodfm.m3u8
+#EXTINF:-1, Rock Mauritius Radio - 0
+http://ample.radiojar.com/2v1ydmukb.mp3
+#EXTINF:-1, Rock Mauritius Radio - 1
+http://162.13.25.174/2v1ydmukb.mp3
+#EXTINF:-1, Radio Plus FM - 0
+http://s4.voscast.com:8432/;
+#EXTINF:-1, Radio Plus FM - 1
+http://198.105.220.12:8341/Live
+#EXTINF:-1, Radio One R1
+http://151.80.44.127:8020/stream
+#EXTINF:-1, HITFM MAURITIUS
+http://stream.zenolive.com/8e5h28q71bwtv

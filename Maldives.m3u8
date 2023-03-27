@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1, Capital Radio 93.6
+http://70.38.12.44:8018
+#EXTINF:-1, RJ Bad Boy's Radio Stream - 0
+http://70.38.12.44:8018
+#EXTINF:-1, RJ Bad Boy's Radio Stream - 1
+http://70.38.12.45/stream/rjbadboy.pls
+#EXTINF:-1, PSM Dhivehi FM
+http://s3.viastreaming.net:8795/
+#EXTINF:-1, PSM Dheenuge Adu
+http://s3.viastreaming.net:8745/
+#EXTINF:-1, PSM Dhivehiraajjeyge Adu
+http://s3.viastreaming.net:9050/
+#EXTINF:-1, Radio Atoll 96 FM
+http://listen.shoutcast.com/radioatoll
+#EXTINF:-1, VFM 99
+http://vfmstreaming.myvnc.com:9060/liaten

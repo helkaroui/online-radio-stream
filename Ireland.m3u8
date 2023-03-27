@@ -1,0 +1,511 @@
+#EXTM3U
+#EXTINF:-1, UCB Ireland
+http://tx.sharp-stream.com/icecast.php?i=ucbireland.mp3
+#EXTINF:-1, C103 West Cork
+http://webradio.radiomonitor.com/stream/C103-West
+#EXTINF:-1, Q102
+http://webradio.radiomonitor.com/stream/Q102
+#EXTINF:-1, cork's RedFM 104-106 - 0
+http://tx.sharp-stream.com/icecast.php?i=redfm.mp3
+#EXTINF:-1, cork's RedFM 104-106 - 1
+http://icy-e-05.sharp-stream.com:80/redfm.mp3
+#EXTINF:-1, Irish Country Music Radio - 0
+http://centovacast.galaxywebsolutions.com/tunein.php/irishcountry/playlist.pls
+#EXTINF:-1, Irish Country Music Radio - 1
+http://centovacast.galaxywebsolutions.com/tunein.php/irishcountry/playlist.asx
+#EXTINF:-1, RTÉ lyric fm - 0
+http://icecast2.rte.ie/lyric
+#EXTINF:-1, RTÉ lyric fm - 1
+http://av.rasset.ie/av/live/radio/lyric.m3u
+#EXTINF:-1, RTÉ Radio 1 Extra - 0
+http://icecast2.rte.ie/radio1extra
+#EXTINF:-1, RTÉ Radio 1 Extra - 1
+http://av.rasset.ie/av/live/radio/radio1extra.m3u
+#EXTINF:-1, RTÉ Raidió na Gaeltachta - 0
+http://icecast2.rte.ie/rnag
+#EXTINF:-1, RTÉ Raidió na Gaeltachta - 1
+mms://live1.rte.ie/wmtencoder/2122.wma
+#EXTINF:-1, RTÉ 2XM - 0
+http://icecast2.rte.ie/2xm
+#EXTINF:-1, RTÉ 2XM - 1
+http://av.rasset.ie/av/live/radio/2xm.m3u
+#EXTINF:-1, RTÉ Pulse - 0
+http://icecast2.rte.ie/pulse
+#EXTINF:-1, RTÉ Pulse - 1
+http://av.rasset.ie/av/live/radio/pulse.m3u
+#EXTINF:-1, RTÉ 2fm - 0
+http://icecast2.rte.ie/2fm
+#EXTINF:-1, RTÉ 2fm - 1
+http://av.rasset.ie/av/live/radio/2fm.m3u
+#EXTINF:-1, Cork's 96 FM
+http://webradio.radiomonitor.com/stream/96FM
+#EXTINF:-1, Connemara Community Radio 87.8 fm & 106.1 fm
+http://78.129.196.32:21000/stream
+#EXTINF:-1, CRY 104 fm
+http://server10.shoutcheap.com:8096/
+#EXTINF:-1, FM104 Dublin
+http://31.14.40.241:6184/
+#EXTINF:-1, Life 93.1 FM
+http://79.170.198.170:8000/radio
+#EXTINF:-1, Spirit Radio - 0
+http://199.189.111.149:8034
+#EXTINF:-1, Spirit Radio - 1
+http://st2.webradioworld.net/tunein.php/spiritradio01/playlist.asx
+#EXTINF:-1, Spirit Radio - 2
+http://199.189.111.149:8036
+#EXTINF:-1, Spirit Radio - 3
+http://st2.webradioworld.net/tunein.php/spiritradio02/playlist.asx
+#EXTINF:-1, Beat 102-103 FM - 0
+http://184.154.145.114:8013/beataac
+#EXTINF:-1, Beat 102-103 FM - 1
+http://184.154.145.114:8013/beatmp3
+#EXTINF:-1, Raidió na Life 106.4fm
+http://beryl.streamguys.com:5010/live
+#EXTINF:-1, Finn Valley FM
+http://192.99.8.192:2874/
+#EXTINF:-1, RTÉ Gold - 0
+http://icecast2.rte.ie/gold
+#EXTINF:-1, RTÉ Gold - 1
+http://av.rasset.ie/av/live/radio/gold.m3u
+#EXTINF:-1, RTÉ Junior - Chill - 0
+http://icecast2.rte.ie/junior
+#EXTINF:-1, RTÉ Junior - Chill - 1
+http://av.rasset.ie/av/live/radio/junior.m3u
+#EXTINF:-1, RTÉ Radio 1 - 0
+http://icecast2.rte.ie/radio1
+#EXTINF:-1, RTÉ Radio 1 - 1
+http://av.rasset.ie/av/live/radio/radio1.m3u
+#EXTINF:-1, Raidió Corca Baiscinn 94.8 fm - 0
+http://37.187.90.121:3074/stream
+#EXTINF:-1, Raidió Corca Baiscinn 94.8 fm - 1
+http://cp.eu2.fastcast4u.com:2199/tunein/raidioco.asx
+#EXTINF:-1, Kildare's KFM Radio
+http://cty.gocaster.net:8000/kfm_web
+#EXTINF:-1, Peoples Internet Radio
+http://37.187.90.121:3856
+#EXTINF:-1, U2 RADiO
+http://stream.u2radio.com:9998/
+#EXTINF:-1, South East Radio - 0
+http://31.14.40.241:9726/
+#EXTINF:-1, South East Radio - 1
+http://31.14.40.241:9728/
+#EXTINF:-1, Radio North 846AM
+http://uk3-vn.mixstream.net:8252/
+#EXTINF:-1, Charity Radio
+http://37.187.79.93:8640/stream
+#EXTINF:-1, Tipp Mid West Radio
+http://184.154.145.114:8007/stream
+#EXTINF:-1, Zenith Classic Rock - 0
+http://148.163.81.10:8006/stream
+#EXTINF:-1, Zenith Classic Rock - 1
+http://148.163.81.10:8004/stream
+#EXTINF:-1, Zenith Classic Rock - 2
+http://148.163.81.10:8002/stream
+#EXTINF:-1, Cork University Hospital Radio 102 FM  (CUH fm)
+http://148.163.81.10:8010/stream
+#EXTINF:-1, Open Your Mind Radio
+http://37.187.79.153:5624/
+#EXTINF:-1, liveatc.net - EIKN Gnd/Twr/App
+http://d.liveatc.net/eikn2
+#EXTINF:-1, Liffey Sound 96.4 FM
+http://stream.liffeysoundfm.ie:8000/
+#EXTINF:-1, Birdhill Radio
+http://abacus.hostingenergy.com:8000/;
+#EXTINF:-1, Limerick City Community Radio
+http://server5.hostingenergy.com:7016/;stream/1
+#EXTINF:-1, Radio Near 90.3 fm
+http://37.187.193.36:8024/stream
+#EXTINF:-1, St. Ita's Hospital Radio 89.5fm
+http://109.123.116.202:8042
+#EXTINF:-1, Dundalk FM 97.7
+http://80.249.249.245:8000/
+#EXTINF:-1, Midwest radio 96.1 fm - 0
+http://direct.sharp-stream.com/midwestfmie2.aac
+#EXTINF:-1, Midwest radio 96.1 fm - 1
+http://direct.sharp-stream.com/midwestfmie3.aac
+#EXTINF:-1, Midwest radio 96.1 fm - 2
+http://direct.sharp-stream.com/midwestfmie.mp3
+#EXTINF:-1, Storm North East
+http://80.249.249.243:8050/;
+#EXTINF:-1, Radio Nova 100FM
+http://31.14.40.241:9752/
+#EXTINF:-1, Irish Pub Radio - 0
+http://178.32.219.72:8326
+#EXTINF:-1, Irish Pub Radio - 1
+http://www.irishpubradio.com/streams1/playlist.asx
+#EXTINF:-1, Irish Pub Radio - 2
+http://eu3.180-shoutcast.co.uk:2199/tunein/sc_murph.asx
+#EXTINF:-1, Radio Star Country 981 AM
+http://94.23.62.189:5412/
+#EXTINF:-1, FRQfm Radio
+http://nodec.gocaster.net/fq
+#EXTINF:-1, Radio CRC 102.9fm
+http://91.121.91.172:8555
+#EXTINF:-1, Primal Radio
+http://199.101.51.168:8018/;
+#EXTINF:-1, IrelandUnsigned.Com
+http://91.121.195.222:5206
+#EXTINF:-1, Phever
+http://uk1.internet-radio.com:8200/live
+#EXTINF:-1, Room 101
+http://room101.out.airtime.pro:8000/room101_c
+#EXTINF:-1, TrancePulse FM Dublin - 0
+http://trancepulsefm.com/listen/128k.pls
+#EXTINF:-1, TrancePulse FM Dublin - 1
+http://trancepulsefm.com/listen/128k.m3u
+#EXTINF:-1, TrancePulse FM Dublin - 2
+http://trancepulsefm.com/listen/128k.asx
+#EXTINF:-1, Classic Hits 4FM
+http://sirius.shoutca.st:8166/stream
+#EXTINF:-1, East Coast FM
+http://sirius.shoutca.st:8461/stream
+#EXTINF:-1, DDM Radio Ireland
+http://109.255.44.249:8000/
+#EXTINF:-1, Gem Radio Gold
+http://167.114.64.181:9031/;
+#EXTINF:-1, Hope Radio Ireland
+http://salt-lake-server.myautodj.com:8110/stream
+#EXTINF:-1, UDMI Underground Dance Music Ireland
+http://142.4.215.64:8008/;stream/1
+#EXTINF:-1, WLR FM 95.1 / 97.5 - 0
+http://184.154.145.114:8013/wlraac
+#EXTINF:-1, WLR FM 95.1 / 97.5 - 1
+http://184.154.145.114:8013/wlrrp1
+#EXTINF:-1, WLR FM 95.1 / 97.5 - 2
+http://184.154.145.114:8013/wlrmp3
+#EXTINF:-1, Funky Ass Tunes
+http://50.7.77.115:8199/stream
+#EXTINF:-1, STGH Radio 93.7 FM
+http://s10.voscast.com:10290/;
+#EXTINF:-1, SWDCR
+http://51.171.126.50:8000/swdcr
+#EXTINF:-1, NLR Roots Radio
+http://s4.myradiostream.com:4062/listen.pls
+#EXTINF:-1, Cork City Community Radio 100.5FM
+http://148.163.81.10:8014/stream
+#EXTINF:-1, Radio West Limerick 102
+http://s29.myradiostream.com:17796/;listen.mp3
+#EXTINF:-1, Radio UCC98.3fm
+http://143.239.169.110:8000
+#EXTINF:-1, Scariff Bay Community Radio
+http://scariffbay15.primcast.com:4588
+#EXTINF:-1, Radio Snowflake
+http://whooshserver.net:8056/live
+#EXTINF:-1, liveatc.net - EICK Ground/Tower
+http://d.liveatc.net/eick2
+#EXTINF:-1, liveatc.net - EICK Approach/Departure
+http://d.liveatc.net/eick2_app
+#EXTINF:-1, liveatc.net - EICK Gnd/Twr/App/Dep
+http://d.liveatc.net/eick2_s
+#EXTINF:-1, liveatc.net - EINN Twr/App #1
+http://d.liveatc.net/einn2
+#EXTINF:-1, liveatc.net - EIDW Approach
+http://d.liveatc.net/eidw_app_121100
+#EXTINF:-1, liveatc.net - EIDW Approach (Final)
+http://d.liveatc.net/eidw_app_final
+#EXTINF:-1, liveatc.net - EIDW Clearance Delivery
+http://d.liveatc.net/eidw_del
+#EXTINF:-1, liveatc.net - EIDW Ground
+http://d.liveatc.net/eidw_gnd_121800
+#EXTINF:-1, liveatc.net - EIDW Ground (North)
+http://d.liveatc.net/eidw_gnd_north
+#EXTINF:-1, liveatc.net - EIDW Ops
+http://d.liveatc.net/eidw_ops
+#EXTINF:-1, liveatc.net - EIDW Tower
+http://d.liveatc.net/eidw_twr_118600
+#EXTINF:-1, liveatc.net - EIDW Del/Gnd/Twr/App/Center
+http://bos.liveatc.net/eidw3
+#EXTINF:-1, The Augmented Ear Radio
+http://thirtythree-45.com:8000/;
+#EXTINF:-1, Coastline Radio
+http://38.107.243.188:8649/;
+#EXTINF:-1, Dublin's 98 fm
+http://playerservices.streamtheworld.com/api/livestream-redirect/98_FM.mp3
+#EXTINF:-1, URadio - Totally Irish
+http://uradiotherock.ice.infomaniak.ch/uradio.mp3
+#EXTINF:-1, Clare FM Radio
+http://icy-e-05-gos.sharp-stream.com/clarefm.mp3?device=website?_=0.5835631832324644
+#EXTINF:-1, Raidió Rí-Rá
+http://185.80.220.12:8166/stream?1495069624188
+#EXTINF:-1, 8Radio.com - 0
+http://ns228629.ovh.net:9035/
+#EXTINF:-1, 8Radio.com - 1
+http://8radiohq.serverroom.us:7532/
+#EXTINF:-1, 8Radio.com - 2
+http://8radio.serverroom.us:9516/
+#EXTINF:-1, Ceol FM - 0
+http://ceol.fm:8000/live.m3u
+#EXTINF:-1, Ceol FM - 1
+http://ceol.fm:8000/soothing.m3u
+#EXTINF:-1, Ceol FM - 2
+http://ceol.fm:8000/energetic.m3u
+#EXTINF:-1, Social Light Radio
+http://uk5.internet-radio.com:8318/live
+#EXTINF:-1, Annestown Community Radio
+http://178.32.62.163:8177/stream
+#EXTINF:-1, Coast Internet Radio
+http://s20.whooshclouds.net:9128/live
+#EXTINF:-1, Galway Bay FM Radio
+http://tx.sharp-stream.com/http_live.php?i=galwaybay.mp3&device=website
+#EXTINF:-1, Garden County Radio
+http://5.63.151.52:7044/listen.pls
+#EXTINF:-1, Spin 1038 - 0
+http://playerservices.streamtheworld.com/api/livestream-redirect/SPIN_103_8.mp3
+#EXTINF:-1, Spin 1038 - 1
+http://15853.live.streamtheworld.com:3690/SPIN_103_8AAC_SC
+#EXTINF:-1, True 80s Music Radio
+http://50.97.94.44:8800/stream
+#EXTINF:-1, OpenTempo 105.1 FM
+http://37.59.32.115:8025/
+#EXTINF:-1, Radio Kerry 96-98 FM - 0
+http://provisioning.streamtheworld.com/asx/RADIO_KERRYAAC.asx
+#EXTINF:-1, Radio Kerry 96-98 FM - 1
+http://provisioning.streamtheworld.com/pls/RADIO_KERRYAAC.pls
+#EXTINF:-1, MyBI Radio Ireland - African Irish Radio
+http://206.190.150.92:8220/
+#EXTINF:-1, Pinoy Radio Ireland
+http://206.72.194.250:9990
+#EXTINF:-1, Event FM
+http://uk6.internet-radio.com:8085/;
+#EXTINF:-1, Dublin Digital Radio
+http://dublindigitalradio.out.airtime.pro:8000/dublindigitalradio_a
+#EXTINF:-1, Scouting Radio
+http://streaming.radio.co/sdc98e371b/listen
+#EXTINF:-1, Sunshine 106.8 - 0
+http://sirius.shoutca.st:8291/stream
+#EXTINF:-1, Sunshine 106.8 - 1
+http://live.sunshineradio.ie:8291/
+#EXTINF:-1, Sunshine 106.8 - 2
+http://live.sunshineradio.ie:8337/
+#EXTINF:-1, Country Mix Radio
+http://178.32.62.172:8087
+#EXTINF:-1, TrueRadio Cork
+http://shaincast.caster.fm:31880/listen.mp3?
+#EXTINF:-1, Radio 94.6 Ros fm
+http://rosfm.ddns.net:8000/stream.mp3
+#EXTINF:-1, Radio Maria Ireland
+http://dreamsiteradiocp2.com:8014/live
+#EXTINF:-1, The Zone - Dublin
+http://uk1.internet-radio.com:8355/stream
+#EXTINF:-1, Midwest Irish Radio
+http://tx.sharp-stream.com/http_live.php?i=mwir.mp3
+#EXTINF:-1, JuiceFM 88.7
+http://87.38.125.8:8001/
+#EXTINF:-1, Deep House Radio (DHR) - 0
+http://lyra.shoutca.st/tunein/deephouseradio.pls
+#EXTINF:-1, Deep House Radio (DHR) - 1
+http://lyra.shoutca.st/tunein/deephouseradio.asx
+#EXTINF:-1, Christmas FM Ireland
+http://ice31.securenetsystems.net/XMASFM2?type=.mp3
+#EXTINF:-1, Christmas FM Classical
+http://ice31.securenetsystems.net/CLASSICL?type=.mp3
+#EXTINF:-1, Northern Sound Radio - 0
+http://playerservices.streamtheworld.com/pls/NORTHERNSOUNDAAC.pls
+#EXTINF:-1, Northern Sound Radio - 1
+http://playerservices.streamtheworld.com/pls/NORTHERNSOUND.pls
+#EXTINF:-1, Northern Sound Radio - 2
+http://19393.live.streamtheworld.com:80/NORTHERNSOUNDAAC_SC
+#EXTINF:-1, Northern Sound Radio - 3
+http://19393.live.streamtheworld.com:80/NORTHERNSOUND_SC
+#EXTINF:-1, Shannonside FM - 0
+http://playerservices.streamtheworld.com/pls/SHANNONSIDEAAC.pls
+#EXTINF:-1, Shannonside FM - 1
+http://playerservices.streamtheworld.com/pls/SHANNONSIDE.pls
+#EXTINF:-1, Shannonside FM - 2
+http://19513.live.streamtheworld.com:80/SHANNONSIDEAAC_SC
+#EXTINF:-1, Shannonside FM - 3
+http://19393.live.streamtheworld.com:80/SHANNONSIDE_SC
+#EXTINF:-1, Limerick's Live 95FM
+http://webradio.radiomonitor.com/stream/Live95/;
+#EXTINF:-1, Melody Radio Country
+http://whooshserver.net:8056/live
+#EXTINF:-1, Red Cherry Radio
+http://s25.myradiostream.com:6496/;stream/1
+#EXTINF:-1, ADK Radio
+http://104.250.155.162:9806/listen.pls
+#EXTINF:-1, Easy Radio
+http://109.169.26.139:8432
+#EXTINF:-1, Kiss Fm Dublin - 0
+http://tachyon.shoutca.st/tunein/kissdublin.pls
+#EXTINF:-1, Kiss Fm Dublin - 1
+http://tachyon.shoutca.st/tunein/kissdublin.asx
+#EXTINF:-1, Community Radio Kilkenny City 88.7fm
+http://rsstreaming.com:8002/Live
+#EXTINF:-1, RetroNow - 0
+http://cassini.shoutca.st:9007/;
+#EXTINF:-1, RetroNow - 1
+http://cassini.shoutca.st/tunein/retronow.asx
+#EXTINF:-1, Flirt fm 101.3
+http://www.flirtfm.ie:8000/stream.mp3
+#EXTINF:-1, ULFM
+http://www.ulfm.ie/listen-live
+#EXTINF:-1, Inferno Radio - 0
+http://67.212.179.130:8100/
+#EXTINF:-1, Inferno Radio - 1
+http://www.makeavoice.com/shoutcast/tuneinlinks.php?file=asx&host=67.212.179.130&port=8100
+#EXTINF:-1, C103 North Cork - 0
+http://webradio.radiomonitor.com/stream/C103-North
+#EXTINF:-1, C103 North Cork - 1
+http://stream4.radiomonitor.com/C103-North
+#EXTINF:-1, Atlantic Radio Ireland
+http://atlantic.out.airtime.pro:8000/atlantic_a
+#EXTINF:-1, Radio Zodiac Ireland
+http://www.radioking.com/play/radio-zodiac-ireland
+#EXTINF:-1, Total Country Inchicore Radio
+http://sirius.shoutca.st/tunein/totalcountry.pls
+#EXTINF:-1, GCR Digital Radio
+http://uk6.internet-radio.com:8267/;
+#EXTINF:-1, Dream Easy
+http://31.14.40.241:18089/dreameasy
+#EXTINF:-1, Irish Tourist Radio - 0
+http://streaming.radionomy.com/IrishTouristRadio?lang=en-US&appName=iTunes.m3u
+#EXTINF:-1, Irish Tourist Radio - 1
+http://listen.radionomy.com/irishtouristradio
+#EXTINF:-1, Smooth Velvet Radio - 0
+http://streaming.radionomy.com/SmoothVelvetRadio?lang=en-US&appName=iTunes.m3u
+#EXTINF:-1, Smooth Velvet Radio - 1
+http://listen.radionomy.com/smoothvelvetradio
+#EXTINF:-1, PowerFM Dublin
+http://war.powerfm.org:8000/powerfm.mp3
+#EXTINF:-1, The Freak - 0
+http://streaming.radionomy.com/The-Freak?lang=en-US&appName=iTunes.m3u
+#EXTINF:-1, The Freak - 1
+http://listen.radionomy.com/the-freak.m3u
+#EXTINF:-1, Contemporary Celtic & Folk Rock Music - 0
+http://streaming.radionomy.com/ContemporaryCeltic?lang=en-US&appName=website.m3u
+#EXTINF:-1, Contemporary Celtic & Folk Rock Music - 1
+http://listen128.radionomy.com/ContemporaryCeltic
+#EXTINF:-1, Dublin South 93.9 FM
+http://pollux.shoutca.st:8853/live
+#EXTINF:-1, Heartbeat FM - 0
+http://cast5.magicstreams.gr:2199/tunein/heartbeat.pls
+#EXTINF:-1, Heartbeat FM - 1
+http://cast5.magicstreams.gr:2199/tunein/heartbeat.ram
+#EXTINF:-1, Heartbeat FM - 2
+http://cast5.magicstreams.gr:2199/tunein/heartbeat.asx
+#EXTINF:-1, Spin South West 102-103 & 94.7
+http://pri.gocaster.net/swliq?csegid=101
+#EXTINF:-1, Spin Extra
+http://pri.gocaster.net/SpinExtra
+#EXTINF:-1, Today FM - 0
+http://pri.gocaster.net/td2
+#EXTINF:-1, Today FM - 1
+http://pri.gocaster.net/td
+#EXTINF:-1, Today FM 80s
+http://pri.gocaster.net/TDFM80
+#EXTINF:-1, Today FM 90s
+http://pri.gocaster.net/TDFM90
+#EXTINF:-1, Today XM
+http://pri.gocaster.net/TDFMX
+#EXTINF:-1, Allgold.ie
+http://8.38.78.173:8252/stream
+#EXTINF:-1, Seven Heads Radio
+http://199.195.194.94:8127/stream
+#EXTINF:-1, Premier Radio International
+http://173.249.0.141:8085/stream
+#EXTINF:-1, Redrock Radio
+http://78.129.187.57:4842/;stream/1
+#EXTINF:-1, iRadio North East & Midlands
+http://185.105.4.252:8090/iradioneweb
+#EXTINF:-1, Love Radio.ie
+http://31.14.40.241:9722
+#EXTINF:-1, Gateway FM 88
+http://37.187.93.104:8147/live
+#EXTINF:-1, Radio liveIRELAND - 0
+http://lynx.prostreaming.net:2199/tunein/liveireland.asx
+#EXTINF:-1, Radio liveIRELAND - 1
+http://lynx.prostreaming.net:2199/tunein/liveireland.pls
+#EXTINF:-1, Radio liveIRELAND - 2
+http://192.111.140.11:8058/;
+#EXTINF:-1, Gem Radio New Wave
+http://62.210.10.4:8928/;
+#EXTINF:-1, Classic Dance Hitz
+http://streams.radio.co/s7a933605c/listen
+#EXTINF:-1, iRadio West & North West
+http://185.105.4.252:8000/iradionwweb
+#EXTINF:-1, Claremorris Community Radio 94.6 FM
+http://majestic.wavestreamer.com:7983/;
+#EXTINF:-1, LMFM 95.8
+http://stream5.radiomonitor.com/LMFM
+#EXTINF:-1, Radio Atdheu
+http://46.4.28.213:8132
+#EXTINF:-1, Highland Radio
+http://ice1.gocaster.net/highlandradio
+#EXTINF:-1, Zen Radio - 0
+http://iradio3.iceca.st/zenradio.mp3
+#EXTINF:-1, Zen Radio - 1
+http://iradio.iceca.st/zenradio.m3u
+#EXTINF:-1, Tipp FM 95.3 - 0
+http://edge-audio-03-gos2.sharp-stream.com/tippfm1.mp3
+#EXTINF:-1, Tipp FM 95.3 - 1
+http://edge-audio-03-gos2.sharp-stream.com/tippfm.aac
+#EXTINF:-1, Tipp FM 95.3 - 2
+http://edge-audio-03-gos2.sharp-stream.com/tippfm2.aac
+#EXTINF:-1, Christmas FM Classic
+http://ice31.securenetsystems.net/CLASSIC?type=.mp3
+#EXTINF:-1, Newstalk 106-108 FM - 0
+http://playerservices.streamtheworld.com/pls/NEWSTALKAAC.pls
+#EXTINF:-1, Newstalk 106-108 FM - 1
+http://playerservices.streamtheworld.com/pls/NEWSTALK.pls
+#EXTINF:-1, Newstalk 106-108 FM - 2
+http://playerservices.streamtheworld.com/api/livestream-redirect/NEWSTALK.mp3?
+#EXTINF:-1, Newstalk 106-108 FM - 3
+http://ice1.gocaster.net/nt
+#EXTINF:-1, KCLR 96 FM - Kilkenny
+http://ghost.wavestreamer.com:8515/;
+#EXTINF:-1, KCLR 96 FM - Carlow
+http://ghost.wavestreamer.com:4858/;
+#EXTINF:-1, CRK 96.7 FM (Tuesday 7pm-11pm)
+http://184.154.145.114:8011/stream
+#EXTINF:-1, IrishRadio.org
+http://cast1.citrus3.com:8866/;stream.mp3
+#EXTINF:-1, Athlone Community Radio 88.4 fm
+http://79.97.44.255:88/broadwave.mp3?_=1
+#EXTINF:-1, Carlow FM
+http://78.129.163.129:11851/;stream/1
+#EXTINF:-1, Midlands Radio 103
+http://edge-audio-03-gos2.sharp-stream.com/midlands103.mp3
+#EXTINF:-1, Owenea FM 100.8 - Donegal Sounds Community Radio
+http://eu4.radioboss.fm:8252/stream
+#EXTINF:-1, 103.2 Dublin City FM
+http://31.14.40.241:18091/dcfm
+#EXTINF:-1, MixLive - Psybient Sunset - 0
+http://mixlive.ie:9318/psybient-sunset
+#EXTINF:-1, MixLive - Psybient Sunset - 1
+http://198.24.145.146:9318/;
+#EXTINF:-1, MixLive - Ambient Lounge - 0
+http://mixlive.ie:9332/;ambient
+#EXTINF:-1, MixLive - Ambient Lounge - 1
+http://198.24.145.146:9332/;
+#EXTINF:-1, MixLive - Progressive & Tech-house - 0
+http://mixlive.ie:9610/;progressive-tech
+#EXTINF:-1, MixLive - Progressive & Tech-house - 1
+http://198.24.145.146:9610/;
+#EXTINF:-1, MixLive - Trance Illusion - 0
+http://mixlive.ie:9616/;trance
+#EXTINF:-1, MixLive - Trance Illusion - 1
+http://198.24.145.146:9616/;
+#EXTINF:-1, MixLive - Bass Station - 0
+http://mixlive.ie:9612/;
+#EXTINF:-1, MixLive - Bass Station - 1
+http://198.24.145.146:9612/;
+#EXTINF:-1, MixLive - Open-Stage Project
+http://mixlive.ie:9338/;openstage
+#EXTINF:-1, MixLive - Chillout Essentials - 0
+http://mixlive.ie:9998/;chillout
+#EXTINF:-1, MixLive - Chillout Essentials - 1
+http://198.24.145.146:9998/;
+#EXTINF:-1, MixLive - Minimal & Techno - 0
+http://mixlive.ie:9608/;minimal-techno
+#EXTINF:-1, MixLive - Minimal & Techno - 1
+http://198.24.145.146:9608/;
+#EXTINF:-1, MixLive - 1000 Hits 80s
+http://c2.auracast.net:8048/stream
+#EXTINF:-1, Phoenix FM Radio 92.5
+http://5.63.151.52:7054/;stream.mp3
+#EXTINF:-1, Ocean FM 102.5 - 105 Carrowduff, Ireland
+http://stream.audioxi.com/OCEANS
+#EXTINF:-1, Time-Warp Internet Radio Ireland
+http://108.163.245.230:8005/;
+#EXTINF:-1, The 90s Network
+http://uk1.streamingpulse.com:2199/tunein/90snetwork.pls

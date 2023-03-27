@@ -1,0 +1,103 @@
+#EXTM3U
+#EXTINF:-1, Radio Pacto
+http://www.servercristianonetwork.com/radios/windowspacto.asx
+#EXTINF:-1, Radio Deporte 1590 AM
+http://lortel58.lorini.net:44004/RADIODEPORTE
+#EXTINF:-1, Unión Radio - Deportes - 0
+http://urccs.lorini.net:2090/DEPORTES.aac
+#EXTINF:-1, Unión Radio - Deportes - 1
+http://www.lorini.net/unionradio/ccs/deportes.asx
+#EXTINF:-1, Unión Radio - Noticias
+http://urccs.lorini.net:2080/ACTUALIDAD.aac
+#EXTINF:-1, Éxitos 99.9 FM - 0
+http://ur58.lorini.net:10999/exitosccs.mp3
+#EXTINF:-1, Éxitos 99.9 FM - 1
+http://urccs.lorini.net:2070/EXITOS.aac
+#EXTINF:-1, Onda 107.9 FM - 0
+http://ur58.lorini.net:10790/ondaccs.mp3
+#EXTINF:-1, Onda 107.9 FM - 1
+http://ur58.lorini.net:2060/ONDA.aac
+#EXTINF:-1, YVKE Mundial Caracas
+http://190.9.128.238:8080/radiomundial
+#EXTINF:-1, YVKE Mundial Merida
+http://190.9.128.238:8080/mundialmerida
+#EXTINF:-1, RCR 750 AM
+http://lortel58.lorini.net:1062/RCRenlace
+#EXTINF:-1, Radio Sintonia 1420 AM Caracas
+http://lortel58.lorini.net:30038/radiosintonia1420.aac
+#EXTINF:-1, La Romántica 88.9 FM Caracas
+http://108.175.169.34:8068
+#EXTINF:-1, La Romántica 90.3 FM Vargas
+http://108.175.169.34:9042
+#EXTINF:-1, La Romántica 97.1 FM Maturin
+http://bb1.globalhost.co.ve:8000/LAROMANTICA971FM.aac
+#EXTINF:-1, La Voz Internacional
+http://www.eleden.net/str3am/falcon24k.asx
+#EXTINF:-1, Platinum 98.7 FM
+http://laradiohd.com:8241/;
+#EXTINF:-1, radio aller
+http://www.radioayer.com/playayer.wmx
+#EXTINF:-1, Alba Ciudad 96.3 FM
+http://envivo.albaciudad.org:8000/albaciudad.mp3
+#EXTINF:-1, Deportiva 1300 AM Center
+http://108.175.169.34:9018
+#EXTINF:-1, Circuito radio Venezuela - 790 AM Caracas
+http://streamingned.com:7294/
+#EXTINF:-1, Unión Radio - La Mega
+http://www.lorini.net/unionradio/ccs/lamega.asx
+#EXTINF:-1, RQ 910 AM
+http://streaming3.globalhost.net.ve:9014
+#EXTINF:-1, RNV Musical
+http://rnv.lorini.net:29030/RNVMUSICAL?
+#EXTINF:-1, RNV Clásico
+http://rnv.lorini.net:29020/RNVCLASICA?
+#EXTINF:-1, RNV Informativa
+http://rnv.lorini.net:29100/RNVINFORMATIVO?
+#EXTINF:-1, RNV Activa
+http://rnv.lorini.net:29010/RNVACTIVA?
+#EXTINF:-1, RockNet Radio
+http://s2.myradiostream.com:31836/
+#EXTINF:-1, Radio Maria Venezuela - 0
+http://dreamsiteradiocp.com:8096/
+#EXTINF:-1, Radio Maria Venezuela - 1
+http://cloudrad.io/radiomariavenezuela/listen.asx
+#EXTINF:-1, noesfm
+http://144.217.129.213:8588/;
+#EXTINF:-1, Amiga Radio Web Venezuela
+http://streamingned.com:7132
+#EXTINF:-1, Astro 97.7 FM
+http://laradiohd.com:6050/;
+#EXTINF:-1, La Radio del Sur
+http://cp4.lorini.net:36268/stream/1/
+#EXTINF:-1, Radio Galaxia Venezuela
+http://laradiohd.com:6108/;
+#EXTINF:-1, YVKE Mundial Valencia
+http://190.9.128.238:8080/mundialmerida
+#EXTINF:-1, YVKE Mundial Zulia
+http://190.9.128.238:8080/mundialtachira
+#EXTINF:-1, Kys FM 101.5
+http://51.255.123.116:9044/stream
+#EXTINF:-1, El Evangelio Cambia 96.3 FM
+http://streaming3.globalhost.net.ve:9378
+#EXTINF:-1, Rumba 104.9 FM Anzoategui - 0
+http://srv2.plugstreaming.com:8401/;
+#EXTINF:-1, Rumba 104.9 FM Anzoategui - 1
+http://srv2.plugstreaming.com:8401/stream;
+#EXTINF:-1, TOP STEREO 90.3 FM
+http://streamingned.com:7400/stream.aac
+#EXTINF:-1, B-96 fm Barquisimeto
+http://streaming3.globalhost.net.ve:9390/;
+#EXTINF:-1, Pacífica 90.7 FM Caracas
+http://91.121.220.14:9304/;
+#EXTINF:-1, Radio Victoria 103.9 FM - Tu Radio Vial
+http://live.tritonmedias.com.ve:6866/;
+#EXTINF:-1, Sigma 105.1 FM
+http://cp4.lorini.net:41082/stream/1/
+#EXTINF:-1, Tu FM Digital - 101.5 FM Puerto Ordaz
+http://cp2.lorini.net:2020/venpzo
+#EXTINF:-1, Unión Radio - Onda La Superestación - 0
+http://urccs.lorini.net:2060/ONDA.aac
+#EXTINF:-1, Unión Radio - Onda La Superestación - 1
+http://www.lorini.net/unionradio/ccs/onda.asx
+#EXTINF:-1, Unión Radio - Onda La Superestación - 2
+http://ur58.lorini.net:10790/ondaccs.mp3

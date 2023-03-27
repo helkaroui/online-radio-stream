@@ -1,0 +1,227 @@
+#EXTM3U
+#EXTINF:-1, Radio Fortuna 96.8 fm
+http://50.7.129.122:8497
+#EXTINF:-1, Radio City fm macedonia - 0
+http://ss1.mk.checast.com:21306/48.aac
+#EXTINF:-1, Radio City fm macedonia - 1
+http://checast.com/listen/mk/city/32.aac
+#EXTINF:-1, Radio Club fm macedonia
+http://176.9.117.123:9996
+#EXTINF:-1, City Radio Macedonia - 0
+http://176.9.117.123:9998/listen.pls
+#EXTINF:-1, City Radio Macedonia - 1
+http://ss1.mk.checast.com:21306/48.aac
+#EXTINF:-1, Antenna 5 Radio - Goldenhits
+http://antenna5stream.neotel.mk:8000/goldenhits32.m3u
+#EXTINF:-1, RadioHIT Macedonia
+http://88.85.99.43:8000/hitportal.m3u
+#EXTINF:-1, Antenna 5 Radio - Dancehits
+http://antenna5stream.neotel.mk:8000/dancehits32.m3u
+#EXTINF:-1, Radio Akord 96.5 FM
+http://radioakord.dyndns.org:8000/;
+#EXTINF:-1, Metropolis Radio
+http://radio.one.mk:8000/metropolis.mp3
+#EXTINF:-1, Ohrid24
+http://checast.com/listen/mk/ohrid24.pls
+#EXTINF:-1, Pulse Radio
+http://www.pulseradio.mk/pulse.pls
+#EXTINF:-1, Radio Pro FM
+http://ss1.mk.checast.com:21072/32.aac
+#EXTINF:-1, Radio Rrapi
+http://ss1.mk.checast.com:21296/48.aac
+#EXTINF:-1, Radio Vati
+http://radiostream.neotel.mk:8000/radiovati
+#EXTINF:-1, Play Radio 90.4 FM
+http://188.44.24.204:8000
+#EXTINF:-1, Radio Bravo 88.5 FM
+http://80.77.157.10:8000/;live.mp3
+#EXTINF:-1, Radio Bravo - Blues & Jazz
+http://80.77.157.13:8000/;
+#EXTINF:-1, Radio MEFF Prilep Makedonija
+http://5.35.251.86:18002/;
+#EXTINF:-1, City Radio 94.7 FM - Skopje - 0
+http://checast.com/listen/mk/city/32.aac
+#EXTINF:-1, City Radio 94.7 FM - Skopje - 1
+http://ss1.mk.checast.com:21306/48.aac
+#EXTINF:-1, Radio Marija Makedonija - 0
+http://dreamsiteradiocp.com:8118/
+#EXTINF:-1, Radio Marija Makedonija - 1
+http://cloudrad.io/radiomariamacedonia/listen.asx
+#EXTINF:-1, Radio Fama
+http://fama.radiofama.org:7000/
+#EXTINF:-1, Radio Jehona
+http://5.39.82.219:10030/;
+#EXTINF:-1, Gradski Media Service
+http://109.236.85.141:7324/stream
+#EXTINF:-1, 1Radio.mk - The Wave Smooth Jazz - 0
+http://185.80.220.101/1radio_smoothjazz_128
+#EXTINF:-1, 1Radio.mk - The Wave Smooth Jazz - 1
+http://185.80.220.101/1radio_smoothjazz_64
+#EXTINF:-1, 1Radio.mk - The 80's Channel - 0
+http://66.85.88.2/1069_128
+#EXTINF:-1, 1Radio.mk - The 80's Channel - 1
+http://hades.cdnstream.com/1069_128
+#EXTINF:-1, 1Radio.mk - The 80's Channel - 2
+http://hades.cdnstream.com/1069_64
+#EXTINF:-1, 1Radio.mk - The 80's Channel - 3
+http://star104.net/stream/80s.pls
+#EXTINF:-1, 1Radio.mk - Oldies104 - 0
+http://185.80.220.101/1radio_oldies_128
+#EXTINF:-1, 1Radio.mk - Oldies104 - 1
+http://hades.cdnstream.com:80/1076_128
+#EXTINF:-1, 1Radio.mk - Oldies104 - 2
+http://hades.cdnstream.com:80/1076_64
+#EXTINF:-1, 1Radio.mk - Oldies104 - 3
+http://star104.net/stream/oldies.pls
+#EXTINF:-1, 1Radio.mk - Country - 0
+http://66.85.88.2/1071_128
+#EXTINF:-1, 1Radio.mk - Country - 1
+http://hades.cdnstream.com/1071_128
+#EXTINF:-1, 1Radio.mk - Country - 2
+http://hades.cdnstream.com:80/1071_64
+#EXTINF:-1, 1Radio.mk - Country - 3
+http://star104.net/stream/country.pls
+#EXTINF:-1, 1Radio.mk - AtWork - 0
+http://185.80.220.101/1radio_atwork_128
+#EXTINF:-1, 1Radio.mk - AtWork - 1
+http://hades.cdnstream.com/1067_128
+#EXTINF:-1, 1Radio.mk - AtWork - 2
+http://www.star104.net/stream/atwork104.pls
+#EXTINF:-1, 1Radio.mk - AtWork - 3
+http://hades.cdnstream.com/1067_64
+#EXTINF:-1, 1Radio.mk - Hit Music Channel - 0
+http://66.85.88.2/1068_128
+#EXTINF:-1, 1Radio.mk - Hit Music Channel - 1
+http://hades.cdnstream.com:80/1068_128
+#EXTINF:-1, 1Radio.mk - Hit Music Channel - 2
+http://hades.cdnstream.com:80/1068_64
+#EXTINF:-1, 1Radio.mk - Classic Rock - 0
+http://66.85.88.2/1074_128
+#EXTINF:-1, 1Radio.mk - Classic Rock - 1
+http://185.80.220.101/1radio_classicrock_128
+#EXTINF:-1, 1Radio.mk - Classic Rock - 2
+http://hades.cdnstream.com:80/1074_128
+#EXTINF:-1, 1Radio.mk - Classic Rock - 3
+http://hades.cdnstream.com:80/1074_64
+#EXTINF:-1, 1Radio.mk - Classics R&B - 0
+http://66.85.88.2/1070_128
+#EXTINF:-1, 1Radio.mk - Classics R&B - 1
+http://hades.cdnstream.com/1070_128
+#EXTINF:-1, 1Radio.mk - Classics R&B - 2
+http://hades.cdnstream.com:80/1070_64
+#EXTINF:-1, 1Radio.mk - Christmas104 - 0
+http://66.85.88.2/1077_128
+#EXTINF:-1, 1Radio.mk - Christmas104 - 1
+http://66.85.88.2/1077_64
+#EXTINF:-1, 1Radio.mk -The Jazzmas Channel - 0
+http://185.80.220.101/1647_128
+#EXTINF:-1, 1Radio.mk -The Jazzmas Channel - 1
+http://185.80.220.101/1647_64
+#EXTINF:-1, Radio Buba Mara 105,2 FM - Skoplje
+http://88.85.99.2/live-128.mp3
+#EXTINF:-1, 1Radio.mk - Comedy104 - 0
+http://www.allcomedy.net/comedy.asx
+#EXTINF:-1, 1Radio.mk - Comedy104 - 1
+http://ams-2.1radio.mk/1radio_comedy_64a
+#EXTINF:-1, 1Radio.mk - Comedy104 - 2
+http://hades.cdnstream.com:80/1073_64
+#EXTINF:-1, Radio Red
+http://162.244.80.32:7814/;stream.mp3
+#EXTINF:-1, Radio 105 Bombarder Bitola - 0
+http://radio105.makbots.com:21010/;*.mp3
+#EXTINF:-1, Radio 105 Bombarder Bitola - 1
+http://radio105bombarder.com/Radio105.asx
+#EXTINF:-1, Radio 105 Bombarder Bitola - 2
+http://radio105bombarder.com/Radio105.pls
+#EXTINF:-1, Radio 106 (106.6 MHz FM) - Bitola
+http://ss1.mk.checast.com:21100/live
+#EXTINF:-1, Radio 5 FM 107.1 MHz FM - Veles - 0
+http://176.9.59.144:8038/5fmveles?1521310383901.aac
+#EXTINF:-1, Radio 5 FM 107.1 MHz FM - Veles - 1
+http://176.9.59.144:8038/5fmveles
+#EXTINF:-1, Radio 5 FM 107.1 MHz FM - Veles - 2
+http://5fm.mk:8000/stream/1/?type=http/;?d=
+#EXTINF:-1, Radio Akord Kičevo
+http://radioakord.dyndns.org:8000/;*.mp3
+#EXTINF:-1, Radio Bravo 88.5 FM - Kumanovo
+http://80.77.157.10:8000/stream/2;live.mp3
+#EXTINF:-1, Radio Bravo Blues & Jazz - Kumanovo
+http://80.77.157.13:8000/stream/2;
+#EXTINF:-1, Radio Bubamara 105.2 MHz FM - Skoplje
+http://88.85.99.2/live-128.mp3
+#EXTINF:-1, Radio Bum 104.2 MHz - Kumanovo
+http://hyades.shoutca.st:8533/;stream/1
+#EXTINF:-1, Capitol FM 106.5 MHz - Skoplje - 0
+http://89.205.127.244:8002/;*.mp3
+#EXTINF:-1, Capitol FM 106.5 MHz - Skoplje - 1
+http://89.205.127.244:8002/listen.pls
+#EXTINF:-1, City Radio Skoplje
+http://176.9.117.123:9998/;stream/1
+#EXTINF:-1, Radio Fortuna 96.8 FM - Skoplje
+http://50.7.129.122:8497/listen.pls
+#EXTINF:-1, HIT Radio Skoplje - 0
+http://88.85.99.43:8000/hitportal
+#EXTINF:-1, HIT Radio Skoplje - 1
+http://88.85.99.43:8000/hitportal.m3u
+#EXTINF:-1, Radio Kavadarci - 0
+http://78.138.98.221:8081/listen.pls
+#EXTINF:-1, Radio Kavadarci - 1
+http://78.138.98.221:8081/
+#EXTINF:-1, Radio Kometa 106.4 FM - Gostivar
+http://ss1.mk.checast.com:21070/48.aac
+#EXTINF:-1, Mreža Kanal 77 - Štip
+http://kanal77.mk:8088/live.mp3
+#EXTINF:-1, Radio Ohrid 24 - Ohrid
+http://checast.com/listen/mk/ohrid24.pls
+#EXTINF:-1, Play FM Radio 90.4 FM - Struga - 0
+http://live.playfm.mk:8000/listen.pls
+#EXTINF:-1, Play FM Radio 90.4 FM - Struga - 1
+http://live.playfm.mk:8000/
+#EXTINF:-1, Metropolis Radio Network - Skoplje
+http://eu4.fastcast4u.com/proxy/metradio?mp=/1
+#EXTINF:-1, Sky Radio 102.5 FM - Skoplje - 0
+http://s1.skyradio.com.mk:8002
+#EXTINF:-1, Sky Radio 102.5 FM - Skoplje - 1
+http://skyradio.com.mk/listen.m3u
+#EXTINF:-1, Sky Radio 102.5 FM - Skoplje - 2
+http://s1.skyradio.com.mk:8000/
+#EXTINF:-1, Sportsko Radio 90.3 FM - Skoplje - 0
+http://checast.com/listen/mk/sportsko903/32.aac
+#EXTINF:-1, Sportsko Radio 90.3 FM - Skoplje - 1
+http://ss1.mk.checast.com:21320/live
+#EXTINF:-1, Radio Time 93.6 FM - Djevdjelija
+http://ss1.mk.checast.com:21102/live
+#EXTINF:-1, Vink Radio Skopje
+http://144.217.4.114:8056/listen.pls
+#EXTINF:-1, Zona M1 Radio Skoplje
+http://ss1.mk.checast.com:21290/live
+#EXTINF:-1, Radio Bleta 101.0 FM - 0
+http://stream.tvkoha.tv:5000/listen.pls
+#EXTINF:-1, Radio Bleta 101.0 FM - 1
+http://stream.tvkoha.tv:5000/
+#EXTINF:-1, Radio Bleta 101.0 FM - 2
+http://bleta.tvkoha.tv/live.asx
+#EXTINF:-1, kanal 103
+http://radiostream.neotel.mk/kanal103
+#EXTINF:-1, CLUB FM 103.4 - 0
+http://176.9.117.123:9996/;
+#EXTINF:-1, CLUB FM 103.4 - 1
+http://176.9.117.123:9996/;stream/1
+#EXTINF:-1, Radio Bitola -Radio 105 Bombarder - 0
+http://radio105bombarder.com/Radio105.pls
+#EXTINF:-1, Radio Bitola -Radio 105 Bombarder - 1
+http://radio105bombarder.com/Radio105.asx
+#EXTINF:-1, Radio-Vmro-MK
+http://162.210.196.140:8975/;
+#EXTINF:-1, Radio Mreža Kanal 77 - Štip
+http://kanal77.mk:8088/live.mp3
+#EXTINF:-1, Ekspres Radio 101.1 FM Strumica Macedonia
+http://ekspresradio.dyndns.org:8000/;
+#EXTINF:-1, Radio Štip 99.2 FM
+http://62.162.58.36:1031/stream/swyh.mp3
+#EXTINF:-1, Radio Rosa 98.1 MHz FM - Skoplje
+http://5.133.182.174:39911/;
+#EXTINF:-1, Radio Holidej 102.1 fm
+http://213.135.181.14:8000/;
+#EXTINF:-1, Super Radio 97 FM - Ohrid
+http://s2.free-shoutcast.com:18322/stream.mp3

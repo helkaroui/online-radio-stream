@@ -1,0 +1,363 @@
+#EXTM3U
+#EXTINF:-1, Radio Sun
+http://app1.downtime.fi:8000/sun.mp3
+#EXTINF:-1, Fun Tampere
+http://st.downtime.fi/fun.mp3.m3u
+#EXTINF:-1, Rondo Classic - Klasu Pro - 0
+http://stream.iradio.fi:8000/klasupro-hi.mp3
+#EXTINF:-1, Rondo Classic - Klasu Pro - 1
+http://stream.iradio.fi:8000/klasupro-med.mp3
+#EXTINF:-1, Rondo Classic - Klasu Pro - 2
+http://stream.iradio.fi:8000/klasupro-lo.mp3
+#EXTINF:-1, Steel FM
+http://ice6.securenetsystems.net/STEELFM
+#EXTINF:-1, Radio Sandels
+http://suomiradio.pro:8080/listen.pls
+#EXTINF:-1, Leijonaradio
+http://s3.radioboss.fm:8301/live
+#EXTINF:-1, Radio Musa
+http://suomiradio.pro:8040/listen.pls
+#EXTINF:-1, Finest FM - 0
+http://212.47.220.188:8000/listen.pls
+#EXTINF:-1, Finest FM - 1
+http://212.47.220.188:8000/listen.asx
+#EXTINF:-1, Radio Hear - 0
+http://hear.fi/radio.pls
+#EXTINF:-1, Radio Hear - 1
+http://radio.hear.fi:8000/hear.ogg
+#EXTINF:-1, Radio Hear - 2
+http://hear.fi/radio128.pls
+#EXTINF:-1, Radio Pori 89.4
+http://hel2-77-86-247-184.ext.nebulacloud.fi:8000/radiopori
+#EXTINF:-1, Radio Pooki
+http://stream2.sbs.fi/pooki.mp3
+#EXTINF:-1, Limuradio
+http://193.166.72.7/limuradio.mp3
+#EXTINF:-1, Radioverkko
+http://kuuntele.radioverkko.fi:8000/live
+#EXTINF:-1, Pispalan Radio
+http://suomiradio.pro:8000/listen.pls?sid=1
+#EXTINF:-1, Radio Mikkeli
+http://hel2-77-86-247-184.ext.nebulacloud.fi:8000/mikkeli
+#EXTINF:-1, Radio Moreeni
+http://153.1.15.29:8080/moreeni.mp3
+#EXTINF:-1, Radio Nova 106.2 FM
+http://stream3.bauermedia.fi/nova.mp3
+#EXTINF:-1, Kiss - 0
+http://stream2.sbs.fi/voice.mp3
+#EXTINF:-1, Kiss - 1
+http://stream2.bauermedia.fi/kiss.mp3
+#EXTINF:-1, Radio Fiskars - 0
+http://radio.radiofiskars.fi:8000/kuuntele_128.m3u
+#EXTINF:-1, Radio Fiskars - 1
+http://radio.radiofiskars.fi:8000/ogg_48.m3u
+#EXTINF:-1, KaaosRadio 24h - 0
+http://stream.kaaosradio.fi:8000/stream.m3u
+#EXTINF:-1, KaaosRadio 24h - 1
+http://stream.kaaosradio.fi:8000/stream2.m3u
+#EXTINF:-1, Kaaosradio 24h Chill
+http://stream.kaaosradio.fi:8000/chill
+#EXTINF:-1, Radio Dei
+http://isojako.radiodei.fi:8000/yleisohjelma
+#EXTINF:-1, Radio Dei Kristiinankaupunki
+http://isojako.radiodei.fi:8000/kristiinankaupunki
+#EXTINF:-1, Radio Dei Helsinki
+http://isojako.radiodei.fi:8000/helsinki
+#EXTINF:-1, Radio Dei Kemi
+http://isojako.radiodei.fi:8000/tornio
+#EXTINF:-1, Radio Dei Kokkola
+http://isojako.radiodei.fi:8000/kruunupyy
+#EXTINF:-1, Radio Dei Oulu
+http://isojako.radiodei.fi:8000/oulu
+#EXTINF:-1, Radio Dei Pohjanmaa
+http://isojako.radiodei.fi:8000/lapua
+#EXTINF:-1, Radio Dei Rovaniemi
+http://isojako.radiodei.fi:8000/rovaniemi
+#EXTINF:-1, Radio Dei Turku ja Satakunta
+http://isojako.radiodei.fi:8000/turkueurajoki
+#EXTINF:-1, Nuotta-taajuus
+http://icecast2.nuotta.com:8000/nuotta
+#EXTINF:-1, Radio Vaasa
+http://stream.radiovaasa.fi:8000/radiovaasa.mp3
+#EXTINF:-1, Rondo Classic - Klasu - 0
+http://stream.iradio.fi:8000/klasu-hi.mp3
+#EXTINF:-1, Rondo Classic - Klasu - 1
+http://stream.iradio.fi:8000/klasu-med.mp3
+#EXTINF:-1, Rondo Classic - Klasu - 2
+http://stream.iradio.fi:8000/klasu-lo.mp3
+#EXTINF:-1, Yöradio
+http://188.165.138.30:8080/radio.mp3
+#EXTINF:-1, NRJ.fi - Finland
+http://cdn.nrjaudio.fm/adwz1/fi/35001/mp3_128.mp3
+#EXTINF:-1, NRJ.fi - Suomihitit
+http://cdn.nrjaudio.fm/adwz1/fi/35061/mp3_128.mp3
+#EXTINF:-1, Radio Inari
+http://188.117.31.195:8000/radioinari
+#EXTINF:-1, BusinesFM
+http://st.downtime.fi/bfm.mp3
+#EXTINF:-1, Bassoradio
+http://stream.basso.fi:8000/stream
+#EXTINF:-1, Helmiradio
+http://icelive0.80692-icelive0.cdn.qbrick.com/10567/80692_Helmiradio.mp3
+#EXTINF:-1, Radio Aalto
+http://icelive0.80692-icelive0.cdn.qbrick.com/10564/80692_RadioAalto.mp3
+#EXTINF:-1, Radio Rock
+http://icelive0.80692-icelive0.cdn.qbrick.com/10565/80692_RadioRock.mp3
+#EXTINF:-1, Radio Suomipop
+http://icelive0.80692-icelive0.cdn.qbrick.com/10566/80692_RadioSuomipop.mp3
+#EXTINF:-1, Groove FM
+http://icelive0.80692-icelive0.cdn.qbrick.com/10563/80692_GrooveFM.mp3
+#EXTINF:-1, Radio City Oulu
+http://stream2.sbs.fi/rc-oul.mp3
+#EXTINF:-1, Radio City Tampere
+http://stream2.sbs.fi/rc-tre.mp3
+#EXTINF:-1, Radio City Lappeenranta
+http://stream2.sbs.fi/rc-lpr.mp3
+#EXTINF:-1, NRJ.fi - Dance
+http://cdn.nrjaudio.fm/adwz1/fi/35037/mp3_128.mp3
+#EXTINF:-1, Radio City Jyvaskyla
+http://stream2.sbs.fi/rc-jkl.mp3
+#EXTINF:-1, NRJ.fi - Fitness
+http://cdn.nrjaudio.fm/adwz1/fi/35017/mp3_128.mp3
+#EXTINF:-1, NRJ.fi - Lounge
+http://cdn.nrjaudio.fm/adwz1/fi/35011/mp3_128.mp3
+#EXTINF:-1, NRJ.fi - Extravadance
+http://cdn.nrjaudio.fm/adwz1/fi/35031/mp3_128.mp3
+#EXTINF:-1, NRJ.fi - Running
+http://cdn.nrjaudio.fm/adwz1/fi/35051/mp3_128.mp3
+#EXTINF:-1, Radio City Helsinki
+http://stream2.sbs.fi/rc-hki.mp3
+#EXTINF:-1, Radio City Turku
+http://stream2.sbs.fi/rc-tku.mp3
+#EXTINF:-1, Radio Nostalgia
+http://cdn.nrjaudio.fm/adwz1/fi/35059/mp3_128.mp3
+#EXTINF:-1, Ålands Radio
+http://194.110.182.131:8000/stream.mp3
+#EXTINF:-1, Radio Tutka
+http://str0.zenonmedia.com:8002/stream
+#EXTINF:-1, Rondo Classic - Viva Classica
+http://rondo.iradio.fi:8000/viva-hi.mp3
+#EXTINF:-1, Auran Aallot
+http://hel2-77-86-247-184.ext.nebulacloud.fi:8000/aallot
+#EXTINF:-1, Iskelmä Rex
+http://stream2.bauermedia.fi/isk-rex.mp3
+#EXTINF:-1, Radio City Finland
+http://stream1.bauermedia.fi/radiocity.mp3
+#EXTINF:-1, Radio Patmos
+http://46.28.53.118:7011/radio
+#EXTINF:-1, HitMix Jyväskylä
+http://hel2-77-86-247-184.ext.nebulacloud.fi:8000/kompassi.m3u
+#EXTINF:-1, HitMix  Kuopio
+http://hel2-77-86-247-184.ext.nebulacloud.fi:8000/kuopio
+#EXTINF:-1, Radio 957
+http://stream1.bauermedia.fi/radio957.mp3
+#EXTINF:-1, Radio Ramona
+http://185.123.117.122:8000/ramona.mp3
+#EXTINF:-1, Aito Kajaus
+http://radio.6net.fi:8000/radiokajaus.m3u
+#EXTINF:-1, Yle.fi - Elävän arkiston nettiradio
+http://yleuni-f.akamaihd.net/i/yleliveradiohd_8@113885/master.m3u8
+#EXTINF:-1, Yle.fi - Lahden Radio
+http://yleuni-f.akamaihd.net/i/yleliveradiohd_18@113895/master.m3u8
+#EXTINF:-1, RSL - Radio Santa Claus
+http://streaming.radiostreamlive.com/radiosantaclaus_devices
+#EXTINF:-1, Radio Helsinki 98.5
+http://radio.radiohelsinki.fi
+#EXTINF:-1, Pasiradio
+http://releet.pasiradio.com:8000/listen.pls
+#EXTINF:-1, Yle.fi - Radio Vega
+http://mediau.yle.fi/livevega
+#EXTINF:-1, YLE.fi Ylen Läntinen
+http://mediau.yle.fi/a_ylenlantinen
+#EXTINF:-1, YLE.fi Radio Itä-Uusimaa
+http://mediau.yle.fi/a_itauusimaa
+#EXTINF:-1, Yle.fi - Radio Vega Västnyland - 0
+http://mediau.yle.fi/a_vegavast
+#EXTINF:-1, Yle.fi - Radio Vega Västnyland - 1
+http://yleuni-f.akamaihd.net/i/yleliveradiohd_30@113907/master.m3u8
+#EXTINF:-1, Yle.fi - Radio Vega Östnyland - 0
+http://mediau.yle.fi/a_vegaost
+#EXTINF:-1, Yle.fi - Radio Vega Östnyland - 1
+http://yleuni-f.akamaihd.net/i/yleliveradiohd_29@113906/master.m3u8
+#EXTINF:-1, Yle.fi - Radio Vega Åboland
+http://mediau.yle.fi/a_vegaabo
+#EXTINF:-1, Yle.fi - Radio Vega Österbotten
+http://mediau.yle.fi/a_vegaosterbotten
+#EXTINF:-1, Yle.fi - Radio Suomi - 0
+http://mediau.yle.fi/liveradiosuomi
+#EXTINF:-1, Yle.fi - Radio Suomi - 1
+http://yleuni-f.akamaihd.net/i/yleliveradiohd_3@113880/master.m3u8
+#EXTINF:-1, Yle.fi - Radio Perämeri - 0
+http://mediau.yle.fi/livesamiradio
+#EXTINF:-1, Yle.fi - Radio Perämeri - 1
+http://yleuni-f.akamaihd.net/i/yleliveradiohd_14@113891/master.m3u8
+#EXTINF:-1, Yle.fi - Radio 1 - 0
+http://mediau.yle.fi/liveyleradio1?MSWMExt=.asf
+#EXTINF:-1, Yle.fi - Radio 1 - 1
+http://yleuni-f.akamaihd.net/i/yleliveradiohd_1@113878/master.m3u8
+#EXTINF:-1, Yle.fi - Tampereen Radio - 0
+http://mediau.yle.fi/a_tampere?MSWMExt=.asf
+#EXTINF:-1, Yle.fi - Tampereen Radio - 1
+http://yleuni-f.akamaihd.net/i/yleliveradiohd_26@113903/master.m3u8
+#EXTINF:-1, Yle.fi - Oulu Radio - 0
+http://mediau.yle.fi/a_ouluradio?MSWMExt=.asf
+#EXTINF:-1, Yle.fi - Oulu Radio - 1
+http://yleuni-f.akamaihd.net/i/yleliveradiohd_22@113899/master.m3u8
+#EXTINF:-1, Yle.fi - Lapin Radio - 0
+http://mediau.yle.fi/a_lapinradio?MSWMExt=.asf
+#EXTINF:-1, Yle.fi - Lapin Radio - 1
+http://yleuni-f.akamaihd.net/i/yleliveradiohd_25@113902/master.m3u8
+#EXTINF:-1, Yle.fi - Radio Häme - 0
+http://mediau.yle.fi/a_radiohame?MSWMExt=.asf
+#EXTINF:-1, Yle.fi - Radio Häme - 1
+http://yleuni-f.akamaihd.net/i/yleliveradiohd_10@113887/master.m3u8
+#EXTINF:-1, Yle.fi - Kymenlaakson Radio - 0
+http://mediau.yle.fi/a_kymenlaakso?MSWMExt=.asf
+#EXTINF:-1, Yle.fi - Kymenlaakson Radio - 1
+http://yleuni-f.akamaihd.net/i/yleliveradiohd_16@113893/master.m3u8
+#EXTINF:-1, Yle.fi - Radio Savo - 0
+http://mediau.yle.fi/a_radiosavo?MSWMExt=.asf
+#EXTINF:-1, Yle.fi - Radio Savo - 1
+http://yleuni-f.akamaihd.net/i/yleliveradiohd_17@113894/master.m3u8
+#EXTINF:-1, Yle.fi - Klassinen - 0
+http://mediau.yle.fi/liveklassinen?MSWMExt=.asf
+#EXTINF:-1, Yle.fi - Klassinen - 1
+http://yleuni-f.akamaihd.net/i/yleliveradiohd_4@113881/master.m3u8
+#EXTINF:-1, Yle.fi - Etelä-Savon Radio - 0
+http://mediau.yle.fi/a_etelasavo?MSWMExt=.asf
+#EXTINF:-1, Yle.fi - Etelä-Savon Radio - 1
+http://yleuni-f.akamaihd.net/i/yleliveradiohd_21@113898/master.m3u8
+#EXTINF:-1, YLE.fi Etelä-Karjalan Radio - 0
+http://mediau.yle.fi/a_etelakarjala?MSWMExt=.asf
+#EXTINF:-1, YLE.fi Etelä-Karjalan Radio - 1
+http://yleuni-f.akamaihd.net/i/yleliveradiohd_19@113896/index_128_a-b.m3u8?
+#EXTINF:-1, Yle.fi - X3M - 0
+http://mediau.yle.fi/livex3m
+#EXTINF:-1, Yle.fi - X3M - 1
+http://yleuni-f.akamaihd.net/i/yleliveradiohd_6@113883/master.m3u8
+#EXTINF:-1, Yle.fi - YleX
+http://mediau.yle.fi/liveylex?MSWMExt=.asf
+#EXTINF:-1, Yle.fi - Radio Keski-Suomi - 0
+http://mediau.yle.fi/a_keskisuomi
+#EXTINF:-1, Yle.fi - Radio Keski-Suomi - 1
+http://yleuni-f.akamaihd.net/i/yleliveradiohd_12@113889/master.m3u8
+#EXTINF:-1, Yle.fi - Kainuun Radio - 0
+http://mediau.yle.fi/a_kainuu
+#EXTINF:-1, Yle.fi - Kainuun Radio - 1
+http://yleuni-f.akamaihd.net/i/yleliveradiohd_13@113890/master.m3u8
+#EXTINF:-1, Yle.fi - Turun Radio - 0
+http://mediau.yle.fi/a_turunradio
+#EXTINF:-1, Yle.fi - Turun Radio - 1
+http://yleuni-f.akamaihd.net/i/yleliveradiohd_27@113904/master.m3u8
+#EXTINF:-1, Yle.fi - Sámi Radio - 0
+http://mediau.yle.fi/livesamiradio
+#EXTINF:-1, Yle.fi - Sámi Radio - 1
+http://yleuni-f.akamaihd.net/i/yleliveradiohd_14@113891/master.m3u8
+#EXTINF:-1, Yle.fi - Satakunnan Radio - 0
+http://mediau.yle.fi/a_satakunta
+#EXTINF:-1, Yle.fi - Satakunnan Radio - 1
+http://yleuni-f.akamaihd.net/i/yleliveradiohd_23@113900/master.m3u8
+#EXTINF:-1, Yle.fi - Radio Keski-Pohjanmaa - 0
+http://mediau.yle.fi/a_keskipohjanmaa
+#EXTINF:-1, Yle.fi - Radio Keski-Pohjanmaa - 1
+http://yleuni-f.akamaihd.net/i/yleliveradiohd_15@113892/master.m3u8
+#EXTINF:-1, Yle.fi - Puhe - 0
+http://mediau.yle.fi/liveradiopuhe
+#EXTINF:-1, Yle.fi - Puhe - 1
+http://yleuni-f.akamaihd.net/i/yleliveradiohd_5@113882/master.m3u8
+#EXTINF:-1, Yle.fi - Pohjois-Karjalan radio - 0
+http://mediau.yle.fi/a_pohjkarjala
+#EXTINF:-1, Yle.fi - Pohjois-Karjalan radio - 1
+http://yleuni-f.akamaihd.net/i/yleliveradiohd_11@113888/master.m3u8
+#EXTINF:-1, Yle.fi - Pohjanmaan Radio - 0
+http://mediau.yle.fi/a_pohjanmaa
+#EXTINF:-1, Yle.fi - Pohjanmaan Radio - 1
+http://yleuni-f.akamaihd.net/i/yleliveradiohd_28@113905/master.m3u8
+#EXTINF:-1, Hamsi FM - Espoo Finland - 0
+http://www.hamsi.fm/online/Hamsi_Fm.pls
+#EXTINF:-1, Hamsi FM - Espoo Finland - 1
+http://www.hamsi.fm/online/Hamsi_Fm.ram
+#EXTINF:-1, Hamsi FM - Espoo Finland - 2
+http://www.hamsi.fm/online/Hamsi_Fm.asx
+#EXTINF:-1, Hamsi FM - Espoo Finland - 3
+http://www.hamsi.fm/online/Hamsi_Fm.m3u
+#EXTINF:-1, Hamsi FM - Espoo Finland - 4
+http://radyo.hamsi.fm:8050/;
+#EXTINF:-1, HitMix
+http://digitacdn.akamaized.net/hls/live/629243/hitmix/master.m3u8
+#EXTINF:-1, Indie joulu
+http://c0.toivon.net:8100/stream
+#EXTINF:-1, Järviradio
+http://radio2.6net.fi:8000/jarviradio2
+#EXTINF:-1, Jazz joulu
+http://c0.toivon.net:8100/stream
+#EXTINF:-1, Jouluradio
+http://c0.toivon.net:8100/stream
+#EXTINF:-1, Radio Nova - Joulunradio
+http://stream.bauermedia.fi/radionova/radionova_64.aac
+#EXTINF:-1, Radio Ramona - Joulurauma
+http://185.123.117.122:8000/ramona.mp3
+#EXTINF:-1, Julradion.fi
+http://c0.toivon.net:8100/stream
+#EXTINF:-1, SuomiRock
+http://stream.bauermedia.fi/suomirock/suomirock_64.aac
+#EXTINF:-1, Radio Voima
+http://cast2.radiovoima.fi/voima.mp3
+#EXTINF:-1, Iskelmä - Kemi
+http://stream2.bauermedia.fi/isk-kem.mp3
+#EXTINF:-1, Iskelmä - Turku
+http://stream2.bauermedia.fi/isk-tku.mp3
+#EXTINF:-1, Iskelmä - Sastamala
+http://stream2.bauermedia.fi/isk-sas.mp3
+#EXTINF:-1, Iskelmä - Rovaniemi
+http://stream2.bauermedia.fi/isk-rov.mp3
+#EXTINF:-1, Iskelmä - Oulu
+http://stream2.bauermedia.fi/isk-oul.mp3
+#EXTINF:-1, Iskelmä - Lappeenranta
+http://stream2.bauermedia.fi/isk-lpr.mp3
+#EXTINF:-1, Iskelmä - Kouvola
+http://stream2.bauermedia.fi/isk-kvl.mp3
+#EXTINF:-1, Iskelmä - Kotka
+http://stream2.bauermedia.fi/isk-ktk.mp3
+#EXTINF:-1, Iskelmä - Jyväskylä
+http://stream2.bauermedia.fi/isk-jkl.mp3
+#EXTINF:-1, Iskelmä - Hyvinkää
+http://stream2.bauermedia.fi/isk-hyv.mp3
+#EXTINF:-1, Iskelmä - Hämeenlinna
+http://stream2.bauermedia.fi/isk-hml.mp3
+#EXTINF:-1, Iskelmä - Helsinki
+http://stream2.sbs.fi/isk-hki.mp3
+#EXTINF:-1, Iskelmä - Rauma
+http://stream.bauermedia.fi/iskelma/rma_64.aac
+#EXTINF:-1, Iskelmä - Lohja
+http://stream2.bauermedia.fi/isk-loh.mp3
+#EXTINF:-1, Iskelmä - Kuopio
+http://stream.bauermedia.fi/iskelma/kuo_64.aac
+#EXTINF:-1, Iskelmä - Lahti
+http://stream.bauermedia.fi/iskelma/lah_64.aac
+#EXTINF:-1, Iskelmä - Mikkeli
+http://stream.bauermedia.fi/iskelma/mli_64.aac
+#EXTINF:-1, Iskelmä - Vaasa
+http://stream.bauermedia.fi/iskelma/vaa_64.aac
+#EXTINF:-1, Iskelmä - Tampere
+http://stream.bauermedia.fi/iskelma/tre_64.aac
+#EXTINF:-1, Iskelmä - Savonlinna
+http://stream.bauermedia.fi/iskelma/svl_64.aac
+#EXTINF:-1, Iskelmä - Seinäjoki
+http://stream.bauermedia.fi/iskelma/snj_64.aac
+#EXTINF:-1, Classic radio
+https://stream.gbtimes.com/classic
+#EXTINF:-1, Radio City Kouvola
+https://stream.bauermedia.fi/radiocity/kvl_64.aac
+#EXTINF:-1, Saaristoradio
+http://streaming.shoutcast.com/SaaristoRadio
+#EXTINF:-1, RSL - Radio Natale
+http://streaming.radiostreamlive.com/radionatale_devices
+#EXTINF:-1, Sea FM
+http://s3.myradiostream.com:4976/;
+#EXTINF:-1, Radio Queen Loviisa - 0
+http://149.202.196.92:8238/stream
+#EXTINF:-1, Radio Queen Loviisa - 1
+http://dreamsiteradiocp3.com:2199/tunein/loviisa.asx
+#EXTINF:-1, Radio Queen Loviisa - 2
+http://dreamsiteradiocp3.com:2199/tunein/loviisa.pls

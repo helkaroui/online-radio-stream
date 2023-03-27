@@ -1,0 +1,243 @@
+#EXTM3U
+#EXTINF:-1, Jupok Radio - Rožaje - 0
+http://176.9.59.144:8062/
+#EXTINF:-1, Jupok Radio - Rožaje - 1
+http://176.9.59.144:8062/;stream.mp3
+#EXTINF:-1, Radio Svetigora - Cetinje - 0
+http://svetigoralive.com:8879
+#EXTINF:-1, Radio Svetigora - Cetinje - 1
+http://svetigoralive.com:8879/stream?type=.mp3
+#EXTINF:-1, Radio Svetigora - Cetinje - 2
+http://svetigoralive.com:8879/listen.pls
+#EXTINF:-1, Radio Svetigora - Cetinje - 3
+http://svetigoralive.com:8879/;*.mp3
+#EXTINF:-1, Drugačija Radio Stanica - Podgorica - 0
+http://37.187.90.121:3474/stream
+#EXTINF:-1, Drugačija Radio Stanica - Podgorica - 1
+http://37.187.90.121/stream/mic0.pls?mp=/stream
+#EXTINF:-1, Drugačija Radio Stanica - Podgorica - 2
+http://cp.eu2.fastcast4u.com:2199/tunein/mic0.pls
+#EXTINF:-1, Drugačija Radio Stanica - Podgorica - 3
+http://cp.eu2.fastcast4u.com:2199/tunein/mic0.asx
+#EXTINF:-1, Drugačija Radio Stanica - Podgorica - 4
+http://cp.eu2.fastcast4u.com:2199/tunein/mic0.ram
+#EXTINF:-1, Drugačija Radio Stanica - Podgorica - 5
+http://cp.eu2.fastcast4u.com:2199/tunein/mic0.qtl
+#EXTINF:-1, Radio Gusinje 104 FM - 0
+http://radio-gusinje.com:8100/
+#EXTINF:-1, Radio Gusinje 104 FM - 1
+http://radio-gusinje.com:8100/;*.mp3
+#EXTINF:-1, Radio Gusinje 104 FM - 2
+http://radio-gusinje.com/playlist.asx.asf
+#EXTINF:-1, Radio Gusinje 104 FM - 3
+http://radio-gusinje.com:8100/listen.pls
+#EXTINF:-1, Radio Dux 97,4 FM - Tivat - 0
+http://www.radiodux.me:8000/radiodux.m3u
+#EXTINF:-1, Radio Dux 97,4 FM - Tivat - 1
+http://radiodux.me:8000/radiodux
+#EXTINF:-1, Radio Renome - Podgorica
+http://5.9.25.50:9304/;
+#EXTINF:-1, Muzički Skala radio - Kotor - 0
+http://213.239.205.210:8026/stream
+#EXTINF:-1, Muzički Skala radio - Kotor - 1
+http://213.239.205.210:8026/listen.pls
+#EXTINF:-1, Radio Bruškin - Kotor
+http://5.189.187.115:8000/stream
+#EXTINF:-1, RTCG Radio Crne Gore 2 - R98
+http://radio.beotel.net:8010/
+#EXTINF:-1, RTCG Radio Crne Gore 96.8 FM - 0
+http://radio.beotel.net:8008/listen.pls
+#EXTINF:-1, RTCG Radio Crne Gore 96.8 FM - 1
+http://radio.beotel.net:8008
+#EXTINF:-1, Radio D - Podgorica
+http://tachyon.shoutca.st:8289/xstream?1520605164968
+#EXTINF:-1, Radio Elmag - Caffe
+http://46.105.43.31:8046/stream
+#EXTINF:-1, Radio Elmag 96.0 MHz - Podgorica
+http://46.105.43.31:8054/stream
+#EXTINF:-1, Radio Elmag - izvorne i starogradske
+http://46.105.43.31:8022/stream
+#EXTINF:-1, MAG Radio
+http://46.105.43.31:8058/stream
+#EXTINF:-1, Radio Elmag - Folk Gold
+http://46.105.43.31:8018/stream
+#EXTINF:-1, Radio Elmag - Jazz
+http://46.105.43.31:8026/stream
+#EXTINF:-1, Radio Elmag - Kids
+http://46.105.43.31:8030/stream
+#EXTINF:-1, Radio Elmag - Love
+http://46.105.43.31:8050/stream
+#EXTINF:-1, Radio Elmag - Nostagia
+http://46.105.43.31:8034/stream
+#EXTINF:-1, Radio Elmag - Party
+http://46.105.43.31:8038/stream
+#EXTINF:-1, Radio Elmag - Ex-YU Poprock
+http://46.105.43.31:8042/stream
+#EXTINF:-1, Radio Elmag - Hipotekarna Banka
+http://46.105.43.31:8066/stream
+#EXTINF:-1, Radio Budva 98.7; 106 FM
+http://listen.shoutcast.com/radiobudva
+#EXTINF:-1, Radio Jadran
+http://38.135.36.124:7110/stream
+#EXTINF:-1, Radio Kotor 95.3; 99.0 MHz
+http://213.239.205.210:8082/stream
+#EXTINF:-1, Radio Bijelo Polje 101,1 & 105,8 FM
+http://213.239.205.210:8094/stream
+#EXTINF:-1, Radio Homer 100.6 FM - Podgorica
+http://144.217.129.213:8432/;stream.nsvtype=mp3
+#EXTINF:-1, Antena M
+http://radioservis.me:8010/antenamlive
+#EXTINF:-1, Radio Titograd
+http://ca.rcast.net:8016/;stream.mp3
+#EXTINF:-1, Radio S1 Crna Gora
+http://176.9.59.144:8032/
+#EXTINF:-1, Studentski radio Krš
+http://radioservis.me:8030/live
+#EXTINF:-1, Radio Berane 88.2; 105.4 MHz - 0
+http://95.211.166.127:8284/
+#EXTINF:-1, Radio Berane 88.2; 105.4 MHz - 1
+http://176.9.59.144:8132/berane
+#EXTINF:-1, Bato i Seka - Podgorica
+http://carsija.topstream.net:19406/;s.mp3
+#EXTINF:-1, Srpski Radio
+http://188.166.30.166:8000/stream
+#EXTINF:-1, Radio Bato i Seka
+http://stream.radio-hosting.net:8000/bato.mp3
+#EXTINF:-1, Reggae Radio - Reggaeneracija
+http://5.189.179.77:2199/tunein/reggaeneracija.pls
+#EXTINF:-1, Radio Petnjica, Talas Bihora
+http://stream2.xtraya.com:8000/radiopetnjica,mp3
+#EXTINF:-1, Radio Herceg Novi
+http://s2.voscast.com:10354
+#EXTINF:-1, Radio Tivat 88,5 & 90,8 FM - 0
+http://radiotivat.com/livestream/playlist.pls
+#EXTINF:-1, Radio Tivat 88,5 & 90,8 FM - 1
+http://adriastream.net/cast/tunein.php/rtivat/playlist.pls
+#EXTINF:-1, Radio Tivat 88,5 & 90,8 FM - 2
+http://95.211.166.127:8006/;
+#EXTINF:-1, Radio Elita
+http://79.142.73.139:2070/;
+#EXTINF:-1, Radio Talas Bihora - Petnjica
+http://stream1.xtraya.com:8000/radiopetnjica,mp3
+#EXTINF:-1, Radio Jadran - Herceg Novi - 0
+http://38.135.36.124:7110/stream
+#EXTINF:-1, Radio Jadran - Herceg Novi - 1
+http://panel8.directhostingcenter.com:2199/tunein/yvyzossn.pls
+#EXTINF:-1, Radio Jadran - Herceg Novi - 2
+http://panel8.directhostingcenter.com:2199/tunein/yvyzossn.asx
+#EXTINF:-1, Radio Zeta 93.8 MHz FM - Podgorica
+http://176.9.59.144:8082/
+#EXTINF:-1, Radio D Plus - Podgorica
+http://tachyon.shoutca.st:8303/xstream
+#EXTINF:-1, Radio Elmag MAG - Podgorica
+http://radio.elmag.me/mag.mp3
+#EXTINF:-1, Radio Elmag CAFFE - Podgorica
+http://radio.elmag.me/cafe.mp3
+#EXTINF:-1, Radio Elmag EVERGREEN - Podgorica
+http://radio.elmag.me/evergreen.mp3
+#EXTINF:-1, Radio Elmag FOLK GOLD - Podgorica
+http://radio.elmag.me/folkgold.mp3
+#EXTINF:-1, Radio Elmag IZVORNE - Podgorica
+http://radio.elmag.me/izvorne.mp3
+#EXTINF:-1, Radio Elmag JAZZ - Podgorica
+http://radio.elmag.me/jazz.mp3
+#EXTINF:-1, Radio Elmag KIDS - Podgorica
+http://radio.elmag.me/kids.mp3
+#EXTINF:-1, Radio Elmag LOVE - Podgorica
+http://radio.elmag.me/love.mp3
+#EXTINF:-1, Radio Elmag NOSTALGIJA - Podgorica
+http://radio.elmag.me/nostalgija.mp3
+#EXTINF:-1, Radio Elmag PARTY - Podgorica
+http://radio.elmag.me/party.mp3
+#EXTINF:-1, Radio Elmag POP ROCK ex YU - Podgorica
+http://radio.elmag.me/poprock.mp3
+#EXTINF:-1, Radio Elmag HB - Podgorica
+http://radio.elmag.me/hb.mp3
+#EXTINF:-1, Radio Crne Gore 2 - R98
+http://radio.beotel.net:8010/
+#EXTINF:-1, Force Radio 87.6 MHz - Bar
+http://176.9.59.144:8090/fmne
+#EXTINF:-1, Radio Podmaine - Budva - 0
+http://198.7.59.28:8047/
+#EXTINF:-1, Radio Podmaine - Budva - 1
+https://us1new.listen2myradio.com:2199/tunein/qmuciemq.pls
+#EXTINF:-1, Radio Podmaine - Budva - 2
+https://us1new.listen2myradio.com:2199/tunein/qmuciemq.asx
+#EXTINF:-1, Radio Bijelo Polje 101.1 & 105.8 FM
+http://46.105.43.31:8122/stream
+#EXTINF:-1, Druagačija radio stanica - Podgorica
+http://37.187.90.121:3474/stream
+#EXTINF:-1, TDI Radio Crna Gora
+http://streaming.tdiradio.com:8000/crnagora.mp3
+#EXTINF:-1, Laki Radio 91.4 & 97.2 FM - Bijelo Polje
+http://93.104.215.232:8000/;stream.mp3
+#EXTINF:-1, Radio Petnjica
+http://stream2.xtraya.com:8000/radiopetnjica,mp3
+#EXTINF:-1, Skala Radio - Kotor
+http://178.238.236.240:8004/
+#EXTINF:-1, Muzički Skala Radio
+http://178.238.236.240:8008/
+#EXTINF:-1, Radio Titograd 101.1 FM - Podgorica
+http://ca.rcast.net:8016/
+#EXTINF:-1, Radio Titograd Caffe - Podgorica
+http://ca.rcast.net:8024/
+#EXTINF:-1, Radio Titograd 3 Narodna - Podgorica
+http://ca3.rcast.net:8054/
+#EXTINF:-1, Radio Star FM Montenegro - Cetinje
+http://173.212.199.66:9010/
+#EXTINF:-1, Radio Bar 91.8 FM
+http://85.25.33.7:9000/
+#EXTINF:-1, Radio Corona 88.9 FM - Bar
+http://178.238.236.240:8000/
+#EXTINF:-1, Radio S Lounge
+https://53be5ef2d13aa.streamlock.net/asmedia/radio_s_lounge/chunklist_w2030611336.m3u8?
+#EXTINF:-1, Radio Rožaje
+http://178.238.236.240:8006/
+#EXTINF:-1, Radio Boka News - Tivat - 0
+http://bokanews.me:8000/source
+#EXTINF:-1, Radio Boka News - Tivat - 1
+https://www.bokanews.me/live/Boka_News.m3u
+#EXTINF:-1, Radio City 93.3 MHz - Podgorica - 0
+http://eu7.fastcast4u.com:6166/
+#EXTINF:-1, Radio City 93.3 MHz - Podgorica - 1
+http://cp.eu7.fastcast4u.com:2199/tunein/mbogojev.pls
+#EXTINF:-1, Radio City 93.3 MHz - Podgorica - 2
+http://cp.eu7.fastcast4u.com:2199/tunein/mbogojev.asx
+#EXTINF:-1, Studentski Radio Krš - Podgorica
+http://radioservis.me:8030/live?type=.mp3
+#EXTINF:-1, Radio Reggaeneracija - Podgorica
+http://5.189.179.77:8000/stream
+#EXTINF:-1, Radio Balkansko Srce - Podgorica - 0
+http://cmr-hosting.com:8445/stream
+#EXTINF:-1, Radio Balkansko Srce - Podgorica - 1
+http://138.201.206.240:8445/
+#EXTINF:-1, Radio Balkansko Srce - Podgorica - 2
+http://balkanskosrce.cmr-1.com/player/playlist.asx
+#EXTINF:-1, Radio Balkansko Srce - Podgorica - 3
+http://cmr-hosting.com:8445/listen.pls
+#EXTINF:-1, Radio Herceg Novi 90 & 102.7 FM
+http://s2.voscast.com:10354
+#EXTINF:-1, Radio Skala 102 & 92.7 MHz - Kotor
+http://178.238.236.240:8004/listen.pls
+#EXTINF:-1, Radio S Gold
+https://5bc45691ca49f.streamlock.net/asmedia/radio_s_golds_60_70/playlist.m3u8
+#EXTINF:-1, Radio S Love
+https://5bc45691ca49f.streamlock.net/asmedia/radio_s_love/playlist.m3u8
+#EXTINF:-1, Radio S Pop
+https://5bc45691ca49f.streamlock.net/asmedia/radio_s_pop_80_90/playlist.m3u8
+#EXTINF:-1, Radio S Folk
+https://5bc45691ca49f.streamlock.net/asmedia/radio_s_kafana/playlist.m3u8
+#EXTINF:-1, Radio S Cafe
+https://53a7ed211fc32.streamlock.net/asmedia/radio_s_cafe/playlist.m3u8
+#EXTINF:-1, Radio S Kids
+https://53a7ed211fc32.streamlock.net/asmedia/radio_s_kids/playlist.m3u8
+#EXTINF:-1, Radio S Rock
+https://5bc45691ca49f.streamlock.net/asmedia/radio_s_rock/playlist.m3u8
+#EXTINF:-1, Radio S 4
+https://5bc45691ca49f.streamlock.net/asmedia/gradski/playlist.m3u8
+#EXTINF:-1, Radio S 3
+https://53be5ef2d13aa.streamlock.net/asmedia/pingvin/playlist.m3u8
+#EXTINF:-1, Radio S 2
+https://53be5ef2d13aa.streamlock.net/asmedia/index/playlist.m3u8
+#EXTINF:-1, Radio S 1
+https://5bc45691ca49f.streamlock.net/asmedia/radios/playlist.m3u8

@@ -1,0 +1,101 @@
+#EXTM3U
+#EXTINF:-1, 2CR China Radio Network
+http://s6.voscast.com:8016
+#EXTINF:-1, LamRim.com - 0
+http://199.180.72.2:9141/lamrimhd_autodj
+#EXTINF:-1, LamRim.com - 1
+http://199.180.72.2:9097/lamrim_autodj
+#EXTINF:-1, CRI EZFM - 轻松调频
+http://sk.cri.cn/915.m3u8
+#EXTINF:-1, Beijing Bilingual Radio AM 774
+http://audiolive.rbc.cn:1935/live/am774/96K/tzwj_video.m3u8
+#EXTINF:-1, Beijing Traffic Radio FM 103.9
+http://audiolive.rbc.cn:1935/live/fm1039/96K/tzwj_video.m3u8
+#EXTINF:-1, Beijing Joy Radio FM 87.6
+http://123.56.16.201:1935/live/fm876/96K/tzwj_video.m3u8
+#EXTINF:-1, Beijing Public Service Radio FM 107.3
+http://audiolive.rbc.cn:1935/live/fm1073/96K/tzwj_video.m3u8
+#EXTINF:-1, Beijing News Radio FM 100.6
+http://123.56.16.201:1935/live/fm1006/96K/tzwj_video.m3u8
+#EXTINF:-1, CRI Chinese News Radio
+http://sk.cri.cn/905.m3u8
+#EXTINF:-1, Taidu FM
+http://taidu.fm/taidufm.asx
+#EXTINF:-1, Firefly Radio
+http://live.fmyhc.com:8888/yhc_fm?
+#EXTINF:-1, Green Apple Music Radio
+mms://mms.qpgfm.com/ting
+#EXTINF:-1, CNR 1 The Voice of China
+http://http.qingting.fm/live/386/64k.mp3
+#EXTINF:-1, CNR 2 China Business Radio
+http://http.qingting.fm/live/387/64k.mp3
+#EXTINF:-1, CNR 3 Music Radio
+http://http.qingting.fm/live/388/64k.mp3
+#EXTINF:-1, CNR 5 The Sounds of the Chinese
+http://lhttp.qingting.fm/live/390/64k.mp3
+#EXTINF:-1, CNR 6 Sound of the Divine Land
+http://lhttp.qingting.fm/live/391/64k.mp3
+#EXTINF:-1, CNR 8 Sounds of the Nationalities
+http://lhttp.qingting.fm/live/394/64k.mp3
+#EXTINF:-1, CNR 9 Sounds of the Literary
+http://http.qingting.fm/live/395/64k.mp3
+#EXTINF:-1, CNR 4 Golden Radio
+http://rtmpcnr004.cnr.cn/live/dszs/playlist.m3u8?
+#EXTINF:-1, CNR 10 Sounds of the elderly
+http://rtmpcnr011.cnr.cn/live/lnzs/playlist.m3u8?
+#EXTINF:-1, CNR 12 Entertainment Radio
+http://rtmpcnr014.cnr.cn/live/ylgb/playlist.m3u8?
+#EXTINF:-1, CNR 11 Tibetan Radio
+http://rtmpcnr012.cnr.cn/live/zygb/playlist.m3u8?
+#EXTINF:-1, CNR 13 Uygur Radio
+http://rtmpcnr013.cnr.cn/live/wygb/playlist.m3u8?
+#EXTINF:-1, CNR 15 Traffic Radio
+http://rtmpcnr016.cnr.cn/live/gsgljtgb/playlist.m3u8?
+#EXTINF:-1, CNR 16 Sounds of the countryside
+http://ngcdn017.cnr.cn/live/xczs/index.m3u8
+#EXTINF:-1, CNR 17 Kazakh Radio
+http://rtmpcnr025.cnr.cn/live/hygb/playlist.m3u8?
+#EXTINF:-1, CNR 7 The Sounds of Huaxia Bilingual
+http://rtmpcnr008.cnr.cn/live/xgzs/playlist.m3u8?
+#EXTINF:-1, CNR 7 The Sounds of Huaxia Mandarin
+http://rtmpcnr007.cnr.cn/live/hxzs/playlist.m3u8?
+#EXTINF:-1, CRI Hakka
+http://hakka-lh.akamaihd.net/i/hakka_1@397574/index_48_a-b.m3u8?
+#EXTINF:-1, CRI Min Nan
+http://minnan-lh.akamaihd.net/i/minnan_1@397576/index_48_a-b.m3u8?
+#EXTINF:-1, CRI News Plus
+http://am846-lh.akamaihd.net/i/am846_1@301569/index_48_a-b.m3u8?
+#EXTINF:-1, CRI Beijing 1008
+http://sk.cri.cn/am1008.m3u8
+#EXTINF:-1, CRI Chinese Global
+http://hyhq-lh.akamaihd.net/i/hyhq_1@381074/index_48_a-b.m3u8?
+#EXTINF:-1, CRI Hit FM
+http://cri-lh.akamaihd.net/i/cri887_1@183455/index_48_a-b.m3u8?
+#EXTINF:-1, CRI Strait
+http://hxfh-lh.akamaihd.net/i/hxfh_1@397568/index_48_a-b.m3u8?
+#EXTINF:-1, CRI Turk Easy
+http://95.173.161.134:9100/stream
+#EXTINF:-1, CRI Turk Info
+http://91.134.25.37:9100/
+#EXTINF:-1, CRI Turk Klasik
+http://95.173.162.185:9100/stream
+#EXTINF:-1, CRI Turk Mutfak
+http://95.173.188.166:9100/stream
+#EXTINF:-1, CRI Turk Music Plus
+http://159.253.39.180:9100/stream
+#EXTINF:-1, CRI Voice of South China Sea
+http://nhzs-lh.akamaihd.net/i/nhzs_1@381075/index_48_a-b.m3u8?
+#EXTINF:-1, Radio Maria Macau
+http://dreamsiteradiocp2.com:8038/
+#EXTINF:-1, Radio Vatican News China (daily new podcast)
+http://www2.vaticanwebradio.org/webcasting/cinese_1.mp3
+#EXTINF:-1, East Radio Shanghai FM 89.9
+http://71.6.165.113:9050/;
+#EXTINF:-1, Beijing Radio Classical Music - 0
+http://http.qingting.fm/live/344/64k.mp3
+#EXTINF:-1, Beijing Radio Classical Music - 1
+http://audiolive.rbc.cn:1935/live/fm986/96K/tzwj_video.m3u8
+#EXTINF:-1, Changsha Music Radio
+http://http.qingting.fm/4930.mp3
+#EXTINF:-1, Radio Guangdong HiFi Channel
+http://ctt.rgd.com.cn/hifi

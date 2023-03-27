@@ -1,0 +1,65 @@
+#EXTM3U
+#EXTINF:-1, Sleek fm - 0
+http://cdn.voscast.com/resources/?key=24d63abb6fe79d10f34cc797236336cb&c=wmp
+#EXTINF:-1, Sleek fm - 1
+http://cdn.voscast.com/resources/?key=24d63abb6fe79d10f34cc797236336cb&c=quicktime
+#EXTINF:-1, Sleek fm - 2
+http://cdn.voscast.com/resources/?key=24d63abb6fe79d10f34cc797236336cb&c=realplayer
+#EXTINF:-1, Sleek fm - 3
+http://cdn.voscast.com/resources/?key=24d63abb6fe79d10f34cc797236336cb&c=winamp
+#EXTINF:-1, LoveWorld Radio
+http://s5.voscast.com:8208
+#EXTINF:-1, FRCN Amuludun FM 99.1
+http://192.254.153.78:9998
+#EXTINF:-1, Splash 105.5 FM
+http://ice31.securenetsystems.net/SPLASHFM
+#EXTINF:-1, Fresh 105.9 FM
+http://198.178.123.11:8442/;
+#EXTINF:-1, Nigeria Info FM 95.1 Abuja
+http://icestream.coolwazobiainfo.com:8000/niginfo-abuja
+#EXTINF:-1, Nigeria Info FM 99.3 Lagos
+http://icestream.coolwazobiainfo.com:8000/niginfo-lagos
+#EXTINF:-1, Wazobia FM 94.1 Port Harcourt
+http://icestream.coolwazobiainfo.com:8000/wazobia-ph
+#EXTINF:-1, Wazobia FM 99.5 Abuja
+http://icestream.coolwazobiainfo.com:8000/wazobia-abuja
+#EXTINF:-1, Wazobia FM 95.1 Lagos
+http://icestream.coolwazobiainfo.com:8000/wazobia-lagos
+#EXTINF:-1, IBC Orient 94.4 FM
+http://50.97.94.44:8301/stream
+#EXTINF:-1, Naija FM 102.7 - 0
+http://stream.abacast.net/playlist/megalectrics-naijafm-32.m3u
+#EXTINF:-1, Naija FM 102.7 - 1
+http://in.icy2.abacast.com/megalectrics-naijafm-32
+#EXTINF:-1, Classic FM 97.3 - 0
+http://stream.abacast.net/playlist/megalectrics-classicfmmp3-32.m3u
+#EXTINF:-1, Classic FM 97.3 - 1
+http://icy2.abacast.com:80/megalectrics-classicfmmp3-32
+#EXTINF:-1, The Beat 99.9 FM - 0
+http://stream.abacast.net/playlist/megalectrics-thebeatmp3-32.m3u
+#EXTINF:-1, The Beat 99.9 FM - 1
+http://icy2.abacast.com:80/megalectrics-thebeatmp3-32
+#EXTINF:-1, Mas 102.3 FM
+http://maxfm1023.thrilliant.com.ng:9193/stream
+#EXTINF:-1, PlaNet FM 101.1
+http://s1.voscast.com:9914/;stream.mp3
+#EXTINF:-1, Naija Gbedu Radio
+http://proxima.shoutca.st:8611/
+#EXTINF:-1, Liveway Radio Network 107.9 FM - 0
+http://ample-zeno-02.radiojar.com/s4312w116y4tv
+#EXTINF:-1, Liveway Radio Network 107.9 FM - 1
+http://184.172.153.2/stream/1551/
+#EXTINF:-1, FRCN Radio Nigeria
+http://protostar.shoutca.st:8710/;
+#EXTINF:-1, Praiseworld Radio
+http://streaming.radio.co/s7dc18f0ad/listen
+#EXTINF:-1, FRCN Voice of Nigeria
+http://50.116.99.96:8000/stream
+#EXTINF:-1, Wazobia FM 95.1 Kano
+http://icestream.coolwazobiainfo.com:8000/wazobia-lagos
+#EXTINF:-1, Fortis Radio 9
+http://212.18.63.135:9034/;
+#EXTINF:-1, Space 90.1 FM
+http://edge.mixlr.com/channel/mardx
+#EXTINF:-1, 234Radio
+http://streaming.radio.co/s7f3695a64/listen

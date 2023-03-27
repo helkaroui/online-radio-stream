@@ -1,0 +1,357 @@
+#EXTM3U
+#EXTINF:-1, Lradio Baltija
+http://www.lradiostation.com/listen.m3u
+#EXTINF:-1, RadioNSM
+http://stream.radionsm.net:8000/radionsm.mp3
+#EXTINF:-1, Radio Energy Hit - 0
+http://radio1.radioenergy.lv:8000/
+#EXTINF:-1, Radio Energy Hit - 1
+http://www.radioenergy.lv:8000/
+#EXTINF:-1, Radio Energy Russian
+http://www.radioenergy.lv:9000/
+#EXTINF:-1, Power FM - 0
+http://radio.powerfm.lv:8000/;
+#EXTINF:-1, Power FM - 1
+http://lifemedia.cloud.makonix.com:8000/
+#EXTINF:-1, Housemasters Radio
+http://139.162.14.151:8010/stream
+#EXTINF:-1, Radio SWH Gold 90.0FM Riga - 0
+http://80.232.162.149:8000/gold96mp3.m3u
+#EXTINF:-1, Radio SWH Gold 90.0FM Riga - 1
+http://80.232.162.149:8000/gold96mp3
+#EXTINF:-1, Radio SWH 105.2FM Riga - 0
+http://80.232.162.149:8000/swh96mp3
+#EXTINF:-1, Radio SWH 105.2FM Riga - 1
+http://80.232.162.149:8000/swh96mp3.m3u
+#EXTINF:-1, Radio SWH 105.2FM Riga - 2
+http://80.232.162.149:8000/swh64aac.m3u
+#EXTINF:-1, Radio SWH Rock 89.2FM Riga - 0
+http://80.232.162.149:8000/rock96mp3
+#EXTINF:-1, Radio SWH Rock 89.2FM Riga - 1
+http://80.232.162.149:8000/rock96mp3.m3u
+#EXTINF:-1, Rietumu Radio 105.8FM Liepāja - 0
+http://rietumi.ambero.lv:8000/stream/1/;file.mp3
+#EXTINF:-1, Rietumu Radio 105.8FM Liepāja - 1
+http://85.254.49.118:8000/
+#EXTINF:-1, Radio SWH Plus 105.7FM Riga - 0
+http://80.232.162.149:8000/plus96mp3
+#EXTINF:-1, Radio SWH Plus 105.7FM Riga - 1
+http://80.232.162.149:8000/plus96mp3.m3u
+#EXTINF:-1, Kurzemes Radio 92.4FM Tukums - 0
+http://80.70.18.18:8000/261;
+#EXTINF:-1, Kurzemes Radio 92.4FM Tukums - 1
+http://80.70.23.50:8000/
+#EXTINF:-1, Kurzemes Radio 92.4FM Tukums - 2
+http://80.70.23.50:8000/;stream.mp3
+#EXTINF:-1, Radio TEV 106.8FM Riga
+http://stream.radiotev.lv:8002/radiov
+#EXTINF:-1, Radio Pik 100.0FM Riga - 0
+http://195.69.88.58:8000/;stream/1
+#EXTINF:-1, Radio Pik 100.0FM Riga - 1
+http://195.69.88.58:8010/
+#EXTINF:-1, Radio Latgolys Radeja 103.0FM Rēznē - 0
+http://www.radiolg.lv:8000/128_aac
+#EXTINF:-1, Radio Latgolys Radeja 103.0FM Rēznē - 1
+http://195.13.253.51:8000/128_mp3
+#EXTINF:-1, Radio Latgolys Radeja 103.0FM Rēznē - 2
+http://www.radiolg.lv:8000/64_mp3.m3u
+#EXTINF:-1, LKR Latvijas Kristīgais radio 101.8FM Riga - 0
+http://91.203.71.10:8006/;stream.nsv
+#EXTINF:-1, LKR Latvijas Kristīgais radio 101.8FM Riga - 1
+http://91.203.71.10:8006/
+#EXTINF:-1, Spin FM radio internetā - 0
+http://87.110.219.34:8000/spinmp3
+#EXTINF:-1, Spin FM radio internetā - 1
+http://80.232.162.149:8000/spin96mp3
+#EXTINF:-1, Latvijas Radio 1 - 0
+http://lr1mp1.latvijasradio.lv:8012/
+#EXTINF:-1, Latvijas Radio 1 - 1
+http://lr1mp1.latvijasradio.lv:8010/
+#EXTINF:-1, Latvijas Radio 1 - 2
+mms://lr1w.latvijasradio.lv/pplr1
+#EXTINF:-1, Latvijas Radio 1 - 3
+mms://lr1w2.latvijasradio.lv/pplr1
+#EXTINF:-1, Latvijas Radio 1 - 4
+mms://lr1w.latvijasradio.lv/pplr1s
+#EXTINF:-1, Latvijas Radio 2 - 0
+http://lr2mp0.latvijasradio.lv:8000/
+#EXTINF:-1, Latvijas Radio 2 - 1
+http://lr2mp1.latvijasradio.lv:8002/listen.pls
+#EXTINF:-1, Latvijas Radio 2 - 2
+http://lr2ws.latvijasradio.lv/pplr2s
+#EXTINF:-1, Latvijas Radio 2 - 3
+mms://lr2w.latvijasradio.lv/pplr2
+#EXTINF:-1, Latvijas Radio 3 Klasika - 0
+http://lr3mp0.latvijasradio.lv:8004/listen.pls
+#EXTINF:-1, Latvijas Radio 3 Klasika - 1
+mms://lr1w.latvijasradio.lv/pplr3
+#EXTINF:-1, Latvijas Radio 3 Klasika - 2
+http://lr3mp0.latvijasradio.lv:8006/
+#EXTINF:-1, Latvijas Radio 3 Klasika - 3
+mms://lr1w.latvijasradio.lv/pplr3s
+#EXTINF:-1, Latvijas Radio 3 Klasika - 4
+mms://lr3ws.latvijasradio.lv/pplr3s
+#EXTINF:-1, Latvijas Radio 3 Klasika - 5
+mms://lr3w.latvijasradio.lv/pplr3
+#EXTINF:-1, Latvijas Radio 4 Doma laukums - 0
+http://lr4mp0.latvijasradio.lv:8018/
+#EXTINF:-1, Latvijas Radio 4 Doma laukums - 1
+http://lr1w.latvijasradio.lv/pplr4
+#EXTINF:-1, Latvijas Radio 4 Doma laukums - 2
+mms://lr1w.latvijasradio.lv/pplr4s
+#EXTINF:-1, Latvijas Radio 6 Radio NABA - 0
+http://nabamp0.latvijasradio.lv:8016/;stream.nsv
+#EXTINF:-1, Latvijas Radio 6 Radio NABA - 1
+http://nabamp0.latvijasradio.lv:8008/
+#EXTINF:-1, Latvijas Radio 5 Atklājumi - 0
+http://live.pieci.lv/live5-hq.aac
+#EXTINF:-1, Latvijas Radio 5 Atklājumi - 1
+http://live.pieci.lv/live5-hq.mp3
+#EXTINF:-1, Latvijas Radio 5 Latvieši - 0
+http://live.pieci.lv/live7-hq.mp3
+#EXTINF:-1, Latvijas Radio 5 Latvieši - 1
+http://live.pieci.lv/live7-hq.aac
+#EXTINF:-1, Latvijas Radio 5 Rīti - 0
+http://live.pieci.lv:8000/live11-hq.mp3
+#EXTINF:-1, Latvijas Radio 5 Rīti - 1
+http://live.pieci.lv:8000/live11-hq.aac
+#EXTINF:-1, Latvijas Radio 5 Hiti - 0
+http://live.pieci.lv/live17-hq.mp3
+#EXTINF:-1, Latvijas Radio 5 Hiti - 1
+http://live.pieci.lv/live17-hq.aac
+#EXTINF:-1, EHR - Русские хиты 96.2FM Riga - 0
+http://stream.hitirossii.com:8000/khr.ogg
+#EXTINF:-1, EHR - Русские хиты 96.2FM Riga - 1
+http://stream.hitirossii.com:8000/khr.mp3
+#EXTINF:-1, EHR - Русские хиты 96.2FM Riga - 2
+http://stream.europeanhitradio.com:8000/khr.aac
+#EXTINF:-1, EHR - Superhits 96.8FM Riga - 0
+http://stream.europeanhitradio.com:8000/Stream_01.mp3
+#EXTINF:-1, EHR - Superhits 96.8FM Riga - 1
+http://stream.europeanhitradio.com:8000/Stream_21.aac
+#EXTINF:-1, EHR - Top 40 - 0
+http://stream.europeanhitradio.com:8000/Stream_03.mp3
+#EXTINF:-1, EHR - Top 40 - 1
+http://stream.europeanhitradio.com:8000/Stream_27.aac
+#EXTINF:-1, EHR - Darbam
+http://stream.europeanhitradio.com:8000/Stream_23.aac
+#EXTINF:-1, EHR - Dance - 0
+http://stream.europeanhitradio.com:8000/Stream_17.aac
+#EXTINF:-1, EHR - Dance - 1
+http://stream.europeanhitradio.com:8000/Stream_24.aac
+#EXTINF:-1, EHR - Acoustic - 0
+http://stream.europeanhitradio.com:8000/Stream_18.aac
+#EXTINF:-1, EHR - Acoustic - 1
+http://stream.europeanhitradio.com:8000/Stream_26.aac
+#EXTINF:-1, EHR - Latviešu Hīti - 0
+http://stream.europeanhitradio.com:8000/Stream_02.aac
+#EXTINF:-1, EHR - Latviešu Hīti - 1
+http://stream.europeanhitradio.com:8000/Stream_22.aac
+#EXTINF:-1, EHR - Fresh - 0
+http://stream.europeanhitradio.com:8000/Stream_05.aac
+#EXTINF:-1, EHR - Fresh - 1
+http://stream.europeanhitradio.com:8000/Stream_25.aac
+#EXTINF:-1, EHR - Radio 104.3FM Riga - 0
+http://stream.europeanhitradio.com:8000//ehr.mp3
+#EXTINF:-1, EHR - Radio 104.3FM Riga - 1
+http://stream.europeanhitradio.com:8000/ehr.aac
+#EXTINF:-1, EHR - Love songs - 0
+http://stream.europeanhitradio.com:8000/Stream_28.aac
+#EXTINF:-1, EHR - Love songs - 1
+http://stream.europeanhitradio.com:8000/Stream_28.mp3
+#EXTINF:-1, TOPradio 98.3FM Riga - 0
+http://195.13.200.164:8000/
+#EXTINF:-1, TOPradio 98.3FM Riga - 1
+http://195.13.200.164:8080/
+#EXTINF:-1, Atmosferix.net
+http://stream.atmosferix.net:8100
+#EXTINF:-1, Radio Merkurs AM 1485kHz - 0
+http://www.radionord.lv/raadionord.m3u
+#EXTINF:-1, Radio Merkurs AM 1485kHz - 1
+http://87.226.55.105:8000/
+#EXTINF:-1, Radio Skonto Plus 102.3FM Riga
+http://91.203.69.174/st128
+#EXTINF:-1, Latvijas Radio 5 Pieci.lv - 0
+http://live.pieci.lv/live19-hq.mp3
+#EXTINF:-1, Latvijas Radio 5 Pieci.lv - 1
+http://live.pieci.lv/live19-hq.mp3.m3u
+#EXTINF:-1, Latvijas Radio 5 Pieci.lv - 2
+http://live.pieci.lv/live19-hq.aac
+#EXTINF:-1, Latvijas Folka Radio OIRA - 0
+http://radiooira.lv:8000/
+#EXTINF:-1, Latvijas Folka Radio OIRA - 1
+http://radiooira.lv:8004/
+#EXTINF:-1, Star FM 106.2FM Riga - 0
+http://starfm.live.advailo.com/audio/mp3/icecast.audio
+#EXTINF:-1, Star FM 106.2FM Riga - 1
+http://starfm.live.advailo.com/audio/aac/icecast.audio
+#EXTINF:-1, Saldus Radio 107.9FM Saldus
+http://80.70.17.194:8080/klausies
+#EXTINF:-1, Radio KurmisLV - 0
+http://www.kurmislv.info:8000/live-kurmislv.aac
+#EXTINF:-1, Radio KurmisLV - 1
+http://www.kurmislv.info:8000/live-kurmislv-hq.mp3
+#EXTINF:-1, Radio KurmisLV - 2
+http://www.kurmislv.info:8000/live-kurmislv.mp3
+#EXTINF:-1, Radio 7 Sigulda 89.8 FM - 0
+http://stream.radio7.lv:8024/Radio7
+#EXTINF:-1, Radio 7 Sigulda 89.8 FM - 1
+http://185.8.60.118:8024/Radio7
+#EXTINF:-1, Latvijas Radio 5 Latgalīši - 0
+http://live.pieci.lv:8000/live22-hq.mp3
+#EXTINF:-1, Latvijas Radio 5 Latgalīši - 1
+http://live.pieci.lv:8000/live22-hq.aac
+#EXTINF:-1, Radio Maria Latvia - 0
+http://195.122.25.178:8000/
+#EXTINF:-1, Radio Maria Latvia - 1
+http://195.122.25.178:8000/stream/1/
+#EXTINF:-1, Radio Maria Latvia - 2
+http://195.122.25.178:8000/stream/3/
+#EXTINF:-1, Radio Maria Latvia - 3
+http://dreamsiteradiocp2.com:8046/
+#EXTINF:-1, Radio Maria Latvia - 4
+http://cloudrad.io/rmlatvia/listen.asx
+#EXTINF:-1, Prosto Radio 108.0FM Liepāja
+http://89.254.163.122:8000/live
+#EXTINF:-1, Divu Krastu Radio RETRO
+http://62.205.205.100:8000/;stream.mp3
+#EXTINF:-1, MixFm 102.7FM Riga - 0
+http://radio.mixnews.lv/MixFM
+#EXTINF:-1, MixFm 102.7FM Riga - 1
+http://radio.mixnews.lv/MixFM.m3u
+#EXTINF:-1, MixFm 102.7FM Riga - 2
+http://radio.mixnews.lv/MixFM_128.m3u
+#EXTINF:-1, MixFm 102.7FM Riga - 3
+http://radio.mixnews.lv/MixFM_96.m3u
+#EXTINF:-1, MixFm 102.7FM Riga - 4
+http://91.90.255.111:80/MixFM
+#EXTINF:-1, Radio Baltkom 93.9FM Riga - 0
+http://radio.mixnews.lv/baltkom
+#EXTINF:-1, Radio Baltkom 93.9FM Riga - 1
+http://radio.mixnews.lv/baltkom.m3u
+#EXTINF:-1, Radio Baltkom 93.9FM Riga - 2
+http://radio.mixnews.lv/baltkom_128.m3u
+#EXTINF:-1, Radio Baltkom 93.9FM Riga - 3
+http://radio.mixnews.lv/baltkom_96.m3u
+#EXTINF:-1, Radio Baltkom 93.9FM Riga - 4
+http://91.90.255.111:80/baltkom
+#EXTINF:-1, Radio Юмор ФМ 88.6 FM Riga - 0
+http://radio.mixnews.lv/jumorfm
+#EXTINF:-1, Radio Юмор ФМ 88.6 FM Riga - 1
+http://radio.mixnews.lv/jumorfm.m3u
+#EXTINF:-1, Radio Юмор ФМ 88.6 FM Riga - 2
+http://radio.mixnews.lv/jumorfm_128.m3u
+#EXTINF:-1, Radio Юмор ФМ 88.6 FM Riga - 3
+http://radio.mixnews.lv/jumorfm_96.m3u
+#EXTINF:-1, Radio Юмор ФМ 88.6 FM Riga - 4
+http://91.90.255.111:80/jumorfm
+#EXTINF:-1, Radio LoungeFM 99.5FM Riga - 0
+http://radio.mixnews.lv/995
+#EXTINF:-1, Radio LoungeFM 99.5FM Riga - 1
+http://radio.mixnews.lv/995.m3u
+#EXTINF:-1, Radio LoungeFM 99.5FM Riga - 2
+http://radio.mixnews.lv/995_128
+#EXTINF:-1, Radio LoungeFM 99.5FM Riga - 3
+http://radio.mixnews.lv/995_96
+#EXTINF:-1, Radio LoungeFM 99.5FM Riga - 4
+http://91.90.255.111:80/995
+#EXTINF:-1, RETRO FM 94.5FM Riga - 0
+http://live.retrofm.lv/retrofmlatvia
+#EXTINF:-1, RETRO FM 94.5FM Riga - 1
+http://159.148.11.137:8000/64
+#EXTINF:-1, Русское RETRO 103.2FM Riga
+http://live.retrofm.lv/russkoeretro128
+#EXTINF:-1, Latviešu Deju Mūzikas Radio
+http://streaming.radionomy.com/LatvianDanceMusic?lang=en-US&appName=iTunes.m3u
+#EXTINF:-1, Talsu e-radio! Mežika Radio
+http://mezciems.no-ip.org:8000/;
+#EXTINF:-1, Talsu e-radio! Electronic
+http://radio.kuums.lv:6555/
+#EXTINF:-1, Talsu e-radio! Lounge
+http://radio.kuums.lv:5555/
+#EXTINF:-1, Sliptrick Radio - 0
+http://streaming.radionomy.com/SliptrickRadio?lang=en-US&appName=iTunes.m3u
+#EXTINF:-1, Sliptrick Radio - 1
+http://listen.radionomy.com/sliptrickradio
+#EXTINF:-1, Sliptrick Radio - 2
+http://listen.radionomy.com/sliptrickradio.m3u
+#EXTINF:-1, Sliptrick Radio - 3
+live960355.radionomy-live.net
+#EXTINF:-1, :: Schlager time :: - 0
+http://schlagers.org:8760/
+#EXTINF:-1, :: Schlager time :: - 1
+http://159.148.27.137:8760/
+#EXTINF:-1, :: Schlager time :: - 2
+http://159.148.27.137:8760/;
+#EXTINF:-1, Lustīgs Radio
+http://stream.lustigsradio.lv/live
+#EXTINF:-1, Radio Skonto 107.2FM Riga
+http://skonto.datucentrs.eu/mp3
+#EXTINF:-1, Radio Alise Plus 101.6FM Daugavpils - 0
+http://tv.aliseplus.lv/rhls/radio.m3u8
+#EXTINF:-1, Radio Alise Plus 101.6FM Daugavpils - 1
+http://tv.aliseplus.lv:8080/
+#EXTINF:-1, Radio Alise Plus 101.6FM Daugavpils - 2
+http://fm2inet.aliseplus.lv:8080/
+#EXTINF:-1, Radio Alise Plus 101.6FM Daugavpils - 3
+http://fm2inet.aliseplus.lv:8000/
+#EXTINF:-1, Radio Rēzekne 105.1 FM
+http://195.13.164.134:8000/source.mp3
+#EXTINF:-1, Capital FM 94.9FM Riga
+http://81.198.70.75:8000/01
+#EXTINF:-1, MAXIMA
+http://80.232.162.149:8000/maxima
+#EXTINF:-1, MAXIMA EXPRESS
+http://80.232.162.149:8000/max2
+#EXTINF:-1, MAXIMA XX
+http://80.232.162.149:8000/maxx
+#EXTINF:-1, MAXIMA XXX
+http://80.232.162.149:8000/maxxx
+#EXTINF:-1, Virši a1
+http://www.radioswhrock.lv:8000/virsi_a1
+#EXTINF:-1, Virši a2
+http://www.radioswhrock.lv:8000/virsi_a2
+#EXTINF:-1, Virši a3
+http://www.radioswhrock.lv:8000/virsi_a3
+#EXTINF:-1, Virši a4
+http://www.radioswhrock.lv:8000/virsi_a4
+#EXTINF:-1, Virši a5
+http://www.radioswhrock.lv:8000/virsi_a5
+#EXTINF:-1, Virši a6
+http://www.radioswhrock.lv:8000/virsi_a6
+#EXTINF:-1, Virši a7
+http://www.radioswhrock.lv:8000/virsi_a7
+#EXTINF:-1, Virši a8
+http://www.radioswhrock.lv:8000/virsi_a8
+#EXTINF:-1, Radio XO FM 101.0FM Riga - 0
+http://159.148.11.137:8000/xofm320
+#EXTINF:-1, Radio XO FM 101.0FM Riga - 1
+http://159.148.11.137:8000/xofm256aac
+#EXTINF:-1, Radio XO FM 101.0FM Riga - 2
+http://159.148.11.137:8000/xofm256
+#EXTINF:-1, Radio XO FM 101.0FM Riga - 3
+http://live.xo.fm/xofm128
+#EXTINF:-1, Studio 69 - 0
+http://info.larocca.lv:8000/larocca_320
+#EXTINF:-1, Studio 69 - 1
+http://info.larocca.lv:8000/larocca
+#EXTINF:-1, Studio 69 - 2
+http://info.larocca.lv:8000/larocca_128
+#EXTINF:-1, Яхт Радио
+http://yacht-radio.lv:8020/radio
+#EXTINF:-1, xRadio.lv - 0
+http://185.8.60.5:8000/;stream.mp3
+#EXTINF:-1, xRadio.lv - 1
+http://185.8.60.5:8000/listen.m3u?sid=1
+#EXTINF:-1, xRadio.lv - 2
+http://185.8.60.5:8000/listen.asx?sid=1
+#EXTINF:-1, xRadio.lv - 3
+http://185.8.60.5:8000/listen.pls?sid=1
+#EXTINF:-1, Latvijas Radio 5 KER - 0
+http://live.pieci.lv/live27-hq.mp3
+#EXTINF:-1, Latvijas Radio 5 KER - 1
+http://live.pieci.lv/live27-hq.aac
+#EXTINF:-1, Latvijas Radio 5 Pilnīgs simts - 0
+http://live.pieci.lv/live26-hq.mp3
+#EXTINF:-1, Latvijas Radio 5 Pilnīgs simts - 1
+http://live.pieci.lv/live26-hq.aac

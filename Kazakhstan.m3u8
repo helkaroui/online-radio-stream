@@ -1,0 +1,109 @@
+#EXTM3U
+#EXTINF:-1, Радио Жұлдыз FM Казахстан
+http://195.210.47.197:8000/zhulduz
+#EXTINF:-1, Радио "Аксай Казахстан
+http://s2.radioboss.fm:8111/stream
+#EXTINF:-1, Radio 7 Kazakhstan 106.9 FM
+http://listen4.myradio24.com:9000/8334
+#EXTINF:-1, Radio Aksai
+http://s2.radioboss.fm:8111/stream
+#EXTINF:-1, Tengri FM Aktau Ақтау
+http://195.210.47.197:8000/live
+#EXTINF:-1, Радио КН Казахстан
+http://auth.ne.fm/mp3/radiokn
+#EXTINF:-1, 105.1 FM . 100.7 FM - Радио Алау Костанай . Рудном
+http://auth.ne.fm/mp3/alau
+#EXTINF:-1, Aktobe Radio Kazakhstan 101.4 FM
+http://auth.ne.fm/mp3/aktoberadio
+#EXTINF:-1, Radio Shalkar
+http://auth.ne.fm/mp3/shalkar
+#EXTINF:-1, Radio Astana FM 101.4 MHZ
+http://auth.ne.fm/mp3/astana
+#EXTINF:-1, Radio Record Kazakhstan
+http://88.204.184.38:8000/recordfm_192.mp3
+#EXTINF:-1, Radio Tengir fm
+http://195.210.47.197:8000/live
+#EXTINF:-1, Радио Душа Кавказа
+http://37.220.0.26:8000/live
+#EXTINF:-1, Radio ICE - 0
+http://onair.radioice.ru:8000/mp3_192
+#EXTINF:-1, Radio ICE - 1
+http://onair.radioice.ru:8000/mp3_128
+#EXTINF:-1, Radio ICE - 2
+http://onair.radioice.ru:8000/mp3_64
+#EXTINF:-1, Radio ICE - 3
+http://onair.radioice.ru:8000/48ogg
+#EXTINF:-1, Radio ICE - 4
+http://onair.radioice.ru:8000/48aac
+#EXTINF:-1, Dala FM 106.2 Atyrau - 0
+http://95.56.234.40:8080/DALA_320?1496131594063.mp3
+#EXTINF:-1, Dala FM 106.2 Atyrau - 1
+http://95.56.234.40:8080/DALA_320
+#EXTINF:-1, Dala FM 106.2 Atyrau - 2
+http://95.56.234.40:8080/DALA_192?1496131593673.mp3
+#EXTINF:-1, Dala FM 106.2 Atyrau - 3
+http://95.56.234.40:8080/DALA_192
+#EXTINF:-1, Radio 102 Temirtau
+http://radio102.temirtau.org:9000/8134
+#EXTINF:-1, Bim Radio Kazan 102.8 FM
+http://av.bimradio.ru:8066/bim_mp3_128k
+#EXTINF:-1, Radio Gakku FM Almaty 101.8
+http://88.204.184.38:8000/live
+#EXTINF:-1, Radio NRJ FM Almaty 102.2 - 0
+http://89.219.34.117:8008/NEWENERGY_256k
+#EXTINF:-1, Radio NRJ FM Almaty 102.2 - 1
+http://89.219.34.117:8008/NEWENERGY
+#EXTINF:-1, Radio Classic FM Almaty 102.7
+http://auth.ne.fm/mp3/classic
+#EXTINF:-1, Russkoe Radio Almaty 104.7 FM - 0
+http://31.148.22.35:9000/stream
+#EXTINF:-1, Russkoe Radio Almaty 104.7 FM - 1
+http://31.148.22.35:9000
+#EXTINF:-1, Kazakh Radio
+http://auth.ne.fm/mp3/kazradio
+#EXTINF:-1, Radio NS - Jazz
+http://89.219.35.26:8000/radions
+#EXTINF:-1, Avtoradio Kazakhstan 105.4 FM
+http://89.106.235.181/AVTORADIO
+#EXTINF:-1, Radio NS - JAZZ
+http://89.219.35.26:8000/radions-jazz
+#EXTINF:-1, Radio NS - KZ
+http://89.219.35.26:8000/radions
+#EXTINF:-1, Radio NS - ORIGINAL
+http://89.219.35.26:8000/radions
+#EXTINF:-1, Radio NS - ROCK
+http://89.219.35.26:8000/radions-rock
+#EXTINF:-1, Radio NS - Шансон
+http://89.219.35.26:8000/radions-shanson
+#EXTINF:-1, Radio NS - Русский Хит
+http://89.219.35.26:8000/radions-russian
+#EXTINF:-1, Humor FM Kazakhstan
+http://kivvi.ne.fm/mp3/radio102
+#EXTINF:-1, Zhana FM
+http://ne.fm/mp3/zhanafm
+#EXTINF:-1, Business FM
+http://kivvi.ne.fm/mp3/businessfmkz
+#EXTINF:-1, Umax FM Radio
+http://ne.fm/mp3/kazradio
+#EXTINF:-1, Астана радиосы 101.4 FM
+http://onradio.kaztrk.kz:8000/astana
+#EXTINF:-1, Shalqar Radiosy 100.4 FM
+http://onradio.kaztrk.kz:8000/shalkar
+#EXTINF:-1, Qazaq radiosy 106.8 FM
+http://onradio.kaztrk.kz:8000/kazradio
+#EXTINF:-1, Klab FM - 0
+http://s3.radioboss.fm:8015/stream
+#EXTINF:-1, Klab FM - 1
+http://radio02-cn03.akadostream.ru:8114/klab-fm128.mp3
+#EXTINF:-1, Kazak FM - 0
+http://193.242.149.55:8000/kfm.m3u
+#EXTINF:-1, Kazak FM - 1
+http://193.242.149.55:8000/kfm
+#EXTINF:-1, NewTone.FM
+http://ne.fm/mp3/newtone
+#EXTINF:-1, NE.FM - Hit
+http://ne.fm/mp3/HIT
+#EXTINF:-1, NE.FM - Urban
+http://ne.fm/mp3/URBAN
+#EXTINF:-1, NE.FM - Rock
+http://ne.fm/mp3/ROCK

@@ -1,0 +1,205 @@
+#EXTM3U
+#EXTINF:-1, Radio 760 AM - 0
+http://38.96.148.26:8076/listen.pls
+#EXTINF:-1, Radio 760 AM - 1
+http://www.primcast.com/asx/listen267874.asx
+#EXTINF:-1, RadioMarimba - 0
+http://radiomarimba.com/player/listen.pls
+#EXTINF:-1, RadioMarimba - 1
+http://radiomarimba.com/player/wmp.asx
+#EXTINF:-1, RadioMarimba - 2
+http://hdime.mobi/listen-radiomarimba.m3u
+#EXTINF:-1, RadioMarimba - 3
+http://s1.centovapanel.com:8284/
+#EXTINF:-1, Genesis Radio 99.5
+http://69.175.122.50:8072
+#EXTINF:-1, Stereo Apocalipsis 91.9 FM
+http://radiohd.camo.com.gt:7302
+#EXTINF:-1, Radio Rock GT
+http://radiorockgt.radio12345.com/
+#EXTINF:-1, Radio Stereo Shaddai 103.5 FM
+http://66.128.53.117:9942/;
+#EXTINF:-1, Radio Cultural TGN
+http://stream.serverinfinity.com:7054/
+#EXTINF:-1, Radio Maria Guatemala - 0
+http://dreamsiteradiocp.com:8072/
+#EXTINF:-1, Radio Maria Guatemala - 1
+http://cloudrad.io/radiomariaguatemala/listen.asx
+#EXTINF:-1, Fabuestereo 88.1
+https://stream.emisorasunidas.com/fabu881/com881.sdp/playlist.m3u8
+#EXTINF:-1, Emisorasunidas - Lagrande
+https://stream.emisorasunidas.com/lgd993/com993.sdp/playlist.m3u8
+#EXTINF:-1, Guatemusicturadio
+http://192.227.107.159:5000/stream
+#EXTINF:-1, Orion Stereo
+http://radiosinlimite.net:8116/;
+#EXTINF:-1, Union Radio
+http://163.182.175.106:8054/;
+#EXTINF:-1, Libertopolis 102.1
+http://radio.libertopolis.com:8000/live
+#EXTINF:-1, Radio Tropicana 94.7 FM - 0
+http://node-01.strongradiohost.com/290na7cfpv5tv
+#EXTINF:-1, Radio Tropicana 94.7 FM - 1
+http://99.198.107.186:8558/stream
+#EXTINF:-1, Radio Evangelica
+http://redradios.net:8000/;
+#EXTINF:-1, Gamer Sound Radio, Guatemala - 0
+http://149.56.147.197:8716/
+#EXTINF:-1, Gamer Sound Radio, Guatemala - 1
+http://149.56.147.197:8716/stream
+#EXTINF:-1, Stereo Shaddai 103.5 FM Ciudad de Guatemala, Guatemala
+http://66.128.53.117:9942/;stream.mp3
+#EXTINF:-1, Vision 104.1 FM Ciudad de Guatemala, Guatemala
+http://69.175.122.50:8128/;
+#EXTINF:-1, Romance 104.9 FM
+http://69.175.88.11:8070/listen.pls
+#EXTINF:-1, OSTUNCALCO 98.1 FM
+http://zenorad.io:15952/;
+#EXTINF:-1, Plenitud Radio FM 93.1 Escuintla Guatemala City, Guatemala
+http://redradios.net:8000/;stream.nsv
+#EXTINF:-1, LA SABROSONA 103.1 FM HD
+http://radio.hostlagarto.com:9328/;
+#EXTINF:-1, MegaMax 90.5 FM Jacaltenango
+http://199.191.57.142:8021/live
+#EXTINF:-1, Stereo Las Casas 93.9 FM HD
+http://99.198.118.250:8084/live
+#EXTINF:-1, RADIO LA BUENA 94.7 FM HD - 0
+http://158.69.215.170:9300/;
+#EXTINF:-1, RADIO LA BUENA 94.7 FM HD - 1
+http://158.69.215.170:9300/;stream.mp3?ver=93
+#EXTINF:-1, Emisorasunidas - Atmosfera 96.5 FM
+https://stream.emisorasunidas.com/atm965/com965.sdp/playlist.m3u8
+#EXTINF:-1, Emisorasunidas - Emsoras Unidas 89.7 FM
+https://stream.emisorasunidas.com/eu897/com897.sdp/playlist.m3u8
+#EXTINF:-1, Emisorasunidas - Kiss 997
+https://stream.emisorasunidas.com/kiss977/com977.sdp/playlist.m3u8
+#EXTINF:-1, Emisorasunidas - Yosi Sideral
+https://stream.emisorasunidas.com/yosi901/com901.sdp/playlist.m3u8
+#EXTINF:-1, Metanoeo - 0
+http://cassini.shoutca.st:9376/;
+#EXTINF:-1, Metanoeo - 1
+http://144.217.195.24:9376/stream96
+#EXTINF:-1, Radio Petén 88.5 FM - 1460 AM
+http://198.15.77.50:7314/;
+#EXTINF:-1, Radio Santa Cruz FM 106.5  Barillas  Guatemala - 0
+http://stream.serverinfinity.com:7028/;
+#EXTINF:-1, Radio Santa Cruz FM 106.5  Barillas  Guatemala - 1
+http://stream.serverinfinity.com:7028/;stream.mp3
+#EXTINF:-1, Radio Disney Guatemala
+http://ic.streann.com:8000/disneyguatemala
+#EXTINF:-1, 949 radio
+http://rcn.radioonlinehd.net:8000/949radio
+#EXTINF:-1, LAPANTERA 99.1 FM HD
+http://radio.hostlagarto.com:9322/;
+#EXTINF:-1, Mega 107.7
+http://99.198.107.186:8564/stream
+#EXTINF:-1, Mía 93.7 - escucha tu corazón - 0
+http://rcn.radioonlinehd.net:8000/mia937
+#EXTINF:-1, Mía 93.7 - escucha tu corazón - 1
+https://rcn.radioonlinehd.net:8010/mia937
+#EXTINF:-1, Radio Fe Love
+http://206.190.135.28:8100/radiofelove
+#EXTINF:-1, Radio Refrescante
+http://168.144.82.115:3030/;
+#EXTINF:-1, Rhema Stereo 91.7 FM
+http://radio.worldkast.com:8370/stream
+#EXTINF:-1, Stereo 100
+http://streaming.xelaweb.com:8000/stereo100
+#EXTINF:-1, RADIO CRISTIANA ESTEREO RESTAURACION
+http://162.219.28.116:9800/;
+#EXTINF:-1, Yosi Sideral FM 90.1
+https://stream1.emisorasunidas.com/live/stream1/playlist.m3u8
+#EXTINF:-1, Radio Globo 98.9 FM - 0
+http://rcn.radioonlinehd.net:8000/globo989
+#EXTINF:-1, Radio Globo 98.9 FM - 1
+https://rcn.radioonlinehd.net:8010/globo989
+#EXTINF:-1, Radio Globo Sur 105.9 FM - 0
+http://rcn.radioonlinehd.net:8000/globosur
+#EXTINF:-1, Radio Globo Sur 105.9 FM - 1
+https://rcn.radioonlinehd.net:8010/globosur
+#EXTINF:-1, Radio Globo Norte 97.5 FM - 0
+http://rcn.radioonlinehd.net:8000/globonorte
+#EXTINF:-1, Radio Globo Norte 97.5 FM - 1
+https://rcn.radioonlinehd.net:8010/globonorte
+#EXTINF:-1, Radio Globo Occidente 95.9 FM - 0
+http://rcn.radioonlinehd.net:8000/globooccidente
+#EXTINF:-1, Radio Globo Occidente 95.9 FM - 1
+https://rcn.radioonlinehd.net:8010/globooccidente
+#EXTINF:-1, Radio Punto 90.5 FM
+http://radioserver11.profesionalhosting.com:9041/live.ogg
+#EXTINF:-1, EXA FM 101.7 - Guatemala City
+http://radioserver11.profesionalhosting.com:9029/live.ogg
+#EXTINF:-1, RCN Guatemala - +Radio - 0
+http://rcn.radioonlinehd.net:8000/masradio
+#EXTINF:-1, RCN Guatemala - +Radio - 1
+https://rcn.radioonlinehd.net:8010/masradio
+#EXTINF:-1, RCN Guatemala - Mia 93.7 - 0
+http://rcn.radioonlinehd.net:8000/mia937
+#EXTINF:-1, RCN Guatemala - Mia 93.7 - 1
+https://rcn.radioonlinehd.net:8010/mia937
+#EXTINF:-1, RCN Guatemala - 949 Radio - 0
+http://rcn.radioonlinehd.net:8000/949radio
+#EXTINF:-1, RCN Guatemala - 949 Radio - 1
+https://rcn.radioonlinehd.net:8010/949radio
+#EXTINF:-1, RCN Guatemala - La Red 106.1 - 0
+http://rcn.radioonlinehd.net:8000/lared
+#EXTINF:-1, RCN Guatemala - La Red 106.1 - 1
+https://rcn.radioonlinehd.net:8020/lared
+#EXTINF:-1, RCN Guatemala - Fama 102.5 - 0
+http://rcn.radioonlinehd.net:8000/fama1025
+#EXTINF:-1, RCN Guatemala - Fama 102.5 - 1
+https://rcn.radioonlinehd.net:8010/fama1025
+#EXTINF:-1, RCN Guatemala - CLASICA 106.5 - 0
+http://rcn.radioonlinehd.net:8000/clasica1065
+#EXTINF:-1, RCN Guatemala - CLASICA 106.5 - 1
+https://rcn.radioonlinehd.net:8010/clasica1065
+#EXTINF:-1, RCN Guatemala - Radio Indiana - Nombre de la canción - 0
+http://rcn.radioonlinehd.net:8000/indiana
+#EXTINF:-1, RCN Guatemala - Radio Indiana - Nombre de la canción - 1
+https://rcn.radioonlinehd.net:8010/indiana
+#EXTINF:-1, RCN Guatemala - MIA 97.9 - 0
+http://rcn.radioonlinehd.net:8000/mia979
+#EXTINF:-1, RCN Guatemala - MIA 97.9 - 1
+https://rcn.radioonlinehd.net:8010/mia979
+#EXTINF:-1, RCN Guatemala - Club Radio - 0
+http://rcn.radioonlinehd.net:8000/clubradio
+#EXTINF:-1, RCN Guatemala - Club Radio - 1
+https://rcn.radioonlinehd.net:8010/clubradio
+#EXTINF:-1, RCN Guatemala - Coqueta - 0
+http://rcn.radioonlinehd.net:8000/coqueta
+#EXTINF:-1, RCN Guatemala - Coqueta - 1
+https://rcn.radioonlinehd.net:8010/coqueta
+#EXTINF:-1, Radio Retro Clasicos - 0
+http://rcn.radioonlinehd.net:8000/clasica1065
+#EXTINF:-1, Radio Retro Clasicos - 1
+https://rcn.radioonlinehd.net:8010/clasica1065
+#EXTINF:-1, La Grande 99.3
+https://stream.emisorasunidas.com/lgd993/com993.sdp/playlist.m3u8
+#EXTINF:-1, Radio Circuito San Juan
+http://200.6.211.210:8000/;
+#EXTINF:-1, La Red 106.1 FM - 0
+http://rcn.radioonlinehd.net:8000/lared
+#EXTINF:-1, La Red 106.1 FM - 1
+https://rcn.radioonlinehd.net:8020/lared
+#EXTINF:-1, Radio Maranatha 103.7 FM
+http://66.128.53.142:8062/;
+#EXTINF:-1, RADIO LA FRANJA 96.3 FM HD
+http://live.myradioserver.net:8054/;
+#EXTINF:-1, Chapin De Corazon - Ciudad de Guatemala, Guatemala - 0
+http://66.70.179.203:9370/;
+#EXTINF:-1, Chapin De Corazon - Ciudad de Guatemala, Guatemala - 1
+http://whmsonic10.ipstm.net:9370/;
+#EXTINF:-1, Rhema Steroe 91.7 FM
+http://radio.worldkast.com:8370/;
+#EXTINF:-1, Kiss FM 97.7 Guatemala
+http://node-03.strongradiohost.com/c98p12nqhq5tv
+#EXTINF:-1, Radio Edificando
+http://66.128.53.142:9976/;
+#EXTINF:-1, Radio Marmiba24-7 - 0
+http://laradiofm.com/download/1164-en-pls/
+#EXTINF:-1, Radio Marmiba24-7 - 1
+http://ample-zeno-18.radiojar.com/s8h14ym5asmtv
+#EXTINF:-1, Naranjo Sulamita (Radio Cristiana) (Radio Sulamita)
+http://sh4.radioonlinehd.com:8548/stream
+#EXTINF:-1, Minorias radio
+http://centova10.ipstm.net:9927/stream

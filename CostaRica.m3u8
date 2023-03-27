@@ -1,0 +1,163 @@
+#EXTM3U
+#EXTINF:-1, Radio Dignidad - 0
+http://www.radiodignidad.org/escuchamos/descargar.php?f=dignidadwmp.asx
+#EXTINF:-1, Radio Dignidad - 1
+http://www.radiodignidad.org/escuchamos/descargar.php?f=dignidadwinamp.m3u
+#EXTINF:-1, Radio Alajuela 1120 AM - 0
+http://99.198.110.162:7002/
+#EXTINF:-1, Radio Alajuela 1120 AM - 1
+http://tribalhost.es/cast/tunein.php/radioalajuela1120/playlist.pls
+#EXTINF:-1, Radio Alajuela 1120 AM - 2
+http://tribalhost.es/cast/tunein.php/radioalajuela1120/playlist.asx
+#EXTINF:-1, Prisa - Bésame Costa Rica - 0
+http://strf04.host.mia.us.cadenaunionradio.com/CRBESAME
+#EXTINF:-1, Prisa - Bésame Costa Rica - 1
+http://strf03.host.mia.us.cadenaunionradio.com/CRBESAME
+#EXTINF:-1, Prisa - Bésame Costa Rica - 2
+http://strf02.host.mia.us.cadenaunionradio.com/CRBESAME
+#EXTINF:-1, Radio Momentos de Costa Rica - 0
+http://184.154.43.106:8016
+#EXTINF:-1, Radio Momentos de Costa Rica - 1
+http://s15.myradiostream.com:3734
+#EXTINF:-1, Radio Shofar
+http://sc1.spacialnet.com:18030/listen.pls
+#EXTINF:-1, Radio Sinfonola 90.3
+http://streams.y2kwebs.com:9972
+#EXTINF:-1, Radio Cartago 850
+http://s3.voscast.com:8576
+#EXTINF:-1, Radio Actual FM
+http://216.75.41.16:8070/live
+#EXTINF:-1, Radio Disney Costa Rica - 0
+http://ic.streann.com:8000/disneycostarica
+#EXTINF:-1, Radio Disney Costa Rica - 1
+http://d1pqwktrrc385d.cloudfront.net/radios/disneycr.m3u8
+#EXTINF:-1, Radio Maria Costa Rica
+http://dreamsiteradiocp2.com:8044/
+#EXTINF:-1, E-OL Radio
+http://streaming.radionomy.com/Ambient-House--Chillout-RIW-LOUNGE-CHANNEL?lang=en-US&appName=iTunes.m3u
+#EXTINF:-1, Onda Brava
+http://167.114.210.232:8221/;
+#EXTINF:-1, Fedbak Radio
+http://shoutcast.citrus3.com:2199/tunein/carlosmiranda-stream.pls
+#EXTINF:-1, Omega Estereo 105.1 FM
+http://rtvhd.net:9932/;*.nsv
+#EXTINF:-1, Columbia Estereo
+http://secolumbia.cyberfuel.com:8099/file.mp3
+#EXTINF:-1, IQ Radio 93.9 FM
+http://rtvhd.net:9942/;*.nsv
+#EXTINF:-1, Radio Manantiales
+http://66.7.212.193:8022/;
+#EXTINF:-1, Radio Cima - 0
+http://ns6.emisionlocal.com:2199/tunein/radiocima.pls
+#EXTINF:-1, Radio Cima - 1
+http://ns6.emisionlocal.com:2199/tunein/radiocima.asx
+#EXTINF:-1, Radio Cima - 2
+http://87.98.216.82:9012/;
+#EXTINF:-1, Cristal Relax - 0
+http://streaming.radionomy.com/CristalRelax?lang=en-US&appName=iTunes.m3u
+#EXTINF:-1, Cristal Relax - 1
+http://listen.radionomy.com/cristalrelax
+#EXTINF:-1, Cristal Relax - 2
+http://listen.radionomy.com/cristalrelax.m3u
+#EXTINF:-1, Cristal Relax - 3
+http://listen.radionomy.com/cristalrelax.m3u
+#EXTINF:-1, Pumpkin Radio ChillOut - 0
+http://streaming.radionomy.com/Pumpkin?lang=en-US&appName=iTunes.m3u
+#EXTINF:-1, Pumpkin Radio ChillOut - 1
+http://listen.radionomy.com/pumpkin
+#EXTINF:-1, Pumpkin Radio ChillOut - 2
+http://listen.radionomy.com/pumpkin.m3u
+#EXTINF:-1, Viva Guanacaste
+http://199.15.251.230:8064/live
+#EXTINF:-1, 89.1 FM La Súper Estación - San Jose, Costa Rica - 0
+http://playerservices.streamtheworld.com/pls/SUPER_ESTACIONAAC.pls
+#EXTINF:-1, 89.1 FM La Súper Estación - San Jose, Costa Rica - 1
+http://playerservices.streamtheworld.com/pls/SUPER_ESTACION.pls
+#EXTINF:-1, 89.1 FM La Súper Estación - San Jose, Costa Rica - 2
+http://17963.live.streamtheworld.com/SUPER_ESTACION_SC
+#EXTINF:-1, 89.1 FM La Súper Estación - San Jose, Costa Rica - 3
+http://14013.live.streamtheworld.com:80/SUPER_ESTACIONAAC_SC
+#EXTINF:-1, 93.5 FM and 670 AM Monumental
+http://radios-cr.cdn.nedmedia.io/radios/monumental.m3u8
+#EXTINF:-1, 98.7 FM and 760 AM  Columbia Radio - San Jose, Costa Rica
+http://streams.teknoweb.co/s419eaa350/listen
+#EXTINF:-1, CDR - Zeta FM 95.1
+http://radios-cr.cdn.nedmedia.io/radios/zfm.m3u8
+#EXTINF:-1, CDR - Best FM 103.5
+http://radios-cr.cdn.nedmedia.io/radios/bestfm.m3u8
+#EXTINF:-1, CDR - Ponete Exa FM 102.7
+http://radios-cr.cdn.nedmedia.io/radios/exa.m3u8
+#EXTINF:-1, CDR - La Mejor FM 99.1
+http://radios-cr.cdn.nedmedia.io/radios/lamejor.m3u8
+#EXTINF:-1, CDR - Momentos Reloj (MR) 94.3
+http://radios-cr.cdn.nedmedia.io/radios/momentoreloj.m3u8
+#EXTINF:-1, CDR - Radio Managua AM
+http://radios-cr.cdn.nedmedia.io/radios/managua.m3u8
+#EXTINF:-1, Radio Lira FM 88.7 - 0
+http://streams.y2kwebs.com:9962/;
+#EXTINF:-1, Radio Lira FM 88.7 - 1
+http://163.172.16.45:9962/;
+#EXTINF:-1, Radio Shock 106.3 FM Cartago Costa Rica - 0
+http://streams.y2kwebs.com:9986/;
+#EXTINF:-1, Radio Shock 106.3 FM Cartago Costa Rica - 1
+http://streams.y2kwebs.com:9986/stream/1/
+#EXTINF:-1, Bendiciendo Radio - 0
+http://142.4.217.133:9093/stream/1/
+#EXTINF:-1, Bendiciendo Radio - 1
+http://stream1.servercristianonetwork.com/tunein.php/client240/playlist.asx
+#EXTINF:-1, Bendiciendo Radio - 2
+http://stream1.servercristianonetwork.com/tunein.php/client240/playlist.pls
+#EXTINF:-1, Estereo Vision 98.3 FM - 0
+http://163.172.16.45:9984/;
+#EXTINF:-1, Estereo Vision 98.3 FM - 1
+http://www.estereovision.com/playlist.asx
+#EXTINF:-1, Faro del Caribe 1080 AM
+http://unoredradio.com:9768/;stream.mp3
+#EXTINF:-1, Faro del Caribe 97.1 FM
+http://unoredradio.com:9768/;stream.mp3
+#EXTINF:-1, IQ Radio
+http://rtvhd.net:9942/;
+#EXTINF:-1, Prisa - ADN Radio Costa Rica
+http://unlimited1-us.dps.live/adntv/adntv.smil/playlist.m3u8
+#EXTINF:-1, Radio Torre Stereo Costa Rica
+http://hostingtico.com:8020/;stream
+#EXTINF:-1, Juventud Online - 0
+http://www.juventudonline.com/Radio/playlist.wmx
+#EXTINF:-1, Juventud Online - 1
+http://65.60.34.156/
+#EXTINF:-1, Juventud Online - 2
+http://67.212.165.106:8006/;
+#EXTINF:-1, 95.Cinco Jazz - 0
+http://streamer.radio.co/s967167041/listen
+#EXTINF:-1, 95.Cinco Jazz - 1
+http://radios506.luxwer.net:18401/;stream/1?serial181919389416.5581
+#EXTINF:-1, 95.Cinco Jazz - 2
+http://radios506.luxwer.net:18401
+#EXTINF:-1, 95.Cinco Jazz - 3
+http://radios506.luxwer.net:18401/;stream/1?serial262307401251.3844
+#EXTINF:-1, Radio Dos - Radio 2 - FM 99.5
+http://streamer.radio.co/s06e110935/listen
+#EXTINF:-1, Stereo Visión Internacional 98.3 - 0
+http://streams.y2kwebs.com:9984/;
+#EXTINF:-1, Stereo Visión Internacional 98.3 - 1
+http://163.172.16.45:9984/;
+#EXTINF:-1, Radio Nuevas de Esperanza
+http://dceciliano.serverroom.us/;stream.mp3
+#EXTINF:-1, Radio Diria
+http://stm3.streamjei.com.br:7948/;
+#EXTINF:-1, Colosal stereo 88.3 - 0
+http://www.radioshd.net/radios/colosal/radio.m3u
+#EXTINF:-1, Colosal stereo 88.3 - 1
+http://rtvhd.info:8803/
+#EXTINF:-1, Colosal stereo 88.3 - 2
+http://37.187.73.93:8803/listen.pls
+#EXTINF:-1, Colosal 88.3 La Primera Costa Rica - 0
+http://www.radioshd.net/radios/colosal/radio.m3u
+#EXTINF:-1, Colosal 88.3 La Primera Costa Rica - 1
+http://domus.ishack.net:8060/colosal
+#EXTINF:-1, Colosal 88.3 La Primera Costa Rica - 2
+http://rtvhd.info:8803/;
+#EXTINF:-1, Colosal 88.3 La Primera Costa Rica - 3
+http://37.187.73.93:8803/listen.pls
+#EXTINF:-1, HIT La Radio
+http://hitlaradio.com:8000/;" type="audio/mpeg

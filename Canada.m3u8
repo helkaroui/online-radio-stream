@@ -1,0 +1,2883 @@
+#EXTM3U
+#EXTINF:-1, ﻿WeFunk - 0
+http://www.wefunkradio.com/play/shoutcast.pls
+#EXTINF:-1, ﻿WeFunk - 1
+http://www.wefunkradio.com/play/shoutcast.m3u
+#EXTINF:-1, ﻿WeFunk - 2
+http://207.200.96.232:8018
+#EXTINF:-1, ﻿WeFunk - 3
+http://129.173.67.99:8000
+#EXTINF:-1, ﻿WeFunk - 4
+http://129.173.67.99:8000/listen.pls
+#EXTINF:-1, ﻿WeFunk - 5
+http://205.188.215.229:8018
+#EXTINF:-1, CFRO 102.7 FM Vancouver, BC
+http://www.coopradio.org/listen/cfro-mid.mp3.pls
+#EXTINF:-1, CJRS Radio Shalom1650 AM Montréal, QC - 0
+http://50.7.70.66:8509/stream
+#EXTINF:-1, CJRS Radio Shalom1650 AM Montréal, QC - 1
+http://50.7.70.66:8509/live
+#EXTINF:-1, CHRI 99.1 FM Ottawa, ON
+http://chrica-lol.dyndns.org:8000/xstream
+#EXTINF:-1, Lighthouse 104.1 FM
+http://www.lighthousefm.ca/playlist.asx
+#EXTINF:-1, Radio Maria Canada (Montreal, Italian service) - 0
+http://rmmontreal.internettunes.com:8035/
+#EXTINF:-1, Radio Maria Canada (Montreal, Italian service) - 1
+http://cloudrad.io/radiomariacanadamon/listen.asx
+#EXTINF:-1, CKCL 107.1 FM Winnipeg, MB
+http://daemondef.ic.llnwd.net/stream/daemondef_ddmp3_74
+#EXTINF:-1, CFMJ 640 AM Toronto, ON
+http://live.leanstream.co/CFMJAM
+#EXTINF:-1, CFPL 980 AM London, ON - 0
+http://live.leanstream.co/CFPLAM-MP3
+#EXTINF:-1, CFPL 980 AM London, ON - 1
+http://live.leanstream.co/CFPLAM
+#EXTINF:-1, CHED 630 AM Edmonton, AB
+http://live.leanstream.co/CHEDAM
+#EXTINF:-1, CHMJ 730 AM Vancouver, BC
+http://live.leanstream.co/CHMJAM
+#EXTINF:-1, CHML 900 AM Hamilton, ON
+http://live.leanstream.co/CHMLAM
+#EXTINF:-1, CHQR 770 AM Calgary, AB
+http://live.leanstream.co/CHQRAM
+#EXTINF:-1, CHQT 880 AM Edmonton, AB
+http://live.leanstream.co/CHQTAM
+#EXTINF:-1, CJOB 680 AM Winnipeg, MB
+http://live.leanstream.co/CJOBAM
+#EXTINF:-1, CKNW 980 AM Vancouver, BC
+http://live.leanstream.co/CKNWAM
+#EXTINF:-1, kPOSI: Radio Free Positron (lo-fi stream)
+http://kposi.com:8010/
+#EXTINF:-1, XLTRAX Estonia Radio 2
+http://www.radiosolution.info:8390/listen.pls
+#EXTINF:-1, XLTRAX Estonia - 0
+http://174.142.215.249:8300/listen.pls
+#EXTINF:-1, XLTRAX Estonia - 1
+http://www.xltrax.com/main_frame/stations/indie/playlist.asx
+#EXTINF:-1, XLTRAX Main Station - 0
+http://xltrax.com:8000/listen.pls
+#EXTINF:-1, XLTRAX Main Station - 1
+http://xltrax.com:8580/listen.pls
+#EXTINF:-1, XLTRAX XLMAX
+http://www.radiosolution.info:8840/listen.pls
+#EXTINF:-1, CKNR 94.1 FM Elliot Lake, ON
+http://s1.hotdogradio.com/CKNR
+#EXTINF:-1, CIBU 94.5 FM Wingham, ON
+http://live.leanstream.co/CIBUFM-MP3?tunein
+#EXTINF:-1, Le Rapologue Radio - 0
+http://listen.radionomy.com/lerapologueradio.m3u
+#EXTINF:-1, Le Rapologue Radio - 1
+http://streaming.radionomy.com/LeRapologueRadio
+#EXTINF:-1, CFGX 99.9 FM Sarnia, ON
+http://live.leanstream.co/CFGXFM-MP3?
+#EXTINF:-1, CKNX 101.7 FM Wingham, ON
+http://live.leanstream.co/CKNXFM-MP3?
+#EXTINF:-1, Canadian Pinoy Radio – Montreal (CPRM FM)
+http://s5.voscast.com:8050/;stream.mp3
+#EXTINF:-1, Radio SONiC Canada
+http://van1049.akacast.akamaistream.net/7/176/80909/v1/rogers.akacast.akamaistream.net/van1049
+#EXTINF:-1, CKXU 88.3 FM Lethbridge, AB
+http://142.66.2.30:8000/stream/2/
+#EXTINF:-1, Radio Rouge Network FM 99.3 - 0
+http://sc2.streamingpulse.com:8002/
+#EXTINF:-1, Radio Rouge Network FM 99.3 - 1
+http://sc1.streamingpulse.com:8018/listen.pls
+#EXTINF:-1, CKPE 94.9 FM Sydney, NS
+http://www1.bellaliant.net/asx/ckpe.asx
+#EXTINF:-1, CHER 98.3 FM Sydney, NS
+http://public.aliant.net/asx/max.asx
+#EXTINF:-1, CJCB 1270 AM Sydney, NS
+http://english.aliant.net/asx/CJCB.asx
+#EXTINF:-1, Techno.FM - Techno Channel - 0
+http://techno.fm/m3u/techno.256k.mp3.m3u
+#EXTINF:-1, Techno.FM - Techno Channel - 1
+http://techno.fm/m3u/techno.aac.m3u
+#EXTINF:-1, A-0 Radio
+http://naxos.cdnstream.com/1278_128
+#EXTINF:-1, Multicultural radio
+http://192.99.170.8:5042/stream
+#EXTINF:-1, CFBK Moose FM 105.5
+http://s1.hotdogradio.com/CFBK
+#EXTINF:-1, D-Moos Radio
+http://174.36.206.197:2199/tunein/pwhita07.pls
+#EXTINF:-1, SAGA RADIO
+http://www.saga-world.com/sagaradio.m3u
+#EXTINF:-1, Cosmic Paradigm Radio
+http://www.worldsapart.ca/cpr.m3u
+#EXTINF:-1, Crucial Velocity Radio - 0
+http://crucialvelocity.ca/gbcrucial128.m3u
+#EXTINF:-1, Crucial Velocity Radio - 1
+http://crucialvelocity.ca/gbcrucial64.m3u
+#EXTINF:-1, Blown - 0
+http://crucialvelocity.ca/gbblown128.m3u
+#EXTINF:-1, Blown - 1
+http://crucialvelocity.ca/gbblown64.m3u
+#EXTINF:-1, Star Radio FM - 0
+http://185.80.220.12:2199/tunein/guvaldez-stream.pls
+#EXTINF:-1, Star Radio FM - 1
+http://185.80.220.12:8014/live.m3u
+#EXTINF:-1, CFBS Blanc-Sablon 89.9 & 93.1 FM - 0
+http://stream02.ustream.ca:8000/cfbs128.mp3
+#EXTINF:-1, CFBS Blanc-Sablon 89.9 & 93.1 FM - 1
+http://stream02.ustream.ca:8000/cfbs32.mp3
+#EXTINF:-1, CFIM 92.7 FM - 0
+http://stream02.ustream.ca:8000/cfim128.mp3
+#EXTINF:-1, CFIM 92.7 FM - 1
+http://stream02.ustream.ca:8000/cfim32.mp3
+#EXTINF:-1, CFLX 95.5 FM Sherbrooke, QC
+http://192.240.102.131:9858/stream
+#EXTINF:-1, CFML 107.9 Burnaby, BC
+http://cfml.streamon.fm:8000/CFML-64k.aac?starttime=1457469711
+#EXTINF:-1, CFRC 101.9 FM Kingston, ON
+http://stream.cfrc.ca:8000/;
+#EXTINF:-1, CFRG FM 93.1 Gravelbourg, SK - 0
+http://stream03.ustream.ca:8000/cfrg128.mp3
+#EXTINF:-1, CFRG FM 93.1 Gravelbourg, SK - 1
+http://stream03.ustream.ca:8000/cfrg32.mp3
+#EXTINF:-1, CFRU 93.3 FM Guelph, ON
+http://live.cfru.ca/listen
+#EXTINF:-1, CFUT Radio 91.1 Shawinigan, QC
+http://m01.stream.ustream.ca/fm91132.mp3
+#EXTINF:-1, CFWE 98.5 FM Edmonton, AB
+http://entry-amms-1.leanstream-hd.com:2112/CFWEFM-MP3
+#EXTINF:-1, CFXU 93.3 FM Antigonish, NS
+http://141.109.15.225:8000//listen.pls?sid=1
+#EXTINF:-1, CHGA 97.3 FM Maniwaki, QC
+http://stream02.ustream.ca:8000/chga128.mp3
+#EXTINF:-1, CHMA 106.9 FM Sackville, NB
+http://chma-nicecast.mta.ca:8000/listen
+#EXTINF:-1, CHSR 97.9 FM Fredericton, NB
+http://192.99.35.215:5005/stream
+#EXTINF:-1, CHUO 89.1 FM Ottawa, ON
+http://icecast1.isiglobal.ca:8000/chuo
+#EXTINF:-1, CHYZ 94.3 FM Sainte-Foy, QC
+http://ecoutez.chyz.ca:8000/;
+#EXTINF:-1, CIAU 103.1 FM Radisson, Qc - 0
+http://stream02.ustream.ca:8000/ciau128.mp3
+#EXTINF:-1, CIAU 103.1 FM Radisson, Qc - 1
+http://stream02.ustream.ca:8000/ciau32.mp3
+#EXTINF:-1, CIEU 94.9 FM Carleton-sur-Mer, QC - 0
+http://216.218.9.165:2021/cieufm
+#EXTINF:-1, CIEU 94.9 FM Carleton-sur-Mer, QC - 1
+mms://216.218.9.165:2021/cieufm
+#EXTINF:-1, CIGN 96.7 FM Coaticook, QC - 0
+http://stream02.ustream.ca:8000/cignfm128.mp3
+#EXTINF:-1, CIGN 96.7 FM Coaticook, QC - 1
+http://stream02.ustream.ca:8000/cignfm32.mp3
+#EXTINF:-1, CIHW 100.3 FM Wendake, QC
+http://mediacast.b2b2c.ca:8016/stream;?1457548023111.mp3
+#EXTINF:-1, CILE 95.1 FM Havre-St-Pierre, QC - 0
+http://stream02.ustream.ca:8000/cile128.mp3
+#EXTINF:-1, CILE 95.1 FM Havre-St-Pierre, QC - 1
+http://stream02.ustream.ca:8000/cile32.mp3
+#EXTINF:-1, CINN 91.1 FM Hearst, ON - 0
+http://stream03.ustream.ca:8000/cinn128.mp3
+#EXTINF:-1, CINN 91.1 FM Hearst, ON - 1
+http://stream03.ustream.ca:8000/cinn32.mp3
+#EXTINF:-1, CIOI 101.5 FM Hamilton, ON
+http://142.222.6.62:8000/stream/2/
+#EXTINF:-1, CIRA 91.3 FM Montreal, QC
+http://192.240.102.130:7601/stream
+#EXTINF:-1, CISM 89.3 FM Montreal, QC - 0
+http://stream03.ustream.ca/cism128.mp3
+#EXTINF:-1, CISM 89.3 FM Montreal, QC - 1
+http://stream03.ustream.ca:8000/cism32.mp3
+#EXTINF:-1, CJAI 92.1 FM Stella, ON
+http://peridot.streamguys.com:5040/live
+#EXTINF:-1, CJFO 94.5 FM Ottawa, ON
+http://stream03.ustream.ca:8000/cjfofm128.mp3
+#EXTINF:-1, CJLO 1690 AM Montreal, QC
+http://rosetta.shoutca.st:8883/stream
+#EXTINF:-1, CJLR La Ronge, SK
+http://cjlr.streamon.fm:8000/CJLR-32k.aac
+#EXTINF:-1, CJMQ 89.9 FM Sherbrooke, QC
+http://the.radioservers.biz:9996/
+#EXTINF:-1, CJRG 94.5 FM Gaspé, QC - 0
+http://stream02.ustream.ca:8000/cjrg128.mp3
+#EXTINF:-1, CJRG 94.5 FM Gaspé, QC - 1
+http://stream02.ustream.ca:8000/cjrg32.mp3
+#EXTINF:-1, CJRU 1280 AM Toronto, ON
+http://ryerson.out.airtime.pro:8000/ryerson_a
+#EXTINF:-1, CJSE 89.5 FM Shédiac, NB
+http://s6.voscast.com:9590/
+#EXTINF:-1, CJSF 90.1 FM Burnaby, BC
+http://www.cjsf.ca:8000/listen
+#EXTINF:-1, CJSR 88.5 FM  Edmonton, AB
+http://CJSR.streamon.fm:8000/CJSR-24k.aac
+#EXTINF:-1, CJSW 90.9 FM Calgary, AB - 0
+http://stream.cjsw.com/cjsw.mp3.m3u
+#EXTINF:-1, CJSW 90.9 FM Calgary, AB - 1
+http://stream.cjsw.com:80/cjsw.ogg
+#EXTINF:-1, CJSW 90.9 FM Calgary, AB - 2
+http://stream.cjsw.com:80/cjsw-low.mp3
+#EXTINF:-1, CJSW 90.9 FM Calgary, AB - 3
+http://stream.cjsw.com:80/cjsw-low.ogg
+#EXTINF:-1, CKAU 104.5 FM Maliotenam, QC
+http://173.236.19.90:8001/stream?1457627169647.mp3
+#EXTINF:-1, CKCU 93.1 FM Ottawa, ON
+http://icecast.isilive.ca:8000/ckcu.mp3
+#EXTINF:-1, CKDJ 107.9 FM Ottawa, ON
+http://live.leanstream.co/CKDJFM-MP3?tunein
+#EXTINF:-1, CKIA 88.3 FM Québec, QC - 0
+http://stream02.ustream.ca:8000/ckia128.mp3
+#EXTINF:-1, CKIA 88.3 FM Québec, QC - 1
+http://stream02.ustream.ca:8000/ckia32.mp3
+#EXTINF:-1, CKJM 106.1 FM Cheticamp, NS - 0
+http://public.aliant.net/asx/CKJM.asx
+#EXTINF:-1, CKJM 106.1 FM Cheticamp, NS - 1
+mms://ysj00ms01s0.aliant.net/CKJM
+#EXTINF:-1, CKMN 96.5 FM Rimouski, QC
+http://orange.voltige.net:8000/ckmn
+#EXTINF:-1, CKMS 100.3 FM Waterloo, ON
+http://192.240.102.133:7703/stream
+#EXTINF:-1, CKRK 103.7 FM Kahnawake, QC
+http://knw-stream.mohawk.ca:8000/k103.m3u
+#EXTINF:-1, CKRL 89.1 FM  Québec, QC - 0
+http://stream02.ustream.ca:8000/ckrl128.mp3
+#EXTINF:-1, CKRL 89.1 FM  Québec, QC - 1
+http://stream02.ustream.ca:8000/ckrl32.mp3
+#EXTINF:-1, CKRO 97.1 FM Inkerman, NB
+http://www1.bellaliant.net/asx/ckro.asx
+#EXTINF:-1, CKUA 94.9 FM Edmonton, AB - 0
+http://ckua.streamon.fm:8000/CKUA-64k-m.mp3
+#EXTINF:-1, CKUA 94.9 FM Edmonton, AB - 1
+http://ckua.streamon.fm:8000/CKUA-32k.aac?starttime=1457634046
+#EXTINF:-1, CKUT 90.3 FM Montreal, QC
+http://secure.ckut.ca:8000/ckut-live-64
+#EXTINF:-1, CKVL 100.1 FM Lasalle, QC
+http://stardust.wavestreamer.com:5167/Live/
+#EXTINF:-1, CKVM 93.1 FM Ville-Marie, QC
+http://s7.viastreaming.net:8655/;
+#EXTINF:-1, CKWE 103.9 FM Maniwaki, QC
+http://stream03.ustream.ca/kitiganzibi128.mp3
+#EXTINF:-1, CKXL 91.1 FM St. Boniface, MB - 0
+http://stream03.ustream.ca:8000/ckxl128.mp3
+#EXTINF:-1, CKXL 91.1 FM St. Boniface, MB - 1
+http://stream03.ustream.ca:8000/ckxl32.mp3
+#EXTINF:-1, AIR 1700 AM Ottawa, ON
+http://live.leanstream.co/AIR1700-MP3?
+#EXTINF:-1, VOWR 800 AM St. John's, NL
+http://easylink.playstream.com/seawm1/VOWR.wvx
+#EXTINF:-1, 57 Years of Soul Radio
+http://167.114.64.181:8558/;stream.mp3
+#EXTINF:-1, AH.FM - 0
+http://www.ah.fm/192k.m3u
+#EXTINF:-1, AH.FM - 1
+http://www.ah.fm/96k.m3u
+#EXTINF:-1, AH.FM - 2
+http://www.ah.fm/48k.m3u
+#EXTINF:-1, AH.FM - 3
+http://ca.ah.fm:443
+#EXTINF:-1, Blues and Roots Radio
+http://streaming.radio.co/sf8db342c1/listen
+#EXTINF:-1, CFCR 90.5 FM Saskatoon, SK
+http://onair.cfcr.ca/hifi.mp3?1457866215608.mp3
+#EXTINF:-1, CFCY 95.1 FM Charlottetown, PE
+http://english.aliant.net/asx/CFCY.asx
+#EXTINF:-1, CJOS 92.3 FM Owen Sound, ON - 0
+http://provisioning.streamtheworld.com/pls/CJOSFMAAC.pls
+#EXTINF:-1, CJOS 92.3 FM Owen Sound, ON - 1
+http://3473.live.streamtheworld.com:80/CJOSFMAAC_SC
+#EXTINF:-1, CJOS 92.3 FM Owen Sound, ON - 2
+http://3473.live.streamtheworld.com:3690/CJOSFMAAC_SC
+#EXTINF:-1, CJOS 92.3 FM Owen Sound, ON - 3
+http://3473.live.streamtheworld.com:443/CJOSFMAAC_SC
+#EXTINF:-1, CFRL Radio
+http://live.leanstream.co/CFRLCC?
+#EXTINF:-1, CIXX 106.9 FM London, ON
+http://live.leanstream.co/CIXXFM-MP3?
+#EXTINF:-1, CFCO 92.9 FM Chatham-Kent, ON
+http://live.leanstream.co/CFCOFM?
+#EXTINF:-1, CFGL 105.7 FM Montréal, QC
+http://rythmemtl-lh.akamaihd.net/i/studioaudio_1@393689/master.m3u8?b=64
+#EXTINF:-1, CKMQ 101.1 FM Merritt, BC
+http://ice5.securenetsystems.net/CKMQ
+#EXTINF:-1, CKOF 104.7 FM Gatineau, QC
+http://1047-lh.akamaihd.net/i/studioaudio_1@393604/master.m3u8
+#EXTINF:-1, CJMF 93.3 FM Québec, QC - 0
+http://fm93-lh.akamaihd.net/i/studioaudio_1@393666/index_48_a-p.m3u8
+#EXTINF:-1, CJMF 93.3 FM Québec, QC - 1
+http://fm93-lh.akamaihd.net/i/studioaudio_1@393666/master.m3u8
+#EXTINF:-1, ABC Islam
+http://s10.voscast.com:9276/;
+#EXTINF:-1, Ici Musique (Sudbury)
+http://7osub0.akacast.akamaistream.net/7/884/177414/v1/rc.akacast.akamaistream.net/7OSUB0
+#EXTINF:-1, Ici Musique (Québec)
+http://7qque0.akacast.akamaistream.net/7/171/177410/v1/rc.akacast.akamaistream.net/7QQUE0
+#EXTINF:-1, Ici Musique (Winnipeg)
+http://7mwin0.akacast.akamaistream.net/7/134/177418/v1/rc.akacast.akamaistream.net/7MWIN0
+#EXTINF:-1, Ici Musique (Toronto)
+http://7otor0.akacast.akamaistream.net/7/321/177415/v1/rc.akacast.akamaistream.net/7OTOR0
+#EXTINF:-1, Ici Musique (Vancouver)
+http://7emct0.akacast.akamaistream.net/7/286/177417/v1/rc.akacast.akamaistream.net/7BVAN0
+#EXTINF:-1, Ici Musique (Rimouski)
+http://7qrim0.akacast.akamaistream.net/7/435/177411/v1/rc.akacast.akamaistream.net/7QRIM0
+#EXTINF:-1, Ici Musique (Ottawa)
+http://7oott0.akacast.akamaistream.net/7/529/177409/v1/rc.akacast.akamaistream.net/7OOTT0
+#EXTINF:-1, Ici Musique (Saguenay)
+http://7qsag0.akacast.akamaistream.net/7/887/177412/v1/rc.akacast.akamaistream.net/7QSAG0
+#EXTINF:-1, Ici Musique (Sherbrooke)
+http://7qshe0.akacast.akamaistream.net/7/504/177413/v1/rc.akacast.akamaistream.net/7QSHE0
+#EXTINF:-1, Ici Musique (Trois Rivieres)
+http://7qtrv0.akacast.akamaistream.net/7/87/177416/v1/rc.akacast.akamaistream.net/7QTRV0
+#EXTINF:-1, Ici Musique (Montreal)
+http://7qmtl0.akacast.akamaistream.net/7/445/177407/v1/rc.akacast.akamaistream.net/7QMTL0
+#EXTINF:-1, Ici Musique (Calgary)
+http://7emct0.akacast.akamaistream.net/7/143/224495/v1/rc.akacast.akamaistream.net/7AEDM0
+#EXTINF:-1, Ici Musique (Moncton)
+http://7emct0.akacast.akamaistream.net/7/282/177408/v1/rc.akacast.akamaistream.net/7EMCT0
+#EXTINF:-1, CHOQ.ca
+http://radio.servlinks.com/choq/get_shoutcast_player.php
+#EXTINF:-1, CFOM 102.9 FM Ville de Québec, QC
+http://mfm-lh.akamaihd.net/i/studioaudio_1@393667/index_48_a-p.m3u8?sd=10&rebase=on
+#EXTINF:-1, CICK Smithers Community Radio - 0
+http://usa13.fastcast4u.com:5148/listen.pls
+#EXTINF:-1, CICK Smithers Community Radio - 1
+https://usa13.fastcast4u.com:2199/tunein/smithers.pls
+#EXTINF:-1, CFOU 89.1 FM Trois-Rivieres, QC
+http://streamer.xittel.net:8000/cfou
+#EXTINF:-1, CFQR 92.5 FM Montréal, QC
+http://beat-lh.akamaihd.net/i/studioaudio_1@393656/index_64_a-p.m3u8?
+#EXTINF:-1, CFRL 102.5 Victoriaville, QC
+http://live.leanstream.co/CFRLCC-MP3?tunein
+#EXTINF:-1, CHOI 98.1 Quebéc City, QC - 0
+http://icecast-choi.rncm.ca/choi.aac?
+#EXTINF:-1, CHOI 98.1 Quebéc City, QC - 1
+http://67.212.85.90/choi.mp3
+#EXTINF:-1, CHRL 99.5 FM Roberval, QC
+http://icecast-chrl.rncm.ca/chrl.mp3
+#EXTINF:-1, CIHO 96.3 FM St-Hilarion, QC
+http://stream.cloudmjs.com:8000/ciho.mp3
+#EXTINF:-1, CIME 103.9 FM Saint-Jérôme, QC - 0
+http://cime-lh.akamaihd.net/i/studioaudio_1@393664/master.m3u8?
+#EXTINF:-1, CIME 103.9 FM Saint-Jérôme, QC - 1
+http://cime-lh.akamaihd.net/i/studioaudio_1@393664/index_32_a-p.m3u8?
+#EXTINF:-1, CINQ 102.3 FM Montreal, QC
+http://mediacast.b2b2c.ca:8010/
+#EXTINF:-1, CJEB 100.1 FM Trois-Rivières, QC - 0
+http://rythmemau-lh.akamaihd.net/i/studioaudio_1@393687/master.m3u8?
+#EXTINF:-1, CJEB 100.1 FM Trois-Rivières, QC - 1
+http://rythmemau-lh.akamaihd.net/i/studioaudio_1@393687/index_32_a-p.m3u8?
+#EXTINF:-1, CJEB 100.1 FM Trois-Rivières, QC - 2
+http://142.4.207.11:8000/cjeb.mp3
+#EXTINF:-1, CJLV 1570 AM LAVAL, QC
+http://174.142.215.249:9960/;
+#EXTINF:-1, CKAC 730 AM Montréal, QC - 0
+http://radiocirculation-lh.akamaihd.net/i/studioaudio_1@393671/master.m3u8?
+#EXTINF:-1, CKAC 730 AM Montréal, QC - 1
+http://radiocirculation-lh.akamaihd.net/i/studioaudio_1@393671/index_32_a-p.m3u8?
+#EXTINF:-1, CKAC 730 AM Montréal, QC - 2
+http://142.4.207.11:8000/ckac.mp3
+#EXTINF:-1, CKIN 106.3 FM Montreal, QC
+http://ice64.securenetsystems.net/CKIN?
+#EXTINF:-1, CKOB 106.9 FM Trois-Rivières, QC - 0
+http://1069-lh.akamaihd.net/i/studioaudio_1@393637/master.m3u8?
+#EXTINF:-1, CKOB 106.9 FM Trois-Rivières, QC - 1
+http://1069-lh.akamaihd.net/i/studioaudio_1@393637/index_32_a-p.m3u8?
+#EXTINF:-1, CKOI 96.6 FM Montréal, QC - 0
+http://ckoi-lh.akamaihd.net/i/studioaudio_1@393649/master.m3u8?
+#EXTINF:-1, CKOI 96.6 FM Montréal, QC - 1
+http://ckoi-lh.akamaihd.net/i/studioaudio_1@393649/index_64_a-p.m3u8?
+#EXTINF:-1, CKOY 107.7 FM Sherbrooke, QC - 0
+http://1077-lh.akamaihd.net/i/studioaudio_1@393643/master.m3u8?
+#EXTINF:-1, CKOY 107.7 FM Sherbrooke, QC - 1
+http://1077-lh.akamaihd.net/i/studioaudio_1@393643/index_32_a-p.m3u8
+#EXTINF:-1, CKRS 98.3 FM Saguenay, QC - 0
+http://rythmesag-lh.akamaihd.net/i/studioaudio_1@393693/master.m3u8?
+#EXTINF:-1, CKRS 98.3 FM Saguenay, QC - 1
+http://rythmesag-lh.akamaihd.net/i/studioaudio_1@393693/index_32_a-p.m3u8?
+#EXTINF:-1, 101.5 KooL FM
+http://ckce.streamon.fm/hls/stream/CKCE-48k.aac.m3u8?
+#EXTINF:-1, CKDU 88.1FM
+http://129.173.68.178:9750/ckdu_1_on_air_high.mp3?1457460613611.mp3
+#EXTINF:-1, CFRQ 104.3 FM Halifax, NS - 0
+http://newcap.leanstream.co/CFRQFM?args=web_01
+#EXTINF:-1, CFRQ 104.3 FM Halifax, NS - 1
+http://provisioning.streamtheworld.com/pls/CFRQFM.pls
+#EXTINF:-1, The Wave - 0
+http://provisioning.streamtheworld.com/pls/CIWVFMAAC.pls
+#EXTINF:-1, The Wave - 1
+http://playerservices.streamtheworld.com/pls/CIWVFM.pls
+#EXTINF:-1, CIAO 530 AM Brampton, ON
+http://ice2.securenetsystems.net/CIAO
+#EXTINF:-1, CFGP 97.7 FM Grand Praire, AB
+http://gra977.akacast.akamaistream.net/7/720/80913/v1/rogers.akacast.akamaistream.net/gra977
+#EXTINF:-1, CFEX 92.9 FM Calgary, AB - 0
+http://cfex.streamon.fm/hls/CFEX-64k.m3u8
+#EXTINF:-1, CFEX 92.9 FM Calgary, AB - 1
+http://cfex.streamon.fm:8000/CFEX-64k.aac
+#EXTINF:-1, CJZN 91.3 FM Victoria, BC
+http://cjzn.streamon.fm:8000/CJZN-48k.aac
+#EXTINF:-1, Radio Naples
+http://www.radionaples.com/128.asx
+#EXTINF:-1, CIFA 104.1 FM Yarmouth, NS - 0
+http://stream03.ustream.ca:8000/cifa128.mp3
+#EXTINF:-1, CIFA 104.1 FM Yarmouth, NS - 1
+http://stream03.ustream.ca:8000/cifa32.mp3
+#EXTINF:-1, Radio Seda-ye Iran Toronto
+http://50.7.70.66:8759/
+#EXTINF:-1, Radio Namaashoum
+http://livestream.ckcufm.com/ckcu.mp3
+#EXTINF:-1, Radio Middle east CHOU
+http://s2.voscast.com:7386/;stream.mp3
+#EXTINF:-1, CJMK 98.3 FM Saskatoon, SK
+http://provisioning.streamtheworld.com/pls/CJMKFM.pls
+#EXTINF:-1, CHMP 98.5 FM Longueuil, QC
+http://985-lh.akamaihd.net/i/studioaudio_1@393647/master.m3u8
+#EXTINF:-1, Paranormal King Radio Network
+http://edge.mixlr.com/channel/ksvri
+#EXTINF:-1, CFRN 1260 AM Edmonton, AB
+http://provisioning.streamtheworld.com/pls/CFRNAM.pls
+#EXTINF:-1, CJDM 92.1 FM Drummondville, QC (Canada Only)
+http://playerservices.streamtheworld.com/pls/CJDMFMAAC.pls
+#EXTINF:-1, CKTF 104.1 FM Gatineau, QC (Canada Only)
+http://playerservices.streamtheworld.com/pls/CKTFFMAAC.pls
+#EXTINF:-1, CKLX 91.9 FM Montreal, QC
+http://icecast-cklx.rncm.ca/cklx.mp3
+#EXTINF:-1, Radio Maria Canada (English service) - 0
+http://dreamsiteradiocp.com:8016/
+#EXTINF:-1, Radio Maria Canada (English service) - 1
+http://cloudrad.io/radiomariacanadaeng/listen.asx
+#EXTINF:-1, Radio Maria Canada (Toronto, Italian Service) - 0
+http://dreamsiteradiocp4.com:8016/
+#EXTINF:-1, Radio Maria Canada (Toronto, Italian Service) - 1
+http://cloudrad.io/radiomariacanadator/listen.asx
+#EXTINF:-1, KISS Classical
+http://198.105.216.204:8164/stream?1488392045214.mp3
+#EXTINF:-1, CIMY 104.9 FM Pembroke, ON
+http://ice23.securenetsystems.net/CIMY
+#EXTINF:-1, CKDB 98.1 FM Lethbridge, AB
+http://clearsky.leanstream.co/CKBDFM-MP3
+#EXTINF:-1, Radio Guarani Montreal
+http://50.7.77.114:8335/stream
+#EXTINF:-1, Audioboxlive DJ Radio
+http://usa14.fastcast4u.com:5068/stream
+#EXTINF:-1, CKSA 95.9 FM Lloydminster, AB
+http://newcap.leanstream.co/CKSAFM-MP3?args=tunein_01
+#EXTINF:-1, CJWV 96.7 FM Peterborough, ON
+http://ice64.securenetsystems.net/CJWV
+#EXTINF:-1, CKUM 93.5 FM Moncton, NB
+http://139.103.17.6/radio1
+#EXTINF:-1, CFAK 88.3 FM sherbrooke, QC
+http://streamer01.sti.usherbrooke.ca:8000/cfak.mp3
+#EXTINF:-1, CIBL 101.5 FM Montreal, QC
+http://stream02.ustream.ca/cibl128.mp3
+#EXTINF:-1, CKTB 610 AM St. Catherines, ON - 0
+http://provisioning.streamtheworld.com/pls/CKTBAMAAC.pls
+#EXTINF:-1, CKTB 610 AM St. Catherines, ON - 1
+http://provisioning.streamtheworld.com/asx/CKTBAM.asx
+#EXTINF:-1, CKTB 610 AM St. Catherines, ON - 2
+http://provisioning.streamtheworld.com/asx/CKTBAMAAC.asx
+#EXTINF:-1, CKTB 610 AM St. Catherines, ON - 3
+http://provisioning.streamtheworld.com/pls/CKTBAM.pls
+#EXTINF:-1, CFAX 1070 AM Victoria, BC - 0
+http://playerservices.streamtheworld.com/pls/CFAXAMAAC.pls
+#EXTINF:-1, CFAX 1070 AM Victoria, BC - 1
+http://playerservices.streamtheworld.com/pls/CFAXAM.pls
+#EXTINF:-1, CFRB 1010 AM Toronto, ON - 0
+http://playerservices.streamtheworld.com/pls/CFRBAMAAC.pls
+#EXTINF:-1, CFRB 1010 AM Toronto, ON - 1
+http://playerservices.streamtheworld.com/pls/CFRBAM.pls
+#EXTINF:-1, CHNI 88.9 FM Saint John, NB
+http://newcap.leanstream.co/CHNIFM?args=tunein_02
+#EXTINF:-1, CKCM 620 AM Grand Falls-Windsor, NL
+http://newcap.leanstream.co/CKCMAM
+#EXTINF:-1, VOCM 97.5 St. John's, NL
+http://newcap.leanstream.co/VOCMFM
+#EXTINF:-1, CFRA 580 AM Ottawa, ON
+http://playerservices.streamtheworld.com/pls/CFRAAM.pls
+#EXTINF:-1, CKFR 1150 AM Kelowna, BC
+http://playerservices.streamtheworld.com/pls/CKFRAM.pls
+#EXTINF:-1, CKLW 800 AM Windsor, Ontario - 0
+http://playerservices.streamtheworld.com/pls/CKLWAMAAC.pls
+#EXTINF:-1, CKLW 800 AM Windsor, Ontario - 1
+http://playerservices.streamtheworld.com/pls/CKLWAMA.pls
+#EXTINF:-1, CKOC 1150 AM Hamilton, ON - 0
+http://playerservices.streamtheworld.com/pls/CKOCAMAAC.pls
+#EXTINF:-1, CKOC 1150 AM Hamilton, ON - 1
+http://playerservices.streamtheworld.com/pls/CKOCAM.pls
+#EXTINF:-1, Radio Arcadia Toronto, ON - 0
+http://192.99.34.205:8232/listen.pls
+#EXTINF:-1, Radio Arcadia Toronto, ON - 1
+http://192.99.34.205:8248/listen.pls
+#EXTINF:-1, The TikiPod - 0
+http://relay.sonixcast.com/9402
+#EXTINF:-1, The TikiPod - 1
+http://stream.sonixcast.com:9402
+#EXTINF:-1, RegulatedBeats.com - 0
+http://trance.antload.net/Trance1
+#EXTINF:-1, RegulatedBeats.com - 1
+http://trance.antload.net/Trance2
+#EXTINF:-1, RegulatedBeats.com - 2
+http://trance.antload.net/Trance3
+#EXTINF:-1, CFAR 102.9 FM Flin Flon, MB
+http://154.obj.netromedia.net/cfarmobile/cfarmobile/playlist.m3u8
+#EXTINF:-1, CJAD 800 AM Montreal, QC - 0
+http://provisioning.streamtheworld.com/pls/CJADAM.pls
+#EXTINF:-1, CJAD 800 AM Montreal, QC - 1
+http://16863.live.streamtheworld.com:3690/CJADAM_SC
+#EXTINF:-1, CJBK 1290 AM London, ON - 0
+http://provisioning.streamtheworld.com/pls/CJBKAM.pls
+#EXTINF:-1, CJBK 1290 AM London, ON - 1
+http://provisioning.streamtheworld.com/asx/CJBKAM.asx
+#EXTINF:-1, CJME 980 AM Regina, SK
+http://rawlco.leanstream.co/CJMEAM
+#EXTINF:-1, CKOM 650 AM Saskatoon, SK
+http://rawlco.leanstream.co/CKOMAM
+#EXTINF:-1, VOCM 590 AM St. John's, NL
+http://newcap.leanstream.co/VOCMAM
+#EXTINF:-1, Ici Radio-Canada Première (Vancouver) - 0
+http://www.radio-canada.ca/util/endirect/vancouver.asx
+#EXTINF:-1, Ici Radio-Canada Première (Vancouver) - 1
+http://2bvan0.akacast.akamaistream.net/7/430/177404/v1/rc.akacast.akamaistream.net/2BVAN0
+#EXTINF:-1, Ici Radio-Canada Première (Charlottetown) - 0
+http://www.radio-canada.ca/util/endirect/charlottetown.asx
+#EXTINF:-1, Ici Radio-Canada Première (Charlottetown) - 1
+http://2emct3.akacast.akamaistream.net/7/749/177388/v1/rc.akacast.akamaistream.net/2EMCT3
+#EXTINF:-1, Ici Radio-Canada Première (Edmonton) - 0
+http://www.radio-canada.ca/util/endirect/edmonton.asx
+#EXTINF:-1, Ici Radio-Canada Première (Edmonton) - 1
+http://2aedm0.akacast.akamaistream.net/7/267/177390/v1/rc.akacast.akamaistream.net/2AEDM0
+#EXTINF:-1, Ici Radio-Canada Première (Halifax) - 0
+http://www.radio-canada.ca/util/endirect/halifax.asx
+#EXTINF:-1, Ici Radio-Canada Première (Halifax) - 1
+http://2emct2.akacast.akamaistream.net/7/748/177391/v1/rc.akacast.akamaistream.net/2EMCT2
+#EXTINF:-1, Ici Radio-Canada Première (Matane) - 0
+http://www.radio-canada.ca/util/endirect/matane.asx
+#EXTINF:-1, Ici Radio-Canada Première (Matane) - 1
+http://2qmat0.akacast.akamaistream.net/7/608/177392/v1/rc.akacast.akamaistream.net/2QMAT0
+#EXTINF:-1, Ici Radio-Canada Première (Moncton) - 0
+http://www.radio-canada.ca/util/endirect/moncton.asx
+#EXTINF:-1, Ici Radio-Canada Première (Moncton) - 1
+http://2emct0.akacast.akamaistream.net/7/750/177393/v1/rc.akacast.akamaistream.net/2EMCT0
+#EXTINF:-1, Ici Radio-Canada Première (Montreal) - 0
+http://www.radio-canada.ca/util/endirect/premiere.asx
+#EXTINF:-1, Ici Radio-Canada Première (Montreal) - 1
+http://radio-canada.ca/util/endirect/premiere.asx
+#EXTINF:-1, Ici Radio-Canada Première (Montreal) - 2
+http://2qmtl0.akacast.akamaistream.net/7/953/177387/v1/rc.akacast.akamaistream.net/2QMTL0
+#EXTINF:-1, Ici Radio-Canada Première (Ottawa) - 0
+http://www.radio-canada.ca/util/endirect/ottawa.asx
+#EXTINF:-1, Ici Radio-Canada Première (Ottawa) - 1
+http://2oott0.akacast.akamaistream.net/7/749/177394/v1/rc.akacast.akamaistream.net/2OOTT0
+#EXTINF:-1, Ici Radio-Canada Première (Québec) - 0
+http://www.radio-canada.ca/util/endirect/quebec.asx
+#EXTINF:-1, Ici Radio-Canada Première (Québec) - 1
+http://2qtrv0.akacast.akamaistream.net/7/145/177403/v1/rc.akacast.akamaistream.net/2QTRV0
+#EXTINF:-1, Ici Radio-Canada Première (Regina) - 0
+http://www.radio-canada.ca/util/endirect/regina.asx
+#EXTINF:-1, Ici Radio-Canada Première (Regina) - 1
+http://2bvan0.akacast.akamaistream.net/7/430/177404/v1/rc.akacast.akamaistream.net/2BVAN0
+#EXTINF:-1, Ici Radio-Canada Première (Rimouski) - 0
+http://www.radio-canada.ca/util/endirect/rimouski.asx
+#EXTINF:-1, Ici Radio-Canada Première (Rimouski) - 1
+http://2emct3.akacast.akamaistream.net/7/749/177388/v1/rc.akacast.akamaistream.net/2EMCT3
+#EXTINF:-1, Ici Radio-Canada Première (Rouyn-Noranda) - 0
+http://www.radio-canada.ca/util/endirect/rouyn.asx
+#EXTINF:-1, Ici Radio-Canada Première (Rouyn-Noranda) - 1
+http://2aedm0.akacast.akamaistream.net/7/267/177390/v1/rc.akacast.akamaistream.net/2AEDM0
+#EXTINF:-1, Ici Radio-Canada Première (Saguenay) - 0
+http://www.radio-canada.ca/util/endirect/chicoutimi.asx
+#EXTINF:-1, Ici Radio-Canada Première (Saguenay) - 1
+http://2emct2.akacast.akamaistream.net/7/748/177391/v1/rc.akacast.akamaistream.net/2EMCT2
+#EXTINF:-1, Ici Radio-Canada Première (Sept-Îles) - 0
+http://www.radio-canada.ca/util/endirect/septiles.asx
+#EXTINF:-1, Ici Radio-Canada Première (Sept-Îles) - 1
+http://2qmat0.akacast.akamaistream.net/7/608/177392/v1/rc.akacast.akamaistream.net/2QMAT0
+#EXTINF:-1, Ici Radio-Canada Première (Sherbrooke) - 0
+http://www.radio-canada.ca/util/endirect/sherbrooke.asx
+#EXTINF:-1, Ici Radio-Canada Première (Sherbrooke) - 1
+http://2emct0.akacast.akamaistream.net/7/750/177393/v1/rc.akacast.akamaistream.net/2EMCT0
+#EXTINF:-1, Ici Radio-Canada Première (Sudbury) - 0
+http://www.radio-canada.ca/util/endirect/sudbury.asx
+#EXTINF:-1, Ici Radio-Canada Première (Sudbury) - 1
+http://2qmtl0.akacast.akamaistream.net/7/953/177387/v1/rc.akacast.akamaistream.net/2QMTL0
+#EXTINF:-1, Ici Radio-Canada Première (Toronto) - 0
+http://www.radio-canada.ca/util/endirect/toronto.asx
+#EXTINF:-1, Ici Radio-Canada Première (Toronto) - 1
+http://2oott0.akacast.akamaistream.net/7/749/177394/v1/rc.akacast.akamaistream.net/2OOTT0
+#EXTINF:-1, Ici Radio-Canada Première (Trois-Rivières) - 0
+http://www.radio-canada.ca/util/endirect/trois-rivieres.asx
+#EXTINF:-1, Ici Radio-Canada Première (Trois-Rivières) - 1
+http://2qque0.akacast.akamaistream.net/7/896/177395/v1/rc.akacast.akamaistream.net/2QQUE0
+#EXTINF:-1, Ici Radio-Canada Première (Windsor) - 0
+http://www.radio-canada.ca/util/endirect/windsor.asx
+#EXTINF:-1, Ici Radio-Canada Première (Windsor) - 1
+http://2sreg0.akacast.akamaistream.net/7/508/177396/v1/rc.akacast.akamaistream.net/2SREG0
+#EXTINF:-1, Ici Radio-Canada Première (Winnipeg) - 0
+http://www.radio-canada.ca/util/endirect/winnipeg.asx
+#EXTINF:-1, Ici Radio-Canada Première (Winnipeg) - 1
+http://2qrim0.akacast.akamaistream.net/7/924/177397/v1/rc.akacast.akamaistream.net/2QRIM0
+#EXTINF:-1, CKDG 105.1 FM Montreal, QC
+http://198.50.204.108:9300/;
+#EXTINF:-1, CHIK 98.9 FM Québec, QC - 0
+http://provisioning.streamtheworld.com/pls/CHIKFMAAC.pls
+#EXTINF:-1, CHIK 98.9 FM Québec, QC - 1
+http://provisioning.streamtheworld.com/pls/CHIKFM.pls
+#EXTINF:-1, CHIK 98.9 FM Québec, QC - 2
+http://playerservices.streamtheworld.com/api/livestream-redirect/CHIKFM.mp3
+#EXTINF:-1, RSL - Radio Italia Canada Toronto
+http://streaming.radiostreamlive.com/radioitaliacanada_devices
+#EXTINF:-1, Allsound Radio - 0
+http://streams.allsoundradio.nl:8000/stream
+#EXTINF:-1, Allsound Radio - 1
+http://streams.allsoundradio.nl:8000/mobile
+#EXTINF:-1, AMI-audio
+http://streams.accessiblemedia.com:8090/east
+#EXTINF:-1, CFBO 90.7 FM Moncton, NB
+http://s6.voscast.com:9914/;
+#EXTINF:-1, CFBU 103.7 FM St. Catharines, ON
+http://s2.stationplaylist.com:8110/;?1457398419894.mp3
+#EXTINF:-1, CFFF 92.7 FM Peterborough, ON - 0
+http://trentradio.ca:8800/hi-fi.ogg
+#EXTINF:-1, CFFF 92.7 FM Peterborough, ON - 1
+http://trentradio.ca:8800/lo-fi.ogg
+#EXTINF:-1, CFIN 100.5 FM Lac-Etchemin, QC
+http://streaming.cloudmjs.com:8002/cfin.mp3
+#EXTINF:-1, CITE-FM-1 102.7 FM Sherbrooke, QC (Canada Only)
+http://playerservices.streamtheworld.com/pls/CITE1FMAAC.pls
+#EXTINF:-1, CITF 107.5 FM Québec, QC (Canada Only)
+http://playerservices.streamtheworld.com/pls/CITFFMAAC.pls
+#EXTINF:-1, CITE-FM 107.3 FM Montréal, QC (Canada Proxy) - 0
+http://ag.myhosting.me/p/index.php?q=aHR0cDovLzE3NTIzLmxpdmUuc3RyZWFtdGhld29ybGQuY29tOjgwL0NJVEVGTUFBQ19TQw%3D%3D
+#EXTINF:-1, CITE-FM 107.3 FM Montréal, QC (Canada Proxy) - 1
+http://ag.myhosting.me/p/index.php?q=aHR0cDovLzE3NTYzLmxpdmUuc3RyZWFtdGhld29ybGQuY29tOjgwL0NJVEVGTV9TQw%3D%3D
+#EXTINF:-1, CHOY 99.9 FM Moncton, NB
+http://mbsradio.leanstream.co/CHOYFM-MP3
+#EXTINF:-1, Neige Folle Noel
+http://mediaradio.com/noel1
+#EXTINF:-1, CFGO 1200 AM Ottawa, ON - 0
+http://provisioning.streamtheworld.com/pls/cfgoam.pls
+#EXTINF:-1, CFGO 1200 AM Ottawa, ON - 1
+http://provisioning.streamtheworld.com/pls/cfgoamaac.pls
+#EXTINF:-1, CFMG 104.9 FM  Edmonton, AB (Geoblocking USA) - 0
+http://provisioning.streamtheworld.com/pls/CFMGFM.pls
+#EXTINF:-1, CFMG 104.9 FM  Edmonton, AB (Geoblocking USA) - 1
+http://provisioning.streamtheworld.com/asx/CFMGFM.asx
+#EXTINF:-1, CFMG 104.9 FM  Edmonton, AB (Geoblocking USA) - 2
+http://14023.live.streamtheworld.com/CFMGFM_SC
+#EXTINF:-1, CIBK 98.5 FM Calgary, AB (Geoblocking USA) - 0
+http://playerservices.streamtheworld.com/pls/CIBKFMAAC.pls
+#EXTINF:-1, CIBK 98.5 FM Calgary, AB (Geoblocking USA) - 1
+http://provisioning.streamtheworld.com/asx/CIBKFM.asx
+#EXTINF:-1, CIBK 98.5 FM Calgary, AB (Geoblocking USA) - 2
+http://provisioning.streamtheworld.com/pls/CIBKFM.pls
+#EXTINF:-1, CIBK 98.5 FM Calgary, AB (Geoblocking USA) - 3
+http://17953.live.streamtheworld.com/CIBKFMAAC.aac
+#EXTINF:-1, CHUM 104.5 FM Toronto, ON (Gepblocking USA) - 0
+http://playerservices.streamtheworld.com/pls/CHUMFMAAC.pls
+#EXTINF:-1, CHUM 104.5 FM Toronto, ON (Gepblocking USA) - 1
+http://playerservices.streamtheworld.com/pls/CHUMFM.pls
+#EXTINF:-1, CHUM 104.5 FM Toronto, ON (Gepblocking USA) - 2
+http://5843.live.streamtheworld.com/CHUMFMAAC_SC
+#EXTINF:-1, CIMS 103.9 FM Balmoral, NB - 0
+http://playerservices.streamtheworld.com/pls/CIMSFMAAC.pls
+#EXTINF:-1, CIMS 103.9 FM Balmoral, NB - 1
+http://playerservices.streamtheworld.com/pls/CIMSFM.pls
+#EXTINF:-1, CFEI 106.5 FM Saint-Hyacinthe, QC (Geoblocked USA) - 0
+http://playerservices.streamtheworld.com/pls/CFEIFMAAC.pls
+#EXTINF:-1, CFEI 106.5 FM Saint-Hyacinthe, QC (Geoblocked USA) - 1
+http://playerservices.streamtheworld.com/pls/CFEIFM.pls
+#EXTINF:-1, CFIX 96.9 FM Saguenay, QC (Geoblocked USA) - 0
+http://playerservices.streamtheworld.com/pls/CFIXFMAAC.pls
+#EXTINF:-1, CFIX 96.9 FM Saguenay, QC (Geoblocked USA) - 1
+http://playerservices.streamtheworld.com/pls/CFIXFM.pls
+#EXTINF:-1, CFZZ 104.1 FM Saint-Jean-sur-Richelieu, QC (Geoblocked USA) - 0
+http://playerservices.streamtheworld.com/pls/CFZZFMAAC.pls
+#EXTINF:-1, CFZZ 104.1 FM Saint-Jean-sur-Richelieu, QC (Geoblocked USA) - 1
+http://playerservices.streamtheworld.com/pls/CFZZFM.pls
+#EXTINF:-1, CHEY 94.7 FM Trois-Rivières, QC (Geoblocked USA) - 0
+http://playerservices.streamtheworld.com/pls/CHEYFMAAC.pls
+#EXTINF:-1, CHEY 94.7 FM Trois-Rivières, QC (Geoblocked USA) - 1
+http://playerservices.streamtheworld.com/pls/CHEYFM.pls
+#EXTINF:-1, CHEY 94.7 FM Trois-Rivières, QC (Geoblocked USA) - 2
+http://15243.live.streamtheworld.com/CHEYFMAAC
+#EXTINF:-1, CHRD 105.3 FM Drummondville, QC (Geoblocked USA) - 0
+http://playerservices.streamtheworld.com/pls/CHRDFMAAC.pls
+#EXTINF:-1, CHRD 105.3 FM Drummondville, QC (Geoblocked USA) - 1
+http://playerservices.streamtheworld.com/pls/CHRDFM.pls
+#EXTINF:-1, CHRD 105.3 FM Drummondville, QC (Geoblocked USA) - 2
+http://6693.live.streamtheworld.com/CHRDFMAAC
+#EXTINF:-1, CIMF 94.9 FM Gatineau, QC (Geoblocked USA) - 0
+http://playerservices.streamtheworld.com/pls/CIMFFMAAC.pls
+#EXTINF:-1, CIMF 94.9 FM Gatineau, QC (Geoblocked USA) - 1
+http://playerservices.streamtheworld.com/pls/CIMFFM.pls
+#EXTINF:-1, CIMF 94.9 FM Gatineau, QC (Geoblocked USA) - 2
+http://6693.live.streamtheworld.com/CIMFFMAAC
+#EXTINF:-1, CJOI 102.9 FM Rimouski, QC (Geoblocked USA) - 0
+http://playerservices.streamtheworld.com/pls/CJOIFMAAC.pls
+#EXTINF:-1, CJOI 102.9 FM Rimouski, QC (Geoblocked USA) - 1
+http://playerservices.streamtheworld.com/pls/CJOIFM.pls
+#EXTINF:-1, CJOI 102.9 FM Rimouski, QC (Geoblocked USA) - 2
+http://14113.live.streamtheworld.com/CJOIFMAAC
+#EXTINF:-1, CITE-FM 107.3 FM Montréal, QC (Canada Only) - 0
+http://playerservices.streamtheworld.com/pls/CITEFMAAC.pls
+#EXTINF:-1, CITE-FM 107.3 FM Montréal, QC (Canada Only) - 1
+http://playerservices.streamtheworld.com/pls/CITEFM.pls
+#EXTINF:-1, CITE-FM 107.3 FM Montréal, QC (Canada Only) - 2
+http://playerservices.streamtheworld.com/api/livestream-redirect/CITEFMAAC_SC
+#EXTINF:-1, CITE-FM 107.3 FM Montréal, QC (Canada Only) - 3
+http://playerservices.streamtheworld.com/api/livestream-redirect/CITEFM_SC
+#EXTINF:-1, CITE-FM 107.3 FM Montréal, QC (Canada Only) - 4
+http://19293.live.streamtheworld.com:3690/CITEFMAAC.aac
+#EXTINF:-1, CKYE 93.1 FM Vancouver, BC - 0
+http://playerservices.streamtheworld.com/pls/CKYEFMAAC.pls
+#EXTINF:-1, CKYE 93.1 FM Vancouver, BC - 1
+http://playerservices.streamtheworld.com/pls/CKYEFM.pls
+#EXTINF:-1, CKYE 93.1 FM Vancouver, BC - 2
+http://16693.live.streamtheworld.com:80/CKYEFM
+#EXTINF:-1, Subterranean Broadcast
+http://streaming.radionomy.com/SubterraneanBroadcast?lang=en-US&appName=iTunes.m3u
+#EXTINF:-1, Adam FM Radio
+http://streaming.radionomy.com/adam-fm-radio?lang=en-US&appName=iTunes.m3u
+#EXTINF:-1, CHMY 96.7 FM  Renfrew, ON
+http://ice23.securenetsystems.net/CHMY
+#EXTINF:-1, CICX 105.9 FM Orillia, ON - 0
+http://playerservices.streamtheworld.com/pls/CICXFMAAC.pls
+#EXTINF:-1, CICX 105.9 FM Orillia, ON - 1
+http://playerservices.streamtheworld.com/pls/CICXFM.pls
+#EXTINF:-1, CICX 105.9 FM Orillia, ON - 2
+http://17553.live.streamtheworld.com/CICXFMAAC.aac
+#EXTINF:-1, CJLS 95.5 FM Yarmouth, NS
+http://CJLS.streamon.fm/listen.m3u
+#EXTINF:-1, CJMI 105.7 FM Strathroy, ON
+http://ice23.securenetsystems.net/MYFM
+#EXTINF:-1, CKYM 88.7 FM Napanee, ON
+http://ice23.securenetsystems.net/CKYM
+#EXTINF:-1, KISS Country
+http://144.217.180.30:8107/stream
+#EXTINF:-1, KISS 90's
+http://cabhs30.sonixcast.com:9848/;
+#EXTINF:-1, KISS FM (Eire)
+http://184.75.223.178:8124/stream
+#EXTINF:-1, RadioSky-Music Jazz - 0
+http://listen.radioskymusic.com:7006/live
+#EXTINF:-1, RadioSky-Music Jazz - 1
+http://jazz.radioskymusic.com:7006/live
+#EXTINF:-1, CFZM 740 AM Toronto, ON - 0
+http://stream.abacast.net/playlist/mzmedia-cfzmammp3-ibc2.m3u
+#EXTINF:-1, CFZM 740 AM Toronto, ON - 1
+http://stream.abacast.net/playlist/mzmedia-cfzmammp3-ibc2.m3u
+#EXTINF:-1, CFZM 740 AM Toronto, ON - 2
+http://65.19.131.138/mzmedia-cfzmammp3-ibc2
+#EXTINF:-1, CKKY 101.9 FM Wainwright, AB
+http://newcap.leanstream.co/CKKYFM
+#EXTINF:-1, CJPN 90.5 FM Fredericton, NB
+http://139.103.17.6/CJPN
+#EXTINF:-1, CFPL 95.9 FM London, ON  (Geoblocked USA) - 0
+http://live.leanstream.co/CFPLFM-MP3
+#EXTINF:-1, CFPL 95.9 FM London, ON  (Geoblocked USA) - 1
+http://live.leanstream.co/CFPLFM
+#EXTINF:-1, CFHK 103.1 FM St. Thomas, ON  (Geoblocked USA)
+http://live.leanstream.co/CFHKFM-MP3?
+#EXTINF:-1, CFGQ 107.3 FM Calgary, AB  (Geoblocked USA)
+http://live.leanstream.co/CFGQFM-MP3?
+#EXTINF:-1, CKBT 91.5 FM Kitchener, ON  (Geoblocked USA)
+http://live.leanstream.co/CKBTFM-MP3?
+#EXTINF:-1, CKCB The Peak 95.1 Collingwood, ON  (Geoblocked USA)
+http://live.leanstream.co/CKCBFM-MP3?
+#EXTINF:-1, CILQ 107.1 FM Toronto, ON  (Geoblocked USA)
+http://live.leanstream.co/CILQFM-MP3
+#EXTINF:-1, CFLG 104.5 FM Cornwall, ON  (Geoblocked USA)
+http://live.leanstream.co/CFLGFM?
+#EXTINF:-1, CFMI 101.1 FM Vancouver, BC  (Geoblocked USA)
+http://live.leanstream.co/CFMIFM-MP3?
+#EXTINF:-1, CFMK 96.3 FM Kingston, ON  (Geoblocked USA)
+http://live.leanstream.co/CFMKFM-MP3?
+#EXTINF:-1, CHAY 93.1 FM Barrie, ON  (Geoblocked USA)
+http://live.leanstream.co/CHAYFM-MP3?
+#EXTINF:-1, CJDV 107.5 FM Cambridge, ON  (Geoblocked USA) - 0
+http://live.leanstream.co/CJDVFM
+#EXTINF:-1, CJDV 107.5 FM Cambridge, ON  (Geoblocked USA) - 1
+http://live.leanstream.co/CJDVFM-MP3
+#EXTINF:-1, CJKR 97.5 FM Winnipeg, MB  (Geoblocked USA) - 0
+http://live.leanstream.co/CJKRFM
+#EXTINF:-1, CJKR 97.5 FM Winnipeg, MB  (Geoblocked USA) - 1
+http://live.leanstream.co/CJKRFM-MP3
+#EXTINF:-1, CFOX 99.3 FM Vancouver, BC  (Geoblocked USA) - 0
+http://live.leanstream.co/CFOXFM
+#EXTINF:-1, CFOX 99.3 FM Vancouver, BC  (Geoblocked USA) - 1
+http://live.leanstream.co/CFOXFM-MP3
+#EXTINF:-1, CFNY 102.1 FM Toronto, ON  (Geoblocked USA) - 0
+http://live.leanstream.co/CFNYFM
+#EXTINF:-1, CFNY 102.1 FM Toronto, ON  (Geoblocked USA) - 1
+http://live.leanstream.co/CFNYFM-MP3
+#EXTINF:-1, CKDK 103.9 FM Woodstock, ON  (Geoblocked USA)
+http://live.leanstream.co/CKDKFM-MP3?tunein
+#EXTINF:-1, CKRU 100.5 FM Peterborough, ON  (Geoblocked USA)
+http://live.leanstream.co/CKRUFM-MP3
+#EXTINF:-1, CKWF 101.5 FM Peterborough, ON  (Geoblocked USA)
+http://live.leanstream.co/CKWFFM-MP3?
+#EXTINF:-1, CKNG 92.5 FM Edmonton, AB  (Geoblocked USA)
+http://live.leanstream.co/CKNGFM-MP3
+#EXTINF:-1, CFAI 101.1 FM Edmundston, NB - 0
+http://www.cfai.fm:8000/listen.pls
+#EXTINF:-1, CFAI 101.1 FM Edmundston, NB - 1
+http://cfai.fm:8000/stream/2/;
+#EXTINF:-1, CHLG 104.3 FM Vancouver, BC
+http://newcap.leanstream.co/CHLGFM-MP3
+#EXTINF:-1, CHRW 94.9 London, ON
+http://129.100.145.33:8000/stream
+#EXTINF:-1, CJLX 91.3 FM Belleville, ON
+http://lweb04.lcaat.ca:8000/91x.mp3
+#EXTINF:-1, Peace FM - 0
+http://cast2.serverhostingcenter.com/tunein.php/hyzoyvoj/playlist.pls
+#EXTINF:-1, Peace FM - 1
+http://cast2.serverhostingcenter.com/tunein.php/hyzoyvoj/playlist.asx
+#EXTINF:-1, Peace FM - 2
+http://38.107.243.221:8444/hyzoyvoj
+#EXTINF:-1, CFMU 93.3 FM Hamilton, Ontario
+http://138.197.136.105:8000/mount.128mp3
+#EXTINF:-1, CFJO 97.3 FM Thetford Mines, QC
+http://stream.statsradio.com:8012/stream
+#EXTINF:-1, CKOE 107.3 FM Moncton, NB - 0
+http://us2.streamingpulse.com:8110/stream
+#EXTINF:-1, CKOE 107.3 FM Moncton, NB - 1
+http://us7.maindigitalstream.com/1922/?pl=wmp&c=CKO1%20Radio%20107.3%20FM
+#EXTINF:-1, CKOE 107.3 FM Moncton, NB - 2
+http://us7.maindigitalstream.com/1922/?pl=vlc&c=CKO1%20Radio%20107.3%20FM
+#EXTINF:-1, CKOE 107.3 FM Moncton, NB - 3
+http://us7.maindigitalstream.com/1922/?pl=winamp&c=CKO1%20Radio%20107.3%20FM
+#EXTINF:-1, Radio Trad Quebec - Rock
+http://rockspecialite.gotdns.org:8600/;stream.mp3
+#EXTINF:-1, Radio Coast FM 101.1 Classic Hits - 0
+http://209.95.50.189:2199/tunein/coastbro.asx
+#EXTINF:-1, Radio Coast FM 101.1 Classic Hits - 1
+http://209.95.50.189:2199/tunein/coastbro.pls
+#EXTINF:-1, Radio Soch - SocH
+http://s4.voscast.com:8602/;
+#EXTINF:-1, CFGE 93.7 FM Sherbrooke, QC
+http://icecast.cogecomedia.com:8000/cfge.mp3
+#EXTINF:-1, Retro Souvenirs Radio - 0
+http://www.radioking.fr/api/radio/retro-souvenirs-web-radio.pls
+#EXTINF:-1, Retro Souvenirs Radio - 1
+http://www.radioking.fr/api/radio/retro-souvenirs-web-radio.asx
+#EXTINF:-1, Retro Souvenirs Radio - 2
+http://listen.radioking.com/radio/108/stream/62716
+#EXTINF:-1, CKCN 94.1 FM Sept-Îles, QC
+http://stream.statsradio.com:8034/stream
+#EXTINF:-1, CJMS 1040 AM Saint-Constant, QC
+http://cjms1040.ca:8860/;
+#EXTINF:-1, ChroniX Aggression
+http://usa17.fastcast4u.com/proxy/gebacher?mp=/1
+#EXTINF:-1, CFNR 92.1 FM Terrace, BC
+http://nnb.leanstream.co/CFNRFM
+#EXTINF:-1, CKKI 89.9 FM Kahnawake, QC
+http://andromeda.shoutca.st:8221/;
+#EXTINF:-1, CKLF 94.7 FM Brandon, MB
+http://live.starfm.ca:8000/starfm.mp3
+#EXTINF:-1, CJYC 98.9 FM Saint John, NB
+http://mbsradio.leanstream.co/CJYCFM
+#EXTINF:-1, Waves Of Power
+http://s2.viastreaming.net:6335/;stream/1
+#EXTINF:-1, CKYK 95.7 FM Alma, QC
+http://icecast-ckyk.rncm.ca/ckyk.mp3
+#EXTINF:-1, CHON 98.1 FM Whitehorse, YT
+http://stream.nnby.ca:8042/stream
+#EXTINF:-1, CHAM 820 AM Hamilton, ON  (Geoblocked USA) - 0
+http://playerservices.streamtheworld.com/pls/CHAMAM.pls
+#EXTINF:-1, CHAM 820 AM Hamilton, ON  (Geoblocked USA) - 1
+http://playerservices.streamtheworld.com/pls/CHAMAMAAC.pls
+#EXTINF:-1, CHAM 820 AM Hamilton, ON  (Geoblocked USA) - 2
+http://playerservices.streamtheworld.com/api/livestream?station=CHAMAM
+#EXTINF:-1, CFBR 100.3 FM Edmonton, AB  (Geoblocked USA) - 0
+http://playerservices.streamtheworld.com/pls/CFBRFM.pls
+#EXTINF:-1, CFBR 100.3 FM Edmonton, AB  (Geoblocked USA) - 1
+http://playerservices.streamtheworld.com/pls/CFBRFMAAC.pls
+#EXTINF:-1, CFBR 100.3 FM Edmonton, AB  (Geoblocked USA) - 2
+http://playerservices.streamtheworld.com/api/livestream?station=CFBRFM
+#EXTINF:-1, CFTK 590 AM Terrace, BC  (Geoblocked USA) - 0
+http://playerservices.streamtheworld.com/pls/CFTKAMAAC.pls
+#EXTINF:-1, CFTK 590 AM Terrace, BC  (Geoblocked USA) - 1
+http://playerservices.streamtheworld.com/pls/CFTKAM.pls
+#EXTINF:-1, CFTK 590 AM Terrace, BC  (Geoblocked USA) - 2
+http://13693.live.streamtheworld.com/CFTKAMAAC.aac
+#EXTINF:-1, CISL 650 AM Richmond, BC
+http://rogersradio-p.s3.amazonaws.com/van650/24k/program.m3u8
+#EXTINF:-1, CJAY 92.1 FM Calgary, AB  (Geoblocked USA) - 0
+http://playerservices.streamtheworld.com/pls/CJAYFMAAC.pls
+#EXTINF:-1, CJAY 92.1 FM Calgary, AB  (Geoblocked USA) - 1
+http://playerservices.streamtheworld.com/pls/CJAYFMAAC.pls
+#EXTINF:-1, CJAY 92.1 FM Calgary, AB  (Geoblocked USA) - 2
+http://playerservices.streamtheworld.com/api/livestream?station=CJAYFM
+#EXTINF:-1, CKMX 1060 AM Calgary, AB  (Geoblocked USA) - 0
+http://playerservices.streamtheworld.com/pls/CKMXAMAAC.pls
+#EXTINF:-1, CKMX 1060 AM Calgary, AB  (Geoblocked USA) - 1
+http://playerservices.streamtheworld.com/pls/CKMXAM.pls
+#EXTINF:-1, CKMX 1060 AM Calgary, AB  (Geoblocked USA) - 2
+http://playerservices.streamtheworld.com/api/livestream?station=CKMXAM
+#EXTINF:-1, CIQM 97.5 FM London, ON  (Geoblocked USA) - 0
+http://playerservices.streamtheworld.com/pls/CIQMFMAAC.pls
+#EXTINF:-1, CIQM 97.5 FM London, ON  (Geoblocked USA) - 1
+http://playerservices.streamtheworld.com/pls/CIQMFM.pls
+#EXTINF:-1, CIQM 97.5 FM London, ON  (Geoblocked USA) - 2
+http://playerservices.streamtheworld.com/api/livestream?station=CIQMFM
+#EXTINF:-1, CJBX 92.7 FM London, ON  (Geoblocked USA) - 0
+http://playerservices.streamtheworld.com/pls/CJBXFMAAC.pls
+#EXTINF:-1, CJBX 92.7 FM London, ON  (Geoblocked USA) - 1
+http://playerservices.streamtheworld.com/pls/CJBXFM.pls
+#EXTINF:-1, CJBX 92.7 FM London, ON  (Geoblocked USA) - 2
+http://playerservices.streamtheworld.com/api/livestream?station=CJBXFM
+#EXTINF:-1, CHBD 92.7 FM Regina, SK  (Geoblocked USA) - 0
+http://playerservices.streamtheworld.com/pls/CHBDFMAAC.pls
+#EXTINF:-1, CHBD 92.7 FM Regina, SK  (Geoblocked USA) - 1
+http://playerservices.streamtheworld.com/pls/CHBDFM.pls
+#EXTINF:-1, CHBD 92.7 FM Regina, SK  (Geoblocked USA) - 2
+http://playerservices.streamtheworld.com/api/livestream?station=CHBDFM
+#EXTINF:-1, CFQX 104.1 FM Selkirk, MB
+http://CFQX.streamon.fm/listen.m3u
+#EXTINF:-1, CHRE 105.7 FM St. Catharines, ON  (Geoblocked USA) - 0
+http://playerservices.streamtheworld.com/pls/CHREFMAAC.pls
+#EXTINF:-1, CHRE 105.7 FM St. Catharines, ON  (Geoblocked USA) - 1
+http://playerservices.streamtheworld.com/pls/CHREFM.pls
+#EXTINF:-1, CHRE 105.7 FM St. Catharines, ON  (Geoblocked USA) - 2
+http://playerservices.streamtheworld.com/api/livestream?station=CHREFM
+#EXTINF:-1, CHSU 99.9 FM Kelowna, BC  (Geoblocked USA) - 0
+http://playerservices.streamtheworld.com/pls/CHSUFMAAC.pls
+#EXTINF:-1, CHSU 99.9 FM Kelowna, BC  (Geoblocked USA) - 1
+http://playerservices.streamtheworld.com/pls/CHSUFM.pls
+#EXTINF:-1, CHSU 99.9 FM Kelowna, BC  (Geoblocked USA) - 2
+http://playerservices.streamtheworld.com/api/livestream?station=CHSUFM
+#EXTINF:-1, CKPK 98.5 FM Fort St. John, BC
+http://CKPK.streamon.fm/listen.m3u
+#EXTINF:-1, CHTZ 97.7 FM St. Catharines, ON  (Geoblocked USA) - 0
+http://playerservices.streamtheworld.com/pls/CHTZFMAAC.pls
+#EXTINF:-1, CHTZ 97.7 FM St. Catharines, ON  (Geoblocked USA) - 1
+http://playerservices.streamtheworld.com/pls/CHTZFM.pls
+#EXTINF:-1, CHTZ 97.7 FM St. Catharines, ON  (Geoblocked USA) - 2
+http://playerservices.streamtheworld.com/api/livestream?station=CHTZFM
+#EXTINF:-1, CICF 105.7 FM Vernon, BC  (Geoblocked USA) - 0
+http://playerservices.streamtheworld.com/pls/CICFFMAAC.pls
+#EXTINF:-1, CICF 105.7 FM Vernon, BC  (Geoblocked USA) - 1
+http://playerservices.streamtheworld.com/pls/CICFFM.pls
+#EXTINF:-1, CICF 105.7 FM Vernon, BC  (Geoblocked USA) - 2
+http://playerservices.streamtheworld.com/api/livestream?station=CICFFM
+#EXTINF:-1, CKNL 101.5 FM Fort St. John, BC  (Geoblocked USA) - 0
+http://playerservices.streamtheworld.com/pls/CKNLFMAAC.pls
+#EXTINF:-1, CKNL 101.5 FM Fort St. John, BC  (Geoblocked USA) - 1
+http://playerservices.streamtheworld.com/pls/CKNLFM.pls
+#EXTINF:-1, CKNL 101.5 FM Fort St. John, BC  (Geoblocked USA) - 2
+http://playerservices.streamtheworld.com/api/livestream?station=CKNLFM
+#EXTINF:-1, CKOR 800 AM Penticton, BC  (Geoblocked USA) - 0
+http://playerservices.streamtheworld.com/pls/CKORAMAAC.pls
+#EXTINF:-1, CKOR 800 AM Penticton, BC  (Geoblocked USA) - 1
+http://playerservices.streamtheworld.com/pls/CKORAM.pls
+#EXTINF:-1, CKOR 800 AM Penticton, BC  (Geoblocked USA) - 2
+http://playerservices.streamtheworld.com/api/livestream?station=CKORAM
+#EXTINF:-1, CJFM 95.9 FM Montreal, QC  (Geoblocked USA) - 0
+http://playerservices.streamtheworld.com/pls/CJFMFMAAC.pls
+#EXTINF:-1, CJFM 95.9 FM Montreal, QC  (Geoblocked USA) - 1
+http://playerservices.streamtheworld.com/pls/CJFMFM.pls
+#EXTINF:-1, CJFM 95.9 FM Montreal, QC  (Geoblocked USA) - 2
+http://playerservices.streamtheworld.com/api/livestream?station=CJFMFM
+#EXTINF:-1, CKFM 99.9 FM Toronto, ON  (Geoblocked USA) - 0
+http://playerservices.streamtheworld.com/pls/CKFMFMAAC.pls
+#EXTINF:-1, CKFM 99.9 FM Toronto, ON  (Geoblocked USA) - 1
+http://playerservices.streamtheworld.com/pls/CKFMFM.pls
+#EXTINF:-1, CKFM 99.9 FM Toronto, ON  (Geoblocked USA) - 2
+http://playerservices.streamtheworld.com/api/livestream?station=CKFMFM
+#EXTINF:-1, CKMM 103.1 FM Winnipeg, MB  (Geoblocked USA) - 0
+http://playerservices.streamtheworld.com/pls/CKMMFMAAC.pls
+#EXTINF:-1, CKMM 103.1 FM Winnipeg, MB  (Geoblocked USA) - 1
+http://playerservices.streamtheworld.com/pls/CKMMFM.pls-
+#EXTINF:-1, CKMM 103.1 FM Winnipeg, MB  (Geoblocked USA) - 2
+http://playerservices.streamtheworld.com/api/livestream?station=CKMMFM
+#EXTINF:-1, CFBT 94.5 FM Vancouver, BC  (Geoblocked USA) - 0
+http://playerservices.streamtheworld.com/pls/CFBTFMAAC.pls
+#EXTINF:-1, CFBT 94.5 FM Vancouver, BC  (Geoblocked USA) - 1
+http://playerservices.streamtheworld.com/pls/CFBTFM.pls
+#EXTINF:-1, CFBT 94.5 FM Vancouver, BC  (Geoblocked USA) - 2
+http://provisioning.streamtheworld.com/pls/CFBTFM.pls
+#EXTINF:-1, CFBT 94.5 FM Vancouver, BC  (Geoblocked USA) - 3
+http://playerservices.streamtheworld.com/api/livestream?station=CFBTFM
+#EXTINF:-1, Deep Motion.FM  (Geoblocked USA)
+http://199.58.160.66/motionone_tunein
+#EXTINF:-1, Lounge Motion.FM  (Geoblocked USA)
+http://199.58.160.66/motionthree_tunein
+#EXTINF:-1, Smooth Motion.FM  (Geoblocked USA)
+http://199.58.160.66/motiontwo_tunein
+#EXTINF:-1, CKEC 94.1 FM New Glasgow, NS - 0
+http://eastcoastfm.ca:8001/ecfm.mp3
+#EXTINF:-1, CKEC 94.1 FM New Glasgow, NS - 1
+http://24.222.15.11:8001/ecfm.mp3
+#EXTINF:-1, CKLQ 880 AM Brandon, MB
+http://live.cklq.com:8000/CKLQ.mp3
+#EXTINF:-1, CKZW 1650 AM Montreal, QC - 0
+http://a1team.net:8128/listen.pls
+#EXTINF:-1, CKZW 1650 AM Montreal, QC - 1
+http://laradiogospel.ca/menu_radio/128.asx
+#EXTINF:-1, CKZW 1650 AM Montreal, QC - 2
+http://laradiogospel.ca/menu_radio/128.ram
+#EXTINF:-1, CKZW 1650 AM Montreal, QC - 3
+http://a1team.net:8128
+#EXTINF:-1, CKZW 1650 AM Montreal, QC - 4
+http://192.99.13.54:8128/;
+#EXTINF:-1, CKIZ 107.5 FM Vernon, BC - 0
+http://CJIB.streamon.fm/listen.m3u
+#EXTINF:-1, CKIZ 107.5 FM Vernon, BC - 1
+http://ais.streamon.fm/ais/CJIB-48k.aac
+#EXTINF:-1, CKIZ 107.5 FM Vernon, BC - 2
+http://cjib.streamon.fm:8000/CJIB-48k.aac
+#EXTINF:-1, CKX 96.1 FM Brandon, MB  (Geoblocked USA) - 0
+http://playerservices.streamtheworld.com/pls/CKXFMAAC.pls
+#EXTINF:-1, CKX 96.1 FM Brandon, MB  (Geoblocked USA) - 1
+http://playerservices.streamtheworld.com/pls/CKXFM.pls
+#EXTINF:-1, CKX 96.1 FM Brandon, MB  (Geoblocked USA) - 2
+http://playerservices.streamtheworld.com/api/livestream?station=CKXFM
+#EXTINF:-1, CKXA 101.1 FM Brandon, MB  (Geoblocked USA) - 0
+http://playerservices.streamtheworld.com/pls/CKXAFMAAC.pls
+#EXTINF:-1, CKXA 101.1 FM Brandon, MB  (Geoblocked USA) - 1
+http://playerservices.streamtheworld.com/pls/CKXAFM.pls
+#EXTINF:-1, CKXA 101.1 FM Brandon, MB  (Geoblocked USA) - 2
+http://playerservices.streamtheworld.com/api/livestream?station=CKXAFM
+#EXTINF:-1, CJTK 95.5 FM Sudbury, ON - 0
+http://sc8.streammystation.com:8116/stream
+#EXTINF:-1, CJTK 95.5 FM Sudbury, ON - 1
+http://us7.maindigitalstream.com/2113/?pl=winamp&c=KFM%20Radio
+#EXTINF:-1, CJTK 95.5 FM Sudbury, ON - 2
+http://us7.maindigitalstream.com/2113/?pl=vlc&c=KFM%20Radio
+#EXTINF:-1, CJTK 95.5 FM Sudbury, ON - 3
+http://us7.maindigitalstream.com/2113/?pl=wmp&c=KFM%20Radio
+#EXTINF:-1, CKXS 99.1 FM Wallaceburg, ON
+http://ice9.securenetsystems.net/CKXSFM
+#EXTINF:-1, CJNW 107.1 Edmonton, AB - 0
+http://CJNW.streamon.fm/listen.m3u
+#EXTINF:-1, CJNW 107.1 Edmonton, AB - 1
+http://CJNW.streamon.fm:8000/CJNW-48k.aac
+#EXTINF:-1, CJFY 107.7 FM Blackville, NB
+http://stardust.wavestreamer.com:4683/;
+#EXTINF:-1, CHOQ 105.1 FM Toronto, ON
+http://ice9.securenetsystems.net/CHOQ
+#EXTINF:-1, CFEL 102.1 FM Montmagny, QC
+http://streaming.cfel.leclerccommunication.ca:8000/cfel.mp3
+#EXTINF:-1, CJEC 91.9 FM Québec, QC
+http://streaming.cjec.leclerccommunication.ca:8000/cjec.mp3
+#EXTINF:-1, CFRM 100.7 FM Little Current, ON
+http://142.4.217.133:8847/stream
+#EXTINF:-1, CTR - Canadian Tamil Radio
+http://198.27.66.225:8498/stream.mp3
+#EXTINF:-1, CTBC Canadian Tamil Broadcasting Corporation
+http://ctbcfmradio.primcast.com:4086/;stream.mp3
+#EXTINF:-1, Thunder Radio - 0
+http://playerservices.streamtheworld.com/pls/SAM08AAC057.pls
+#EXTINF:-1, Thunder Radio - 1
+http://provisioning.streamtheworld.com/pls/SAM08AAC057.pls
+#EXTINF:-1, Thunder Radio - 2
+http://14123.live.streamtheworld.com/SAM08AAC057_SC
+#EXTINF:-1, WeFunk - Montreal, QC
+http://s-09.wefunkradio.com:81/wefunk64.mp3
+#EXTINF:-1, ETN.FM House Channel - 0
+http://www.etn.fm:8200/house-mp3-320
+#EXTINF:-1, ETN.FM House Channel - 1
+http://www.etn.fm:8210/house-mp3-128
+#EXTINF:-1, ETN.FM House Channel - 2
+http://www.etn.fm:8220/house-mp3-64
+#EXTINF:-1, ETN.FM Trance Channel - 0
+http://ch1relay1.etn.fm:8130/listen.pls?sid=1
+#EXTINF:-1, ETN.FM Trance Channel - 1
+http://24.249.116.123:8130/;?sid=1
+#EXTINF:-1, Radio Cristiana Canada - 0
+http://www.nuestraradio.org/listen.pls
+#EXTINF:-1, Radio Cristiana Canada - 1
+http://ample-zeno-11.radiojar.com/0x3v8pq0ys5tv
+#EXTINF:-1, CFCW 840 AM Camrose, AB
+http://newcap.leanstream.co/CFCWAM-MP3?args=tunein_01
+#EXTINF:-1, CFCW 98.1 FM Camrose, AB
+http://newcap.leanstream.co/CFCWFM-MP3?args=tunein_01
+#EXTINF:-1, Hellenic Media Vancouver
+http://69.172.176.173:8000/HELLAS
+#EXTINF:-1, rockXradio Hamilton, ON
+http://rockxradio.com/RXR/rockxradio.pls
+#EXTINF:-1, Radio India Ltd. 1600 AM
+http://162.244.80.52:4614/;stream.mp3
+#EXTINF:-1, Soundstorm Relax Radio - 0
+http://soundstorm-radio.com/playerlinks/playlist-chill.pls
+#EXTINF:-1, Soundstorm Relax Radio - 1
+http://soundstorm-radio.com/playerlinks/playlist-chill.m3u
+#EXTINF:-1, Soundstorm Relax Radio - 2
+http://stream.soundstorm-radio.com:8000
+#EXTINF:-1, Crystal Radio - 0
+http://crystalradio.ca/playlist.pls
+#EXTINF:-1, Crystal Radio - 1
+http://crystalradio.ca/playlist.asx
+#EXTINF:-1, Radio Match - 0
+http://laradiofm.com/download/57-en-m3u/
+#EXTINF:-1, Radio Match - 1
+http://laradiofm.com/download/57-en-pls/
+#EXTINF:-1, Radio Match - 2
+http://laradiofm.com/download/57-en-asx/
+#EXTINF:-1, Dynamo Radio - Glee Christmas
+http://hemnos.cdnstream.com/1661_128
+#EXTINF:-1, Dynamo Radio - Celtic Christmas
+http://hemnos.cdnstream.com/1663_128
+#EXTINF:-1, Dynamo Radio - Country Hirs Radio
+http://kea.cdnstream.com/1681_128
+#EXTINF:-1, Dynamo Radio - Country Mix Radio
+http://naxos.cdnstream.com/1290_128
+#EXTINF:-1, Dynamo Radio - 60s Mix
+http://naxos.cdnstream.com/1285_128
+#EXTINF:-1, Dynamo Radio - 70s Mix
+http://naxos.cdnstream.com/1286_128
+#EXTINF:-1, Dynamo Radio - 80s Mix
+http://naxos.cdnstream.com/1287_128
+#EXTINF:-1, Dynamo Radio - 90s Mix
+http://naxos.cdnstream.com/1288_128
+#EXTINF:-1, Dynamo Radio - Jazz Christmas
+http://hemnos.cdnstream.com/1662_128
+#EXTINF:-1, Mix 247 EDM
+http://sky1.torontocast.com:9016/stream
+#EXTINF:-1, ABC 60s
+http://cristina.torontocast.com:8173/stream
+#EXTINF:-1, ABC 50s
+http://144.217.253.136:8582/stream
+#EXTINF:-1, Dublin's ABC
+http://144.217.180.30:8149/stream
+#EXTINF:-1, Radio Globo Italia
+http://144.217.76.188:8248/;
+#EXTINF:-1, CHPB 98.1 FM Cochrane, ON
+http://s1.hotdogradio.com/CHPB
+#EXTINF:-1, CFXW 96.7 FM Whitecourt, AB
+http://www.surfmusic.de/m3u/cfxw-the-rig-96-7-fm,15292.m3u
+#EXTINF:-1, CJLU 93.9 FM Halifax, NS
+http://harvester1.no-ip.biz:8000/type?=html
+#EXTINF:-1, CITA 105.9 FM Moncton, NB
+http://cita.no-ip.biz:8000/type?=html
+#EXTINF:-1, Z99 Regina's #1 Hit Music Station - 0
+http://www.z99.com/player/?playerID=768
+#EXTINF:-1, Z99 Regina's #1 Hit Music Station - 1
+http://provisioning.streamtheworld.com/pls/Z99.pls
+#EXTINF:-1, CJOY 1460 AM Guelph, ON
+http://www.cjoy.com/player/?playerID=55
+#EXTINF:-1, 94.5 Jack FM
+http://rawlco.leanstream.co/CKCKFM?args=web_01&startTime=1517505477
+#EXTINF:-1, Boom 95.3
+http://newcap.leanstream.co/CJXKFM-MP3?args=3rdparty_02
+#EXTINF:-1, KISS Jazz
+http://sky1.torontocast.com:9008/stream
+#EXTINF:-1, The Big Rewind - 80s and 90s commercial free - 0
+http://cristina.torontocast.com:2199/tunein/aldtgewg.pls
+#EXTINF:-1, The Big Rewind - 80s and 90s commercial free - 1
+http://cristina.torontocast.com:2199/tunein/aldtgewg.asx
+#EXTINF:-1, CJUC 92.5 FM Whitehorse, YT
+http://stream.openbroadcaster.com:8033/CJUC
+#EXTINF:-1, NewSong 96.1 FM Saint John, NB - 0
+http://ic2.christiannetcast.com/cinb-fm?type
+#EXTINF:-1, NewSong 96.1 FM Saint John, NB - 1
+http://www.newsongfm.com/interactive/listen-low.asx
+#EXTINF:-1, Addictive 50s - 0
+http://cristina.torontocast.com:8022/stream
+#EXTINF:-1, Addictive 50s - 1
+http://cristina.torontocast.com:8022/streamaac
+#EXTINF:-1, Addictive 50s - 2
+http://cristina.torontocast.com:8022/streamaac24
+#EXTINF:-1, Choice Classic Rock - 0
+http://stream.sonixcast.com:8849/;
+#EXTINF:-1, Choice Classic Rock - 1
+http://bb23.sonixcast.com:20012/;
+#EXTINF:-1, Choice Classic Rock - 2
+http://www.choiceclassicrock.com/choiceclassicrock.m3u
+#EXTINF:-1, Choice Classic Rock - 3
+http://www.choiceclassicrock.com/choiceclassicrock.asx
+#EXTINF:-1, Choice Classic Rock - 4
+http://www.choiceclassicrock.com/choiceclassicrock.pls
+#EXTINF:-1, KISS Love
+http://sky1.torontocast.com:9134/stream
+#EXTINF:-1, Texas Gospel Canada - 0
+http://cristina.torontocast.com:2199/tunein/irijtutm.pls
+#EXTINF:-1, Texas Gospel Canada - 1
+http://cristina.torontocast.com:2199/tunein/irijtutm.asx
+#EXTINF:-1, Texas Gospel Canada - 2
+http://cristina.torontocast.com:2199/tunein/irijtutm.ram
+#EXTINF:-1, XERW
+http://sky1.torontocast.com:9081/;
+#EXTINF:-1, Rock 102 FM
+http://rawlco.leanstream.co/CJDJFM?args=web_01&startTime=1521915870
+#EXTINF:-1, The Stone - 0
+http://streaming.radionomy.com/TheStone?lang=en-US&appName=iTunes.m3u
+#EXTINF:-1, The Stone - 1
+http://listen.radionomy.com/thestone
+#EXTINF:-1, Radio Gorindo - 0
+http://streaming.radionomy.com/Gorindo?lang=en-US&appName=iTunes.m3u
+#EXTINF:-1, Radio Gorindo - 1
+http://listen.radionomy.com/gorindo.m3u
+#EXTINF:-1, Anime Fandom Radio - 0
+http://streaming.radionomy.com/AnimeFandomRadio?lang=en-US&appName=iTunes.m3u
+#EXTINF:-1, Anime Fandom Radio - 1
+http://listen.radionomy.com/animefandomradio.m3u
+#EXTINF:-1, Best of the 90's - 0
+http://streaming.radionomy.com/Bestofthe90-s?lang=en-US&appName=iTunes.m3u
+#EXTINF:-1, Best of the 90's - 1
+http://listen.radionomy.com/bestofthe90-s.m3u
+#EXTINF:-1, Jazz Fusion - 0
+http://streaming.radionomy.com/JazzFusion?lang=en-US&appName=website.m3u
+#EXTINF:-1, Jazz Fusion - 1
+http://listen.radionomy.com/jazzfusion
+#EXTINF:-1, Radio2dago - Vancouver, Canada - 0
+http://streaming.radionomy.com/radio4christ?lang=en-US&appName=website.m3u redirects to http://streaming.radionomy.com/appblockingus.mp3?mount=GospelGroovesNYC
+#EXTINF:-1, Radio2dago - Vancouver, Canada - 1
+http://streaming.radionomy.com/radio4christ
+#EXTINF:-1, Libertino Radio
+http://sky1.torontocast.com:9054/stream
+#EXTINF:-1, Calm Radio - Igor Stravinsky - 0
+http://proxy.calmradio.com:8628/stream
+#EXTINF:-1, Calm Radio - Igor Stravinsky - 1
+http://streams.calmradio.com:8628
+#EXTINF:-1, CKGW 89.3 FM Chatham-Kent, ON
+http://s7.viastreaming.net:8930/;
+#EXTINF:-1, CKJJ 102.3 FM Belleville, ON
+http://s7.viastreaming.net:8235/;
+#EXTINF:-1, ABC 70s
+http://144.217.253.136:8602/stream?1523204954496.mp3
+#EXTINF:-1, KOOLGOLD
+http://listen.radionomy.com/koolgold.m3u
+#EXTINF:-1, CJNU 93.7 FM Winnipeg, MB
+http://noasrv.caster.fm:10188/stream
+#EXTINF:-1, CHKS 106.3 FM Sarnia, ON - 0
+http://blackburn.leanstream.co/CHKSFM
+#EXTINF:-1, CHKS 106.3 FM Sarnia, ON - 1
+http://blackburn.leanstream.co/CHKSFM?args=web_01&uid=a97d4e72-f9a7-45ad-ae4b-bbd49d3a07b3
+#EXTINF:-1, CIMJ 106.1 FM Guelph, ON (Geoblocked USA)
+http://live.leanstream.co/CIMJFM
+#EXTINF:-1, CJXY 107.9 FM Hamilton-Niagara, ON (Geoblocked USA)
+http://live.leanstream.co/CJXYFM?args=web_01&startTime=1517505371
+#EXTINF:-1, CKQB 106.9 FM Ottawa, ON (Geoblocked USA)
+http://live.leanstream.co/CKQBFM
+#EXTINF:-1, CHNL 610 Kamloops, BC
+http://newcap.leanstream.co/CHNLAM-MP3
+#EXTINF:-1, Scratch_Radio - Canada - 0
+http://www.scratchradio.ca:8000/;
+#EXTINF:-1, Scratch_Radio - Canada - 1
+http://www.scratchradio.ca/scratch.m3u
+#EXTINF:-1, CJSS 101.9 FM Cornwall, ON (Geoblocked USA) - 0
+http://live.leanstream.co/CJSSFM?args=web_01&startTime=1517505890
+#EXTINF:-1, CJSS 101.9 FM Cornwall, ON (Geoblocked USA) - 1
+http://live.leanstream.co/CJSSFM
+#EXTINF:-1, CBC Radio 1 - New Brunswick/Saint John 91.3 FM
+http://cbcliveradio-lh.akamaihd.net/i/CBCR1_SNB@371252/master.m3u8
+#EXTINF:-1, CBC Radio 1 - Newfoundland & Labrador/Corner Brook 990 AM
+http://cbcliveradio-lh.akamaihd.net/i/CBCR1_COR@353666/master.m3u8
+#EXTINF:-1, CBC Radio 1 - Newfoundland & Labrador/Goose Bay 89.5 FM
+http://cbcliveradio-lh.akamaihd.net/i/CBCR1_GBA@48512/master.m3u8
+#EXTINF:-1, CBC Radio 1 - Newfoundland & Labrador/Grand Falls 540 AM
+http://cbcliveradio-lh.akamaihd.net/i/CBCR1_GFA@360512/master.m3u8
+#EXTINF:-1, CBC Radio 1 - Newfoundland & Labrador/St. John's 640 AM
+http://cbcliveradio-lh.akamaihd.net/i/CBCR1_SNF@28674/master.m3u8
+#EXTINF:-1, CBC Radio 1 - Nova Scotia/Halifax 90.5 FM
+http://cbcliveradio-lh.akamaihd.net/i/CBCR1_HFX@353708/master.m3u8
+#EXTINF:-1, CBC Radio 1 - Nova Scotia/Sydney 1140 AM
+http://cbcliveradio-lh.akamaihd.net/i/CBCR1_SYD@51412/master.m3u8
+#EXTINF:-1, CBC Radio 1 - Ontario/London 93.5 FM
+http://cbcliveradio-lh.akamaihd.net/i/CBCR1_LDN@48520/master.m3u8
+#EXTINF:-1, CBC Radio 1 - Ontario/Ottawa 91.5 FM
+http://cbcliveradio-lh.akamaihd.net/i/CBCR1_OTT@348188/master.m3u8
+#EXTINF:-1, CBC Radio 1 - Ontario/Kitchener-Waterloo 89.1 FM
+http://cbcliveradio-lh.akamaihd.net/i/CBCR1_EKW@371992/master.m3u8
+#EXTINF:-1, CBC Radio 1 - Ontario/Sudbury 99.9 FM
+http://cbcliveradio-lh.akamaihd.net/i/CBCR1_SUD@384513/master.m3u8
+#EXTINF:-1, CBC Radio 1 - Ontario/Thunder Bay 88.3 FM
+http://cbcliveradio-lh.akamaihd.net/i/CBCR1_TBA@366707/master.m3u8
+#EXTINF:-1, CBC Radio 1 - Ontario/Toronto 99.1 FM
+http://cbcliveradio-lh.akamaihd.net/i/CBCR1_TOR@118420/master.m3u8
+#EXTINF:-1, CBC Radio 1 - Ontario/Windsor 97.5 FM
+http://cbcliveradio-lh.akamaihd.net/i/CBCR1_WDR@324611/master.m3u8
+#EXTINF:-1, CBC Radio 1 - Ontario/Barrie 91.5 FM
+http://cbcliveradio-lh.akamaihd.net/i/CBCR1_ERI@508311/master.m3u8
+#EXTINF:-1, CBC Radio 1 - Ontario/Kingston 107.5 FM
+http://cbcliveradio-lh.akamaihd.net/i/CBCR1_EKI@106780/master.m3u8
+#EXTINF:-1, CBC Radio 1 - Ontario/Peterborough 98.7 FM
+http://cbcliveradio-lh.akamaihd.net/i/CBCR1_ERI1@508339/master.m3u8
+#EXTINF:-1, CBC Radio 1 - Québec/North Quebec 88.5 FM
+http://cbcliveradio-lh.akamaihd.net/i/CBCR1N_MTL@366613/master.m3u8
+#EXTINF:-1, CJOT 99.7 FM Ottawa, ON  (Geoblocked USA) - 0
+http://live.leanstream.co/CJOTFM-MP3
+#EXTINF:-1, CJOT 99.7 FM Ottawa, ON  (Geoblocked USA) - 1
+http://live.leanstream.co:80/CJOTFM-MP3
+#EXTINF:-1, CBC Radio 1 - British Columbia/Kamloops 94.1 FM - 0
+http://cbcliveradio-lh.akamaihd.net/i/CBCR1_KAM@384142/master.m3u8
+#EXTINF:-1, CBC Radio 1 - British Columbia/Kamloops 94.1 FM - 1
+http://cbcliveradio-lh.akamaihd.net/i/CBCR1_KAM@384142/master.m3u8
+#EXTINF:-1, CBC Radio 1 - British Columbia/Kamloops 94.1 FM - 2
+http://liveradio.cbc.ca/i/CBCR1_KAM@384142/index_48_a-p.m3u8?
+#EXTINF:-1, CBC Radio 1 - British Columbia/Victoria 90.5 FM - 0
+http://cbcliveradio-lh.akamaihd.net/i/CBCR1_VIC@387331/master.m3u8
+#EXTINF:-1, CBC Radio 1 - British Columbia/Victoria 90.5 FM - 1
+http://cbcliveradio-lh.akamaihd.net/i/CBCR1_VIC@387331/master.m3u8
+#EXTINF:-1, CBC Radio 1 - British Columbia/Victoria 90.5 FM - 2
+http://liveradio.cbc.ca/i/CBCR1_VIC@387331/index_48_a-p.m3u8?
+#EXTINF:-1, CBC Music - Atlantic (Halifax) - 0
+http://cbcliveradio2-lh.akamaihd.net/i/CBCR2_HFX@382379/master.m3u8
+#EXTINF:-1, CBC Music - Atlantic (Halifax) - 1
+http://cbc_r2_hfx.akacast.akamaistream.net/7/917/451661/v1/rc.akacast.akamaistream.net/cbc_r2_hfx
+#EXTINF:-1, CBC Music - Central (Winnipeg) - 0
+http://cbcliveradio2-lh.akamaihd.net/i/CBCR2_WPG@385274/master.m3u8
+#EXTINF:-1, CBC Music - Central (Winnipeg) - 1
+http://cbc_r2_wpg.akacast.akamaistream.net/7/233/451661/v1/rc.akacast.akamaistream.net/cbc_r2_wpg
+#EXTINF:-1, CBC Music - Mountain (Edmonton) - 0
+http://cbcliveradio2-lh.akamaihd.net/i/CBCR2_EDM@48972/master.m3u8
+#EXTINF:-1, CBC Music - Mountain (Edmonton) - 1
+http://cbc_r2_edm.akacast.akamaistream.net/7/40/451661/v1/rc.akacast.akamaistream.net/cbc_r2_edm
+#EXTINF:-1, CBC Music - Eastern (Toronto) - 0
+http://cbcliveradio2-lh.akamaihd.net/i/CBCR2_TOR@382863/master.m3u8
+#EXTINF:-1, CBC Music - Eastern (Toronto) - 1
+http://cbc_r2_tor.akacast.akamaistream.net/7/364/451661/v1/rc.akacast.akamaistream.net/cbc_r2_tor
+#EXTINF:-1, Ici Musique Muse
+http://sp01radio.akacast.akamaistream.net/7/481/177425/v1/rc.akacast.akamaistream.net/SP01RADIO
+#EXTINF:-1, CBUF 97.7 FM Vancouver, BC - 0
+http://janus.cdnstream.com:5353/;
+#EXTINF:-1, CBUF 97.7 FM Vancouver, BC - 1
+http://janus.cdnstream.com:5353/stream/1/?cb=286341.mp3
+#EXTINF:-1, CHAA 103.3 FM Longueuil, QC
+http://stream.statsradio.com:8062/;
+#EXTINF:-1, CKAJ 92.5 FM Saguenay, QC
+http://stream.statsradio.com:8060/;
+#EXTINF:-1, ABC 80s - 0
+http://sky1.torontocast.com:2199/tunein/joqbttdl-stream.pls
+#EXTINF:-1, ABC 80s - 1
+http://66.70.187.44:9142/;
+#EXTINF:-1, ABC 80s - 2
+http://sky1.torontocast.com:2199/tunein/joqbttdl-stream.asx
+#EXTINF:-1, BFBS Canada - 0
+http://edge-audio-02-gos1.sharp-stream.com/ssvcbfbs12.aac
+#EXTINF:-1, BFBS Canada - 1
+http://tx.sharp-stream.com/http_live.php?i=ssvcbfbs12.aac&device=bfbs_canada
+#EXTINF:-1, CNV Radio Montreal, QC
+http://xlnetwork.info:8880/;
+#EXTINF:-1, radio.bad - 0
+http://stream.radiobad.com:8000/radiobad
+#EXTINF:-1, radio.bad - 1
+http://stream.radiobad.com:8000/radiobad?type=.mp3
+#EXTINF:-1, The EP Express All Elvis Format Radio Station In Canada - Montreal - 0
+http://eu1.fastcast4u.com:9246/;
+#EXTINF:-1, The EP Express All Elvis Format Radio Station In Canada - Montreal - 1
+http://37.187.79.56:9246/;
+#EXTINF:-1, The EP Express All Elvis Format Radio Station In Canada - Montreal - 2
+http://cp.eu1.fastcast4u.com:2199/tunein/trtrevor.pls
+#EXTINF:-1, CILV 88.5 FM Ottawa, ON - 0
+http://newcap.leanstream.co/CILVFM-MP3
+#EXTINF:-1, CILV 88.5 FM Ottawa, ON - 1
+http://newcap.leanstream.co/CILVFM
+#EXTINF:-1, CKSY 94.3 FM Chatham, ON
+http://live.leanstream.co/CKSYFM-MP3?tunein
+#EXTINF:-1, CKUE 95.1 FM Chatham, ON
+http://live.leanstream.co/CKUEFM-MP3?tunein
+#EXTINF:-1, CKIX 99.1 FM St. John's, NL
+http://newcap.leanstream.co/CKIXFM?args=tunein_02
+#EXTINF:-1, CIXF 101.1 FM Brooks, AB
+http://newcap.leanstream.co/CIXFFM
+#EXTINF:-1, CHBM 97.3 FM Toronto, ON
+http://newcap.leanstream.co/CHBMFM-MP3
+#EXTINF:-1, CHOK 103.9 FM Sarnia, ON
+http://live.leanstream.co/CHOKAM?args=tunein_03
+#EXTINF:-1, CHTD 98.1 FM St. Stephen, NB
+http://chicago-ais2.streamon.fm/ais/CHTD.aac
+#EXTINF:-1, CFPG 99.1 FM Winnipeg, MB  (Geoblocked USA)
+http://live.leanstream.co/CJGVFM
+#EXTINF:-1, CKWB 97.9 FM Westlock, AB
+http://newcap.leanstream.co/CKWBFM-MP3
+#EXTINF:-1, CHLK 88.1 FM Perth, ON - 0
+http://playerservices.streamtheworld.com/pls/CHLKFMAAC.pls
+#EXTINF:-1, CHLK 88.1 FM Perth, ON - 1
+http://playerservices.streamtheworld.com/pls/CHLKFM.pls
+#EXTINF:-1, CHLK 88.1 FM Perth, ON - 2
+http://19013.live.streamtheworld.com/CHLKFMAAC.aac
+#EXTINF:-1, CFMC 95.1 FM Saskatoon, SK
+http://rawlco.leanstream.co/CFMCFM?args=tunein_02
+#EXTINF:-1, CHLX 97.1 FM Gatineau, QC
+http://icecast-chlx.rncm.ca/chlx.mp3
+#EXTINF:-1, CIQB 101.1 FM Barrie, ON (Geoblocked USA) - 0
+http://live.leanstream.co/CIQBFM
+#EXTINF:-1, CIQB 101.1 FM Barrie, ON (Geoblocked USA) - 1
+http://live.leanstream.co/CIQBFM-MP3
+#EXTINF:-1, CIQB 101.1 FM Barrie, ON (Geoblocked USA) - 2
+http://newcap.leanstream.co/CIQBFM
+#EXTINF:-1, CIQB 101.1 FM Barrie, ON (Geoblocked USA) - 3
+http://newcap.leanstream.co/CIQBFM-MP3
+#EXTINF:-1, CISN 103.9  FM Edmonton, AB (Geoblocked USA) - 0
+http://live.leanstream.co/CISNFM-MP3
+#EXTINF:-1, CISN 103.9  FM Edmonton, AB (Geoblocked USA) - 1
+http://live.leanstream.co/CISNFM
+#EXTINF:-1, CISN 103.9  FM Edmonton, AB (Geoblocked USA) - 2
+http://newcap.leanstream.co/CISNFM-MP3
+#EXTINF:-1, CISN 103.9  FM Edmonton, AB (Geoblocked USA) - 3
+http://newcap.leanstream.co/CISNFM
+#EXTINF:-1, Greek Music Radio
+http://samcloud.spacial.com/api/listen?sid=73236&m=sc
+#EXTINF:-1, CKLC 98.9 FM Kingston, ON  (Geoblocked USA) - 0
+http://playerservices.streamtheworld.com/pls/CKLCFMAAC.pls
+#EXTINF:-1, CKLC 98.9 FM Kingston, ON  (Geoblocked USA) - 1
+http://playerservices.streamtheworld.com/pls/CKLCFM.pls
+#EXTINF:-1, CKWS 104.3 FM Kingston, ON  (Geoblocked USA)
+http://live.leanstream.co/CKWSFM-MP3?
+#EXTINF:-1, BMC-THE-FUNKLOPEDIK-RADIO
+http://sky1.torontocast.com:9229/stream
+#EXTINF:-1, CIND 88.1 FM Toronto, ON
+http://cob-ais.leanstream.co//CINDFM?args=web_01
+#EXTINF:-1, Radio Razom
+http://ca3.radioboss.fm:8045/autodj
+#EXTINF:-1, CHMX 92.1 FM Regina, SK
+http://aispool.streamon.fm/ais/CHMX.aac
+#EXTINF:-1, CFQM 103.9 FM Moncton, NB
+http://mbsradio.leanstream.co/CFQMFM-MP3
+#EXTINF:-1, CHNS 89.9 FM (The Wave) Halifax, NS
+http://mbsradio.leanstream.co/CHNSFM-MP3
+#EXTINF:-1, CKRM 620 AM Regina, SK
+http://ais-sa1.streamon.fm/7267_64k.aac/playlist.m3u8
+#EXTINF:-1, CKRY 105.1 FM Calgary, AB    (Geoblocked USA)
+http://live.leanstream.co/CKRYFM?
+#EXTINF:-1, CING 95.3 FM Hamilton, ON (Geoblocked USA)
+http://live.leanstream.co/CINGFM-MP3?tunein
+#EXTINF:-1, XL Gurbani Radio -  Vancouver, BC
+http://rosetta.shoutca.st:8554/stream
+#EXTINF:-1, Radio Cochonneries - 0
+http://radiococh.no-ip.org:8000/listen.pls
+#EXTINF:-1, Radio Cochonneries - 1
+http://radiococh.no-ip.org:8000
+#EXTINF:-1, Radio Cochonneries - 2
+http://radiocochlow.dnsalias.com:8000/listen.pls
+#EXTINF:-1, CJWI 1410 AM Montreal, PC
+http://streamingv2.shoutcast.com/CPAMRadioUnioncom
+#EXTINF:-1, CKQC 107.1 FM Abbotsford, BC
+http://radioamd.akamaized.net/hls/live/678915/abb1071/master.m3u8
+#EXTINF:-1, CHRN 1610 AM Lasalle, QC
+http://ice2.securenetsystems.net/HUMSAFAR
+#EXTINF:-1, Ici RDI * Radio-Canada.ca
+http://RDIRADIO.akacast.akamaistream.net/7/501/177423/v1/rc.akacast.akamaistream.net/RDIRADIO
+#EXTINF:-1, CIRV 88.9 FM Toronto, ON
+http://ice5.securenetsystems.net/CIRV
+#EXTINF:-1, CJNE 94.7 FM Nipawin, SK - 0
+http://cjne.streamguys1.com/live
+#EXTINF:-1, CJNE 94.7 FM Nipawin, SK - 1
+http://live.str3am.com:2300/;
+#EXTINF:-1, CJWA JJAM Fm 100.7 Chapleau /107.1 Wawa, ON
+http://nap.casthost.net:8428/stream?type=.mp3
+#EXTINF:-1, Kalasam - 0
+http://live.kalasam.com:8084/;
+#EXTINF:-1, Kalasam - 1
+http://www.kalasam.com/playlist.pls
+#EXTINF:-1, Kalasam - 2
+http://173.192.207.51:8084/;stream.mp3
+#EXTINF:-1, CHYR 96.7 FM Leamington, ON
+http://live.leanstream.co/CHYRFM-MP3
+#EXTINF:-1, CIGM 93.5 FM Sudbury, ON
+http://live.leanstream.co/CIGMFM-MP3
+#EXTINF:-1, CIHI 93.1 FM Fredericton, NB
+http://live.leanstream.co/CIHIFM-MP3
+#EXTINF:-1, CKMP 90.3 FM Calgary, AB
+http://live.leanstream.co/CKMPFM-MP3
+#EXTINF:-1, CKRA 96.3 FM Edmonton, AB
+http://live.leanstream.co/CKRAFM-MP3
+#EXTINF:-1, Dynamo Radio - Venus - 0
+http://venus.dynamoradio.ca/1879_128
+#EXTINF:-1, Dynamo Radio - Venus - 1
+http://69.30.215.118:8066/mp3
+#EXTINF:-1, Dynamo Radio - Reggae Roots Radio
+http://69.30.215.118:8066/mp3
+#EXTINF:-1, CFJB 95.7 FM Barrie, ON
+http://cob-ais.leanstream.co/CFJBFM-MP3
+#EXTINF:-1, CBC Radio 1 - Alberta/Edmonton 740 AM, 93.9 FM - 0
+http://2.18.214.244/7/904/451661/v1/rc.akacast.akamaistream.net/cbc_r1_edm
+#EXTINF:-1, CBC Radio 1 - Alberta/Edmonton 740 AM, 93.9 FM - 1
+http://cbcliveradio-lh.akamaihd.net/i/CBCR1_EDM@372985/master.m3u8
+#EXTINF:-1, CBC Radio 1 - Alberta/Edmonton 740 AM, 93.9 FM - 2
+http://liveradio.cbc.ca/i/CBCR1_EDM@372985/index_48_a-p.m3u8?
+#EXTINF:-1, CBC Radio 1 - Saskatchewan/Regina 102.5 FM, 540 AM - 0
+http://2.20.188.101/7/666/451661/v1/rc.akacast.akamaistream.net/cbc_r1_reg
+#EXTINF:-1, CBC Radio 1 - Saskatchewan/Regina 102.5 FM, 540 AM - 1
+http://cbcliveradio-lh.akamaihd.net/i/CBCR1_REG@118346/master.m3u8
+#EXTINF:-1, CBC Radio 1 - Saskatchewan/Regina 102.5 FM, 540 AM - 2
+http://liveradio.cbc.ca/i/CBCR1_REG@118346/index_48_a-p.m3u8?
+#EXTINF:-1, CBC Radio 1 - British Columbia/Kelowna 88.9 FM - 0
+http://2.18.214.238/7/229/451661/v1/rc.akacast.akamaistream.net/cbc_r1_kel
+#EXTINF:-1, CBC Radio 1 - British Columbia/Kelowna 88.9 FM - 1
+http://cbcliveradio-lh.akamaihd.net/i/CBCR1_KEL@386538/master.m3u8
+#EXTINF:-1, CBC Radio 1 - British Columbia/Kelowna 88.9 FM - 2
+http://liveradio.cbc.ca/i/CBCR1_KEL@386538/index_48_a-p.m3u8?
+#EXTINF:-1, CBC Radio 1 - British Columbia/Prince George 91.5 FM - 0
+http://2.18.214.236/7/966/451661/v1/rc.akacast.akamaistream.net/cbc_r1_prg
+#EXTINF:-1, CBC Radio 1 - British Columbia/Prince George 91.5 FM - 1
+http://cbcliveradio-lh.akamaihd.net/i/CBCR1_PRG@347029/master.m3u8
+#EXTINF:-1, CBC Radio 1 - British Columbia/Prince George 91.5 FM - 2
+http://liveradio.cbc.ca/i/CBCR1_PRG@347029/index_48_a-p.m3u8?
+#EXTINF:-1, CBC Radio 1 - British Columbia/Vancouver 88.1 FM, 690 AM - 0
+http://2.18.214.244/7/723/451661/v1/rc.akacast.akamaistream.net/cbc_r1_vcr
+#EXTINF:-1, CBC Radio 1 - British Columbia/Vancouver 88.1 FM, 690 AM - 1
+http://cbcliveradio-lh.akamaihd.net/i/CBCR1_VCR@314572/master.m3u8
+#EXTINF:-1, CBC Radio 1 - British Columbia/Vancouver 88.1 FM, 690 AM - 2
+http://liveradio.cbc.ca/i/CBCR1_VCR@314572/index_48_a-p.m3u8?
+#EXTINF:-1, CBC Radio 1 - New Brunswick/Fredericton 99.5 FM - 0
+http://23.14.92.7/7/553/451661/v1/rc.akacast.akamaistream.net/cbc_r1_frd
+#EXTINF:-1, CBC Radio 1 - New Brunswick/Fredericton 99.5 FM - 1
+http://cbcliveradio-lh.akamaihd.net/i/CBCR1_FRD@134846/master.m3u8
+#EXTINF:-1, CBC Radio 1 - New Brunswick/Fredericton 99.5 FM - 2
+http://liveradio.cbc.ca/i/CBCR1_FRD@134846/index_48_a-b.m3u8?
+#EXTINF:-1, CBC Radio 1 - Saskatchewan/Saskatoon 540 AM / 94.1 FM - 0
+http://2.18.214.237/7/842/451661/v1/rc.akacast.akamaistream.net/cbc_r1_ssk
+#EXTINF:-1, CBC Radio 1 - Saskatchewan/Saskatoon 540 AM / 94.1 FM - 1
+http://cbcliveradio-lh.akamaihd.net/i/CBCR1_SSK@387344/master.m3u8
+#EXTINF:-1, CBC Radio 1 - Saskatchewan/Saskatoon 540 AM / 94.1 FM - 2
+http://liveradio.cbc.ca/i/CBCR1_SSK@387344/index_48_a-p.m3u8?
+#EXTINF:-1, CBC Radio 1 - New Brunswick/Moncton 106.1 FM - 0
+http://2.18.214.246/7/383/451661/v1/rc.akacast.akamaistream.net/cbc_r1_mct
+#EXTINF:-1, CBC Radio 1 - New Brunswick/Moncton 106.1 FM - 1
+http://cbcliveradio-lh.akamaihd.net/i/CBCR1_MCT@360345/master.m3u8
+#EXTINF:-1, CBC Radio 1 - New Brunswick/Moncton 106.1 FM - 2
+http://liveradio.cbc.ca/i/CBCR1_MCT@360345/index_48_a-p.m3u8?
+#EXTINF:-1, CBC Music - Pacific (Vancouver) - 0
+http://2.18.214.235/7/773/451661/v1/rc.akacast.akamaistream.net/cbc_r2_vcr
+#EXTINF:-1, CBC Music - Pacific (Vancouver) - 1
+http://cbcliveradio2-lh.akamaihd.net/i/CBCR2_VCR@353638/master.m3u8
+#EXTINF:-1, CBC Music - Pacific (Vancouver) - 2
+http://liveradiointernational.cbc.ca/i/CBCR2_IPT@353578/index_48_a-p.m3u8?
+#EXTINF:-1, CBC Radio 1 - Prince Edward Island (PEI)/Charlottetown 96.1 FM - 0
+http://2.18.214.246/7/169/451661/v1/rc.akacast.akamaistream.net/cbc_r1_chr
+#EXTINF:-1, CBC Radio 1 - Prince Edward Island (PEI)/Charlottetown 96.1 FM - 1
+http://cbcliveradio-lh.akamaihd.net/i/CBCR1_CHR@360550/master.m3u8
+#EXTINF:-1, CBC Radio 1 - Prince Edward Island (PEI)/Charlottetown 96.1 FM - 2
+http://liveradio.cbc.ca/i/CBCR1_CHR@360550/index_48_a-p.m3u8?
+#EXTINF:-1, CBC Radio 1 North - Yukon/Whitehorse 570 AM - 0
+http://2.18.214.245/7/319/451661/v1/rc.akacast.akamaistream.net/cbc_r1_whs
+#EXTINF:-1, CBC Radio 1 North - Yukon/Whitehorse 570 AM - 1
+http://cbcliveradio-lh.akamaihd.net/i/CBCR1_WHS@66072/master.m3u8
+#EXTINF:-1, CBC Radio 1 North - Yukon/Whitehorse 570 AM - 2
+http://liveradio.cbc.ca/i/CBCR1_WHS@66072/index_48_a-p.m3u8?
+#EXTINF:-1, CBC Radio 1 North - Nunavut/Iqaluit 1230 AM - 0
+http://2.18.214.243/7/325/451661/v1/rc.akacast.akamaistream.net/cbc_r1_iqa
+#EXTINF:-1, CBC Radio 1 North - Nunavut/Iqaluit 1230 AM - 1
+http://cbcliveradio-lh.akamaihd.net/i/CBCR1_IQA@110100/master.m3u8
+#EXTINF:-1, CBC Radio 1 North - Nunavut/Iqaluit 1230 AM - 2
+http://liveradio.cbc.ca/i/CBCR1_IQA@110100/index_48_a-p.m3u8?
+#EXTINF:-1, CBC Radio 1 North - Northwest Territories/Yellowknife 1340 AM - 0
+http://2.18.214.245/7/369/451661/v1/rc.akacast.akamaistream.net/cbc_r1_ykn
+#EXTINF:-1, CBC Radio 1 North - Northwest Territories/Yellowknife 1340 AM - 1
+http://cbcliveradio-lh.akamaihd.net/i/CBCR1_YKN@330427/master.m3u8
+#EXTINF:-1, CBC Radio 1 North - Northwest Territories/Yellowknife 1340 AM - 2
+http://liveradio.cbc.ca/i/CBCR1_YKN@330427/index_48_a-p.m3u8?
+#EXTINF:-1, CBC Radio 1 North - Northwest Territories/Inuvik 860 AM - 0
+http://2.18.214.246/7/967/451661/v1/rc.akacast.akamaistream.net/cbc_r1_ink
+#EXTINF:-1, CBC Radio 1 North - Northwest Territories/Inuvik 860 AM - 1
+http://cbcliveradio-lh.akamaihd.net/i/CBCR1_INK@313092/master.m3u8
+#EXTINF:-1, CBC Radio 1 North - Northwest Territories/Inuvik 860 AM - 2
+http://liveradio.cbc.ca/i/CBCR1_INK@313092/index_48_a-p.m3u8?
+#EXTINF:-1, CBC Radio 1 - Québec/Québec City 104.7 FM - 0
+http://2.18.214.246/7/29/451661/v1/rc.akacast.akamaistream.net/cbc_r1_qqu
+#EXTINF:-1, CBC Radio 1 - Québec/Québec City 104.7 FM - 1
+http://cbcliveradio-lh.akamaihd.net/i/CBCR1_QQU@366526/master.m3u8
+#EXTINF:-1, CBC Radio 1 - Québec/Québec City 104.7 FM - 2
+http://liveradio.cbc.ca/i/CBCR1_QQU@366526/index_48_a-p.m3u8?
+#EXTINF:-1, CBC Radio 1 - Manitoba/Winnipeg 89.3 FM - 0
+http://23.14.92.22/7/831/451661/v1/rc.akacast.akamaistream.net/cbc_r1_wpg
+#EXTINF:-1, CBC Radio 1 - Manitoba/Winnipeg 89.3 FM - 1
+http://cbcliveradio-lh.akamaihd.net/i/CBCR1_WPG@384111/master.m3u8
+#EXTINF:-1, CBC Radio 1 - Manitoba/Winnipeg 89.3 FM - 2
+http://liveradio.cbc.ca/i/CBCR1_WPG@384111/index_48_a-p.m3u8?
+#EXTINF:-1, Radio Skipper
+http://kos.broadstreamer.com:8700/;
+#EXTINF:-1, CBC Radio 1 - Alberta/Calgary 1010 AM, 99.1 FM - 0
+http://2.18.214.236/7/298/451661/v1/rc.akacast.akamaistream.net/cbc_r1_cgy
+#EXTINF:-1, CBC Radio 1 - Alberta/Calgary 1010 AM, 99.1 FM - 1
+http://cbcliveradio-lh.akamaihd.net/i/CBCR1_CGY@372026/master.m3u8
+#EXTINF:-1, CBC Radio 1 - Alberta/Calgary 1010 AM, 99.1 FM - 2
+http://liveradio.cbc.ca/i/CBCR1_CGY@372026/index_48_a-p.m3u8?
+#EXTINF:-1, CBC Radio 1 - Québec/Montreal 88.5 FM, 104.7 FM - 0
+http://2.18.214.245/7/35/451661/v1/rc.akacast.akamaistream.net/cbc_r1_mtl
+#EXTINF:-1, CBC Radio 1 - Québec/Montreal 88.5 FM, 104.7 FM - 1
+http://cbc_r1_mtl.akacast.akamaistream.net/7/35/451661/v1/rc.akacast.akamaistream.net/cbc_r1_mtl
+#EXTINF:-1, CBC Radio 1 - Québec/Montreal 88.5 FM, 104.7 FM - 2
+http://cbcliveradio-lh.akamaihd.net/i/CBCR1_MTL@360544/master.m3u8
+#EXTINF:-1, CBC Radio 1 - Québec/Montreal 88.5 FM, 104.7 FM - 3
+http://liveradio.cbc.ca/i/CBCR1_MTL@360544/index_48_a-p.m3u8?
+#EXTINF:-1, Radio Liscio e Folk - 0
+http://dj.mediastreaming.it:7012/;
+#EXTINF:-1, Radio Liscio e Folk - 1
+http://173.255.137.32:7012/;
+#EXTINF:-1, Radio Liscio e Folk - 2
+http://dj.mediastreaming.it:7012/;
+#EXTINF:-1, Radio BiZZZZ - Metal HD - 0
+http://radio.pro-fhi.net:2199/tunein/gtviwgkt.pls
+#EXTINF:-1, Radio BiZZZZ - Metal HD - 1
+http://91.121.162.224:9012/stream
+#EXTINF:-1, CFTE 1410 AM Vancouver, BC - 0
+http://playerservices.streamtheworld.com/pls/CFTEAMAAC.pls
+#EXTINF:-1, CFTE 1410 AM Vancouver, BC - 1
+http://playerservices.streamtheworld.com/pls/CFTEAM.pls
+#EXTINF:-1, CFTE 1410 AM Vancouver, BC - 2
+https://14003.live.streamtheworld.com/CFTEAMAAC.aac
+#EXTINF:-1, Pure Rock Radio
+http://purerockradio.org/listen/launch.pls
+#EXTINF:-1, Addicted 2 Oldies Music Radio - 0
+http://streaming.radionomy.com/addicted2oldiesmusicradio?lang=en-US&appName=iTunes.m3u
+#EXTINF:-1, Addicted 2 Oldies Music Radio - 1
+http://agnes.torontocast.com:8118/stream
+#EXTINF:-1, Addicted 2 Oldies Music Radio - 2
+http://184.75.223.178:2199/tunein/cxieehtk.asx
+#EXTINF:-1, CFUR 88.7 FM Prince George, BC
+http://142.207.5.234:8000/
+#EXTINF:-1, CVCR 101.1 FM Aylesford, NS
+http://199.115.115.71:8319/;
+#EXTINF:-1, Red Bull Radio - Top Flight
+http://stream.redbullradio.com/top-flight
+#EXTINF:-1, CKMB 107.5 FM Barrie, ON
+http://cob-ais.leanstream.co/CKMBFM
+#EXTINF:-1, CFRV 107.7 FM Lethbridge, AB
+http://rogers-hls.leanstream.co/rogers/let1077.stream/playlist.m3u8
+#EXTINF:-1, CKMH 105.3 FM Medicine Hat, AB
+http://rogers-hls.leanstream.co/rogers/med1053.stream/playlist.m3u8
+#EXTINF:-1, Radio Betna - 0
+http://us1new.listen2myradio.com:2199/tunein/radiobet.asx
+#EXTINF:-1, Radio Betna - 1
+http://198.7.59.28:8054/;
+#EXTINF:-1, Radio Betna - 2
+http://198.7.59.28:2199/stream.php?port=8054
+#EXTINF:-1, Techno.FM - Live Channel - 0
+http://stream.techno.fm:8000/stream
+#EXTINF:-1, Techno.FM - Live Channel - 1
+http://techno.fm/m3u/live.aac.m3u
+#EXTINF:-1, CIZZ 98.9 FM Red Deer, AB
+http://newcap.leanstream.co/CIZZFM-MP3?
+#EXTINF:-1, Estereo Uno
+http://sky1.torontocast.com:9189/stream
+#EXTINF:-1, Jammin Vibez Radio - 24/7
+http://158.69.227.214:8041/stream
+#EXTINF:-1, CJMJ 100.3 FM Ottawa, ON (Canada Only ) - 0
+http://playerservices.streamtheworld.com/pls/CJMJFMAAC.pls
+#EXTINF:-1, CJMJ 100.3 FM Ottawa, ON (Canada Only ) - 1
+http://playerservices.streamtheworld.com/pls/CJMJFM.pls
+#EXTINF:-1, CJMJ 100.3 FM Ottawa, ON (Canada Only ) - 2
+http://14133.live.streamtheworld.com/CJMJFMAAC.aac
+#EXTINF:-1, CHLY 101.7 FM Nanaimo, BC
+http://184.69.114.194:8000/stream.mp3
+#EXTINF:-1, Metal Rock 1970 - 2000
+http://69.175.13.131:8050/;
+#EXTINF:-1, CJRL 89.5 FM Kenora, ON
+http://ais-sa1.streamon.fm/7229_48k.aac
+#EXTINF:-1, CJUK 99.9 FM Thunder Bay, ON
+http://ais-sa1.streamon.fm/7237_48k.aac
+#EXTINF:-1, CKNI 91.9 FM Moncton, NB
+http://ckni.streamon.fm:8000/CKNI-48k.aac
+#EXTINF:-1, CKTG 105.3 FM Thunder Bay, ON
+http://cktg.streamon.fm:8000/CKTG-48k.aac
+#EXTINF:-1, CKXX 103.9 FM Corner Brook, NL
+http://newcap.leanstream.co/CKXXFM-MP3?args=tunein_01
+#EXTINF:-1, K-LEE Radio 1600 AM Baddek, NS - 0
+http://cent5.serverhostingcenter.com:2199/tunein/kleeradio.pls
+#EXTINF:-1, K-LEE Radio 1600 AM Baddek, NS - 1
+http://cent5.serverhostingcenter.com:2199/tunein/kleeradio.asx
+#EXTINF:-1, CIXL 91.7 FM Welland, ON
+http://204.141.167.21:10670/stream
+#EXTINF:-1, CFFR 660 AM Calgary, AB
+http://rogers-hls.leanstream.co/rogers/cal660.stream/playlist.m3u8
+#EXTINF:-1, CHFM 95.9 FM Calgary, AB
+http://rogers-hls.leanstream.co/rogers/cal959.stream/playlist.m3u8
+#EXTINF:-1, CFAC 960 AM Calgary, AB
+http://rogers-hls.leanstream.co/rogers/cal960.stream/playlist.m3u8
+#EXTINF:-1, CHDI 102.9 FM Edmonton, AB
+http://rogers-hls.leanstream.co/rogers/edm1029.stream/playlist.m3u8
+#EXTINF:-1, Radio Regent
+https://streamer.radio.co/se3e1e3815/listen
+#EXTINF:-1, CKBY 101.1 FM Smith Falls, ON
+http://rogers-hls.leanstream.co:8000/rogers/ott1011.stream/48k/playlist.m3u8
+#EXTINF:-1, CHEZ 106.1 FM Ottawa, ON
+http://rogers-hls.leanstream.co/rogers/ott1061.stream/playlist.m3u8
+#EXTINF:-1, CIWW 1310 AM Ottawa, ON
+http://rogers-hls.leanstream.co/rogers/ott1310.stream/playlist.m3u8
+#EXTINF:-1, CKIS 92.5 FM Toronto, ON
+http://rogers-hls.leanstream.co/rogers/tor925.stream/playlist.m3u8
+#EXTINF:-1, CHFI 98.1 FM Toronto, ON
+http://rogers-hls.leanstream.co/rogers/tor981.stream/playlist.m3u8
+#EXTINF:-1, CKKS 104.9 FM-2 Vancouver; 92.5 CKKS-FM-1 Abbotsford
+http://rogers-hls.leanstream.co/rogers/van1049.stream/playlist.m3u8
+#EXTINF:-1, CKLG 96.9 FM Vancouver, BC
+http://rogers-hls.leanstream.co/rogers/van969.stream/playlist.m3u8
+#EXTINF:-1, CJUM 101.5 FM Winnipeg, MB
+http://live.umfm.com:8005/;stream/1
+#EXTINF:-1, CIRR 103.9 FM Toronto, ON (Canada only)
+http://ice7.securenetsystems.net/CIRR
+#EXTINF:-1, CKQK 105.5 FM Charlottetown, PE
+http://newcap.leanstream.co/CKQKFM
+#EXTINF:-1, CFRK 92.3 FM Fredericton, NB
+http://newcap.leanstream.co/CFRKFM
+#EXTINF:-1, CIMX 88.7 FM Windsor, ON - 0
+http://provisioning.streamtheworld.com/pls/CIMXFMAAC.pls
+#EXTINF:-1, CIMX 88.7 FM Windsor, ON - 1
+http://provisioning.streamtheworld.com/pls/CIMXFM.pls
+#EXTINF:-1, CFBX 92.5 FM Kamloops, BC - 0
+http://thexaudio.tru.ca:8002/listen.pls
+#EXTINF:-1, CFBX 92.5 FM Kamloops, BC - 1
+http://thexaudio.tru.ca:8002/in/;
+#EXTINF:-1, CHNC 107.1 FM New Carlisle, QC
+http://xltrax.com:8140/;stream.mp3
+#EXTINF:-1, CIJK 89.3 FM Kentville, NS
+http://newcap.leanstream.co/CIJKFM
+#EXTINF:-1, CITR 101.9 FM Vancouver, BC
+http://live.citr.ca:8000/stream.mp3.m3u
+#EXTINF:-1, CFDV 106.7 FM Red Deer, AB - 0
+http://cfdv.streamon.fm:8000/CFDV-48k.aac
+#EXTINF:-1, CFDV 106.7 FM Red Deer, AB - 1
+http://ais-sa1.streamon.fm/7311_48k.aac/playlist.m3u8
+#EXTINF:-1, CFDV 106.7 FM Red Deer, AB - 2
+http://ais-sa1.streamon.fm/7311_48k.aac
+#EXTINF:-1, CILU 102.7 FM Thunder Bay, ON - 0
+http://luradio-server.lakeheadu.ca:8000/stereo128.mp3
+#EXTINF:-1, CILU 102.7 FM Thunder Bay, ON - 1
+http://luradio-server.lakeheadu.ca:8000/stereo64.mp3
+#EXTINF:-1, CILU 102.7 FM Thunder Bay, ON - 2
+http://luradio-server.lakeheadu.ca:8000/mono16.mp3
+#EXTINF:-1, CKWR FM 98.5 Waterloo, ON
+http://ghost.wavestreamer.com:5307/;
+#EXTINF:-1, CJAM 99.1 FM Windsor, ON - 0
+http://stream.cjam.ca:8000/;
+#EXTINF:-1, CJAM 99.1 FM Windsor, ON - 1
+http://137.207.3.25:8000/listen.pls
+#EXTINF:-1, CJAM 99.1 FM Windsor, ON - 2
+http://stream.cjam.ca:8004/;
+#EXTINF:-1, CJAM 99.1 FM Windsor, ON - 3
+http://137.207.3.25:8004/listen.pls
+#EXTINF:-1, CIRK 97.3 FM Edmonton, AB
+http://newcap.leanstream.co/CIRKFM
+#EXTINF:-1, RantRadio Punk
+http://broadcast.rantradio.com:9000/;stream.mp3
+#EXTINF:-1, Radio XY - 0
+http://live.str3am.com:2120/;
+#EXTINF:-1, Radio XY - 1
+http://www.streamlicensing.com/stations/radioxy/listen.pls
+#EXTINF:-1, CKPK 102.7 FM Vancouver, BC - 0
+http://ckpk.streamon.fm:8000/CKPK-48k.aac
+#EXTINF:-1, CKPK 102.7 FM Vancouver, BC - 1
+http://ais-sa1.streamon.fm/7326_48k.aac
+#EXTINF:-1, CIDR 93.9 FM Windsor, ON - 0
+http://provisioning.streamtheworld.com/pls/CIDRFMAAC.pls
+#EXTINF:-1, CIDR 93.9 FM Windsor, ON - 1
+http://provisioning.streamtheworld.com/pls/CIDRFM.pls
+#EXTINF:-1, CFUV 101.9 FM Victoria, BC - 0
+http://cfuv.streamon.fm:8000/CFUV-64k.aac
+#EXTINF:-1, CFUV 101.9 FM Victoria, BC - 1
+http://ais-sa1.streamon.fm/7132_64k.aac
+#EXTINF:-1, CHIP 101.9 FM Fort Coulonge, QC - 0
+http://stream02.ustream.ca:8000/chip128.mp3
+#EXTINF:-1, CHIP 101.9 FM Fort Coulonge, QC - 1
+http://stream02.ustream.ca:8000/chip128.mp3.m3u
+#EXTINF:-1, CHIP 101.9 FM Fort Coulonge, QC - 2
+http://stream02.ustream.ca:8000/chip32.mp3
+#EXTINF:-1, CHIP 101.9 FM Fort Coulonge, QC - 3
+http://stream02.ustream.ca:8000/chip32.mp3.m3u
+#EXTINF:-1, CHRY 105.5 FM Toronto, ON
+http://ice7.securenetsystems.net/CHRY
+#EXTINF:-1, CIUT 89.5 FM Toronto, ON - 0
+http://www.caribbean-radio.com/ciut/ciut.asx
+#EXTINF:-1, CIUT 89.5 FM Toronto, ON - 1
+http://128.100.197.46/;
+#EXTINF:-1, CHHO 103.1 FM Louiseville and 104.9 FM Saint-Alexis-des-Monts, QC
+http://stream.statsradio.com:8076/stream
+#EXTINF:-1, CJSD 94.3 FM Thunder Bay, ON - 0
+http://cjsd.streamon.fm:8000/CJSD-32k.aac
+#EXTINF:-1, CJSD 94.3 FM Thunder Bay, ON - 1
+http://ais-sa1.streamon.fm/7097_32k.aac
+#EXTINF:-1, CJSD 94.3 FM Thunder Bay, ON - 2
+http://ais-sa1.streamon.fm/7097_32k.aac/playlist.m3u8
+#EXTINF:-1, CKFX 101.9 FM North Bay, ON - 0
+http://nor1019.akacast.akamaistream.net/7/606/80879/v1/rogers.akacast.akamaistream.net/nor1019
+#EXTINF:-1, CKFX 101.9 FM North Bay, ON - 1
+http://rogers-hls.leanstream.co/rogers/nor1019.stream/playlist.m3u8
+#EXTINF:-1, CKUW 95.9 FM Winnipeg, MB - 0
+http://ckuw.ca/listen.m3u
+#EXTINF:-1, CKUW 95.9 FM Winnipeg, MB - 1
+http://shout.mtl.gameservers.com:9025/;
+#EXTINF:-1, CKTZ 89.5 FM  Cortes Island, BC
+http://s5.voscast.com:8218/;
+#EXTINF:-1, Radio BiZZZZ - Classic Rock - 0
+http://91.121.162.224:9012/;
+#EXTINF:-1, Radio BiZZZZ - Classic Rock - 1
+http://radio.pro-fhi.net:2199/tunein/gtviwgkt.pls
+#EXTINF:-1, CJTR 91.3 FM Regina, SK
+http://108.178.13.122:8152/;
+#EXTINF:-1, CBFO 90.7 FM Dieppe, NB
+http://s6.voscast.com:9914/;
+#EXTINF:-1, CFNJ 99.1 FM Lanaudière, QC
+http://cfnjzp.mine.nu:9700/;
+#EXTINF:-1, CHMR 93.5 FM  St. John's, NL
+http://mp3srv.munsu.mun.ca:8000/;
+#EXTINF:-1, Calm Radio - Beethoven - 0
+http://streams.calmradio.com:6928/;
+#EXTINF:-1, Calm Radio - Beethoven - 1
+http://proxy.calmradio.com:6928/;
+#EXTINF:-1, Calm Radio - Tango - 0
+http://proxy.calmradio.com:9928/stream
+#EXTINF:-1, Calm Radio - Tango - 1
+http://streams.calmradio.com:9928/;
+#EXTINF:-1, Calm Radio - Girolamo Frescobaldi - 0
+http://proxy.calmradio.com:9428/stream
+#EXTINF:-1, Calm Radio - Girolamo Frescobaldi - 1
+http://streams.calmradio.com:9428/;
+#EXTINF:-1, Calm Radio - Franz Liszt - 0
+http://proxy.calmradio.com:9128/stream
+#EXTINF:-1, Calm Radio - Franz Liszt - 1
+http://streams.calmradio.com:9128/;
+#EXTINF:-1, Calm Radio - Georg Phillip Teleman - 0
+http://proxy.calmradio.com:8828/stream
+#EXTINF:-1, Calm Radio - Georg Phillip Teleman - 1
+http://streams.calmradio.com:8828/;
+#EXTINF:-1, Calm Radio - Pyotr Tchaikovsky - 0
+http://proxy.calmradio.com:8728/stream
+#EXTINF:-1, Calm Radio - Pyotr Tchaikovsky - 1
+http://streams.calmradio.com:8728/;
+#EXTINF:-1, Calm Radio - George Frideric Handel - 0
+http://proxy.calmradio.com:8428/stream
+#EXTINF:-1, Calm Radio - George Frideric Handel - 1
+http://streams.calmradio.com:8428/;
+#EXTINF:-1, Calm Radio - Johann Strauss II - 0
+http://proxy.calmradio.com:8328/stream
+#EXTINF:-1, Calm Radio - Johann Strauss II - 1
+http://streams.calmradio.com:8328/;
+#EXTINF:-1, Calm Radio - Schubert - 0
+http://proxy.calmradio.com:8228/stream
+#EXTINF:-1, Calm Radio - Schubert - 1
+http://streams.calmradio.com:8228/;
+#EXTINF:-1, Calm Radio - Schumann - 0
+http://proxy.calmradio.com:8128/stream
+#EXTINF:-1, Calm Radio - Schumann - 1
+http://streams.calmradio.com:8128/;
+#EXTINF:-1, Calm Radio - Be Bop - 0
+http://proxy.calmradio.com:7828/stream
+#EXTINF:-1, Calm Radio - Be Bop - 1
+http://streams.calmradio.com:7828/;
+#EXTINF:-1, Calm Radio - Big Band - 0
+http://proxy.calmradio.com:7728/stream
+#EXTINF:-1, Calm Radio - Big Band - 1
+http://streams.calmradio.com:7728/;
+#EXTINF:-1, Calm Radio - Chamber Music - 0
+http://proxy.calmradio.com:7528/stream
+#EXTINF:-1, Calm Radio - Chamber Music - 1
+http://streams.calmradio.com:7528/;
+#EXTINF:-1, Calm Radio - Haydn - 0
+http://proxy.calmradio.com:7228/stream
+#EXTINF:-1, Calm Radio - Haydn - 1
+http://streams.calmradio.com:7228/;
+#EXTINF:-1, Calm Radio - Brahms - 0
+http://proxy.calmradio.com:7128/stream
+#EXTINF:-1, Calm Radio - Brahms - 1
+http://streams.calmradio.com:7128/;
+#EXTINF:-1, Calm Radio - Bollywood - 0
+http://proxy.calmradio.com:7028/stream
+#EXTINF:-1, Calm Radio - Bollywood - 1
+http://streams.calmradio.com:7028/;
+#EXTINF:-1, Calm Radio - Bach - 0
+http://proxy.calmradio.com:6828/stream
+#EXTINF:-1, Calm Radio - Bach - 1
+http://streams.calmradio.com:6828/;
+#EXTINF:-1, Calm Radio - Spaced - 0
+http://proxy.calmradio.com:6728/stream
+#EXTINF:-1, Calm Radio - Spaced - 1
+http://streams.calmradio.com:6728/;
+#EXTINF:-1, Calm Radio - Latin - 0
+http://proxy.calmradio.com:5428/stream
+#EXTINF:-1, Calm Radio - Latin - 1
+http://streams.calmradio.com:5428/;
+#EXTINF:-1, Calm Radio - India - 0
+http://proxy.calmradio.com:5328/stream
+#EXTINF:-1, Calm Radio - India - 1
+http://streams.calmradio.com:5328/;
+#EXTINF:-1, Calm Radio - Arabic - 0
+http://proxy.calmradio.com:5228/stream
+#EXTINF:-1, Calm Radio - Arabic - 1
+http://streams.calmradio.com:5228/;
+#EXTINF:-1, Calm Radio - Africa - 0
+http://proxy.calmradio.com:5128/stream
+#EXTINF:-1, Calm Radio - Africa - 1
+http://streams.calmradio.com:5128/;
+#EXTINF:-1, Calm Radio - South America - 0
+http://proxy.calmradio.com:5028/stream
+#EXTINF:-1, Calm Radio - South America - 1
+http://streams.calmradio.com:5028/;
+#EXTINF:-1, Calm Radio - Flamenco - 0
+http://proxy.calmradio.com:4928/stream
+#EXTINF:-1, Calm Radio - Flamenco - 1
+http://streams.calmradio.com:4928/;
+#EXTINF:-1, Calm Radio - Om - 0
+http://proxy.calmradio.com:4728/stream
+#EXTINF:-1, Calm Radio - Om - 1
+http://streams.calmradio.com:4728/;
+#EXTINF:-1, Calm Radio - Cello - 0
+http://proxy.calmradio.com:4628/stream
+#EXTINF:-1, Calm Radio - Cello - 1
+http://streams.calmradio.com:4628/;
+#EXTINF:-1, Calm Radio - Violin - 0
+http://proxy.calmradio.com:4528/stream
+#EXTINF:-1, Calm Radio - Violin - 1
+http://streams.calmradio.com:4528/;
+#EXTINF:-1, Calm Radio - Gregorian Chant - 0
+http://proxy.calmradio.com:4428/stream
+#EXTINF:-1, Calm Radio - Gregorian Chant - 1
+http://streams.calmradio.com:4428/;
+#EXTINF:-1, Calm Radio - Harp - 0
+http://proxy.calmradio.com:4328/stream
+#EXTINF:-1, Calm Radio - Harp - 1
+http://streams.calmradio.com:4328/;
+#EXTINF:-1, Calm Radio - Elite Artists
+http://streams.calmradio.com:30128/;
+#EXTINF:-1, Calm Radio - Healing - 0
+http://streams.calmradio.com:1328/;
+#EXTINF:-1, Calm Radio - Healing - 1
+http://proxy.calmradio.com:1328/;
+#EXTINF:-1, Calm Radio - Healing - 2
+http://184.173.142.117:1328/stream
+#EXTINF:-1, Calm Radio - Jazz Vocalists
+http://streams.calmradio.com:8028/;
+#EXTINF:-1, Calm Radio - Latin Jazz
+http://streams.calmradio.com:13228/;
+#EXTINF:-1, Calm Radio - Baroque
+http://streams.calmradio.com:3328/;
+#EXTINF:-1, Calm Radio - Chopin
+http://streams.calmradio.com:7628/;
+#EXTINF:-1, Calm Radio - Classical Guitar
+http://streams.calmradio.com:2728/;
+#EXTINF:-1, Calm Radio - Classical Piano
+http://streams.calmradio.com:30928/;
+#EXTINF:-1, Calm Radio - Claude Debussy
+http://streams.calmradio.com:10228/;
+#EXTINF:-1, Calm Radio - Concertos
+http://streams.calmradio.com:9328/;
+#EXTINF:-1, Calm Radio - Flute
+http://streams.calmradio.com:4828/;
+#EXTINF:-1, Calm Radio - Francis Poulenc
+http://streams.calmradio.com:12228/;
+#EXTINF:-1, Calm Radio - Just Jazz
+http://streams.calmradio.com:30828/;
+#EXTINF:-1, Calm Radio - Lounge
+http://streams.calmradio.com:6628/;
+#EXTINF:-1, Calm Radio - Mozart
+http://streams.calmradio.com:7328/;
+#EXTINF:-1, Calm Radio - Opera
+http://streams.calmradio.com:1128/;
+#EXTINF:-1, Calm Radio - Orient
+http://streams.calmradio.com:3628/;
+#EXTINF:-1, Calm Radio - Positivity
+http://streams.calmradio.com:30528/;
+#EXTINF:-1, Calm Radio - Salsa
+http://streams.calmradio.com:9628/;
+#EXTINF:-1, Calm Radio - Satie
+http://streams.calmradio.com:12328/;
+#EXTINF:-1, Calm Radio - Native
+http://streams.calmradio.com:3428/;
+#EXTINF:-1, Calm Radio - Sergei Rachmaninoff
+http://streams.calmradio.com:9228/;
+#EXTINF:-1, Calm Radio - Sleep
+http://streams.calmradio.com:30628/;
+#EXTINF:-1, Calm Radio - Smooth Jazz
+http://streams.calmradio.com:7928/;
+#EXTINF:-1, Calm Radio - Solo Guitar
+http://streams.calmradio.com:2628/;
+#EXTINF:-1, Calm Radio - Spa
+http://streams.calmradio.com:30328/;
+#EXTINF:-1, Calm Radio - Symphony
+http://streams.calmradio.com:1028/;
+#EXTINF:-1, Calm Radio - Persia - 0
+http://proxy.calmradio.com:5528/;
+#EXTINF:-1, Calm Radio - Persia - 1
+http://streams.calmradio.com:5528/;
+#EXTINF:-1, Calm Radio - Chorale - 0
+http://streams.calmradio.com:2928/;
+#EXTINF:-1, Calm Radio - Chorale - 1
+http://proxy.calmradio.com:2928/;
+#EXTINF:-1, Calm Radio - Solo Piano - 0
+http://streams.calmradio.com:1228/;
+#EXTINF:-1, Calm Radio - Solo Piano - 1
+http://184.173.142.114:1228/stream
+#EXTINF:-1, Calm Radio - Yo-Yo Ma - 0
+http://proxy.calmradio.com:11228/;
+#EXTINF:-1, Calm Radio - Yo-Yo Ma - 1
+http://streams.calmradio.com:11228/;
+#EXTINF:-1, Calm Radio - Yacht Rock - 0
+http://proxy.calmradio.com:19928/;
+#EXTINF:-1, Calm Radio - Yacht Rock - 1
+http://streams.calmradio.com:19928/stream
+#EXTINF:-1, Calm Radio - Workout - 0
+http://proxy.calmradio.com:19428/;
+#EXTINF:-1, Calm Radio - Workout - 1
+http://streams.calmradio.com:19428/;
+#EXTINF:-1, Calm Radio - Wagner - 0
+http://proxy.calmradio.com:11428/;
+#EXTINF:-1, Calm Radio - Wagner - 1
+http://streams.calmradio.com:11428/;
+#EXTINF:-1, Calm Radio - Vienna Philharmonic - 0
+http://proxy.calmradio.com:13928/;
+#EXTINF:-1, Calm Radio - Vienna Philharmonic - 1
+http://streams.calmradio.com:13928/;
+#EXTINF:-1, Calm Radio - Verdi - 0
+http://proxy.calmradio.com:11528/;
+#EXTINF:-1, Calm Radio - Verdi - 1
+http://streams.calmradio.com:11528/;
+#EXTINF:-1, Calm Radio - Trumpet - 0
+http://proxy.calmradio.com:15828/;
+#EXTINF:-1, Calm Radio - Trumpet - 1
+http://streams.calmradio.com:15828/;
+#EXTINF:-1, Calm Radio - Billboard Top 2000's - 0
+http://proxy.calmradio.com:18528/;
+#EXTINF:-1, Calm Radio - Billboard Top 2000's - 1
+http://streams.calmradio.com:18528/;
+#EXTINF:-1, Calm Radio - Tibet - 0
+http://streams.calmradio.com:6528/;
+#EXTINF:-1, Calm Radio - Tibet - 1
+http://proxy.calmradio.com:6528/;
+#EXTINF:-1, Calm Radio - Tibet - 2
+http://calm1.calmradio.com:11608/;
+#EXTINF:-1, Calm Radio - Tibet - 3
+http://calm1.calmradio.com:11600/;
+#EXTINF:-1, Calm Radio - Soul Classic - 0
+http://streams.calmradio.com:16328/;
+#EXTINF:-1, Calm Radio - Soul Classic - 1
+http://proxy.calmradio.com:16328/;
+#EXTINF:-1, Calm Radio - Soul Classic - 2
+http://streams.calmradio.com/api/591/128/stream
+#EXTINF:-1, Calm Radio - Soul Classic - 3
+http://proxy.calmradio.com/api/591/128/stream
+#EXTINF:-1, Calm Radio - Singing Bowls - 0
+http://streams.calmradio.com:5628/;
+#EXTINF:-1, Calm Radio - Singing Bowls - 1
+http://proxy.calmradio.com:5628/;
+#EXTINF:-1, Calm Radio - Singing Bowls - 2
+http://calm1.calmradio.com:12000/;
+#EXTINF:-1, Calm Radio - Sergei Prokofiev - 0
+http://proxy.calmradio.com:16928/;
+#EXTINF:-1, Calm Radio - Sergei Prokofiev - 1
+http://streams.calmradio.com:16928/;
+#EXTINF:-1, Calm Radio - Rock Explosion 1965 - 69 - 0
+http://streams.calmradio.com:16528/;
+#EXTINF:-1, Calm Radio - Rock Explosion 1965 - 69 - 1
+http://proxy.calmradio.com:16528/;
+#EXTINF:-1, Calm Radio - Rock Explosion 1965 - 69 - 2
+http://streams.calmradio.com/api/599/128/stream
+#EXTINF:-1, Calm Radio - Rock Explosion 1965 - 69 - 3
+http://proxy.calmradio.com/api/599/128/stream
+#EXTINF:-1, Khalsa FM - LIVE 24 / 7 - Edmonton, Alberta, Canada - 0
+http://s3.voscast.com:7798/;
+#EXTINF:-1, Khalsa FM - LIVE 24 / 7 - Edmonton, Alberta, Canada - 1
+http://108.163.223.242:8062/;
+#EXTINF:-1, The Boss Radio - Pop
+http://thebossradio.com:8060/;
+#EXTINF:-1, CJRT 91.1 FM Toronto, ON - webradio: Oscar Peterson - 0
+http://streamergamma.jazz.fm:8008/;
+#EXTINF:-1, CJRT 91.1 FM Toronto, ON - webradio: Oscar Peterson - 1
+http://206.223.188.169:8008/;
+#EXTINF:-1, CJRT 91.1 FM Toronto, ON - webradio: GrooveYard - 0
+http://streamergamma.jazz.fm:8002/;
+#EXTINF:-1, CJRT 91.1 FM Toronto, ON - webradio: GrooveYard - 1
+http://206.223.188.169:8002/;
+#EXTINF:-1, CJRT 91.1 FM Toronto, ON - webradio: GrooveYard: High Standards - 0
+http://streamergamma.jazz.fm/tunein.php/VocalJazz/playlist.asx
+#EXTINF:-1, CJRT 91.1 FM Toronto, ON - webradio: GrooveYard: High Standards - 1
+http://streamergamma.jazz.fm:8000/;
+#EXTINF:-1, CJRT 91.1 FM Toronto, ON - webradio: GrooveYard: High Standards - 2
+http://206.223.188.169:8000/;
+#EXTINF:-1, CJRT 91.1 FM Toronto, ON - 0
+http://www.jazz.fm/streaming/JAZZFM91.pls
+#EXTINF:-1, CJRT 91.1 FM Toronto, ON - 1
+http://www.jazz.fm/streaming/JAZZFM91.asx
+#EXTINF:-1, CJRT 91.1 FM Toronto, ON - 2
+http://streamerepsilon.jazz.fm:8002/;
+#EXTINF:-1, CJRT 91.1 FM Toronto, ON - 3
+http://streamerepsilon.jazz.fm:8000/;
+#EXTINF:-1, CHTN 100.3 FM Charlottetown, PE
+http://newcap.leanstream.co/CHTNFM
+#EXTINF:-1, CKCW 94.5 FM Moncton, NB
+http://mbsradio.leanstream.co/CKCWFM-MP3
+#EXTINF:-1, CKJR 1440 AM Wetaskiwin, AB
+http://newcap.leanstream.co/CKJRAM
+#EXTINF:-1, CKDQ 910 AM Drumheller, AB
+http://newcap.leanstream.co/CKDQAM
+#EXTINF:-1, CHFX 101.9 FM Halifax, NS
+http://mbsradio.leanstream.co/CHFXFM-MP3
+#EXTINF:-1, CJYQ 930 AM St. John's, NL
+http://newcap.leanstream.co/CJYQAM
+#EXTINF:-1, CKBA 850 AM Athabasca, AB
+http://newcap.leanstream.co/CKBAFM
+#EXTINF:-1, CFXE 94.3 FM Edson, AB
+http://newcap.leanstream.co/CFXEFM
+#EXTINF:-1, CHSP 97.7 FM St. Paul, AB
+http://newcap.leanstream.co/CHSPFM
+#EXTINF:-1, CHSL 92.7 FM Slave Lake, AB
+http://newcap.leanstream.co/CHSLFM
+#EXTINF:-1, CKSQ 1400 AM Stettler, AB
+http://newcap.leanstream.co/CKSQFM
+#EXTINF:-1, CKEN 97.7 FM Kentville, NS
+http://mbsradio.leanstream.co/CKENFM-MP3
+#EXTINF:-1, CKWM 94.9 FM Kentville, NS
+http://mbsradio.leanstream.co/CKWMFM-MP3
+#EXTINF:-1, CHLQ 93.1 FM Charlottetown, PE
+http://mbsradio.leanstream.co/CHLQFM-MP3
+#EXTINF:-1, CJRW 102.1 FM Summerside, PE
+http://mbsradio.leanstream.co/CJRWFM-MP3
+#EXTINF:-1, CFAN 99.3 FM Miramichi, NB
+http://mbsradio.leanstream.co/CFANFM-MP3
+#EXTINF:-1, CIOK 100.5 FM Saint John, NB
+http://mbsradio.leanstream.co/CIOKFM-MP3
+#EXTINF:-1, CJCW 590 AM Sussex, NB
+http://mbsradio.leanstream.co/CJCWAM-MP3
+#EXTINF:-1, CHVO 103.9 FM Carbonear, NL
+http://newcap.leanstream.co/CHVOFM
+#EXTINF:-1, CKLN 97.1 FM Clarenville, NL
+http://newcap.leanstream.co/CKLNFM
+#EXTINF:-1, CJXL 96.9 FM Moncton, NB
+http://newcap.leanstream.co/CJXLFM
+#EXTINF:-1, CJEG 101.3 FM Bonnyville, AB
+http://newcap.leanstream.co/CJEGFM
+#EXTINF:-1, CILB 103.5 FM Lac La Biche, AB
+http://newcap.leanstream.co/CILBFM
+#EXTINF:-1, CKGY 95.5 FM Red Deer, AB
+http://newcap.leanstream.co/CKGYFM
+#EXTINF:-1, CKWY 93.7 FM Wainwright, AB
+http://newcap.leanstream.co/CKWYFM
+#EXTINF:-1, CKBL 92.9FM Saskatoon, SK - 0
+http://provisioning.streamtheworld.com/pls/CKBLFMAAC.pls
+#EXTINF:-1, CKBL 92.9FM Saskatoon, SK - 1
+http://provisioning.streamtheworld.com/pls/CKBLFM.pls
+#EXTINF:-1, CROC Radio (web radio)
+http://82.145.43.92:8122/;
+#EXTINF:-1, CHQM 103.5 FM Vancouver, BC (Canada only) - 0
+http://provisioning.streamtheworld.com/pls/CHQMFM.pls
+#EXTINF:-1, CHQM 103.5 FM Vancouver, BC (Canada only) - 1
+http://provisioning.streamtheworld.com/pls/CHQMFMAAC.pls
+#EXTINF:-1, CFRW 1290 AM Winnipeg, MB (Canada only) - 0
+http://provisioning.streamtheworld.com/pls/CFRWAMAAC.pls
+#EXTINF:-1, CFRW 1290 AM Winnipeg, MB (Canada only) - 1
+http://provisioning.streamtheworld.com/pls/CFRWAM.pls
+#EXTINF:-1, CFWM 99.9 FM Winnipeg, MB (Canada only) - 0
+http://provisioning.streamtheworld.com/pls/CFWMFMAAC.pls
+#EXTINF:-1, CFWM 99.9 FM Winnipeg, MB (Canada only) - 1
+http://provisioning.streamtheworld.com/pls/CFWMFM.pls
+#EXTINF:-1, CHBE 107.3 FM Victoria, BC (Canada only) - 0
+http://provisioning.streamtheworld.com/pls/CHBEFMAAC.pls
+#EXTINF:-1, CHBE 107.3 FM Victoria, BC (Canada only) - 1
+http://provisioning.streamtheworld.com/pls/CHBEFM.pls
+#EXTINF:-1, CKKQ 100.3 FM Victoria, BC - 0
+http://ckkq.streamon.fm/listen.m3u
+#EXTINF:-1, CKKQ 100.3 FM Victoria, BC - 1
+http://ais-sa1.streamon.fm/7333_48k.aac
+#EXTINF:-1, CIOO 100.1 FM Halifax, NS (Canada only) - 0
+http://provisioning.streamtheworld.com/pls/CIOOFMAAC.pls
+#EXTINF:-1, CIOO 100.1 FM Halifax, NS (Canada only) - 1
+http://provisioning.streamtheworld.com/pls/CIOOFM.pls
+#EXTINF:-1, CFXJ 93.5 FM Toronto, ON
+http://newcap.leanstream.co/CFXJFM
+#EXTINF:-1, CFXL 103.1 FM Calgary, AB
+http://newcap.leanstream.co/CFXLFM
+#EXTINF:-1, CHMB 1320 AM Vancouver, BC
+http://ice5.securenetsystems.net/CHMB
+#EXTINF:-1, Clubbing Station - 0
+http://cdn.clubbingstation.com/listen.m3u
+#EXTINF:-1, Clubbing Station - 1
+http://streamer2.clubbingstation.com/Clubbing-Station-US-mp3
+#EXTINF:-1, Clubbing Station - 2
+http://streamer1.clubbingstation.com/Clubbing-Station-Ca-aac
+#EXTINF:-1, CFTR 680 AM Toronto, ON - 0
+http://tor680.akacast.akamaistream.net/7/941/86884/v1/rogers.akacast.akamaistream.net/tor680
+#EXTINF:-1, CFTR 680 AM Toronto, ON - 1
+http://rogers-hls.leanstream.co/rogers/tor680.stream/playlist.m3u8
+#EXTINF:-1, CJNI 95.7 FM Halifax, NS - 0
+http://hal957.akacast.akamaistream.net/7/280/80893/v1/rogers.akacast.akamaistream.net/hal957
+#EXTINF:-1, CJNI 95.7 FM Halifax, NS - 1
+http://radio_cjni-lh.akamaihd.net/i/HAL957_1@188408/master.m3u8
+#EXTINF:-1, CJNI 95.7 FM Halifax, NS - 2
+http://radio_cjni-lh.akamaihd.net/i/HAL957_1@188408/index_48_a-p.m3u8
+#EXTINF:-1, CKGL 570 AM Kitchener, ON - 0
+http://kit570.akacast.akamaistream.net/7/481/80876/v1/rogers.akacast.akamaistream.net/kit570
+#EXTINF:-1, CKGL 570 AM Kitchener, ON - 1
+http://rogers-hls.leanstream.co/rogers/kit570.stream/playlist.m3u8
+#EXTINF:-1, CKWX 1130 AM Vancouver, BC
+http://rogers-hls.leanstream.co/rogers/van1130.stream/playlist.m3u8
+#EXTINF:-1, CKNX 920 AM Wingham, ON
+http://blackburn.leanstream.co/CKNXAM
+#EXTINF:-1, CKST 1040 AM Vancouver, BC - 0
+http://playerservices.streamtheworld.com/pls/CKSTAM.pls
+#EXTINF:-1, CKST 1040 AM Vancouver, BC - 1
+http://playerservices.streamtheworld.com/pls/CKSTAMAAC.pls
+#EXTINF:-1, CJVR 105.1 FM Melfort, SK - 0
+http://CJVR.streamon.fm:8000/CJVR-64k-m.mp3
+#EXTINF:-1, CJVR 105.1 FM Melfort, SK - 1
+http://ais-sa1.streamon.fm/7147_48k.aac
+#EXTINF:-1, CJRI 104.7 FM Fredericton, NB - 0
+http://provisioning.streamtheworld.com/pls/CJRIFMAAC.pls
+#EXTINF:-1, CJRI 104.7 FM Fredericton, NB - 1
+http://provisioning.streamtheworld.com/pls/CJRIFM.pls
+#EXTINF:-1, CHRK 101.9 FM Sydney, NS
+http://newcap.leanstream.co/CHRKFM
+#EXTINF:-1, CHNV 103.5 FM Nelson,  BC - 0
+http://listenlive.vistaradio.ca/CHNV
+#EXTINF:-1, CHNV 103.5 FM Nelson,  BC - 1
+http://srv1.hotdogradio.com:8000/CHNV
+#EXTINF:-1, CKAT 600 AM North Bay, ON - 0
+http://nor600.akacast.akamaistream.net/7/878/80877/v1/rogers.akacast.akamaistream.net/nor600
+#EXTINF:-1, CKAT 600 AM North Bay, ON - 1
+https://rogers-hls.leanstream.co/rogers/nor600.stream/playlist.m3u8
+#EXTINF:-1, CJCL 590 AM Toronto, ON - 0
+http://tor590.akacast.akamaistream.net/7/850/80874/v1/rogers.akacast.akamaistream.net/tor590
+#EXTINF:-1, CJCL 590 AM Toronto, ON - 1
+http://radio_cjcl-lh.akamaihd.net/i/TOR590_1@176950/master.m3u8
+#EXTINF:-1, CKGM 690 AM Montreal, QC - 0
+http://provisioning.streamtheworld.com/pls/ckgmamaac.pls
+#EXTINF:-1, CKGM 690 AM Montreal, QC - 1
+http://provisioning.streamtheworld.com/pls/ckgmam.pls
+#EXTINF:-1, CFMY 96.1 FM Medicine Hat, AB - 0
+http://cfmy.streamon.fm:8000/CFMY-48k.aac
+#EXTINF:-1, CFMY 96.1 FM Medicine Hat, AB - 1
+http://ais-sa1.streamon.fm/7302_48k.aac
+#EXTINF:-1, CFMY 96.1 FM Medicine Hat, AB - 2
+http://ais-sa1.streamon.fm/7302_48k.aac/playlist.m3u8
+#EXTINF:-1, CHAS 100.5 FM Sault Ste. Marie, ON - 0
+http://sau1005.akacast.akamaistream.net/7/879/80888/v1/rogers.akacast.akamaistream.net/sau1005
+#EXTINF:-1, CHAS 100.5 FM Sault Ste. Marie, ON - 1
+http://radio_chas-lh.akamaihd.net/i/SAU1005_1@192250/master.m3u8
+#EXTINF:-1, CHMN 106.5 FM Canmore, AB - 0
+http://can1065.akacast.akamaistream.net/7/314/80902/v1/rogers.akacast.akamaistream.net/can1065
+#EXTINF:-1, CHMN 106.5 FM Canmore, AB - 1
+http://radio_chmn-lh.akamaihd.net/i/CAN1065_1@193082/master.m3u8
+#EXTINF:-1, CHOZ 94.7 FM St. John's, NL
+http://174.37.159.206:8262/;stream/1.mp3
+#EXTINF:-1, CISQ 107.1 FM Squamish, BC - 0
+http://squ1071.akacast.akamaistream.net/7/530/80907/v1/rogers.akacast.akamaistream.net/squ1071
+#EXTINF:-1, CISQ 107.1 FM Squamish, BC - 1
+http://radio_cisq-lh.akamaihd.net/i/SQU1071_1@193141/master.m3u8
+#EXTINF:-1, CJTW 94.3 FM Waterloo, ON
+http://ice7.securenetsystems.net/CJTWFM
+#EXTINF:-1, CKAY 91.7 FM Gibsons, BC - 0
+http://s1.hotdogradio.com/CKAY
+#EXTINF:-1, CKAY 91.7 FM Gibsons, BC - 1
+http://listenlive.vistaradio.ca/CKAY
+#EXTINF:-1, CKGB 99.3 FM Timmins, ON - 0
+http://tim993.akacast.akamaistream.net/7/200/80890/v1/rogers.akacast.akamaistream.net/tim993
+#EXTINF:-1, CKGB 99.3 FM Timmins, ON - 1
+http://rogers-hls.leanstream.co/rogers/tim993.stream/playlist.m3u8
+#EXTINF:-1, CKJH 750 AM Melfort, SK - 0
+http://ckjh.streamon.fm:8000/CKJH-48k.aac
+#EXTINF:-1, CKJH 750 AM Melfort, SK - 1
+http://ais-sa1.streamon.fm/7148_48k.aac
+#EXTINF:-1, CKKO K96.3 FM Kelowna, BC
+http://newcap.leanstream.co/CKKOFM
+#EXTINF:-1, CKLM 106.1 FM Lloydminster, AB - 0
+http://srv1.hotdogradio.com:8000/CKLM
+#EXTINF:-1, CKLM 106.1 FM Lloydminster, AB - 1
+http://listenlive.vistaradio.ca/CKLM
+#EXTINF:-1, CKPR 91.5 FM Thunder Bay, ON - 0
+http://ckpr.streamon.fm:8000/CKPR-32k.aac
+#EXTINF:-1, CKPR 91.5 FM Thunder Bay, ON - 1
+http://ais-sa1.streamon.fm/7096_32k.aac
+#EXTINF:-1, CKPR 91.5 FM Thunder Bay, ON - 2
+http://ais-sa1.streamon.fm/7096_32k.aac/playlist.m3u8
+#EXTINF:-1, CKRW 96.1 FM Whitehorse, YT - 0
+http://ckrw.streamon.fm:8000/CKRW-32k.aac
+#EXTINF:-1, CKRW 96.1 FM Whitehorse, YT - 1
+http://ais-sa1.streamon.fm/7222_32k.aac
+#EXTINF:-1, CKRW 96.1 FM Whitehorse, YT - 2
+http://ais-sa1.streamon.fm/7222_32k.aac/playlist.m3u8
+#EXTINF:-1, CKY 102.3 FM Winnipeg, MB - 0
+http://win1023.akacast.akamaistream.net/7/308/80897/v1/rogers.akacast.akamaistream.net/win1023
+#EXTINF:-1, CKY 102.3 FM Winnipeg, MB - 1
+http://radio_cky-lh.akamaihd.net/i/WIN1023_1@190209/master.m3u8
+#EXTINF:-1, CKSR 98.3 FM Chilliwack, BC - 0
+http://chi983.akacast.akamaistream.net/7/586/80905/v1/rogers.akacast.akamaistream.net/chi983
+#EXTINF:-1, CKSR 98.3 FM Chilliwack, BC - 1
+http://radio_cksr-lh.akamaihd.net/i/CHI983_1@193200/master.m3u8
+#EXTINF:-1, CFQK 103.5 FM Thunder Bay, ON - 0
+http://cfqk.streamon.fm/listen.m3u
+#EXTINF:-1, CFQK 103.5 FM Thunder Bay, ON - 1
+http://ais-sa1.streamon.fm/7098_32k.aac
+#EXTINF:-1, CFQK 103.5 FM Thunder Bay, ON - 2
+http://ais-sa1.streamon.fm/7098_32k.aac/playlist.m3u8
+#EXTINF:-1, CKNO 102.3 FM Edmonton, AB
+http://ais-sa1.streamon.fm/7292_48k.aac
+#EXTINF:-1, Calm Radio - Fado - 0
+http://proxy.calmradio.com:15528/;
+#EXTINF:-1, Calm Radio - Fado - 1
+http://streams.calmradio.com:15528/;
+#EXTINF:-1, Calm Radio - Felix Mendelssohn - 0
+http://proxy.calmradio.com:12428/;
+#EXTINF:-1, Calm Radio - Felix Mendelssohn - 1
+http://streams.calmradio.com:12428/;
+#EXTINF:-1, Calm Radio - Folk Today - 0
+http://streams.calmradio.com:15428/;
+#EXTINF:-1, Calm Radio - Folk Today - 1
+http://proxy.calmradio.com:15428/;
+#EXTINF:-1, Calm Radio - Francois Couperin - 0
+http://proxy.calmradio.com:14828/;
+#EXTINF:-1, Calm Radio - Francois Couperin - 1
+http://streams.calmradio.com:14828/;
+#EXTINF:-1, Calm Radio - Frederick Delius - 0
+http://proxy.calmradio.com:11128/;
+#EXTINF:-1, Calm Radio - Frederick Delius - 1
+http://streams.calmradio.com:11128/;
+#EXTINF:-1, Calm Radio - Gabriel Faure - 0
+http://proxy.calmradio.com:19128/;
+#EXTINF:-1, Calm Radio - Gabriel Faure - 1
+http://streams.calmradio.com:19128/;
+#EXTINF:-1, Calm Radio - Gioachino Rossini - 0
+http://proxy.calmradio.com:14128/;
+#EXTINF:-1, Calm Radio - Gioachino Rossini - 1
+http://streams.calmradio.com:14128/;
+#EXTINF:-1, Calm Radio - Harpsichord - 0
+http://proxy.calmradio.com:12628/;
+#EXTINF:-1, Calm Radio - Harpsichord - 1
+http://streams.calmradio.com:12628/;
+#EXTINF:-1, Calm Radio - High Baroque - 0
+http://proxy.calmradio.com:14428/;
+#EXTINF:-1, Calm Radio - High Baroque - 1
+http://streams.calmradio.com:14428/;
+#EXTINF:-1, Calm Radio - Richard Strauss - 0
+http://proxy.calmradio.com:19328/;
+#EXTINF:-1, Calm Radio - Richard Strauss - 1
+http://streams.calmradio.com:19328/;
+#EXTINF:-1, Calm Radio - Ravel - 0
+http://proxy.calmradio.com:10328/;
+#EXTINF:-1, Calm Radio - Ravel - 1
+http://streams.calmradio.com:10328/;
+#EXTINF:-1, Calm Radio - Purcell - 0
+http://proxy.calmradio.com:11328/;
+#EXTINF:-1, Calm Radio - Purcell - 1
+http://streams.calmradio.com:11328/;
+#EXTINF:-1, Calm Radio - Post-War Hits - 0
+http://streams.calmradio.com:16428/;
+#EXTINF:-1, Calm Radio - Post-War Hits - 1
+http://proxy.calmradio.com:16428/;
+#EXTINF:-1, Calm Radio - Post-War Hits - 2
+http://streams.calmradio.com/api/595/128/stream
+#EXTINF:-1, Calm Radio - Post-War Hits - 3
+http://proxy.calmradio.com/api/595/128/stream
+#EXTINF:-1, Calm Radio - Organ - 0
+http://proxy.calmradio.com:12928/;
+#EXTINF:-1, Calm Radio - Organ - 1
+http://streams.calmradio.com:12928/;
+#EXTINF:-1, Calm Radio - Oratorios - 0
+http://proxy.calmradio.com:16828/;
+#EXTINF:-1, Calm Radio - Oratorios - 1
+http://streams.calmradio.com:16828/;
+#EXTINF:-1, Calm Radio - Musicals - 0
+http://proxy.calmradio.com:18728/;
+#EXTINF:-1, Calm Radio - Musicals - 1
+http://streams.calmradio.com:18728/;
+#EXTINF:-1, Calm Radio - Merengue - 0
+http://proxy.calmradio.com:9728/;
+#EXTINF:-1, Calm Radio - Merengue - 1
+http://streams.calmradio.com:9728/;
+#EXTINF:-1, Calm Radio - Mellow Pop Legends - 0
+http://streams.calmradio.com:16228/;
+#EXTINF:-1, Calm Radio - Mellow Pop Legends - 1
+http://proxy.calmradio.com:16228/;
+#EXTINF:-1, Calm Radio - Mellow Pop Legends - 2
+http://streams.calmradio.com/api/587/128/stream
+#EXTINF:-1, Calm Radio - Mellow Pop Legends - 3
+http://proxy.calmradio.com/api/587/128/stream
+#EXTINF:-1, Calm Radio - Masses, Motets and Choral Works - 0
+http://proxy.calmradio.com:16628/;
+#EXTINF:-1, Calm Radio - Masses, Motets and Choral Works - 1
+http://streams.calmradio.com:16628/;
+#EXTINF:-1, Calm Radio - Mahler - 0
+http://proxy.calmradio.com:10428/;
+#EXTINF:-1, Calm Radio - Mahler - 1
+http://streams.calmradio.com:10428/;
+#EXTINF:-1, Calm Radio - Madrigals - 0
+http://proxy.calmradio.com:14228/;
+#EXTINF:-1, Calm Radio - Madrigals - 1
+http://streams.calmradio.com:14228/;
+#EXTINF:-1, Calm Radio - Lute - 0
+http://proxy.calmradio.com:12728/;
+#EXTINF:-1, Calm Radio - Lute - 1
+http://streams.calmradio.com:12728/;
+#EXTINF:-1, Calm Radio - Lullaby - 0
+http://proxy.calmradio.com:19728/;
+#EXTINF:-1, Calm Radio - Lullaby - 1
+http://streams.calmradio.com:19728/;
+#EXTINF:-1, Calm Radio - Luigi Cherubini - 0
+http://proxy.calmradio.com:10628/;
+#EXTINF:-1, Calm Radio - Luigi Cherubini - 1
+http://streams.calmradio.com:10628/;
+#EXTINF:-1, Calm Radio - Luigi Boccherini - 0
+http://proxy.calmradio.com:16028/;
+#EXTINF:-1, Calm Radio - Luigi Boccherini - 1
+http://streams.calmradio.com:16028/;
+#EXTINF:-1, Calm Radio - Lieder and Songs - 0
+http://proxy.calmradio.com:16728/;
+#EXTINF:-1, Calm Radio - Lieder and Songs - 1
+http://streams.calmradio.com:16728/;
+#EXTINF:-1, Calm Radio - Late Baroque - 0
+http://proxy.calmradio.com:14528/;
+#EXTINF:-1, Calm Radio - Late Baroque - 1
+http://streams.calmradio.com:14528/;
+#EXTINF:-1, Calm Radio - Kidz - 0
+http://streams.calmradio.com:19628/;
+#EXTINF:-1, Calm Radio - Kidz - 1
+http://proxy.calmradio.com:19628/;
+#EXTINF:-1, Calm Radio - Jean-Phillipe Rameau - 0
+http://proxy.calmradio.com:14928/;
+#EXTINF:-1, Calm Radio - Jean-Phillipe Rameau - 1
+http://streams.calmradio.com:14928/;
+#EXTINF:-1, Calm Radio - Jazz Guitar - 0
+http://streams.calmradio.com:13128/;
+#EXTINF:-1, Calm Radio - Jazz Guitar - 1
+http://proxy.calmradio.com:13128/;
+#EXTINF:-1, Calm Radio - Jazz Guitar - 2
+http://streams.calmradio.com/api/491/128/stream
+#EXTINF:-1, Calm Radio - Jazz Guitar - 3
+http://proxy.calmradio.com/api/491/128/stream
+#EXTINF:-1, Italian Graffiati - 0
+http://www.italiangraffiati.com/128.asx
+#EXTINF:-1, Italian Graffiati - 1
+http://www.italiangraffiati.com/128.pls
+#EXTINF:-1, Italian Graffiati - 2
+http://italiangraffiati.com/128.asx
+#EXTINF:-1, Railroad Radio Vancouver, BC - 0
+http://www.railroadradio.net/content/playlist/langley.asx
+#EXTINF:-1, Railroad Radio Vancouver, BC - 1
+http://www.railroadradio.net/content/playlist/langley.pls
+#EXTINF:-1, RantRadio Industrial
+http://www.rantmedia.ca/industrial/rr-industrial128.pls
+#EXTINF:-1, RantRadio Talk
+http://www.rantmedia.ca/talk/rr-talk128.pls
+#EXTINF:-1, CJLF 100.3 FM Barrie, ON - 0
+http://netstream.lifeonline.fm/CJLF/aac_high
+#EXTINF:-1, CJLF 100.3 FM Barrie, ON - 1
+http://netstream.lifeonline.fm/CJLF/ogg_high
+#EXTINF:-1, DholCutz Bhangra Radio - 0
+http://server1.dholcutzradio.com:82/;
+#EXTINF:-1, DholCutz Bhangra Radio - 1
+http://www.dholcutzradio.com/dcradio0.pls
+#EXTINF:-1, DJFM - 0
+http://djfm.ca/djfm.pls
+#EXTINF:-1, DJFM - 1
+http://djfm.ca/djfm.asx
+#EXTINF:-1, DJFM - 2
+http://djfm.ca/djfm.m3u
+#EXTINF:-1, DJFM - 3
+http://mux.mtl.djfmradio.com/djfm3
+#EXTINF:-1, Generation Zel! Radio - 0
+http://eu1.reliastream.com:8035/listen.pls
+#EXTINF:-1, Generation Zel! Radio - 1
+http://167.114.64.181:8478/;
+#EXTINF:-1, Generation Zel! Radio - 2
+http://eu1.reliastream.com:8035/;
+#EXTINF:-1, Masalabeats - Toronto - 0
+http://cast1.serverhostingcenter.com/tunein.php/satisood/playlist.pls
+#EXTINF:-1, Masalabeats - Toronto - 1
+http://cast1.serverhostingcenter.com/tunein.php/satisood/playlist.qtl
+#EXTINF:-1, Masalabeats - Toronto - 2
+http://cast1.serverhostingcenter.com/tunein.php/satisood/playlist.asx
+#EXTINF:-1, Masalabeats - Toronto - 3
+http://cast1.serverhostingcenter.com/tunein.php/satisood/playlist.ram
+#EXTINF:-1, Masalabeats - Toronto - 4
+http://38.107.243.220:8654/;
+#EXTINF:-1, Radio Svetlina - Calgary AB - 0
+http://myradiostream.com/19/8126/listen.pls
+#EXTINF:-1, Radio Svetlina - Calgary AB - 1
+http://myradiostream.com/19/8126/listen.asx
+#EXTINF:-1, Radio Svetlina - Calgary AB - 2
+http://s19.myradiostream.com:8126/;
+#EXTINF:-1, FJR Radio
+http://s2.voscast.com:7724/;
+#EXTINF:-1, Radio Niagara
+http://sc3.mystreamserver.com:8012/;
+#EXTINF:-1, XLTRAX Country
+http://radiosolution.info:8625/;
+#EXTINF:-1, Radio Rouge Italy - 0
+http://173.192.207.51:8022/;
+#EXTINF:-1, Radio Rouge Italy - 1
+http://146.185.18.251:8038/;
+#EXTINF:-1, Radio Rouge Italy - 2
+http://174.36.206.197:8020/;
+#EXTINF:-1, Femmetal Online
+http://173.236.59.83:8510/;
+#EXTINF:-1, DylanRadio
+http://900.cloudrad.io:8138/;
+#EXTINF:-1, Vinyl 105
+http://176.31.120.92:8864/;
+#EXTINF:-1, Calm Radio - Aura - 0
+http://streams.calmradio.com:20528/;
+#EXTINF:-1, Calm Radio - Aura - 1
+http://184.173.142.117:20528/stream
+#EXTINF:-1, Calm Radio - Aura - 2
+http://streams.calmradio.com/api/1064/128/stream
+#EXTINF:-1, Calm Radio - Aura - 3
+http://proxy.calmradio.com/api/1064/128/stream
+#EXTINF:-1, Calm Radio - Feng Shui - 0
+http://streams.calmradio.com:20228/;
+#EXTINF:-1, Calm Radio - Feng Shui - 1
+http://184.173.142.114:20228/stream
+#EXTINF:-1, Calm Radio - Feng Shui - 2
+http://streams.calmradio.com/api/1044/128/stream
+#EXTINF:-1, Calm Radio - Feng Shui - 3
+http://proxy.calmradio.com/api/1044/128/stream
+#EXTINF:-1, Calm Radio - I Love 80's - 0
+http://streams.calmradio.com:17228/;
+#EXTINF:-1, Calm Radio - I Love 80's - 1
+http://184.173.142.114:17228/stream
+#EXTINF:-1, Calm Radio - I Love 80's - 2
+http://streams.calmradio.com/api/619/128/stream
+#EXTINF:-1, Calm Radio - I Love 80's - 3
+http://proxy.calmradio.com/api/619/128/stream
+#EXTINF:-1, Calm Radio - 90s Hits - 0
+http://streams.calmradio.com:18428/;
+#EXTINF:-1, Calm Radio - 90s Hits - 1
+http://184.173.142.114:18428/stream
+#EXTINF:-1, Calm Radio - 90s Hits - 2
+http://streams.calmradio.com/api/657/128/stream
+#EXTINF:-1, Calm Radio - 90s Hits - 3
+http://proxy.calmradio.com/api/657/128/stream
+#EXTINF:-1, Calm Radio - Antonio Vivaldi - 0
+http://streams.calmradio.com:8928/;
+#EXTINF:-1, Calm Radio - Antonio Vivaldi - 1
+http://184.173.142.114:8928/stream
+#EXTINF:-1, Calm Radio - Arcangelo Corelli - 0
+http://streams.calmradio.com:8528/;
+#EXTINF:-1, Calm Radio - Arcangelo Corelli - 1
+http://184.173.142.114:8528/stream
+#EXTINF:-1, Calm Radio - Bachata - 0
+http://streams.calmradio.com:9828/;
+#EXTINF:-1, Calm Radio - Bachata - 1
+http://184.173.142.117:9828/stream
+#EXTINF:-1, Calm Radio - Bachata - 2
+http://streams.calmradio.com/api/389/128/stream
+#EXTINF:-1, Calm Radio - Bachata - 3
+http://proxy.calmradio.com/api/1044/128/stream
+#EXTINF:-1, Calm Radio - Alessandro Scarlatti - 0
+http://streams.calmradio.com:14628/;
+#EXTINF:-1, Calm Radio - Alessandro Scarlatti - 1
+http://184.173.142.117:14628/stream
+#EXTINF:-1, Calm Radio - Antonin Dvorak - 0
+http://streams.calmradio.com:10528/;
+#EXTINF:-1, Calm Radio - Antonin Dvorak - 1
+http://184.173.142.117:10528/stream
+#EXTINF:-1, Calm Radio - Baryton - 0
+http://streams.calmradio.com:12828/;
+#EXTINF:-1, Calm Radio - Baryton - 1
+http://proxy.calmradio.com:12828/;
+#EXTINF:-1, Calm Radio - Best of the 70s - 0
+http://streams.calmradio.com:17028/;
+#EXTINF:-1, Calm Radio - Best of the 70s - 1
+http://184.173.142.114:17028/stream
+#EXTINF:-1, Calm Radio - Best of the 70s - 2
+http://streams.calmradio.com/api/615/128/stream
+#EXTINF:-1, Calm Radio - Best of the 70s - 3
+http://proxy.calmradio.com/api/615/128/stream
+#EXTINF:-1, Calm Radio - Bluegrass - 0
+http://streams.calmradio.com:13328/;
+#EXTINF:-1, Calm Radio - Bluegrass - 1
+http://proxy.calmradio.com:13328/;
+#EXTINF:-1, Calm Radio - Blues - 0
+http://streams.calmradio.com:3728/;
+#EXTINF:-1, Calm Radio - Blues - 1
+http://proxy.calmradio.com:3728/;
+#EXTINF:-1, Calm Radio - Bossa Nova - 0
+http://streams.calmradio.com:10028/;
+#EXTINF:-1, Calm Radio - Bossa Nova - 1
+http://proxy.calmradio.com:10028/;
+#EXTINF:-1, Calm Radio - Cafe Paris - 0
+http://streams.calmradio.com:15628/;
+#EXTINF:-1, Calm Radio - Cafe Paris - 1
+http://proxy.calmradio.com:15628/;
+#EXTINF:-1, Calm Radio - Shakuhachi - 0
+http://streams.calmradio.com:20328/;
+#EXTINF:-1, Calm Radio - Shakuhachi - 1
+http://184.173.142.117:20328/stream
+#EXTINF:-1, Calm Radio - Shakuhachi - 2
+http://streams.calmradio.com/api/1050/128/stream
+#EXTINF:-1, Calm Radio - Shakuhachi - 3
+http://proxy.calmradio.com/api/1050/128/stream
+#EXTINF:-1, Calm Radio - Cafe Roma - 0
+http://streams.calmradio.com:19228/;
+#EXTINF:-1, Calm Radio - Cafe Roma - 1
+http://proxy.calmradio.com:19228/;
+#EXTINF:-1, Calm Radio - Calm Country - 0
+http://streams.calmradio.com:13428/;
+#EXTINF:-1, Calm Radio - Calm Country - 1
+http://proxy.calmradio.com:13428/;
+#EXTINF:-1, Calm Radio - Cantatas - 0
+http://streams.calmradio.com:9028/;
+#EXTINF:-1, Calm Radio - Cantatas - 1
+http://proxy.calmradio.com:9028/;
+#EXTINF:-1, Calm Radio - Classical Christmas - 0
+http://streams.calmradio.com:18828/;
+#EXTINF:-1, Calm Radio - Classical Christmas - 1
+http://proxy.calmradio.com:18828/;
+#EXTINF:-1, Calm Radio - Claudio Monteverdi - 0
+http://streams.calmradio.com:15028/;
+#EXTINF:-1, Calm Radio - Claudio Monteverdi - 1
+http://proxy.calmradio.com:15028/;
+#EXTINF:-1, Calm Radio - Country Folk - 0
+http://streams.calmradio.com:13628/;
+#EXTINF:-1, Calm Radio - Country Folk - 1
+http://proxy.calmradio.com:13628/;
+#EXTINF:-1, Calm Radio - Country Folk - 2
+http://streams.calmradio.com/api/515/128/stream
+#EXTINF:-1, Calm Radio - Country Folk - 3
+http://proxy.calmradio.com/api/515/128/stream
+#EXTINF:-1, Calm Radio - Country Now - 0
+http://streams.calmradio.com:13828/;
+#EXTINF:-1, Calm Radio - Country Now - 1
+http://proxy.calmradio.com:13828/;
+#EXTINF:-1, Calm Radio - Country Rock - 0
+http://streams.calmradio.com:13728/;
+#EXTINF:-1, Calm Radio - Country Rock - 1
+http://proxy.calmradio.com:13728/;
+#EXTINF:-1, Calm Radio - Disco - 0
+http://streams.calmradio.com:17328/;
+#EXTINF:-1, Calm Radio - Disco - 1
+http://proxy.calmradio.com:17328/;
+#EXTINF:-1, Calm Radio - Disney - 0
+http://streams.calmradio.com:19528/;
+#EXTINF:-1, Calm Radio - Disney - 1
+http://proxy.calmradio.com:19528/;
+#EXTINF:-1, Calm Radio - Dmitri Shostakovich - 0
+http://streams.calmradio.com:12528/;
+#EXTINF:-1, Calm Radio - Dmitri Shostakovich - 1
+http://proxy.calmradio.com:12528/;
+#EXTINF:-1, Calm Radio - Domenico Scarlatti - 0
+http://streams.calmradio.com:14728/;
+#EXTINF:-1, Calm Radio - Domenico Scarlatti - 1
+http://proxy.calmradio.com:14728/;
+#EXTINF:-1, Calm Radio - Early Rock 60's - 0
+http://streams.calmradio.com:16128/;
+#EXTINF:-1, Calm Radio - Early Rock 60's - 1
+http://proxy.calmradio.com:16128/;
+#EXTINF:-1, Calm Radio - Early Rock 60's - 2
+http://streams.calmradio.com/api/583/128/stream
+#EXTINF:-1, Calm Radio - Early Rock 60's - 3
+http://proxy.calmradio.com/api/583/128/stream
+#EXTINF:-1, Calm Radio - Early Baroque - 0
+http://proxy.calmradio.com:14328/;
+#EXTINF:-1, Calm Radio - Early Baroque - 1
+http://streams.calmradio.com:14328/;
+#EXTINF:-1, CJMO 103.1 FM Moncton, NB
+http://newcap.leanstream.co/CJMOFM
+#EXTINF:-1, CKLH 102.9 FM Hamilton, ON (Canada only) - 0
+http://playerservices.streamtheworld.com/pls/CKLHFMAAC.pls
+#EXTINF:-1, CKLH 102.9 FM Hamilton, ON (Canada only) - 1
+http://playerservices.streamtheworld.com/pls/CKLHFM.pls
+#EXTINF:-1, CFCA 105.3 FM Kitchener, ON (Geoblocked - Canada only) - 0
+http://playerservices.streamtheworld.com/pls/CFCAFMAAC.pls
+#EXTINF:-1, CFCA 105.3 FM Kitchener, ON (Geoblocked - Canada only) - 1
+http://playerservices.streamtheworld.com/pls/CFCAFM.pls
+#EXTINF:-1, CJCH 101.3 FM Halifax, NS ( Geoblocking - Canada only) - 0
+http://provisioning.streamtheworld.com/pls/CJCHFMAAC.pls
+#EXTINF:-1, CJCH 101.3 FM Halifax, NS ( Geoblocking - Canada only) - 1
+http://provisioning.streamtheworld.com/pls/CJCHFM.pls
+#EXTINF:-1, CJPR 94.9 FM Blairmore, AB
+http://newcap.leanstream.co/CJPRFM
+#EXTINF:-1, CIHT 89.9 FM Ottawa, ON
+http://newcap.leanstream.co/CIHTFM
+#EXTINF:-1, CJMM 99.1 FM Rouyn-Noranda, QC (Geoblock - Canada only)
+http://playerservices.streamtheworld.com/pls/CJMMFMAAC.pls
+#EXTINF:-1, CJMV 102.7 FM Val d'Or, QC (Geoblock - Canada only)
+http://playerservices.streamtheworld.com/pls/CJMVFMAAC.pls
+#EXTINF:-1, CJAB 94.5 FM Saguenay, QC (Geoblock - Canada only) - 0
+http://provisioning.streamtheworld.com/pls/CJABFMAAC.pls
+#EXTINF:-1, CJAB 94.5 FM Saguenay, QC (Geoblock - Canada only) - 1
+http://provisioning.streamtheworld.com/pls/CJABFM.pls
+#EXTINF:-1, CJAB 94.5 FM Saguenay, QC (Geoblock - Canada only) - 2
+http://provisioning.streamtheworld.com/asx/CJABFM.asx
+#EXTINF:-1, CJAB 94.5 FM Saguenay, QC (Geoblock - Canada only) - 3
+http://playerservices.streamtheworld.com/api/livestream-redirect/CJABFM.mp3
+#EXTINF:-1, CIKI 98.7 FM Rimouski, QC (Geoblock - Canada only) - 0
+http://provisioning.streamtheworld.com/pls/CIKIFMAAC.pls
+#EXTINF:-1, CIKI 98.7 FM Rimouski, QC (Geoblock - Canada only) - 1
+http://provisioning.streamtheworld.com/pls/CIKIFM.pls
+#EXTINF:-1, CIKI 98.7 FM Rimouski, QC (Geoblock - Canada only) - 2
+http://provisioning.streamtheworld.com/asx/CIKIFM.asx
+#EXTINF:-1, CIKI 98.7 FM Rimouski, QC (Geoblock - Canada only) - 3
+http://playerservices.streamtheworld.com/api/livestream-redirect/CIKIFM.mp3
+#EXTINF:-1, CHOM 97.7 FM Montreal, QC (Geoblock - Canada only) - 0
+http://provisioning.streamtheworld.com/pls/CHOMFM.pls
+#EXTINF:-1, CHOM 97.7 FM Montreal, QC (Geoblock - Canada only) - 1
+http://provisioning.streamtheworld.com/asx/CHOMFM.asx
+#EXTINF:-1, CKMF 94.3 FM Montréal, QC (Geoblock - Canada only) - 0
+http://provisioning.streamtheworld.com/pls/CKMFFMAAC.pls
+#EXTINF:-1, CKMF 94.3 FM Montréal, QC (Geoblock - Canada only) - 1
+http://provisioning.streamtheworld.com/pls/CKMFFM.pls
+#EXTINF:-1, CKMF 94.3 FM Montréal, QC (Geoblock - Canada only) - 2
+http://provisioning.streamtheworld.com/asx/CKMFFM.asx
+#EXTINF:-1, CKMF 94.3 FM Montréal, QC (Geoblock - Canada only) - 3
+http://playerservices.streamtheworld.com/api/livestream-redirect/CKMFFM.mp3
+#EXTINF:-1, CKUL 96.5 FM Halifax, Nova Scotia
+http://newcap.leanstream.co/CKULFM
+#EXTINF:-1, Calm Radio - Christian - 0
+http://proxy.calmradio.com:3228/stream
+#EXTINF:-1, Calm Radio - Christian - 1
+http://streams.calmradio.com:3228/;
+#EXTINF:-1, Calm Radio - Movieola - 0
+http://proxy.calmradio.com:3128/stream
+#EXTINF:-1, Calm Radio - Movieola - 1
+http://streams.calmradio.com:3128/;
+#EXTINF:-1, Calm Radio - Celtic - 0
+http://proxy.calmradio.com:3028/stream
+#EXTINF:-1, Calm Radio - Celtic - 1
+http://streams.calmradio.com:3028/;
+#EXTINF:-1, Calm Radio - Classical Mix - 0
+http://proxy.calmradio.com:2828/stream
+#EXTINF:-1, Calm Radio - Classical Mix - 1
+http://streams.calmradio.com:2828/;
+#EXTINF:-1, Calm Radio - Latin Pop Charts - 0
+http://proxy.calmradio.com:20128/stream
+#EXTINF:-1, Calm Radio - Latin Pop Charts - 1
+http://streams.calmradio.com:20128/;
+#EXTINF:-1, Calm Radio - Samba Brazil - 0
+http://proxy.calmradio.com:20028/stream
+#EXTINF:-1, Calm Radio - Samba Brazil - 1
+http://streams.calmradio.com:20028/;
+#EXTINF:-1, Calm Radio - Reggae - 0
+http://proxy.calmradio.com:18928/stream
+#EXTINF:-1, Calm Radio - Reggae - 1
+http://streams.calmradio.com:18928/;
+#EXTINF:-1, Calm Radio - Sibelius - 0
+http://proxy.calmradio.com:15928/stream
+#EXTINF:-1, Calm Radio - Sibelius - 1
+http://streams.calmradio.com:15928/;
+#EXTINF:-1, Calm Radio - Christmas - 0
+http://proxy.calmradio.com:1428/stream
+#EXTINF:-1, Calm Radio - Christmas - 1
+http://streams.calmradio.com:1428/;
+#EXTINF:-1, Calm Radio - Country Classics - 0
+http://proxy.calmradio.com:13528/stream
+#EXTINF:-1, Calm Radio - Country Classics - 1
+http://streams.calmradio.com:13528/;
+#EXTINF:-1, Calm Radio - Giacomo Puccini - 0
+http://proxy.calmradio.com:13028/stream
+#EXTINF:-1, Calm Radio - Giacomo Puccini - 1
+http://streams.calmradio.com:13028/;
+#EXTINF:-1, Calm Radio - Solo Piano & Guitar - 0
+http://streams.calmradio.com/api/29/128/stream/;
+#EXTINF:-1, Calm Radio - Solo Piano & Guitar - 1
+http://streams.calmradio.com:1228/;
+#EXTINF:-1, Calm Radio - Eric Harry & Friends - 0
+http://streams.calmradio.com:30428/;
+#EXTINF:-1, Calm Radio - Eric Harry & Friends - 1
+http://proxy.calmradio.com:30428/stream
+#EXTINF:-1, Calm Radio - Folk - 0
+http://streams.calmradio.com:3528/;
+#EXTINF:-1, Calm Radio - Folk - 1
+http://proxy.calmradio.com:3528/stream
+#EXTINF:-1, Calm Radio - Wisdom - 0
+http://streams.calmradio.com:20628/;
+#EXTINF:-1, Calm Radio - Wisdom - 1
+http://streams.calmradio.com/api/972/128/stream
+#EXTINF:-1, Calm Radio - Wisdom - 2
+http://proxy.calmradio.com/api/972/128/stream
+#EXTINF:-1, Calm Radio - Wisdom - 3
+http://proxy.calmradio.com:20628/stream
+#EXTINF:-1, Calm Radio - Dreamtime - 0
+http://streams.calmradio.com:20428/;
+#EXTINF:-1, Calm Radio - Dreamtime - 1
+http://proxy.calmradio.com:20428/stream
+#EXTINF:-1, Calm Radio - Dreamtime - 2
+http://streams.calmradio.com/api/1052/128/stream
+#EXTINF:-1, Calm Radio - Dreamtime - 3
+http://proxy.calmradio.com/api/1052/128/stream
+#EXTINF:-1, Calm Radio - Balance - 0
+http://streams.calmradio.com:10728/stream
+#EXTINF:-1, Calm Radio - Balance - 1
+http://streams.calmradio.com:10756/stream
+#EXTINF:-1, Calm Radio - Balance - 2
+http://proxy.calmradio.com:10756/stream
+#EXTINF:-1, Calm Radio - Zen - 0
+http://streams.calmradio.com:14028/stream
+#EXTINF:-1, Calm Radio - Zen - 1
+http://streams.calmradio.com:14056/stream
+#EXTINF:-1, Calm Radio - Zen - 2
+http://proxy.calmradio.com:14056/stream
+#EXTINF:-1, Calm Radio - Aloha - 0
+http://streams.calmradio.com:15728/stream
+#EXTINF:-1, Calm Radio - Aloha - 1
+http://streams.calmradio.com:15756/stream
+#EXTINF:-1, Calm Radio - Aloha - 2
+http://proxy.calmradio.com:15756/stream
+#EXTINF:-1, Calm Radio - Reiki - 0
+http://streams.calmradio.com:9528/stream
+#EXTINF:-1, Calm Radio - Reiki - 1
+http://streams.calmradio.com:9556/stream
+#EXTINF:-1, Calm Radio - Reiki - 2
+http://proxy.calmradio.com:9556/stream
+#EXTINF:-1, Calm Radio - Doo Wop Forever - 0
+http://streams.calmradio.com:19028/stream
+#EXTINF:-1, Calm Radio - Doo Wop Forever - 1
+http://streams.calmradio.com:19056/stream
+#EXTINF:-1, Calm Radio - Doo Wop Forever - 2
+http://proxy.calmradio.com:19028/stream
+#EXTINF:-1, CHNO 103.9 FM Sudbury, ON - 0
+http://newcap.leanstream.co/CHNOFM-MP3
+#EXTINF:-1, CHNO 103.9 FM Sudbury, ON - 1
+http://newcap.leanstream.co/CHNOFM
+#EXTINF:-1, Radio Bellissima
+http://giorgia.radiobellissima.it:8000/stream
+#EXTINF:-1, Atlantide internet radio station
+http://eddie.torontocast.com:8210/stream
+#EXTINF:-1, Red Bull Radio - Fireside Chat
+http://stream.redbullradio.com/fireside-chat
+#EXTINF:-1, Red Bull Radio - Main
+http://stream.redbullradio.com/main
+#EXTINF:-1, Red Bull Radio - The Federation Sound
+http://stream.redbullradio.com/federation-sound
+#EXTINF:-1, Red Bull Radio - Earl Sweatshirt Stays Inside
+http://stream.redbullradio.com/earl-sweatshirt-stays-inside
+#EXTINF:-1, Red Bull Radio - All The Raps
+http://stream.redbullradio.com/all-raps
+#EXTINF:-1, Red Bull Radio - True Laurels
+http://stream.redbullradio.com/true-laurels
+#EXTINF:-1, Red Bull Radio - Peak Time
+http://stream.redbullradio.com/peak-time
+#EXTINF:-1, Red Bull Radio - Headphone Highlights
+http://stream.redbullradio.com/headphone-highlights
+#EXTINF:-1, Red Bull Radio - DIY
+http://stream.redbullradio.com/diy
+#EXTINF:-1, Radio Bluemoon
+http://sky1.torontocast.com:9085/stream
+#EXTINF:-1, CIDC 103.5 FM Toronto, ON (Geoblocked USA)
+http://ice66.securenetsystems.net/CIDC2
+#EXTINF:-1, CFWF 104.9 FM Regina, SK - 0
+https://aispool.streamon.fm/ais/CFWF.aac
+#EXTINF:-1, CFWF 104.9 FM Regina, SK - 1
+http://provisioning.streamtheworld.com/pls/CFWFFMAAC.pls
+#EXTINF:-1, CJLY 93.5 FM Nelson, BC - 0
+http://stream.cjly.net/24
+#EXTINF:-1, CJLY 93.5 FM Nelson, BC - 1
+http://stream.cjly.net:9353
+#EXTINF:-1, Cladrite Radio - 0
+http://hazel.torontocast.com:1515/stream
+#EXTINF:-1, Cladrite Radio - 1
+https://hazel.torontocast.com:1520/stream
+#EXTINF:-1, The Lynx Crick FM Retro 80s - 0
+http://www.lynxradionetwork.com/crikretroisdn.pls
+#EXTINF:-1, The Lynx Crick FM Retro 80s - 1
+http://www.lynxradionetwork.com/crikretroISDN.wax
+#EXTINF:-1, The Lynx Crick FM Retro 80s - 2
+http://www.lynxradionetwork.com/crikretrolo.pls
+#EXTINF:-1, The Lynx Crick FM Retro 80s - 3
+http://www.lynxradionetwork.com/crikretroisdn.m3u
+#EXTINF:-1, The Lynx Crick FM Super 70s - 0
+http://www.lynxradionetwork.com/crikisdn70s.pls
+#EXTINF:-1, The Lynx Crick FM Super 70s - 1
+http://www.lynxradionetwork.com/crik70slo.pls
+#EXTINF:-1, The Lynx Crick FM Super 70s - 2
+http://www.lynxradionetwork.com/crikisdn70s.m3
+#EXTINF:-1, The Lynx Crick FM Disco Classics - 0
+http://www.lynxradionetwork.com/crikdiscoisdn.pls
+#EXTINF:-1, The Lynx Crick FM Disco Classics - 1
+http://www.lynxradionetwork.com/crikdiscoisdn.wax
+#EXTINF:-1, The Lynx Crick FM Disco Classics - 2
+http://www.lynxradionetwork.com/crikdiscolo.pls
+#EXTINF:-1, The Lynx Crick FM Disco Classics - 3
+http://www.lynxradionetwork.com/crikdiscoisdn.m3u
+#EXTINF:-1, The Lynx Crick FM Classic Rock - 0
+http://www.lynxradionetwork.com/crikclassic.pls
+#EXTINF:-1, The Lynx Crick FM Classic Rock - 1
+http://www.lynxradionetwork.com/crikclassic.wax
+#EXTINF:-1, The Lynx Crick FM Classic Rock - 2
+http://www.lynxradionetwork.com/crikclassiclo.pls
+#EXTINF:-1, The Lynx Crick FM Classic Rock - 3
+http://www.lynxradionetwork.com/crikclassic.m3u
+#EXTINF:-1, CKHY 105.1 FM Halifax, NS  (Geoblocked USA)
+http://ice41.securenetsystems.net/CKHY
+#EXTINF:-1, The Lynx Crick FM Classic Hits
+http://listen.radionomy.com/crikfm-thelynxclassichits.m3u
+#EXTINF:-1, Calm Radio - Shazam Top 500
+http://148.72.152.10:18628/stream
+#EXTINF:-1, Atlantide CLASSICROOM
+http://cristina.torontocast.com:8040/stream
+#EXTINF:-1, AE - RadioStation
+http://31.172.85.98:8000/listen.pls?sid=2
+#EXTINF:-1, Alliance-Earth
+http://31.172.85.98:8000/listen.pls?sid=3

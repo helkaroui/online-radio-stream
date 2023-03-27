@@ -1,0 +1,117 @@
+#EXTM3U
+#EXTINF:-1, Radio Sistema Cristiano 89.3 FM
+http://realserver2.megalink.com:8120/
+#EXTINF:-1, Radio Betania - 0
+http://radiobetania.com/repros/betania-online-w-media.asx
+#EXTINF:-1, Radio Betania - 1
+http://radiobetania.com/repros/betania-online-list.pls
+#EXTINF:-1, Radio Panamericana FM 96.1
+http://www.megalink.biz/radio/panamericana/panamericana.pls
+#EXTINF:-1, Radio Sin Fronteras
+http://67.212.189.122:8119
+#EXTINF:-1, Bolivia Tierra Querida - Latinos
+http://67.212.179.138:7084
+#EXTINF:-1, Bolivia Tierra Querida - Folklor
+http://67.212.179.138:7080
+#EXTINF:-1, Radio Camargo 100.3 FM - 0
+http://aliasdns.info:8778/
+#EXTINF:-1, Radio Camargo 100.3 FM - 1
+http://aliasdns.info/player/camargo/camargo.asx
+#EXTINF:-1, Radio Capital 105.9 FM
+http://radios.imd.com.bo:7801/listen.pls
+#EXTINF:-1, Radio Majestad105.7 FM
+http://realserver2.megalink.com:8130/
+#EXTINF:-1, Voz de Vida - 0
+http://184.154.45.106:8106/stream
+#EXTINF:-1, Voz de Vida - 1
+http://stream.miradio.in:2199/tunein/vozdevida.asx
+#EXTINF:-1, Radio Ciudad Yacuiba FM 105.1
+http://server.streambolivia.com:9320
+#EXTINF:-1, Radio Uno 89.5 FM
+http://72.29.90.201:9092
+#EXTINF:-1, Radio Splendid 1220 AM
+http://www.boliviastreaming.com:7010/
+#EXTINF:-1, Radio FmBolivia 101.3 FM - Los Yungas
+http://72.29.90.201:7002/
+#EXTINF:-1, Radio Uchumachi 103.7 FM
+http://72.29.90.201:7006/
+#EXTINF:-1, Radio Maritima FM 100.9
+http://72.29.70.22:8078
+#EXTINF:-1, Radio Patria Nueva
+http://190.129.90.43:8000/;RadioOnline.mp3/;stream.nsv
+#EXTINF:-1, Radio Maria Bolivia - 0
+http://dreamsiteradiocp4.com:8022/
+#EXTINF:-1, Radio Maria Bolivia - 1
+http://cloudrad.io/radiomariabolivia/listen.asx
+#EXTINF:-1, Radio Disney Bolivia
+http://144.217.67.108:9156
+#EXTINF:-1, JHV Radio 93.5 FM
+http://radios.istbolivia.com:9898/;
+#EXTINF:-1, Radio Qhana FM 98.5
+http://stream.miradio.in:8402/stream?type=.mp3
+#EXTINF:-1, Radio Erbol
+http://208.85.5.254:7223/live
+#EXTINF:-1, 96.7 FM La Paz
+http://icecasthd.net:45019/live
+#EXTINF:-1, Audiokiss 90.7 FM
+http://radioserver1.us:7040/;
+#EXTINF:-1, Radio Transamericana Oruro
+http://95.154.254.151:15016/;stream.nsv
+#EXTINF:-1, Radio Melodía FM 99.1
+http://icecasthd.net:27148/live
+#EXTINF:-1, Radio El Deber 103.3 FM
+http://62.210.24.124:8612/live
+#EXTINF:-1, Radio Fides - La Paz, Bolivia
+http://192.99.17.12:6358/;
+#EXTINF:-1, Radio Kollasuyo 960 AM & 105.1 FM - 0
+http://www.radiokollasuyo.net/playlist.asx
+#EXTINF:-1, Radio Kollasuyo 960 AM & 105.1 FM - 1
+http://91.121.220.14:9962/;
+#EXTINF:-1, Studio 94 Radio Fucase - 0
+http://66.7.222.98:9302/stream/;
+#EXTINF:-1, Studio 94 Radio Fucase - 1
+http://66.7.222.98:9302/;
+#EXTINF:-1, Bolivia Tierra Querida - Clásicos
+http://67.212.179.138:7080/;
+#EXTINF:-1, Radio Mega DJ
+http://eu8.fastcast4u.com:5682/;
+#EXTINF:-1, Lobo del Aire Radio Bolivia
+http://server.streambolivia.com:7046/;
+#EXTINF:-1, Radio Potencia FM FM 101.2
+http://173.249.24.40:8000/stream
+#EXTINF:-1, Radio Deseo 103.3 FM
+http://195.154.56.114:9166/;.mp3
+#EXTINF:-1, Radio Estrella FM 93.1
+http://200.58.82.171:8000/;
+#EXTINF:-1, Radio Exito Bolivia
+http://stm16.srvstm.com:8460/;
+#EXTINF:-1, Radio Gente 88.9 FM y Radio Popular 900 AM
+http://91.121.220.14:9966/;
+#EXTINF:-1, Radio Integración 90.3 FM - Santa Cruz, Bolivia
+http://62.210.24.124:8339/live
+#EXTINF:-1, Radio Iyambae - 0
+http://eu8.fastcast4u.com/proxy/ideasuni?mp=/1
+#EXTINF:-1, Radio Iyambae - 1
+https://eu8.fastcast4u.com/proxy/ideasuni?mp=/1
+#EXTINF:-1, Radio LaBruja 89.5 FM - 0
+http://91.121.220.14:9952/;
+#EXTINF:-1, Radio LaBruja 89.5 FM - 1
+http://www.labrujafm.com/listen.pls
+#EXTINF:-1, Radio Nacional de Huanui
+http://45.43.200.82:23116/;
+#EXTINF:-1, Radio Zaz Online
+http://95.154.202.117:37171/;
+#EXTINF:-1, SCC - El Sonido de la Vida
+http://server.streambolivia.com:9890/;stream.mp3
+#EXTINF:-1, Stereo 97 - La Paz
+http://195.154.182.222:27147/live
+#EXTINF:-1, WKM Radio 91.3 FM
+http://edge-np.cdn.mdstrm.com/56043e8b1d2ab9904600002a.aac
+#EXTINF:-1, Radio Clásica FM 100.3 - Cochabamba
+http://radios.istbolivia.com:9976/;
+#EXTINF:-1, Radio Show FM 90.70 * Oruro
+http://radios.istbolivia.com:9984/;
+#EXTINF:-1, Classica 106.9 FM
+http://classicafm.scbbs.net:8000/;
+#EXTINF:-1, Radio Clasica 92.5 Potosi
+http://163.172.8.18:8068/stream

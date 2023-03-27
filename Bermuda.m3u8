@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1, Irie FM 98.3
+http://184.154.90.186:8231/
+#EXTINF:-1, Hott 107.5 FM - 0
+http://stream.abacast.net/playlist/interislandcom-alachuatempleliveaac-64.m3u
+#EXTINF:-1, Hott 107.5 FM - 1
+http://stream.abacast.net/playlist/interislandcom-alachuatemplelivemp3-64.m3u
+#EXTINF:-1, Hott 107.5 FM - 2
+http://icy2.abacast.com/interislandcom-alachuatempleliveaac-64
+#EXTINF:-1, Vibe 103 FM
+http://69.46.24.226:7099/mp3

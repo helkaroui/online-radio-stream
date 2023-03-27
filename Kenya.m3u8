@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:-1, Radio 316 Kenya
+http://direct.sharp-stream.com/familymedia.mp3
+#EXTINF:-1, Sound Asia FM
+http://196.207.21.198:88/stream?1427322384237.mp3
+#EXTINF:-1, Milele FM
+http://uk1-vn.mixstream.net:9986
+#EXTINF:-1, HBR 103.5 FM - 0
+http://91.121.165.88:8116/stream
+#EXTINF:-1, HBR 103.5 FM - 1
+http://shoutcast.citrus3.com:2199/tunein/johnrabar-stream.asx
+#EXTINF:-1, XFM 105.5
+http://streams.radioafricagroup.co.ke:88/broadwave.mp3?src=2&kbps=24
+#EXTINF:-1, Radio Maria Kenya - 0
+http://dreamsiteradiocp.com:8108/
+#EXTINF:-1, Radio Maria Kenya - 1
+http://cloudrad.io/radiomariakenya/listen.asx
+#EXTINF:-1, 92.2 Gukena FM - 0
+http://streams.radioafricagroup.co.ke:88/broadwave.mp3?src=6&rate=1&kbps=128
+#EXTINF:-1, 92.2 Gukena FM - 1
+http://streams.radioafricagroup.co.ke:88/broadwave.mp3?src=6&rate=1&kbps=64
+#EXTINF:-1, Ghetto Radio 89.5 FM
+http://45.79.138.31:8002/;
+#EXTINF:-1, Hope fm 93.3
+http://50.7.99.155:12087/radio
+#EXTINF:-1, Kubamba Radio 91.6 FM
+http://50.7.130.2:7834/stream
+#EXTINF:-1, Family Radio 316
+http://edge-audio-02-gos1.sharp-stream.com/familymedia.mp3
+#EXTINF:-1, Sound Asia FM 88.0
+http://196.207.21.198:88/stream
+#EXTINF:-1, Kass FM
+http://media.kassfm.co.ke:8006/live
+#EXTINF:-1, Star FM 105.9 FM
+http://217.21.124.75:88/broadwave.mp3?src=1&rate=1
+#EXTINF:-1, Kameme FM
+http://ample-zeno-03.radiojar.com/wxn43ghqtceuv
+#EXTINF:-1, Meru FM 88.3
+http://ample-zeno-12.radiojar.com/6fvassmqtceuv

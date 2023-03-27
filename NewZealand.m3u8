@@ -1,0 +1,403 @@
+#EXTM3U
+#EXTINF:-1, Fresh FM
+http://live.wizz.co.nz/ffm.m3u
+#EXTINF:-1, Static 88.1 FM - 0
+http://artsweb.aut.ac.nz:8000/listen.pls
+#EXTINF:-1, Static 88.1 FM - 1
+http://artsweb.aut.ac.nz:8002/listen.pls
+#EXTINF:-1, 107.5 andHow.FM - 0
+http://andhow.org/playlists/andhow.m3u
+#EXTINF:-1, 107.5 andHow.FM - 1
+http://andhow.org/playlists/andhow.pls
+#EXTINF:-1, 107.5 andHow.FM - 2
+http://andhow.org/playlists/masterlist.asx
+#EXTINF:-1, 107.5 andHow.FM - 3
+http://andhow.org/playlists/andhow.ram
+#EXTINF:-1, The Most 100.4 FM
+http://gordon.mostfm.com:8000/high
+#EXTINF:-1, Radio One, 91 FM Dunedin, NZ - 0
+http://stream.r1.co.nz:8090/listen.pls
+#EXTINF:-1, Radio One, 91 FM Dunedin, NZ - 1
+http://stream.r1.co.nz:8080/listen.pls
+#EXTINF:-1, Matariki FM
+http://amber.streamguys.com:4070/
+#EXTINF:-1, Radio Samoa 1593 AM
+http://radiosamoa.stream.broadcast.co.nz:8000/rsamoa48k
+#EXTINF:-1, RAG-FM
+http://70.38.12.44:8564/
+#EXTINF:-1, Radio BurgerFuel
+http://s2.stationplaylist.com:8130
+#EXTINF:-1, Base FM 107.3
+http://vtuner.com/setupapp/guide/asp/func/dynampls.asp?link=1&id=20367
+#EXTINF:-1, Radio Gaia FM
+http://stream.stationplaylist.com:8000
+#EXTINF:-1, Kiss-FM 106.9FM
+http://delicious.wavestreamer.com:5779/1
+#EXTINF:-1, Country Radio Invercargill 105.2 FM
+http://countryradio2.no-ip.org:8000
+#EXTINF:-1, Free FM 89
+http://live.wizz.co.nz/freefm
+#EXTINF:-1, Groove 107.7 FM
+http://live.outcastdigital.com:8000/groove
+#EXTINF:-1, Radio Robotic
+http://radiorobotic.zapto.org:8000/listen
+#EXTINF:-1, Radio Spice 88 FM
+http://202.37.78.176:8000/radiospicewebsiteaudio.mp3
+#EXTINF:-1, Radio Virsa NZ
+http://74.50.122.103:7992/
+#EXTINF:-1, Ragland Community Radio 98.1fm
+http://58.28.153.160/broadwave.mp3?src=1&rate=1
+#EXTINF:-1, Ski FM Network
+http://fire.wavestreamer.com:2943/Live
+#EXTINF:-1, Spellbound Harbour Radio 106.8 FM
+http://moon.wavestreamer.com:6518/stream/1/
+#EXTINF:-1, ZFM Non-Stop
+http://188.165.232.7:8545/
+#EXTINF:-1, Beach 106.3 FM
+http://www.mcbroadcasting.co.nz:8000/beach.mp3
+#EXTINF:-1, Humm fm 106.2 Auckland
+http://93.190.141.15:7004/humm_64.mp3
+#EXTINF:-1, The Flea 88.2 fm - 0
+http://49.50.246.42:8020/
+#EXTINF:-1, The Flea 88.2 fm - 1
+http://49.50.246.42:8030/
+#EXTINF:-1, Radio New Zealand National
+http://radionz-ice.streamguys.com/national.mp3
+#EXTINF:-1, Radio New Zealand Concert
+http://radionz-ice.streamguys.com/concert.mp3
+#EXTINF:-1, Cliff Richard Radio NZ
+http://s9.voscast.com:8032
+#EXTINF:-1, New Zealand Country Music Radio FM 107.3 (NZCMR)
+http://192.99.41.102:5044/stream
+#EXTINF:-1, Nga Iwi FM
+http://apple.irirangi.net:8000/D_Nga_Iwi.aac
+#EXTINF:-1, RDU 98.5 FM
+http://live.outcastdigital.com:8000/rdu
+#EXTINF:-1, World FM 88.2 FM Tawa, Wellington - 0
+http://vps.worldfm.co.nz:8882/worldfm.aac
+#EXTINF:-1, World FM 88.2 FM Tawa, Wellington - 1
+http://vps.worldfm.co.nz:8882/worldfm.mp3
+#EXTINF:-1, World FM 88.2 FM Tawa, Wellington - 2
+http://vps.worldfm.co.nz:8882/worldfm.ogg
+#EXTINF:-1, World FM 88.2 FM Tawa, Wellington - 3
+http://vps.worldfm.co.nz:8882/worldfmstereo.mp3
+#EXTINF:-1, Awa FM
+http://apple.irirangi.net:8000/O_Awa.aac
+#EXTINF:-1, Maniapoto FM
+http://apple.irirangi.net:8000/R_Maniapoto.aac
+#EXTINF:-1, Moana 98.2 FM & 1440 AM
+http://apple.irirangi.net:8000/C_Moana.aac
+#EXTINF:-1, Ngati Hine FM
+http://apple.irirangi.net:8000/N_Ngati_Hene.aac
+#EXTINF:-1, Radio Ngati Porou
+http://apple.irirangi.net:8000/K_Ngati_Porou.aac
+#EXTINF:-1, Raukawa FM
+http://apple.irirangi.net:8000/W_Raukava.aac
+#EXTINF:-1, Turanga FM
+http://apple.irirangi.net:8000/G_Turanga.aac
+#EXTINF:-1, Tuwharetoa FM
+http://apple.irirangi.net:8000/H_Tuwharetoa.aac
+#EXTINF:-1, Te Hiku FM
+http://apple.irirangi.net:8000/B_Te_Hiku_O_Te_Ika.aac
+#EXTINF:-1, Tautoko FM
+http://apple.irirangi.net:8000/J_Tautoko.aac
+#EXTINF:-1, Radio Waatea
+http://apple.irirangi.net:8000/I_Waatea.aac
+#EXTINF:-1, Radio Tainui
+http://apple.irirangi.net:8000/F_Tainui.aac
+#EXTINF:-1, Tumeke FM 96.9
+http://apple.irirangi.net:8000/S_Sun.aac
+#EXTINF:-1, Te Korimako o Taranaki 94.8 FM
+http://apple.irirangi.net:8000/L_Korimako.aac
+#EXTINF:-1, Radio Kahungunu FM
+http://apple.irirangi.net:8000/M_Kahungunu.aac
+#EXTINF:-1, Kia Ora FM
+http://apple.irirangi.net:8000/T_Kia_Ora.aac
+#EXTINF:-1, Tahu FM
+http://apple.irirangi.net:8000/P_Tahu.aac
+#EXTINF:-1, Atiawa Toa FM
+http://apple.irirangi.net:8000/Q_Atiawa_Toa.aac
+#EXTINF:-1, Power Hit FM 87.8 - Christchurch, NZ
+http://listen.powerhitfm.co.nz:16100/
+#EXTINF:-1, Sounz
+http://artsweb.aut.ac.nz:8006/
+#EXTINF:-1, The Pulse Radio
+http://173.255.253.156:8000/pulse
+#EXTINF:-1, Pumanawa FM
+http://apple.irirangi.net:8000/E_Pumanawa.aac
+#EXTINF:-1, One Double X Bay of Plenty
+http://radio.e-cast.co.nz/1xxone/stream.m3u8
+#EXTINF:-1, Apna 990 AM
+http://radio.e-cast.co.nz/apna/stream.m3u8
+#EXTINF:-1, Bayrock
+http://radio.e-cast.co.nz/bayrock/stream.m3u8
+#EXTINF:-1, Paekakariki 88.2FM
+http://icecast.groundtruth.co.nz:8000/paekakfm.mp3
+#EXTINF:-1, Te Upoko O Te Ika
+http://apple.irirangi.net:8000/A_Te_Upoko_O_Te_Ika.aac
+#EXTINF:-1, 87.8 FM Radio AustralNZ
+http://s2.stationplaylist.com:7038/listen.aac
+#EXTINF:-1, Radio Control 99.4 FM
+http://ice1.outcastdigital.com:8000/radiocontrol
+#EXTINF:-1, RadioActive.FM 88.6
+http://stream.radioactive.fm:8000/ractive.m3u
+#EXTINF:-1, Coast NZ
+http://vtuner.com/setupapp/guide/asp/func/dynampls.asp?link=1&id=19799
+#EXTINF:-1, Brian FM Marlborough
+http://brian1.streamon.fm:8000/BRIAN1-48k.aac
+#EXTINF:-1, Brian FM 99.7 Ashburton
+http://s40.myradiostream.com:10106/;
+#EXTINF:-1, Brian FM 88.8 Oamaru
+http://s40.myradiostream.com:10012/;
+#EXTINF:-1, Brian FM 105.5 Alexandra
+http://s40.myradiostream.com:10004/;
+#EXTINF:-1, Pulzar 105.7 FM
+http://198.105.216.204:8088/pulzarfm?1478540184107.aac
+#EXTINF:-1, 88.4 FM The Cheese - 0
+http://thecheese.ddns.net:8000/listen.pls
+#EXTINF:-1, 88.4 FM The Cheese - 1
+http://thecheese.ddns.net:8002/listen.pls
+#EXTINF:-1, East FM 88.1 107.1
+http://listen.eastfm.nz/stream.aac
+#EXTINF:-1, 95bFM
+http://streams.95bfm.com/stream128
+#EXTINF:-1, Life FM
+http://rhema-radio.streamguys1.com/rhema-lifefm.aac
+#EXTINF:-1, Rhema
+http://rhema-radio.streamguys1.com/rhema.mp3
+#EXTINF:-1, Classic Gold Radio Redwood 107.5 FM
+http://116.251.193.29:8020/;?type=http&nocache=11
+#EXTINF:-1, Star Radio
+http://rhema-radio.streamguys1.com/rhema-star.aac
+#EXTINF:-1, IRAI ISAI Radio
+http://janus.shoutca.st:9366/;
+#EXTINF:-1, The Plug 106.9
+http://s2.voscast.com:11614
+#EXTINF:-1, KIX 87.6 FM Wellinghton
+http://stream.amsmusic.co.nz:8178/stream
+#EXTINF:-1, One Christian Radio 107.7 & 87.6 FM
+http://radio.wsradio.net:33001/onechristianradio
+#EXTINF:-1, The Wireless 90.4 FM
+http://144.217.203.184:8045/;
+#EXTINF:-1, True Light FM 87.8
+http://stream.truelightfm.co.nz:8000/mp3
+#EXTINF:-1, XS80s
+http://s1.myradiostream.com:12508/
+#EXTINF:-1, Radio Eketahuna 106.5 FM
+http://stream.radioeketahuna.co.nz:8030
+#EXTINF:-1, Boosh.FM
+http://stream.boosh.fm:8000/boosh128mp3
+#EXTINF:-1, Waves of the Pacific 87.8 FM
+http://ice1.outcastdigital.com:8000/radiomapa
+#EXTINF:-1, Rush FM Radio Network
+http://rushbroadcasting.serverroom.us:5204/
+#EXTINF:-1, West FM Swing Radio 88.1 & 16.7 FM
+http://dledgar.dyndns.org:8000/westfm
+#EXTINF:-1, Calvary Chapel Radio
+http://184.154.90.186:8225/
+#EXTINF:-1, MAD FM Worldwide
+http://hyades.shoutca.st:8799/stream
+#EXTINF:-1, Jazz Cafe
+http://radio.wanderingsheep.tv:8000/jazzcafe
+#EXTINF:-1, Beep FM
+http://50.7.76.254:9847/stream//;stream/1
+#EXTINF:-1, Sun FM 106.5
+http://apple2.irirangi.net:8000/Taiohi.aac
+#EXTINF:-1, Radio Cook Islands, AM 630 kHz - 0
+http://www.vtuner.com/vtunerweb/mms/mms24442.asx
+#EXTINF:-1, Radio Cook Islands, AM 630 kHz - 1
+mms://202.65.34.10/radiocookislands
+#EXTINF:-1, Radio New Zealand Pacific - 0
+http://radionz-ice.streamguys.com/international.mp3
+#EXTINF:-1, Radio New Zealand Pacific - 1
+http://ihrcast1.radiomyway.co.nz/rnz-international
+#EXTINF:-1, Access Radio Taranaki 104.4FM
+http://pebbles.wizzhosting.co.nz/art
+#EXTINF:-1, Heads 106.4 FM
+http://144.217.195.24:8760/stream
+#EXTINF:-1, Sleep Radio
+http://149.56.234.138:8169/;
+#EXTINF:-1, Cruize Taranaki 105.2 Fm
+http://www.mcbroadcasting.co.nz:8000/cruize
+#EXTINF:-1, Magic Music FM 88.3 & 107.1
+http://103.8.17.9:9000/;
+#EXTINF:-1, Tama-Ohi Radio
+http://173.236.19.90:8174/;
+#EXTINF:-1, Easy 80s
+http://procyon.shoutca.st:8032/;
+#EXTINF:-1, More FM
+http://tunein-icecast.mediaworks.nz/more_128kbps
+#EXTINF:-1, Access Manawatu 999 AM - 0
+http://pebbles.wizzhosting.co.nz/am
+#EXTINF:-1, Access Manawatu 999 AM - 1
+http://live.wizz.co.nz/am
+#EXTINF:-1, Coast Access Radio 104.7 FM
+http://pebbles.wizzhosting.co.nz/car
+#EXTINF:-1, Radio Kidnappers 1431 AM & 104.7 FM
+http://pebbles.wizzhosting.co.nz/rk
+#EXTINF:-1, Radio Southland 96.4 FM
+http://pebbles.wizzhosting.co.nz/rs
+#EXTINF:-1, Otago Access Radio - (OAR) 105.4 FM - 0
+http://pebbles.wizzhosting.co.nz/tr
+#EXTINF:-1, Otago Access Radio - (OAR) 105.4 FM - 1
+http://live.wizz.co.nz/tr
+#EXTINF:-1, Mushroom FM
+http://199.180.75.27/
+#EXTINF:-1, Plains FM 96.9
+http://pebbles.wizzhosting.co.nz/pfm
+#EXTINF:-1, Auckland 80's - 0
+http://janus.shoutca.st/tunein/auckland.pls
+#EXTINF:-1, Auckland 80's - 1
+http://janus.shoutca.st/tunein/auckland.asx
+#EXTINF:-1, ZM Online
+http://ais-nzme.streamguys1.com/nz_008_aac
+#EXTINF:-1, Big River FM
+http://bigriver.broadcast.co.nz/bigriverfm
+#EXTINF:-1, More FM - Auckland 91.8 FM
+http://livestream.mediaworks.nz/radio_origin/more_128kbps/playlist.m3u8
+#EXTINF:-1, More FM - Marlborough 92.9 / 94.7 / 89.9 FM
+http://livestream.mediaworks.nz/radio_origin/more_[BELNHEIM]_128kbps/playlist.m3u8
+#EXTINF:-1, More FM - Christchurch 92.1 FM
+http://livestream.mediaworks.nz/radio_origin/more_[CHC]_128kbps/playlist.m3u8
+#EXTINF:-1, More FM - Dunedin 97.4 / 100.6  FM
+http://livestream.mediaworks.nz/radio_origin/more_[DUNEDIN]_128kbps/playlist.m3u8
+#EXTINF:-1, More FM - Gisborne / Wairoa 90.1 / 98.9 FM
+http://livestream.mediaworks.nz/radio_origin/more_[Gisbourne]_128kbps/playlist.m3u8
+#EXTINF:-1, More FM - Waikato 92.2 FM
+http://livestream.mediaworks.nz/radio_origin/more_[WAIKATO]_128kbps/playlist.m3u8
+#EXTINF:-1, More FM -  Hawkes Bay 88.7 FM
+http://livestream.mediaworks.nz/radio_origin/more_[HASTINGS]_128kbps/playlist.m3u8
+#EXTINF:-1, More FM - Wairarapa 89.5 FM
+http://livestream.mediaworks.nz/radio_origin/more_[MASTERTON]_128kbps/playlist.m3u8
+#EXTINF:-1, More FM - Manawatu 92.2 FM
+http://livestream.mediaworks.nz/radio_origin/more_[MANAWATU]_128kbps/playlist.m3u8
+#EXTINF:-1, More FM - Nelson 92.8 FM
+http://livestream.mediaworks.nz/radio_origin/more_[NELSON]_128kbps/playlist.m3u8
+#EXTINF:-1, More FM - Queenstown 92.0 FM
+http://livestream.mediaworks.nz/radio_origin/more_[QUEENSTOWN]_128kbps/playlist.m3u8
+#EXTINF:-1, More FM - Southland / Te Anau 89.2 / 96.0 FM
+http://livestream.mediaworks.nz/radio_origin/more_[SOUTHLAND]_128kbps/playlist.m3u8
+#EXTINF:-1, More FM - Taupo 93.6 FM
+http://livestream.mediaworks.nz/radio_origin/more_[TAUPO]_128kbps/playlist.m3u8
+#EXTINF:-1, More FM - Bay of Plenty 93.4 FM
+http://livestream.mediaworks.nz/radio_origin/more_[TAURANGA]_128kbps/playlist.m3u8
+#EXTINF:-1, More FM - Coromandel 90.3 / 89.9 / 93.9 / 89.1 / 97.2 FM
+http://livestream.mediaworks.nz/radio_origin/more_[THAMES]_128kbps/playlist.m3u8
+#EXTINF:-1, More FM - Taranaki 93.2 FM
+http://livestream.mediaworks.nz/radio_origin/more_[TARANAKI]_128kbps/playlist.m3u8
+#EXTINF:-1, More FM - Whanganui 92.8 FM
+http://livestream.mediaworks.nz/radio_origin/more_[WANAGANUI]_128kbps/playlist.m3u8
+#EXTINF:-1, More FM - Northland 91.6 FM
+http://livestream.mediaworks.nz/radio_origin/more_[NORTHLAND]_128kbps/playlist.m3u8
+#EXTINF:-1, More FM - Wellington 95.3 / 99.7 FM
+http://livestream.mediaworks.nz/radio_origin/more_[WLG]_128kbps/playlist.m3u8
+#EXTINF:-1, More FM - Rodney 88.9 / 97.8 / 93.6 FM - 0
+http://livestream.mediaworks.nz/radio_origin/more_[OREWA]_128kbps/playlist.m3u8
+#EXTINF:-1, More FM - Rodney 88.9 / 97.8 / 93.6 FM - 1
+http://livestream.mediaworks.nz/radio_origin/more_[OREWA]_128kbps/chunklist.m3u8
+#EXTINF:-1, More FM - Central Otago 90.3 / 94.3 FM
+http://livestream.mediaworks.nz/radio_origin/more_[QUEENSTOWN]_128kbps/playlist.m3u8
+#EXTINF:-1, More FM - Clutha 92.9 / 93.7 FM
+http://livestream.mediaworks.nz/radio_origin/more_[DUNEDIN]_128kbps/playlist.m3u8
+#EXTINF:-1, More FM - Horowhenua / Kapiti 90.3 FM
+http://livestream.mediaworks.nz/radio_origin/more_[WLG]_128kbps/playlist.m3u8
+#EXTINF:-1, More FM - Marlborough 92.9 / 94.7 / 89.9  FM
+http://livestream.mediaworks.nz/radio_origin/more_[BELNHEIM]_128kbps/playlist.m3u8
+#EXTINF:-1, More FM - Mid-Canterbury 94.9 / 98.9 FM
+http://livestream.mediaworks.nz/radio_origin/more_[TIMARU]_128kbps/playlist.m3u8
+#EXTINF:-1, More FM - North Otago 96.8 / 100 FM
+http://livestream.mediaworks.nz/radio_origin/more_[TIMARU]_128kbps/playlist.m3u8
+#EXTINF:-1, More FM - Rotorua 95.9 / 89.2 FM
+http://livestream.mediaworks.nz/radio_origin/more_[ROTORUA]_128kbps/playlist.m3u8
+#EXTINF:-1, More FM - South Canterbury 89.4 / 90.9 / 93.1 / 94.2 / 95.0 / 97.9 / 98.1 FM
+http://livestream.mediaworks.nz/radio_origin/more_[TIMARU]_128kbps/playlist.m3u8
+#EXTINF:-1, The Breeze 94.5 FM Canterbury
+http://livestream.mediaworks.nz/radio_origin/breeze_[cantebury]_128kbps/playlist.m3u8
+#EXTINF:-1, The Breeze 98.6 FM Manawatu
+http://livestream.mediaworks.nz/radio_origin/breeze_[Manawatu]_128kbps/playlist.m3u8
+#EXTINF:-1, The Breeze 97.6 FM Nelson
+http://livestream.mediaworks.nz/radio_origin/breeze_128kbps/playlist.m3u8
+#EXTINF:-1, The Breeze 93.4 FM Auckland
+http://livestream.mediaworks.nz/radio_origin/breeze_128kbps/playlist.m3u8
+#EXTINF:-1, The Breeze 99.4 FM Waikato
+http://livestream.mediaworks.nz/radio_origin/breeze_[Waikato]_128kbps/playlist.m3u8
+#EXTINF:-1, The Breeze 95.8 FM Tauranga
+http://livestream.mediaworks.nz/radio_origin/breeze_[TAURANGA]_128kbps/playlist.m3u8
+#EXTINF:-1, The Breeze 94.1 FM Wellington
+http://livestream.mediaworks.nz/radio_origin/breeze_[Wellington]_128kbps/playlist.m3u8
+#EXTINF:-1, The Edge - Auckland 94.2 FM
+http://livestream.mediaworks.nz/radio_origin/edge_128kbps/playlist.m3u8
+#EXTINF:-1, The Edge - Northland 94.0 FM
+http://livestream.mediaworks.nz/radio_origin/edge_[SOUTHLAND]_128kbps/chunklist.m3u8
+#EXTINF:-1, Mai FM - Auckland
+http://livestream.mediaworks.nz/radio_origin/maifm_128kbps/chunklist.m3u8
+#EXTINF:-1, Mai FM - Northland
+http://livestream.mediaworks.nz/radio_origin/maifm_[NORTHLAND]_128kbps/chunklist.m3u8
+#EXTINF:-1, Magic Auckland 702 AM
+http://livestream.mediaworks.nz/radio_origin/magic_128kbps/playlist.m3u8
+#EXTINF:-1, Magic Wellington 891 AM
+http://livestream.mediaworks.nz/radio_origin/magic_128kbps/playlist.m3u8
+#EXTINF:-1, Magic Christchurch 738 AM - 0
+http://tunein-icecast.mediaworks.nz/magic_christchurch_128kbps
+#EXTINF:-1, Magic Christchurch 738 AM - 1
+http://livestream.mediaworks.nz/radio_origin/magic_128kbps/playlist.m3u8
+#EXTINF:-1, Magic Invercargill 106 AM
+http://livestream.mediaworks.nz/radio_origin/magic_[SOUTHLAND]_128kbps/playlist.m3u8
+#EXTINF:-1, George FM - Club Classics
+http://livestream.mediaworks.nz/radio_origin/george_128kbps/playlist.m3u8
+#EXTINF:-1, RadioLIVE - Auckland 100.6 FM
+http://livestream.mediaworks.nz/radio_origin/radiolive_128kbps/playlist.m3u8
+#EXTINF:-1, The Rock - Auckland 90.2 FM
+http://livestream.mediaworks.nz/radio_origin/rock_128kbps/playlist.m3u8
+#EXTINF:-1, The Sound - Auckland 93.8 FM
+http://livestream.mediaworks.nz/radio_origin/sound_128kbps/playlist.m3u8
+#EXTINF:-1, The Heat 99.1 FM
+http://apple2.irirangi.net:8000/The_Heat.aac
+#EXTINF:-1, Niu FM - 103.8 FM Auckland - 0
+http://playerservices.streamtheworld.com/pls/NIUFMAAC.pls
+#EXTINF:-1, Niu FM - 103.8 FM Auckland - 1
+http://playerservices.streamtheworld.com/pls/NIUFM.pls
+#EXTINF:-1, Niu FM - 103.8 FM Auckland - 2
+http://18903.live.streamtheworld.com/NIUFM.mp3
+#EXTINF:-1, Radio Sport Extra NZ
+http://ais-nzme.streamguys1.com/nz_001/playlist.m3u8
+#EXTINF:-1, Radio 531pi - 0
+http://playerservices.streamtheworld.com/pls/531PIAAC.pls
+#EXTINF:-1, Radio 531pi - 1
+http://playerservices.streamtheworld.com/pls/531PI.pls
+#EXTINF:-1, Radio 531pi - 2
+http://19263.live.streamtheworld.com:3690/531PI_SC
+#EXTINF:-1, Flava
+http://ais-nzme.streamguys1.com/nz_010/playlist.m3u8
+#EXTINF:-1, The Hits
+http://ais-nzme.streamguys1.com/nz_005/playlist.m3u8
+#EXTINF:-1, Mix 98.2
+http://ais-nzme.streamguys1.com/nz_012/playlist.m3u8
+#EXTINF:-1, Radio Sport 1332 AM
+http://ais-nzme.streamguys1.com/nz_001/playlist.m3u8
+#EXTINF:-1, Newstalk ZB Christchurch - 0
+http://ais-nzme.streamguys1.com/nz_003_aac
+#EXTINF:-1, Newstalk ZB Christchurch - 1
+http://ais-nzme.streamguys1.com/nz_003/playlist.m3u8
+#EXTINF:-1, Newstalk ZB Auckland - 0
+http://ais-nzme.streamguys1.com/nz_002_aac
+#EXTINF:-1, Newstalk ZB Auckland - 1
+http://ais-nzme.streamguys1.com/nz_002/playlist.m3u8
+#EXTINF:-1, Newstalk ZB Wellington - 0
+http://ais-nzme.streamguys1.com/nz_004_aac
+#EXTINF:-1, Newstalk ZB Wellington - 1
+http://ais-nzme.streamguys1.com/nz_004/playlist.m3u8
+#EXTINF:-1, Radio Hauraki - 0
+http://ais-nzme.streamguys1.com/nz_009/playlist.m3u8
+#EXTINF:-1, Radio Hauraki - 1
+http://ais-nzme.streamguys1.com/nz_009_aac
+#EXTINF:-1, Radio Dunedin 95.4 FM, 106.7FM & 1305 AM
+http://livestream.mediaworks.nz/radio_origin/Radio_Dunedin/playlist.m3u8
+#EXTINF:-1, Planet FM 104.6
+https://cp12.shoutcheap.com:18220/stream
+#EXTINF:-1, http://www.coran.tk
+http://stream1.coran.tk:8005/;
+#EXTINF:-1, Wellington Access Radio - 106.1 FM
+http://live.wizz.co.nz/war
+#EXTINF:-1, XS90s 90s
+http://5.135.154.69:15392

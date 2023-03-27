@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1, Xelk Kurdistan 97.3 FM
+http://162.244.80.118:3088/stream
+#EXTINF:-1, Kurdistan 24
+http://edge.mixlr.com/channel/ajqeg
+#EXTINF:-1, Radio Rudaw music - 0
+http://audiostreaming.itworkscdn.com:9060/
+#EXTINF:-1, Radio Rudaw music - 1
+http://209.15.226.17:9060/stream
+#EXTINF:-1, Rudaw Radio
+http://209.15.226.17:9006/stream
+#EXTINF:-1, IraqiMix.com
+http://64.71.79.181:8012/stream/;
+#EXTINF:-1, Radio Nawa - Kurdish
+http://nawaradio2.primcast.com:1344/;stream.mp3
+#EXTINF:-1, Radio Nawa - Music
+http://nawaradio3.primcast.com:9122/;stream.mp3
+#EXTINF:-1, Radio Nawa - Arabic
+http://nawaradio.primcast.com:4098/;stream.mp3
+#EXTINF:-1, Kurd Mix
+http://s1.viastreaming.net:9175/;
+#EXTINF:-1, Babylon FM 99.3
+http://37.59.32.115:5137/
+#EXTINF:-1, Radio Sumer FM 99.9
+http://209.15.226.17:9012/stream
+#EXTINF:-1, Dengi Kurdsat 96.3
+http://radio.karwan.tv/karwan.tv/dengi-kurdsat/playlist.m3u8

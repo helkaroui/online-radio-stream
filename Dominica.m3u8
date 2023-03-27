@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1, DBS Radio 88.1 FM - 0
+http://dbsradio.primcast.com:6930/
+#EXTINF:-1, DBS Radio 88.1 FM - 1
+http://38.96.148.26:6930/
+#EXTINF:-1, DBS Radio 89.5 FM
+http://69.57.241.90/dbs895fm?MSWMExt=.asf
+#EXTINF:-1, Kairi FM
+http://199.189.115.207:8000/stream
+#EXTINF:-1, TDN Radio - 0
+http://tostream.vouscast.com:8050/stream;.mp3
+#EXTINF:-1, TDN Radio - 1
+https://vouscast.com/audio/tdnradio/playlist.php?name=listen.pls

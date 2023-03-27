@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1, Radio Shabella
+http://176.31.107.8:8069/stream?type=.mp3
+#EXTINF:-1, Radio Muqdisho
+http://ample-zeno-13.radiojar.com/y5sznyyfgd5tv.pls
+#EXTINF:-1, Radio Kulmiye FM 88.0
+http://37.59.47.192:8436/stream

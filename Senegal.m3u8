@@ -1,0 +1,35 @@
+#EXTM3U
+#EXTINF:-1, RTS Kolda FM 92.2
+http://shout.audionow.com:8000/ANRTSK
+#EXTINF:-1, RTS Tamba 92.0 FM
+http://shout.audionow.com:8000/ANRTST
+#EXTINF:-1, Baye Fall FM
+http://206.190.135.28:8264/stream
+#EXTINF:-1, Pikine Biz Radio
+http://s9.voscast.com:7994
+#EXTINF:-1, Radio Allo Dakar
+http://s4.streammonster.com:8520
+#EXTINF:-1, Radio Jiida FM Bakel
+http://sv2.vestaradio.com:6800/;stream.mp3
+#EXTINF:-1, Radio Sunuker
+http://radiosunuker223.primcast.com:6042/;
+#EXTINF:-1, Radio Tendouck
+http://178.32.219.72:8002/;
+#EXTINF:-1, Vibe Radio 102.3 FM
+http://vib.cdn.eurozet.pl/vib-sn.mp3
+#EXTINF:-1, RTS Chaine Nationale
+http://shout.audionow.com:8000/ANRTSChaineNationale
+#EXTINF:-1, RTS Thies 100.6 FM
+http://shout.audionow.com:8000/ANRTSThies
+#EXTINF:-1, Sud FM
+http://sudfmsenradio.ice.infomaniak.ch/sudfmsenradio.mp3
+#EXTINF:-1, Seneweb Radio - 0
+http://webcast.seneweb.com:8000/;
+#EXTINF:-1, Seneweb Radio - 1
+http://webcast.seneweb.com:8000/;stream/1/
+#EXTINF:-1, Radio Tetiane
+http://s30.streamerportal.com:8517/stream
+#EXTINF:-1, Dakar Musique - 0
+http://listen.senemultimedia.net:5266/;
+#EXTINF:-1, Dakar Musique - 1
+http://listen.radionomy.com/dakarmusique.m3u

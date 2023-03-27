@@ -1,0 +1,69 @@
+#EXTM3U
+#EXTINF:-1, Radio Vision 2000 - 0
+http://server79.sitegenial.com/tunein.php/vision2000/playlist.asx
+#EXTINF:-1, Radio Vision 2000 - 1
+http://75.125.48.26:9062
+#EXTINF:-1, La Brise FM 104.9
+http://s3.nexuscast.com:8088/
+#EXTINF:-1, Radio Kreyol FM - 0
+http://zafemradio.com:7247
+#EXTINF:-1, Radio Kreyol FM - 1
+http://zafemradio.com:7247
+#EXTINF:-1, Radyo Tipiti
+http://176.31.243.35:8000/stream
+#EXTINF:-1, Sainte Famille
+http://176.31.243.35:8004/stream
+#EXTINF:-1, Radio Galaxie 104.5 FM
+http://s4.voscast.com:7868
+#EXTINF:-1, Radio Lumiere Inter 103.1 FM
+http://s9.voscast.com:7654
+#EXTINF:-1, Radio One 90.1 FM
+http://shout.audionow.com:8000/radioonehaiti
+#EXTINF:-1, Radio Levekanpe Haiti 100.3 FM
+http://162.220.59.26:8002
+#EXTINF:-1, Radio Intermix 97.7 FM - 0
+http://sitegenial.com:8090/;stream.nsv
+#EXTINF:-1, Radio Intermix 97.7 FM - 1
+http://162.220.59.26:8090
+#EXTINF:-1, Trace FM Haiti
+http://chai5she.cdn.dvmr.fr/trace_fm_haiti-midfi.aac
+#EXTINF:-1, Radio L'Evangile
+http://usa13.fastcast4u.com:5812/;?.mp3
+#EXTINF:-1, Radio Lumiere 97.7 FM
+http://ample-zeno-05.radiojar.com/nnv5y5tuvg5tv
+#EXTINF:-1, Radio Nago
+http://38.107.243.218:8263
+#EXTINF:-1, Radio Pussance Divine
+http://usa7.fastcast4u.com:6045/;
+#EXTINF:-1, Radio Shalom Haiti
+http://ample-zeno-05.radiojar.com/k10x16fuvg5tv
+#EXTINF:-1, Radio Signal FM 90.5 - 0
+http://www.server79.sitegenial.com/tunein.php/signalfmhaiti/playlist.pls
+#EXTINF:-1, Radio Signal FM 90.5 - 1
+http://sitegenial.com:8012
+#EXTINF:-1, Radio Magik 9
+http://radiomagik9.primcast.com:7500/;stream.mp3
+#EXTINF:-1, Radio Caraibes FM - Port-au-Prince, Haiti
+http://149.56.155.73:8004/;
+#EXTINF:-1, Radio Television Caraibes
+http://ample-zeno-15.radiojar.com/k34s66uz20duv
+#EXTINF:-1, Konpa Mix Radio! - 0
+http://streaming.live365.com/a15951
+#EXTINF:-1, Konpa Mix Radio! - 1
+http://streaming.live365.com/a15951
+#EXTINF:-1, Konpa Mix Radio! - 2
+http://konpamix.com/play.m3u
+#EXTINF:-1, Konpa Mix Radio! - 3
+http://konpamix.com/play.pls
+#EXTINF:-1, RCH2000 96.1 FM
+http://ample-zeno-16.radiojar.com/4sqccruhey5tv
+#EXTINF:-1, Radio Sweet FM 99.7 MHz Port-au-Prince, Haiti
+http://ample-zeno-02.radiojar.com/stxdykmxqceuv
+#EXTINF:-1, Melodie FM 103.3 - 0
+http://melodiefm.primcast.com:9448/;
+#EXTINF:-1, Melodie FM 103.3 - 1
+http://www.primcast.com/asx/listen257459.m3u
+#EXTINF:-1, Melodie FM 103.3 - 2
+http://ample-zeno-13.radiojar.com/n61ybqb5d4duv
+#EXTINF:-1, Bon Déjeuner! Radio
+http://www.radioking.com/play/my-radio

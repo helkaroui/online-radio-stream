@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1, 100.2 Galaxy FM
+http://192.184.9.158:8638
+#EXTINF:-1, CBS Radio Buganda 89.2 FM
+http://s01.kezik.net:8000/cbs892-sept2015
+#EXTINF:-1, 91.3 Capital FM
+http://capitalradio-ug.com:8000/capital
+#EXTINF:-1, Connect Uganda Radio
+http://live01.kezik.net/connect
+#EXTINF:-1, Step FM 99.8
+http://np.techsysug.com:8010
+#EXTINF:-1, POWER FM 104.1
+http://edge.mixlr.com/channel/nunti
+#EXTINF:-1, Radio Maria Uganda - 0
+http://dreamsiteradiocp.com:8052/
+#EXTINF:-1, Radio Maria Uganda - 1
+http://cloudrad.io/radiomariauganda/listen.asx
+#EXTINF:-1, Hot100
+http://www.hot100.ug:8000/stream
+#EXTINF:-1, Radio Simba
+http://www.radiosimba.ug:8000/stream
+#EXTINF:-1, Open Gate FM 103.2 Mbale, Uganda
+http://np.techsysug.com:8030/;
+#EXTINF:-1, Radio Pacis - 0
+http://nr4.newradio.it:9424/stream
+#EXTINF:-1, Radio Pacis - 1
+http://178.32.139.86:9424/stream
+#EXTINF:-1, 107.0 Salt FM
+http://www.surfmusic.de/m3u/107-0-salt-fm,18859.m3u
+#EXTINF:-1, Radio Sapientia 94.4 FM
+http://live01.kezik.net/sapientia
+#EXTINF:-1, 100.4 Hills Fm Kabaale
+http://hills.techsysug.com:8032/;

@@ -1,0 +1,53 @@
+#EXTM3U
+#EXTINF:-1, DesiNetworks - 0
+http://192.99.8.192:3224/
+#EXTINF:-1, DesiNetworks - 1
+http://cp.usa1.fastcast4u.com:2199/tunein/indiarad.asx
+#EXTINF:-1, Desi Dance
+http://usa6.fastcast4u.com:5029/stream
+#EXTINF:-1, Power 98FM
+http://playerservices.streamtheworld.com/api/livestream-redirect/POWER98.mp3
+#EXTINF:-1, 88.3 Jia FM
+http://playerservices.streamtheworld.com/api/livestream-redirect/883JIA.mp3
+#EXTINF:-1, RS 987 FM
+http://mediacorp.rastream.com/987fm?
+#EXTINF:-1, RS Capital 95.8 FM
+http://mediacorp.rastream.com/958fm?
+#EXTINF:-1, RS Class 95 FM
+http://mediacorp.rastream.com/950fm
+#EXTINF:-1, RS Love 972 FM
+http://mediacorp.rastream.com/972fm?
+#EXTINF:-1, RS Oli 96.8 FM
+http://mediacorp.rastream.com/968fm?
+#EXTINF:-1, RS Ria 89.7 FM
+http://mediacorp.rastream.com/897fm?
+#EXTINF:-1, RS Warna 94.2 FM
+http://mediacorp.rastream.com/942fm?
+#EXTINF:-1, RS Yes 933
+http://mediacorp.rastream.com/933fm?
+#EXTINF:-1, RS Gold 905
+http://mediacorp.rastream.com/905fm?
+#EXTINF:-1, RS Symphony 924
+http://mediacorp.rastream.com/924fm?
+#EXTINF:-1, FM 96.3
+http://playerservices.streamtheworld.com/api/livestream-redirect/HAO_963AAC.aac?
+#EXTINF:-1, RS 938 NOW
+http://mediacorp.rastream.com/938fm?
+#EXTINF:-1, One Fm 91.3 - Real Music - 0
+http://playerservices.streamtheworld.com/pls/ONE_FM_913AAC.pls
+#EXTINF:-1, One Fm 91.3 - Real Music - 1
+http://playerservices.streamtheworld.com/pls/ONE_FM_913.pls
+#EXTINF:-1, One Fm 91.3 - Real Music - 2
+http://20663.live.streamtheworld.com/ONE_FM_913AAC.aac
+#EXTINF:-1, Kiss 92 FM - 0
+http://playerservices.streamtheworld.com/pls/KISS_92AAC.pls
+#EXTINF:-1, Kiss 92 FM - 1
+http://playerservices.streamtheworld.com/pls/KISS_92.pls
+#EXTINF:-1, Kiss 92 FM - 2
+https://20683.live.streamtheworld.com/KISS_92AAC.aac
+#EXTINF:-1, UFM 100.3 - 0
+http://playerservices.streamtheworld.com/pls/UFM_1003AAC.pls
+#EXTINF:-1, UFM 100.3 - 1
+http://playerservices.streamtheworld.com/pls/UFM_1003.pls
+#EXTINF:-1, UFM 100.3 - 2
+https://20683.live.streamtheworld.com/UFM_1003AAC.aac

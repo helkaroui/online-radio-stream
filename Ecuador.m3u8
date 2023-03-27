@@ -1,0 +1,111 @@
+#EXTM3U
+#EXTINF:-1, Prisa - Los 40 Principales » Ecuador
+http://streamingecuador.net:9340/los40principales
+#EXTINF:-1, Radio Morona 89.3 FM
+http://streamingecuador.com:8286/moronafm
+#EXTINF:-1, HCJB 89.3 FM
+http://streaming-aacplus.com:8287/hcjb
+#EXTINF:-1, HCJB 690 AM
+http://streaming-aacplus.com:8299/hcjb
+#EXTINF:-1, Coca-Cola FM - Ecuador - 0
+http://ic.imusicaradios.com.br:8000/ecuador.stream.http?url=radiosure
+#EXTINF:-1, Coca-Cola FM - Ecuador - 1
+http://ic.imusicaradios.com.br:8000/ecuador.stream.http.48k?url=radiosure
+#EXTINF:-1, Radio Maria Ecuador - 0
+http://dreamsiteradiocp4.com:8010/
+#EXTINF:-1, Radio Maria Ecuador - 1
+http://cloudrad.io/radiomariaecuador/listen.asx
+#EXTINF:-1, Radio Disney Ecuador
+http://streamingecuador.com:8001/radiodisneyecuador
+#EXTINF:-1, Radio Mágica 87.7 Online * Lo Mejor de los 80s - 0
+http://usa4.fastcast4u.com/proxy/malarrea?mp=/1
+#EXTINF:-1, Radio Mágica 87.7 Online * Lo Mejor de los 80s - 1
+http://usa4.fastcast4u.com:2199/tunein/malarrea.pls
+#EXTINF:-1, Radio Mágica 87.7 Online * Lo Mejor de los 80s - 2
+http://198.27.83.198:5140/listen.pls?sid=1
+#EXTINF:-1, Radio Mágica 87.7 Online * Lo Mejor de los 80s - 3
+http://usa4.fastcast4u.com:2199/tunein/malarrea.asx
+#EXTINF:-1, Radio Mágica 87.7 Online * Lo Mejor de los 80s - 4
+http://198.27.83.198/stream/malarrea.pls?mp=/stream
+#EXTINF:-1, EXA FM 92.5 - Ecuador - 0
+http://playerservices.streamtheworld.com/pls/ECUADORAAC.pls
+#EXTINF:-1, EXA FM 92.5 - Ecuador - 1
+http://playerservices.streamtheworld.com/pls/ECUADOR.pls
+#EXTINF:-1, Nipon Anime
+http://streaming.radionomy.com/RadioAnimeMX?lang=en-US&appName=iTunes.m3u
+#EXTINF:-1, Sonorama online - Señal en vivo - 103.5-103.7 MHz, FM, Guaranda
+http://stream.miradiohd.com:8067/stream
+#EXTINF:-1, Radio Colosal 1040 AM
+http://makrodigital.net:9062/radiocolosal
+#EXTINF:-1, Stereo Buenas Nuevas 95.3 FM
+http://plus.miradiohd.com:8044/stream
+#EXTINF:-1, Radio Nuevo Tiempo Ecuador - 0
+http://stream.novotempo.com:1935/radio/smil:rntQuitoEC.smil/playlist.m3u8
+#EXTINF:-1, Radio Nuevo Tiempo Ecuador - 1
+http://184.154.137.162:7036/radionuevotiempo
+#EXTINF:-1, Radio Sucre - 0
+http://makrodigital.com:8075/radiosucre
+#EXTINF:-1, Radio Sucre - 1
+http://streamingecuador.net:9316/;
+#EXTINF:-1, Radio Ecua Stereo
+http://192.95.18.39:5848/stream?type=http&nocache=25644
+#EXTINF:-1, Radio Macarena 92.1 FM, La Radio bonita!
+http://stream5.eltelon.com/macarena.aac
+#EXTINF:-1, EXA FM 93.9 - Ibarra
+http://195.154.182.222:27144/stream
+#EXTINF:-1, La Radio de Moda
+http://ample-zeno-14.radiojar.com/80t3fbm8tm5tv
+#EXTINF:-1, Radio Tropicálida Súper Stereo
+http://node-03.strongradiohost.com/qnb1tcrfnq5tv
+#EXTINF:-1, Amor Nueve 69
+http://190.99.72.142:8000/amornueve69
+#EXTINF:-1, Bendición Stereo
+http://sv2.globalmediahd.net:7006/stream3?sid=3
+#EXTINF:-1, Fm Mundo 98.1
+http://makrodigital.net:8066/fmmundo
+#EXTINF:-1, La 961 - LA SUPREMA ESTACION
+http://makrodigital.net:7644/radiola961
+#EXTINF:-1, Ecua Chicherita
+http://usamedios.enhd.co:8719/;
+#EXTINF:-1, La Voz del Tomebamba
+http://www.makrodigital.com:8074/lavozdeltomebamba
+#EXTINF:-1, Radio Mega 103.3 FM Ecuador
+http://www.grupomundodigital.com:8509/megahd
+#EXTINF:-1, RADIO CATÓLICA NACIONAL
+http://rcnuio.sytes.net:8000/stream
+#EXTINF:-1, Radio El Rocio 1370 AM - Biblian, Ecuador
+http://makrodigital.net:8215/rocio
+#EXTINF:-1, Radio Monumental 1510 AM - Quito
+http://str.ecuastreaming.com:9332/;
+#EXTINF:-1, Radio Podocarpus 98.1 FM - Zamora
+http://play.enhd.co:9000/stream
+#EXTINF:-1, Radio Serenidad
+http://5.135.183.124:8440/stream
+#EXTINF:-1, radio zona mistica - 0
+http://69.175.94.98:8011/;
+#EXTINF:-1, radio zona mistica - 1
+https://cp5.shoutcheap.com:2199/tunein/radiozonamistica.pls
+#EXTINF:-1, Ecuador Inmediato Radio
+http://grupomundodigital.com:8607/stream
+#EXTINF:-1, Radio Mas - Quito - 0
+http://5.133.182.164:32270/;
+#EXTINF:-1, Radio Mas - Quito - 1
+http://5.133.182.164:32270/;
+#EXTINF:-1, Radio Punto Por Punto Platino
+http://162.210.196.142:23476/stream
+#EXTINF:-1, Radio La Red
+http://200.105.233.4:1050/;
+#EXTINF:-1, Radio Caravana - 0
+http://makrodigital.net:8006/radiocaravana
+#EXTINF:-1, Radio Caravana - 1
+https://streamingecuador.net:8006/radiocaravana
+#EXTINF:-1, Radio Centro Quito
+http://makrodigital.com:8334/radiocentroquito
+#EXTINF:-1, Radio Quito 760 AM - 0
+http://makrodigital.com:8332/Radio_Quito
+#EXTINF:-1, Radio Quito 760 AM - 1
+http://streamingecuador.net:8332/radioquito
+#EXTINF:-1, JC Radio FM
+http://labruja.loweserver.es:8000/stream2
+#EXTINF:-1, Radio Cadena Democracia Quito
+http://makrodigital.net:9048/radiodemocracia

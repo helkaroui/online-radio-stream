@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1, WAXJ The Reef 103.5
+http://ic2.nwrnetwork.com/waxj-fm?type=.mp3
+#EXTINF:-1, WDHP The Reef 1620 AM
+http://ic2.mainstreamnetwork.com/wdhp-am?type=.mp3
+#EXTINF:-1, LEGVI Radio
+http://listen.shoutcast.com/LEGVIRadio
+#EXTINF:-1, WMYP 98.3 FM  Frederiksted, U.S. Virgin Islands
+http://208.84.199.84:8087/broadwave.mp3
+#EXTINF:-1, WMNG 104.9 FM Christiansted, U.S. Virgin Islands
+http://208.84.199.84:8086/broadwave.mp3
+#EXTINF:-1, WJKC 95.1 FM Christiansted, VI
+http://208.84.199.84:8084/broadwave.mp3
+#EXTINF:-1, WLDV 107.9 FM Frederiksted, U.S. Virgin Islands
+http://radio.securenetsystems.net/v5/WLDV
+#EXTINF:-1, WSTX 970 AM Christiansted, U.S. Virgin Islands
+http://wstxradio2.serverroom.net:8340/;
+#EXTINF:-1, WSTX 100.3 FM Christiansted, U.S. Virgin Islands
+http://wstxradio.serverroom.net:7490/;
+#EXTINF:-1, WUVI 97.3 LP John Brewers Bay, U.S. Virgin Islands
+http://kpftx.org:8000/wuvi_32
+#EXTINF:-1, WIVH 89.9 FM Christiansted, U.S. Virgin Islands - 0
+http://nyc04.egihosting.com:4314/;
+#EXTINF:-1, WIVH 89.9 FM Christiansted, U.S. Virgin Islands - 1
+http://www.wrgn.com/listenonline.php
+#EXTINF:-1, WVSE 91.9 FM Christiansted, U.S. Virgin Islands - 0
+http://ample-zeno-10.radiojar.com/469d3eyw0k5tv
+#EXTINF:-1, WVSE 91.9 FM Christiansted, U.S. Virgin Islands - 1
+http://ample-zeno-05.radiojar.com/469d3eyw0k5tv?listenerSessionId=5b9b1f4c0101006e0f38410b&rj-ttl=5&contentId=56756&listenerToken=5b9b1ef90201009693ce3edc&callType=widget&gatewayId=53012&rj-token=AAABZdX7br0qifZrAiNXnes4BGG5WggX4udFPU2dBn4EA4M7sqBlrA
+#EXTINF:-1, WVIE 107.3 FM Charlotte Amalie, U.S. Virgin Islands
+https://58748bacc0282.streamlock.net/visland/visland/playlist.m3u8
+#EXTINF:-1, WVVI 93.5 FM Christiansted, U.S. Virgin Islands
+http://208.84.199.84:8088/broadwave.mp3

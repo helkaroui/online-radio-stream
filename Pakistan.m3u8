@@ -1,0 +1,51 @@
+#EXTM3U
+#EXTINF:-1, Kompis FM
+http://37.187.90.121:4196
+#EXTINF:-1, Radio Karachifm
+http://s3.voscast.com:8450
+#EXTINF:-1, PBC - Saut-ul-Quran
+http://210.56.24.230:8004/
+#EXTINF:-1, PBC - NCAC
+http://210.56.24.230:8000/
+#EXTINF:-1, PBC - Varsa
+http://210.56.24.230:8002/
+#EXTINF:-1, PBC - Regional
+http://210.56.24.230:8008/
+#EXTINF:-1, PBC - Radio Pakistan Urdu
+http://210.56.24.230:8040/
+#EXTINF:-1, PBC - FM 101 Karachi
+http://210.56.24.230:8036/
+#EXTINF:-1, PBC - FM 101
+http://210.56.24.230:8006/
+#EXTINF:-1, PBC - FM 101 Mirpur AJK
+http://210.56.24.230:8030/
+#EXTINF:-1, PBC - Skardu
+http://210.56.24.230:8024/
+#EXTINF:-1, PBC - Isb Station
+http://210.56.24.230:8044/
+#EXTINF:-1, PBC - Gilgit
+http://210.56.24.230:8026/
+#EXTINF:-1, Radio1 FM91 - Karachi Stream
+http://172.93.237.106:8147/;
+#EXTINF:-1, Radio1 FM91 - Gwadar Stream
+http://172.93.237.106:8209/;
+#EXTINF:-1, Radio1 FM91 - Islamabad Stream
+http://172.93.237.106:8191/;
+#EXTINF:-1, Radio1 FM91 - Lahore Stream
+http://172.93.237.106:8359/;
+#EXTINF:-1, Samaa FM - 0
+http://audio.samaafm.com:8010/stream
+#EXTINF:-1, Samaa FM - 1
+http://38.96.148.106:8010/;
+#EXTINF:-1, CityFm 89
+http://54.69.118.153:8081/live
+#EXTINF:-1, Radio Islamabad (web)
+http://158.69.227.214:8155/;
+#EXTINF:-1, The Magic Radio - 0
+http://s2.bizwebsolution.net:8173/;
+#EXTINF:-1, The Magic Radio - 1
+http://s2.bizwebsolution.net:8173/;stream.mp3
+#EXTINF:-1, Mast FM 103 Karachi
+http://110.36.229.158:8000/;
+#EXTINF:-1, Hot FM 105
+http://172.93.237.106:8000/;

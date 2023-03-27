@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1, Come Back Radio Montuno
+http://s8.voscast.com:7000/;stream.mp3
+#EXTINF:-1, Cubania Radio
+http://streaming.radionomy.com/cubania?lang=en-US&appName=iTunes.m3u
+#EXTINF:-1, Radio Cubana - 0
+http://streaming.radionomy.com/Radio-Cubana?lang=en-US&appName=iTunes.m3u
+#EXTINF:-1, Radio Cubana - 1
+http://listen.radionomy.com/radio-cubana.m3u
+#EXTINF:-1, Cuba HE - 0
+http://streaming.radionomy.com/CubaHE?lang=en-US&appName=iTunes.m3u
+#EXTINF:-1, Cuba HE - 1
+http://listen.radionomy.com/cubahe.m3u
+#EXTINF:-1, WLJR Latin Jazz Radio - online radio (not WLJR 88.5 FM Brimingham, AL)
+http://ca7.rcast.net:8050/;stream/1
+#EXTINF:-1, Radio Habana Cuba
+https://icecast.teveo.icrt.cu/McW3fLhs
+#EXTINF:-1, ICRT Radio CMBF Musical Nacional 99.1 FM 590 AM
+https://icecast.teveo.icrt.cu/Nbtz7HT3
+#EXTINF:-1, ICRT Radio Progreso
+https://icecast.teveo.icrt.cu/XjfW7qWN
+#EXTINF:-1, ICRT Radio Rebelde AM 540, 550, 560, 600, 610, 620, 670, 710, and 770
+https://icecast.teveo.icrt.cu/kHKL7tWd
+#EXTINF:-1, ICRT Radio Rebelde 96.7 FM
+https://icecast.teveo.icrt.cu/zrXXWK9F
+#EXTINF:-1, ICRT Radio Habana Cuba
+https://icecast.teveo.icrt.cu/McW3fLhs
+#EXTINF:-1, ICRT Radio Enciclopedia 94.1 FM
+https://icecast.teveo.icrt.cu/9Rnrbjzq
+#EXTINF:-1, ICRT Radio Taíno 93.3 FM
+https://icecast.teveo.icrt.cu/b3jbfThq

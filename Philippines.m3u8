@@ -1,0 +1,71 @@
+#EXTM3U
+#EXTINF:-1, DZRH MBC-Manila
+http://eradioportal.com/asxfile/dzrh_prepys.asx
+#EXTINF:-1, V-Hive Radio
+http://192.99.8.192:3154
+#EXTINF:-1, Monster Radio RX 93.1 Manila - 0
+http://icecast.eradioportal.com:8000/monsterrx
+#EXTINF:-1, Monster Radio RX 93.1 Manila - 1
+mms://bayantel-ss.dagupan.com/monsterrx
+#EXTINF:-1, Smileradio807
+http://s5.voscast.com:8226
+#EXTINF:-1, DZAS FEBC-Manila - 0
+http://icecast.eradioportal.com:8000/febc_dzas
+#EXTINF:-1, DZAS FEBC-Manila - 1
+http://www.eradioportal.com/asxfile/702dzas.asx
+#EXTINF:-1, DZFE 98.7 Master's Touch
+http://icecast.eradioportal.com:8000/febc_dzfe
+#EXTINF:-1, RX Cebu 105.9 FM
+http://icecast.eradioportal.com:8000/rxcebu
+#EXTINF:-1, Radio Maria Philippines - 0
+http://dreamsiteradiocp.com:8028/
+#EXTINF:-1, Radio Maria Philippines - 1
+http://cloudrad.io/radiomariaphilippine/listen.asx
+#EXTINF:-1, Rakista Radio - 0
+http://206.190.138.196:8000/listen128.mp3
+#EXTINF:-1, Rakista Radio - 1
+http://206.190.138.196:8000/listen.mp3
+#EXTINF:-1, Rakista Radio - 2
+http://206.190.138.196:8000/listen32.mp3
+#EXTINF:-1, 90.7 Love Radio Manila
+http://manilabr.radioca.st/;
+#EXTINF:-1, Radio Pilipinas - 0
+http://eu3.radioboss.fm:8067/stream
+#EXTINF:-1, Radio Pilipinas - 1
+https://eu3.radioboss.fm:2199/tunein/radiopil.pls
+#EXTINF:-1, Radio Pilipinas - 2
+https://eu3.radioboss.fm:2199/tunein/radiopil.asx
+#EXTINF:-1, Radio Pilipinas - 3
+https://eu3.radioboss.fm:2199/tunein/radiopil.ram
+#EXTINF:-1, Bestfriend FM
+http://178.32.62.172:8217/;stream1516989812203/1
+#EXTINF:-1, UP-FM 87.5 - 0
+http://202.92.129.132/mp3/
+#EXTINF:-1, UP-FM 87.5 - 1
+http://202.92.129.132/listen.pls?sid=2
+#EXTINF:-1, UP-FM 87.5 - 2
+http://202.92.129.132/listen.pls?sid=3
+#EXTINF:-1, Crossover 105.1 Manila
+http://icecast.eradioportal.com:8000/crossovercd?type=.mpeg
+#EXTINF:-1, Hitz 983
+http://108.61.23.237:8002/;
+#EXTINF:-1, DXCM 97.9 Love Radio Zamboanga
+http://hyades.shoutca.st:8146/stream/1/
+#EXTINF:-1, DXHT Yes! FM 102.7 Zamboanga
+http://jegalang.radioca.st:8500/stream
+#EXTINF:-1, DWYS Yes! FM 101.1 Manila
+http://jegalang.radioca.st/;
+#EXTINF:-1, DWNU - Wish 107.5  Quezon City
+http://untv.mmdlive.lldns.net/untv/755d0553cdee4631ae561a3897874d51/manifest.m3u8
+#EXTINF:-1, Easy Rock 96.3 Manila
+http://ezstream.mbcradio.net:8081/ezrock.ogg
+#EXTINF:-1, Katropa FM - 143.8 FM
+http://s2.voscast.com:12454/;
+#EXTINF:-1, Pinoy Radio
+http://usa5.fastcast4u.com:16224/stream
+#EXTINF:-1, DWIZ 882 AM
+http://streamingv2.shoutcast.com/DWIZMANILA
+#EXTINF:-1, Kada Radio
+http://fr1.amfmph.com:2199/tunein/paulmcke.asx
+#EXTINF:-1, Radyo Natin
+http://ph-icecast-win.eradioportal.com:8000/radyo_natin

@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1, Radio Samleng Khemara
+http://167.114.64.181:8570/;
+#EXTINF:-1, RNK AM 918 - 0
+http://119.82.252.6:8080/
+#EXTINF:-1, RNK AM 918 - 1
+mms://119.82.252.6:8080/
+#EXTINF:-1, RNK FM 105.70 - 0
+http://119.82.252.6:8181/
+#EXTINF:-1, RNK FM 105.70 - 1
+mms://119.82.252.6:8181/

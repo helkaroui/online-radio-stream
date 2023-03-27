@@ -1,0 +1,57 @@
+#EXTM3U
+#EXTINF:-1, 988FM Radio Station Malaysia
+http://starrfm.rastream.com/starrfm-988?
+#EXTINF:-1, KCFM Malaysia
+http://72.20.10.33:8000
+#EXTINF:-1, Sinar FM 96.7
+http://astro2.rastream.com/sinar
+#EXTINF:-1, RTM Pahang FM 104.1
+http://115.133.145.203:8000/
+#EXTINF:-1, RTM Terengganu FM 88.7
+http://218.208.228.62:8000/;
+#EXTINF:-1, Radio Red FM
+http://124.82.221.137:8000/listen.pls
+#EXTINF:-1, RTM Kedah FM - Alor Star, Malaysia
+http://60.51.214.210:5555/;stream.mp3
+#EXTINF:-1, Cats 97.9 FM
+http://206.190.133.196:7111/stream/;
+#EXTINF:-1, RTM Kelantan FM 102.9
+http://dkmgz1nucppmx.cloudfront.net/rtm-ch032/playlist.m3u8
+#EXTINF:-1, RTM Perlis FM 102.9
+http://dkmgz1nucppmx.cloudfront.net/rtm-ch040/playlist.m3u8
+#EXTINF:-1, Cahaya.FM
+http://stream.cahayafm.com:8000/cahaya.mp3
+#EXTINF:-1, CeriaFM
+http://72.20.10.44:8080/;
+#EXTINF:-1, dunia muzik fm
+http://185.109.169.80:8000/;
+#EXTINF:-1, Malaysia One Radio Station
+http://50.7.70.58:8735/;
+#EXTINF:-1, MUTIARAfm
+http://110.159.202.2:8080/;stream.nsv&type=mp3
+#EXTINF:-1, My.com -  My Fm
+http://astro1.rastream.com/myfm
+#EXTINF:-1, My.com - Lite
+http://astro1.rastream.com/lite
+#EXTINF:-1, My.com - Hitz
+http://astro1.rastream.com/hitz
+#EXTINF:-1, Red FM
+http://124.82.221.137:8000/;
+#EXTINF:-1, Bapakku.fm
+http://radio.bapakku.fm:8000/;
+#EXTINF:-1, Durian FM
+http://s3.voscast.com:7140
+#EXTINF:-1, Suria FM 105.3 FM
+http://starrfm.rastream.com/starrfm-suria
+#EXTINF:-1, Best FM 104.1 FM
+http://s8.voscast.com:8686/;stream.mp3
+#EXTINF:-1, Era FM 103.3 FM
+http://astro2.rastream.com/era
+#EXTINF:-1, Melody FM 103 FM
+http://astro3.rastream.com/melody
+#EXTINF:-1, Mix FM 94.5 FM
+http://astro2.rastream.com/mix
+#EXTINF:-1, Cili FM
+http://72.20.10.36:8000/;
+#EXTINF:-1, Bernama Radio 93.9 FM
+http://78.129.187.73:36677/;

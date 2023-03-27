@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1, Radio UFM KSA Riyadh 90.0FM
+http://104.200.150.186:8000/;stream.mp3
+#EXTINF:-1, Radio Star KSA Riyadh 90.9FM
+http://s10.voscast.com:8284
+#EXTINF:-1, Radio Alif Alif Mecca FM 102.5 - 0
+http://www.alifaliffm.com:8800/AlifAlif.mp3
+#EXTINF:-1, Radio Alif Alif Mecca FM 102.5 - 1
+http://www.surfmusic.de/m3u/alif-alif-fm,15961.m3u
+#EXTINF:-1, Radio Mix FM 105.5 SA, Jeddah
+http://s2.voscast.com:11376/live
+#EXTINF:-1, RadioSunna
+http://andromeda.shoutca.st:8189/stream
+#EXTINF:-1, Radio Quraan
+http://66.45.232.131:9994/;

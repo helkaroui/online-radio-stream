@@ -1,0 +1,201 @@
+#EXTM3U
+#EXTINF:-1, Ruut FM
+http://web.mmm.elion.ee/ruutfm.asx
+#EXTINF:-1, Raadio Elmar - 0
+http://striiming.trio.ee/elmar.mp3.m3u
+#EXTINF:-1, Raadio Elmar - 1
+http://striiming.trio.ee:8008/elmar64.mp3.m3u
+#EXTINF:-1, Sooviraadio
+http://media.uunox.net:8888/listen.pls
+#EXTINF:-1, Netiraadio - Folgi sõbrad
+http://www.netiraadio.ee:8000/folgisobrad
+#EXTINF:-1, Kuressaare Pereraadio
+http://mmm.elion.ee/kurpre.asx
+#EXTINF:-1, Pereraadio
+http://bee.pereraadio.ee:8000/listen.pls
+#EXTINF:-1, Raadio Kadi
+http://icecast.mmm.elion.ee:8080/Kadi.m3u
+#EXTINF:-1, Narodnoe Radio Estonia
+http://striiming.trio.ee/narodnoe.mp3.m3u
+#EXTINF:-1, Artekon Raadio Tallinn - 0
+http://listen1.myradio24.com:9000/5566
+#EXTINF:-1, Artekon Raadio Tallinn - 1
+http://laradiofm.com/download/411-en-m3u/
+#EXTINF:-1, Artekon Raadio Tallinn - 2
+http://laradiofm.com/download/411-en-ram-96/
+#EXTINF:-1, HIT FM - 0
+http://37.0.26.55/HitFM_192
+#EXTINF:-1, HIT FM - 1
+http://37.0.26.55/HitFM_192-ogg
+#EXTINF:-1, Power Hit Radio
+http://stream.power.ee/PHR.m3u
+#EXTINF:-1, ERR Klassikaraadio - 0
+http://icecast.err.ee/klassikaraadio.mp3.m3u
+#EXTINF:-1, ERR Klassikaraadio - 1
+http://icecast.err.ee:80/klassikaraadio.mp3
+#EXTINF:-1, ERR Raadio Tallinn FM 103.5 MHZ
+http://icecast.err.ee/raadiotallinn.mp3
+#EXTINF:-1, Netiraadio - Üllata mind
+http://www.netiraadio.ee:8000/yllatamind
+#EXTINF:-1, Netiraadio - Teistsugune
+http://www.netiraadio.ee:8000/teistsugune
+#EXTINF:-1, Generaadio
+http://stream.generaadio.ee:8000/airtime_128
+#EXTINF:-1, Tre Raadio 91.3 FM Rapla - 0
+http://tre.ee/listen/radiotre.pls
+#EXTINF:-1, Tre Raadio 91.3 FM Rapla - 1
+http://tre.ee/listen/radiotre.asx
+#EXTINF:-1, Tre Raadio 91.3 FM Rapla - 2
+http://tre.ee/listen/radiotre.ram
+#EXTINF:-1, Tre Raadio 92.7 FM Pärnu
+http://icecast.mmm.elion.ee:8080/paikeseraadio
+#EXTINF:-1, Netiraadio - Jaak Joala
+http://www.netiraadio.ee:8000/jaakjoala
+#EXTINF:-1, ERR Raadio 2 - 0
+http://vana.r2.err.ee/gfx/raadio2128.m3u
+#EXTINF:-1, ERR Raadio 2 - 1
+http://vana.r2.err.ee/gfx/raadio264.m3u
+#EXTINF:-1, DFM.ee - Dance - 0
+http://striiming.trio.ee/dfm.mp3
+#EXTINF:-1, DFM.ee - Dance - 1
+http://striiming.trio.ee/dfm64.mp3
+#EXTINF:-1, SSS-Radio
+http://217.146.76.112:8000/sss-radio
+#EXTINF:-1, Radio Volna 107.1 FM
+http://shout.babahh.com:8100/volna
+#EXTINF:-1, Netiraadio - Tumedad lood
+http://www.netiraadio.ee:8000/tumedadlood
+#EXTINF:-1, Netiraadio - Sinu hetked
+http://www.netiraadio.ee:8000/sinuhetked
+#EXTINF:-1, Netiraadio - Puhas traat
+http://www.netiraadio.ee:8000/puhastraat
+#EXTINF:-1, Netiraadio - Lastekanal
+http://www.netiraadio.ee:8000/lastekanal
+#EXTINF:-1, Netiraadio - Klubi biit
+http://www.netiraadio.ee:8000/klubibiit
+#EXTINF:-1, Netiraadio - Klassika
+http://www.netiraadio.ee:8000/klassika
+#EXTINF:-1, Netiraadio - Jazzi värvid
+http://www.netiraadio.ee:8000/jazzivarvid
+#EXTINF:-1, Netiraadio - Eesti loodus
+http://www.netiraadio.ee:8000/eestiloodus
+#EXTINF:-1, Netiraadio - Kullafond
+http://www.netiraadio.ee:8000/kuldsedajad
+#EXTINF:-1, Netiraadio - Pop
+http://www.netiraadio.ee:8000/lahepop
+#EXTINF:-1, Netiraadio - Retro & Biit
+http://www.netiraadio.ee:8000/retro
+#EXTINF:-1, Raadio 7
+http://icecast.mmm.elion.ee:8080/Raadio7
+#EXTINF:-1, Raadio Marta
+http://icecast.mmm.elion.ee:8080/MartaFM.m3u
+#EXTINF:-1, NRJ DnB
+http://nrj.babahhcdn.com/NRJdnb
+#EXTINF:-1, Netiraadio - Jõulud
+http://www.netiraadio.ee:8000/joulud
+#EXTINF:-1, Sky Plus - Dance
+http://skyplus.babahhcdn.com/skyplus_dance.mp3
+#EXTINF:-1, Sky Plus - Top
+http://skyplus.babahhcdn.com/skyplus_top40.mp3
+#EXTINF:-1, Sky Plus - Gold
+http://skyplus.babahhcdn.com/skyplus_gold.mp3
+#EXTINF:-1, MyHits - 0
+http://striiming.trio.ee:8008/myhits_high.mp3
+#EXTINF:-1, MyHits - 1
+http://striiming.trio.ee:8008/myhits.mp3
+#EXTINF:-1, MyHits - 2
+http://striiming.trio.ee:8008/myhits.ogg
+#EXTINF:-1, MyHits - 3
+http://striiming.trio.ee:8008/myhits_low.mp3
+#EXTINF:-1, Raadio Muusikamoos - 0
+http://cent4.serverhostingcenter.com:2199/tunein/muusika.pls
+#EXTINF:-1, Raadio Muusikamoos - 1
+http://cent4.serverhostingcenter.com:2199/tunein/muusika.asx
+#EXTINF:-1, Raadio Muusikamoos - 2
+http://cent4.serverhostingcenter.com:2199/tunein/muusika.ram
+#EXTINF:-1, Retro FM Kuld
+http://sky.babahhcdn.com/retro1.mp3
+#EXTINF:-1, Retro FM Hõbe
+http://sky.babahhcdn.com/retro2.mp3
+#EXTINF:-1, Sky Plus
+http://skyplus.babahhcdn.com/SKYPLUS
+#EXTINF:-1, Randy FM
+http://78.129.224.13:17068/stream
+#EXTINF:-1, Nõmme Raadio
+http://149.210.138.12:8000/nommeraadio
+#EXTINF:-1, Sky Radio - GOLD
+http://sky.babahhcdn.com/SKYgold
+#EXTINF:-1, Sky Radio - DANCE
+http://sky.babahhcdn.com/SKYdance
+#EXTINF:-1, Sky Radio 98.4 FM
+http://sky.babahhcdn.com/SKY
+#EXTINF:-1, Tartu Family Radio
+http://worker.pereraadio.ee:8000/;
+#EXTINF:-1, Retro FM Tallinn 97.8 FM
+http://sky.babahhcdn.com/RETRO
+#EXTINF:-1, Radio Narodnoe Tallinn 100 FM - 0
+http://striiming.trio.ee:8008/narodnoe.mp3
+#EXTINF:-1, Radio Narodnoe Tallinn 100 FM - 1
+http://striiming.trio.ee/narodnoe64.mp3
+#EXTINF:-1, Sky Plus - DNB
+http://nrj.babahhcdn.com/NRJdnb
+#EXTINF:-1, Äripäeva raadio
+http://www.aripaev.ee/raadio/stream.mp3
+#EXTINF:-1, NRJ FM Tallinn 93.2 Mhz
+http://nrj.babahhcdn.com/NRJ
+#EXTINF:-1, Hard FM Estonia - 0
+http://www.caster.fm/players_links.php?server=shaincast.caster.fm&port=44230&auth=none&type=wpl
+#EXTINF:-1, Hard FM Estonia - 1
+http://www.caster.fm/players_links.php?server=shaincast.caster.fm&port=44230&auth=none&type=pls
+#EXTINF:-1, Hard FM Estonia - 2
+http://www.caster.fm/players_links.php?server=shaincast.caster.fm&port=44230&auth=none&type=ram
+#EXTINF:-1, Эли - 0
+http://worker.pereraadio.ee:8000
+#EXTINF:-1, Эли - 1
+http://worker.pereraadio.ee:8000/;stream.nsv
+#EXTINF:-1, Эли - 2
+http://worker.pereraadio.ee:8000/;stream.nsv;?1508824057185
+#EXTINF:-1, Estonian Party Radio
+http://streaming.radionomy.com/Estonian-PartyRadio?lang=en-US&appName=iTunes.m3u
+#EXTINF:-1, Русское Радио Рок
+http://skymedia.babahhcdn.com//rrock
+#EXTINF:-1, Русское Радио Рэп
+http://skymedia.babahhcdn.com//rrap
+#EXTINF:-1, Russkoe Radio Tallinn Estonia 90.6 FM
+http://skyplus.babahhcdn.com/RR
+#EXTINF:-1, Radio HappyU - 0
+http://streaming.radionomy.com/HappyU?lang=en-US&appName=iTunes.m3u
+#EXTINF:-1, Radio HappyU - 1
+http://www.happyu.ee/streaming/happyu.pls
+#EXTINF:-1, Radio HappyU - 2
+http://www.happyu.ee/streaming/happyu.asx
+#EXTINF:-1, Radio HappyU - 3
+http://www.happyu.ee/streaming/happyu.m3u
+#EXTINF:-1, Kuma FM - Kesk-Eesti Tre Raadio
+http://sc2.treraadio.ee:8004/;
+#EXTINF:-1, ERR Raadio 4 - 0
+http://icecast.err.ee/raadio4.mp3
+#EXTINF:-1, ERR Raadio 4 - 1
+http://icecast.err.ee/raadio4.ogg
+#EXTINF:-1, ERR Raadio 4 - 2
+http://icecast.err.ee/raadio4madal.ogg
+#EXTINF:-1, ERR Raadio 4 - 3
+http://icecast.err.ee/raadio4madal.mp3
+#EXTINF:-1, ERR Vikerraadio
+http://icecast.err.ee/vikerraadio.mp3
+#EXTINF:-1, Raadio Kuku - 0
+http://217.146.71.24/kuku_high.mp3
+#EXTINF:-1, Raadio Kuku - 1
+http://striiming.trio.ee/kuku.mp3.m3u
+#EXTINF:-1, ERR Vikersport - 0
+http://icecast.err.ee/vikersport.mp3
+#EXTINF:-1, ERR Vikersport - 1
+http://icecast.err.ee/vikersport.ogg
+#EXTINF:-1, ERR Vikersport - 2
+http://icecast.err.ee/vikersportmadal.mp3
+#EXTINF:-1, ERR Vikersport - 3
+http://icecast.err.ee/vikersportmadal.ogg
+#EXTINF:-1, Ring FM - 0
+http://ringfm.babahhcdn.com/ringfm
+#EXTINF:-1, Ring FM - 1
+http://www.ringfm.ee/files/filemanager/files/Ring%20FM%20%20Winamp.m3u

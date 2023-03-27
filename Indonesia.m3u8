@@ -1,0 +1,455 @@
+#EXTM3U
+#EXTINF:-1, Rajawali Radio - Bandung, Indonesia - 0
+http://opensource.telkomspeedy.com:8012/listen.pls
+#EXTINF:-1, Rajawali Radio - Bandung, Indonesia - 1
+http://125.160.17.21:8012/listen.pls
+#EXTINF:-1, MTA 107.9 Surakarta
+http://streaming.mtafm.com:10790/
+#EXTINF:-1, Geronimo 106.1 FM Jogja
+http://usa.jogjastreamers.com:8000/geronimo67890
+#EXTINF:-1, 90.7 UTY FM Medari
+http://utyfmedari.us.myradio.web.id:8000/utyfmedari
+#EXTINF:-1, Serambi FM 90.2 MHz - 0
+http://live.serambifm.com:8902
+#EXTINF:-1, Serambi FM 90.2 MHz - 1
+http://live.serambifm.com:8902/;?1400282056406.mp3
+#EXTINF:-1, Radio PPI Dunia
+http://s1.voscast.com:8080/;stream.mp3
+#EXTINF:-1, EBS 105.9 FM - Surabaya
+http://202.43.173.188:8100
+#EXTINF:-1, Istara 101.1 FM - Surabaya
+http://istarafm.onlivestreaming.net:10110/live
+#EXTINF:-1, Radio Sonora Surabaya 97.75 FM
+http://stream.suararadio.com:8000/surabaya_sonorasurabaya_mono
+#EXTINF:-1, Radio Rhema 88.6 FM Semarang
+http://rhemaradio.com/playlists/rhema.m3u
+#EXTINF:-1, Radio El Shaddai FM 91.30 MHz, Surakarta
+http://shaddai.onlivestreaming.net:9130/live.m3u
+#EXTINF:-1, RPK FM 96.3 Radio Pelita Kasih Jakarta - 0
+http://rpkfm.indostreamserver.com:8030
+#EXTINF:-1, RPK FM 96.3 Radio Pelita Kasih Jakarta - 1
+http://110.232.73.2:8028
+#EXTINF:-1, Radio Sangkakala AM 1062 KHz Surabaya
+http://117.18.16.7:7777
+#EXTINF:-1, Nafiri 107.1 FM Surabaya
+http://119.2.44.6:8000
+#EXTINF:-1, Sindo Trijaya 104.6 FM Jakarta
+http://202.147.199.101:8000
+#EXTINF:-1, Radio Heartline Karawaci 100.6 FM
+http://202.129.186.43:7010/
+#EXTINF:-1, FeMale Radio FM 97.9 Jakarta
+http://masima.rastream.com/masima-femaleradio?type=.mp3
+#EXTINF:-1, Elshinta News & Talk 90.0 FM Jakarta
+http://202.137.4.147:8000
+#EXTINF:-1, Pas FM 92.4 MHz Jakarta
+http://202.146.225.106:8080
+#EXTINF:-1, Delta FM 99.1 Jakarta
+http://masima.rastream.com/masima-deltajakarta?type=.mp3&amp;_=0.4441217929124832
+#EXTINF:-1, 95.5 RAS FM Jakarta
+http://103.28.148.18:9006
+#EXTINF:-1, Smart FM 95.9 Jakarta
+http://101.50.0.77:8000/smartfm.aac?type=.mp3
+#EXTINF:-1, K-Lite FM Bandung
+http://stream.suararadio.com:8000/bandung_klitefm_mp3
+#EXTINF:-1, Radio VIS FM 101.5
+http://s4.vinhostmedia.com:8000/streamaac?type=.mp3
+#EXTINF:-1, Radio Mora Jabar 88.50 FM
+http://jabar.radiomora.com:9012/
+#EXTINF:-1, Radio Grace Alone Surabaya
+http://u.klikhost.net:8000/gracealone?type=.mp3
+#EXTINF:-1, Nagaswara 99.7 FM Radiotemen Bogor - 0
+http://live1.nagaswarafm.com:8088
+#EXTINF:-1, Nagaswara 99.7 FM Radiotemen Bogor - 1
+http://bogor.nagaswarafm.com:8088
+#EXTINF:-1, Radio Bahtera Yudha 96.4 FM Surabaya
+http://streaming.bahterayudhafm.com:8050/;stream.nsv
+#EXTINF:-1, Hits Radio 103.9 FM Bandung
+http://hits.simayaradio.com:9996/;981568821819954stream.nsv
+#EXTINF:-1, Radio Idola 92.6 FM Semarang
+http://111.68.31.150:8000/idolafm.mp3?type=.mp3/;stream.mp3
+#EXTINF:-1, Dreamers Radio - 0
+http://live.dreamersradio.com:8500/;stream.nsv
+#EXTINF:-1, Dreamers Radio - 1
+http://live.dreamersradio.com:8500/;638624772280055stream.nsv
+#EXTINF:-1, Trend FM 101.2 FM Purwakarta
+http://stream.suararadio.com:8000/trendfm_mono
+#EXTINF:-1, Global Radio Bandung 89.7 FM
+http://stream.radbdg.net:8000/globalradiobandung.mp3
+#EXTINF:-1, D'OZ Radio 101.2 FM Bali
+http://radio.simaya.net.id:1320
+#EXTINF:-1, Phoenix Radio Bali 91.0 FM
+http://50.97.122.58:8250/;stream.mp3
+#EXTINF:-1, Menara 102.8 FM Radio Bali
+http://menarafm.onlivestreaming.net:10280/menarafmbali.m3u
+#EXTINF:-1, Swaragama 101.7 FM Yogyakarta
+http://usa.jogjastreamers.com:8000/swaragama456789stereo?s=67402581859743
+#EXTINF:-1, Serumpun 91.7 FM Radio Batam
+http://175.103.49.56:8000/;stream.nsv
+#EXTINF:-1, JogjaFamily 100.9 FM Yogyakarta
+http://usa.jogjastreamers.com:8000/jogjafamilystereo?s=626560143959016
+#EXTINF:-1, Radio Q 88.3 FM Yogyakarta
+http://usa.jogjastreamers.com:8000/qradio34567stereo?s=613272664682553
+#EXTINF:-1, Jiz 89.5 FM Yogyakarta
+http://usa.jogjastreamers.com:8000/jisstereo?s=640245950320956
+#EXTINF:-1, Radio ANDIKA 105.7 FM Kediri
+http://andikafm.onlivestreaming.net:1057/stream
+#EXTINF:-1, Nikoya 106 FM Banda Aceh
+http://radio.nikoyafm.com:10600
+#EXTINF:-1, 99ERS Radio 100 FM Bandung
+http://ninetyninersbdg.sg.myradio.web.id:8888/ninetyninersbdg?type=.mp3
+#EXTINF:-1, Radio Bahana 101.8 FM Jakarta - 0
+http://103.16.199.177:8100
+#EXTINF:-1, Radio Bahana 101.8 FM Jakarta - 1
+http://103.16.199.177:8102
+#EXTINF:-1, MNC  97.1 FM - RDI Jakarta
+http://202.147.199.99:8000
+#EXTINF:-1, Radio IsyKarima FM
+http://104.236.66.148:8300/
+#EXTINF:-1, Mandarin Station 98.3 FM Jakarta - 0
+http://119.235.255.206:8052
+#EXTINF:-1, Mandarin Station 98.3 FM Jakarta - 1
+http://live2.indostreamserver.com:8016/;
+#EXTINF:-1, INDIKA FM
+http://103.16.199.47:9160/listen.pls
+#EXTINF:-1, Lazuar 94.1 FM Karawang
+http://stream.suararadio.com:8000/karawang_lazuarfm_mp3
+#EXTINF:-1, Radio Maria Indonesia 104.2 FM - 0
+http://dreamsiteradiocp.com:8062/
+#EXTINF:-1, Radio Maria Indonesia 104.2 FM - 1
+http://cloudrad.io/radiomariaindonesia/listen.asx
+#EXTINF:-1, iCSLradio
+http://streaming.radio.co/s79bf2e3c1/listen
+#EXTINF:-1, Virgin Radio Jakarta 99.9 FM - 0
+http://playerservices.streamtheworld.com/pls/VIRGINRADAAC.pls
+#EXTINF:-1, Virgin Radio Jakarta 99.9 FM - 1
+http://playerservices.streamtheworld.com/pls/VIRGINRAD.pls
+#EXTINF:-1, Virgin Radio Jakarta 99.9 FM - 2
+http://playerservices.streamtheworld.com/asx/VIRGINRAD.asx
+#EXTINF:-1, Virgin Radio Jakarta 99.9 FM - 3
+http://playerservices.streamtheworld.com/api/livestream-redirect/VIRGINRAD.mp3
+#EXTINF:-1, Radio Rodja 756 AM
+http://live.radiorodja.com
+#EXTINF:-1, RRI P1 - Bandung
+http://streaming.rri.co.id:9015/web-rribandungpro1.mp3
+#EXTINF:-1, RRI P2 - Bandung
+http://streaming.rri.co.id:9015/web-rribandungpro2.mp3
+#EXTINF:-1, RRI P4 - Bandung
+http://streaming.rri.co.id:9015/web-rribandungpro4.mp3
+#EXTINF:-1, RRI P1 - Semarang
+http://streaming.rri.co.id:9016/web-rrisemarangpro1.mp3
+#EXTINF:-1, RRI P1 - Surabaya
+http://streaming.rri.co.id:9018/web-rrisurabayapro1.mp3
+#EXTINF:-1, RRI P1 - Banjarmasin
+http://streaming.rri.co.id:9019/web-rribanjarmasinpro1.mp3
+#EXTINF:-1, RRI P1 - Denpasar
+http://streaming.rri.co.id:9021/web-rridenpasarpro1.mp3
+#EXTINF:-1, RRI P1 - Jayapura
+http://streaming.rri.co.id:9023/web-rrijayapurapro1.mp3
+#EXTINF:-1, RRI P1 - Takengon
+http://streaming.rri.co.id:9111/web-rritakengonpro1.mp3
+#EXTINF:-1, RRI P1 - Padang
+http://streaming.rri.co.id:9111/web-rripadangpro1.mp3
+#EXTINF:-1, RRI P1 - Palu
+http://streaming.rri.co.id:9114/web-rripalupro1.mp3
+#EXTINF:-1, RRI P1 - Gorontalo
+http://streaming.rri.co.id:9115/web-rrigorontalopro1.mp3
+#EXTINF:-1, RRI P1 - Samarinda
+http://streaming.rri.co.id:9116/web-rrisamarindapro1.mp3
+#EXTINF:-1, RRI P1 - Sumenep
+http://streaming.rri.co.id:9118/web-rrisumeneppro1.mp3
+#EXTINF:-1, RRI P1 - Purwokerto
+http://streaming.rri.co.id:9119/web-rripurwokertopro1.mp3
+#EXTINF:-1, RRI P1 - Sibolga
+http://streaming.rri.co.id:9121/web-rrisibolgapro1.mp3
+#EXTINF:-1, RRI P1 - Sintang
+http://streaming.rri.co.id:9123/web-rrisintangpro1.mp3
+#EXTINF:-1, RRI P1 - Jambi
+http://streaming.rri.co.id:9211/web-rrijambipro1.mp3
+#EXTINF:-1, RRI P1 - Banda Aceh
+http://streaming.rri.co.id:9214/web-rribandaacehpro1.mp3
+#EXTINF:-1, RRI P1 - Ternate
+http://streaming.rri.co.id:9215/web-rriternatepro1.mp3
+#EXTINF:-1, RRI P1 - Bukittinggi
+http://streaming.rri.co.id:9216/web-rribkttinggipro1.mp3
+#EXTINF:-1, RRI P1 - Malang
+http://streaming.rri.co.id:9218/web-rrimalangpro1.mp3
+#EXTINF:-1, RRI P1 - Surakarta
+http://streaming.rri.co.id:9219/web-rrisurakartapro1.mp3
+#EXTINF:-1, RRI P1 - Tanjunh Pinang
+http://streaming.rri.co.id:9221/web-rritjpinangpro1.mp3
+#EXTINF:-1, RRI P1 - Ende
+http://streaming.rri.co.id:9223/web-rriendepro1.mp3
+#EXTINF:-1, RRI P1 - Bengkulu
+http://streaming.rri.co.id:9311/web-rribengkulupro1.mp3
+#EXTINF:-1, RRI P1 - Sungailiat
+http://streaming.rri.co.id:9314/web-rrisngliatpro1.mp3
+#EXTINF:-1, RRI P1 - Ambon
+http://streaming.rri.co.id:9315/web-rriambonpro1.mp3
+#EXTINF:-1, RRI P1 - Madiun
+http://streaming.rri.co.id:9318/web-rrimadiunpro1.mp3
+#EXTINF:-1, RRI P1 - Bogor
+http://streaming.rri.co.id:9319/web-rribogorpro1.mp3
+#EXTINF:-1, RRI P1 - Fak Fak
+http://streaming.rri.co.id:9321/web-rrifakfakpro1.mp3
+#EXTINF:-1, RRI P1 - Tarakan
+http://streaming.rri.co.id:9323/web-rritarakanpro1.mp3
+#EXTINF:-1, RRI P1 - Medan
+http://streaming.rri.co.id:9011/web-rrimedanpro1.mp3
+#EXTINF:-1, RRI P4 - Jakarta
+http://streaming.rri.co.id:9025/web-rrijakartapro4.mp3
+#EXTINF:-1, RRI P1 - Pekanbaru
+http://streaming.rri.co.id:9012/web-rripekanbarupro1.mp3
+#EXTINF:-1, RRI P1 - Palembang
+http://streaming.rri.co.id:9013/web-rripalembangpro1.mp3
+#EXTINF:-1, RRI P1 - Yogyakarta
+http://streaming.rri.co.id:9017/web-rrijogjapro1.mp3
+#EXTINF:-1, RRI P1 - Makassar
+http://streaming.rri.co.id:9022/web-rrimakasarpro1.mp3
+#EXTINF:-1, RRI P1 - Manokwari
+http://streaming.rri.co.id:9024/web-rrimanokwaripro1.mp3
+#EXTINF:-1, RRI P1 - Jakarta
+http://streaming.rri.co.id:9025/web-rrijakartapro1.mp3
+#EXTINF:-1, RRI P1 - Banten
+http://streaming.rri.co.id:9036/web-rribantenpro1.mp3
+#EXTINF:-1, RRI P1 - Bandar Lampung
+http://streaming.rri.co.id:9112/web-rrilampungpro1.mp3
+#EXTINF:-1, RRI P1 - Mataram
+http://streaming.rri.co.id:9113/web-rrimatarampro1.mp3
+#EXTINF:-1, RRI P1 - Nabire
+http://streaming.rri.co.id:9122/web-rrinabirepro1.mp3
+#EXTINF:-1, RRI P1 - Merauke
+http://streaming.rri.co.id:9136/web-rrimeraukepro1.mp3
+#EXTINF:-1, RRI P1 - Pontianak
+http://streaming.rri.co.id:9212/web-rripontianakpro1.mp3
+#EXTINF:-1, RRI P1 - Kupang
+http://streaming.rri.co.id:9213/web-rrikupangpro1.mp3
+#EXTINF:-1, RRI P1 - Sorong
+http://streaming.rri.co.id:9217/web-rrisorongpro1.mp3
+#EXTINF:-1, RRI P1 - Serui
+http://streaming.rri.co.id:9222/web-rriseruipro1.mp3
+#EXTINF:-1, RRI P1 - Wamena
+http://streaming.rri.co.id:9224/web-rriwamenapro1.mp3
+#EXTINF:-1, RRI P1 - Atambua
+http://streaming.rri.co.id:9225/web-rriatambuapro1.mp3
+#EXTINF:-1, RRI P1 - Gunung Sitoli
+http://streaming.rri.co.id:9225/web-rrisitolipro1.mp3
+#EXTINF:-1, RRI P1 - Entikong
+http://streaming.rri.co.id:9236/web-rrientikongpro1.mp3
+#EXTINF:-1, RRI P1 - Bone
+http://streaming.rri.co.id:9237/web-rribonepro1.mp3
+#EXTINF:-1, RRI P1 - Malinau
+http://streaming.rri.co.id:9237/web-rrimalinaupro1.mp3
+#EXTINF:-1, RRI P1 - Palangkaraya
+http://streaming.rri.co.id:9312/web-rripalangkarayapro1.mp3
+#EXTINF:-1, RRI P1 - Kendari
+http://streaming.rri.co.id:9313/web-rrikendaripro1.mp3
+#EXTINF:-1, RRI P1 - Tual
+http://streaming.rri.co.id:9322/web-rritualpro1.mp3
+#EXTINF:-1, RRI P1 - Toli Toli
+http://streaming.rri.co.id:9324/web-rritolitolipro1.mp3
+#EXTINF:-1, RRI P1 - Ampana
+http://streaming.rri.co.id:9337/web-rriampanapro1.mp3
+#EXTINF:-1, RRI P3 (Pro3)
+http://streaming.rri.co.id:9014/web-kbrn.mp3
+#EXTINF:-1, RRI P2 - Batam
+http://streaming.rri.co.id:9125/web-rribatampro2.mp3
+#EXTINF:-1, RRI P1 - Batam
+http://streaming.rri.co.id:9125/web-rribatampro1.mp3
+#EXTINF:-1, RRI P2 - Banjarmasin
+http://streaming.rri.co.id:9019/web-rribanjarmasinpro2.mp3
+#EXTINF:-1, RRI P4 - Banjarmasin
+http://streaming.rri.co.id:9019/web-rribanjarmasinpro4.mp3
+#EXTINF:-1, RRI P2 - Denpasar
+http://streaming.rri.co.id:9021/web-rridenpasarpro2.mp3
+#EXTINF:-1, RRI P4 - Denpasar
+http://streaming.rri.co.id:9021/web-rridenpasarpro4.mp3
+#EXTINF:-1, RRI P2 - Jayapura
+http://streaming.rri.co.id:9023/web-rrijayapurapro2.mp3
+#EXTINF:-1, RRI P4 - Jayapura
+http://streaming.rri.co.id:9023/web-rrijayapurapro4.mp3
+#EXTINF:-1, RRI P2 - Gorontalo
+http://streaming.rri.co.id:9115/web-rrigorontalopro2.mp3
+#EXTINF:-1, RRI P2 - Jambi
+http://streaming.rri.co.id:9211/web-rrijambipro2.mp3
+#EXTINF:-1, RRI P4 - Jambi
+http://streaming.rri.co.id:9211/web-rrijambipro4.mp3
+#EXTINF:-1, RRI P2 - Banda Aceh
+http://streaming.rri.co.id:9214/web-rribandaacehpro2.mp3
+#EXTINF:-1, RRI P2 - Bukittinggi
+http://streaming.rri.co.id:9216/web-rribkttinggipro2.mp3
+#EXTINF:-1, RRI P2 - Ende
+http://streaming.rri.co.id:9223/web-rriendepro2.mp3
+#EXTINF:-1, RRI P4 - Bengkulu
+http://streaming.rri.co.id:9311/web-rribengkulupro4.mp3
+#EXTINF:-1, RRI P2 - Ambon
+http://streaming.rri.co.id:9315/web-rriambonpro2.mp3
+#EXTINF:-1, RRI P4 - Ambon
+http://streaming.rri.co.id:9315/web-rriambonpro4.mp3
+#EXTINF:-1, RRI P2 - Bogor
+http://streaming.rri.co.id:9319/web-rribogorpro2.mp3
+#EXTINF:-1, RRI P2 - Fak Fak
+http://streaming.rri.co.id:9321/web-rrifakfakpro2.mp3
+#EXTINF:-1, RRI P2 - Jakarta
+http://streaming.rri.co.id:9025/web-rrijakartapro2.mp3
+#EXTINF:-1, RRI P2 - Bandar Lampung
+http://streaming.rri.co.id:9112/web-rrilampungpro2.mp3
+#EXTINF:-1, RRI P4 - Bandar Lampung
+http://streaming.rri.co.id:9112/web-rrilampungpro4.mp3
+#EXTINF:-1, RRI P2 - Kupang
+http://streaming.rri.co.id:9213/web-rrikupangpro2.mp3
+#EXTINF:-1, RRI P4 - Kupang
+http://streaming.rri.co.id:9213/web-rrikupangpro4.mp3
+#EXTINF:-1, RRI P2 - Atambua
+http://streaming.rri.co.id:9225/web-rriatambuapro2.mp3
+#EXTINF:-1, RRI P2 - Gunung Sitoli
+http://streaming.rri.co.id:9225/web-rrisitolipro2.mp3
+#EXTINF:-1, RRI P2 - Kendari
+http://streaming.rri.co.id:9313/web-rrikendaripro2.mp3
+#EXTINF:-1, RRI - Channel 5
+http://streaming.rri.co.id:8941/web-chlima.mp3
+#EXTINF:-1, RRI - Keroncong Channel
+http://streaming.rri.co.id:9236/web-rrikeroncong.mp3
+#EXTINF:-1, RRI P4 - Banda Aceh
+http://streaming.rri.co.id:9214/web-rribandaacehpro4.mp3
+#EXTINF:-1, Dengerin Musik Indonesia - 0
+http://stream.denger.in:8000/mp3
+#EXTINF:-1, Dengerin Musik Indonesia - 1
+http://stream.denger.in:8888/;
+#EXTINF:-1, Prambors FM - 102.2 FM Jakarta
+http://masima.rastream.com/masima-pramborsjakarta
+#EXTINF:-1, Radio Mh Fm Solo * 92.1 FM - 0
+http://ns3.indonesiastreaming.com:8000/mhfm
+#EXTINF:-1, Radio Mh Fm Solo * 92.1 FM - 1
+http://ns3.indonesiastreaming.com:8000/mhfm.pls
+#EXTINF:-1, Sarkub FM ASWAJA
+http://audio.aswajacenter.com:1112/;
+#EXTINF:-1, 105.9 FM Ardan Radio
+http://listento.ardanradio.com:1059/;
+#EXTINF:-1, Batam FM 100.7
+http://live.indostreamserver.com:9070/batamfm
+#EXTINF:-1, City Radio 95.9 FM Medan
+http://streaming.cityradio.id:8000/cityradio.ogg
+#EXTINF:-1, Cosmopolitan 90.4 FM Jakarta
+http://cloudstreaming.mramedia.com:8002/live
+#EXTINF:-1, Flamboyan 99.6 FM Karawang - 0
+http://103.28.148.18:8236/;423544920539005stream.nsv
+#EXTINF:-1, Flamboyan 99.6 FM Karawang - 1
+http://103.28.148.18:8236/;
+#EXTINF:-1, Gloria Paramitha FM 97.4 - Lumajang, Jawa Timur, Indonesia - 0
+http://host1-sg.xajist.com:8180/stream;
+#EXTINF:-1, Gloria Paramitha FM 97.4 - Lumajang, Jawa Timur, Indonesia - 1
+http://host1-sg.xajist.com:8180/stream;?1528903547962
+#EXTINF:-1, Gloria Paramitha FM 97.4 - Lumajang, Jawa Timur, Indonesia - 2
+http://host1-sg.xajist.com:8180/;
+#EXTINF:-1, Hard Rock FM 87.8 Bali
+http://cloudstreaming.mramedia.com:8012/live
+#EXTINF:-1, Hard Rock FM 87.6 Jakarta
+http://cloudstreaming.mramedia.com:8001/live
+#EXTINF:-1, Hard Rock FM 87.7 Bandung
+http://cloudstreaming.mramedia.com:8010/live
+#EXTINF:-1, Hard Rock FM 89.7 Surabaya
+http://cloudstreaming.mramedia.com:8011/live
+#EXTINF:-1, Kei 102.3 FM Batam - 0
+http://103.28.148.18:9602/;
+#EXTINF:-1, Kei 102.3 FM Batam - 1
+http://103.28.148.18:9602/listen.pls
+#EXTINF:-1, KLCBS 100.4 FM Radio Bandung
+http://s3.vinhostmedia.com:1055/;
+#EXTINF:-1, MADAMA 87.7 FM Radio Makassar - 0
+http://119.235.255.206:8076/;stream/1
+#EXTINF:-1, MADAMA 87.7 FM Radio Makassar - 1
+http://119.235.255.206:8076/;
+#EXTINF:-1, MFM 101.3
+http://202.164.218.22:8222/;
+#EXTINF:-1, MGT 101.1 FM Bandung
+http://s3.vinhostmedia.com:9572/;stream.mp3;
+#EXTINF:-1, Motion Radio 97.5 FM Jakarta
+http://103.226.246.245/kompas-motionjakarta
+#EXTINF:-1, MQFM 102.7 - Bandung Indonesia
+http://125.160.17.21:8200/;
+#EXTINF:-1, Fit Radio Bandung 94.8 FM
+http://fitradio.co.id:9964/;
+#EXTINF:-1, Radio Brava 103.8 FM Jakarta
+http://cloudstreaming.mramedia.com:8004/live
+#EXTINF:-1, Radio Cakra 90.5 FM
+http://dengerin.radiocakrabandung.com:8905/;
+#EXTINF:-1, Radio DJ 94.8 FM Surabaya
+http://u.klikhost.com:8000/djfm
+#EXTINF:-1, Radio Gaya FM 93.6 Bekasi
+http://stream.suararadio.com:8000/bekasi_gayafm_stereo
+#EXTINF:-1, Radio Sonora FM 92.0 Jakarta
+http://103.226.246.245/kompas-sonorajakarta
+#EXTINF:-1, Radio Suara Gratia 95.9 FM Cirebon - 0
+http://suaragratiafm.japanserver.info:8959/;
+#EXTINF:-1, Radio Suara Gratia 95.9 FM Cirebon - 1
+http://suaragratiafm.radiobahtera.com:9590/;
+#EXTINF:-1, Radio Suara Gratia 95.9 FM Cirebon - 2
+http://suaragratiafm.radiobahtera.com:9959/;
+#EXTINF:-1, Rase 102.3 FM Radio Bandung
+http://radio.jabarmaya.net.id:8000/rasefm
+#EXTINF:-1, Retjo Buntung 99.4 FM Yogyakarta
+http://45.64.97.82:9940/;
+#EXTINF:-1, She Radio 99.6 FM Surabaya
+http://s9.viastreaming.net/mobile.php?port=7070
+#EXTINF:-1, SIPP FeMale 105.8 FM Padang - 0
+http://119.235.255.206:8076/;
+#EXTINF:-1, SIPP FeMale 105.8 FM Padang - 1
+http://119.235.255.206:8076/;?type=.mp3%2F%3Bstream.mp3&_=1
+#EXTINF:-1, Star Jogja 101.3 FM Radio
+http://jkt.jogjastreamers.com:8000/starfmykstereo
+#EXTINF:-1, Suara Surabaya 100.0 FM
+http://s9.viastreaming.net:7020/;
+#EXTINF:-1, Trax 101.4 FM Jakarta
+http://cloudstreaming.mramedia.com:8003/live
+#EXTINF:-1, Zoo FM Batam 101.6
+http://live.indostreamserver.com:9070/zoofm
+#EXTINF:-1, Kosmonita FM 95.4 Malang
+http://202.58.200.197:1055/live
+#EXTINF:-1, Women Radio 94.3 FM Jakarta
+http://live.indostreamserver.com:8014/;
+#EXTINF:-1, Radio Suka-Suka
+http://s9.viastreaming.net:7060/;
+#EXTINF:-1, Radio Volare 103.4 FM Pontianak
+http://128.199.105.5:9103/;
+#EXTINF:-1, V-Radio Jakarta 106.6 FM
+http://202.147.199.100:8000/;
+#EXTINF:-1, RJM 91.5 FM - 0
+http://live.rjmfm.com:8026/;
+#EXTINF:-1, RJM 91.5 FM - 1
+http://live.rjmfm.com:8078/;
+#EXTINF:-1, RRI World Service - Voice Of Indonesia
+http://streaming.rri.co.id:9125/voi.mp3
+#EXTINF:-1, Hitz FM 96.7 FM
+http://103.16.199.43:8900/;stream.mp3
+#EXTINF:-1, KISI 93.4 FM Bogor
+http://live.kisifm.com:9340/kisifm
+#EXTINF:-1, Top FM 98.6 Radio Padang Panjang
+http://stream.denger.in:8000/stream
+#EXTINF:-1, GOOD NEWS FM 94.9 Semarang
+http://i.klikhost.net:8600/;?
+#EXTINF:-1, bbmfm - 0
+http://stream.zenolive.com/2fsyhav1tfeuv
+#EXTINF:-1, bbmfm - 1
+http://stream.zenolive.com/2fsyhav1tfeuv.m3u
+#EXTINF:-1, bbmfm - 2
+http://stream.zenolive.com/g8gwr9nn4heuv
+#EXTINF:-1, bbmfm - 3
+http://ample-zeno-09.radiojar.com:80/2fsyhav1tfeuv
+#EXTINF:-1, RDSFM 101.4 FM
+http://202.65.114.229:9976/;stream.nsv
+#EXTINF:-1, Radio Muslim 1467 AM - 0
+http://live.radiomuslim.com:80/
+#EXTINF:-1, Radio Muslim 1467 AM - 1
+http://live.radiomuslim.com/;stream/1
+#EXTINF:-1, Radio Muslim 1467 AM - 2
+http://128.199.156.6/;stream/1
+#EXTINF:-1, Radio Muslim 1467 AM - 3
+http://119.235.30.66:9996/;stream/1
+#EXTINF:-1, Radio Muslim 1467 AM - 4
+https://radiomuslim.com/
+#EXTINF:-1, BBM FM community radio - 0
+https://listen.openstream.co/3614.m3u
+#EXTINF:-1, BBM FM community radio - 1
+https://listen.openstream.co/3614.pls
+#EXTINF:-1, BBM FM community radio - 2
+https://listen.openstream.co/3614

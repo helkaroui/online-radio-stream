@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1, Radio Hit FM Bishkek
+http://radio.city.kg:8000/hitfm-bishkek.mp3.m3u
+#EXTINF:-1, Radio Gorod FM Rock Bishkek 101.3 - 0
+http://radio.city.kg:8000/gorodfm.mp3.m3u
+#EXTINF:-1, Radio Gorod FM Rock Bishkek 101.3 - 1
+http://radio.city.kg:8000/gorodfm.mp3
+#EXTINF:-1, Radio Gorod FM Rock Bishkek 101.3 - 2
+http://212.2.227.71:8003/stream
+#EXTINF:-1, Radio Kyrgyzstan Obondoru Bishkek
+http://31.192.250.52:8000/obondoru128
+#EXTINF:-1, Tumar FM
+http://212.112.114.218:8000/online
+#EXTINF:-1, Manas Radio 102.9 FM
+http://live.mediamanas.kg:8000/online
+#EXTINF:-1, OK Radio Bishkek 100.5 FM
+http://stream.okradio.kg:8000/;listen.mp3
+#EXTINF:-1, Эл ФМ 89.6 FM
+http://81.88.192.51:8000/ELFM
+#EXTINF:-1, Санжыра радиосу 105.6 FM
+http://81.88.192.51:8000/Sanjyra
+#EXTINF:-1, Авторадио 100.9 FM
+http://81.88.192.51:8000/AutoRadio

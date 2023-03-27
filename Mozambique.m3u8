@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1, LM Radio
+http://50.7.70.58:8945
+#EXTINF:-1, Radio Moçambique Antena Nacional
+http://41.76.149.162:8000/;stream.mp3
+#EXTINF:-1, Radio Maria Mozambique - 0
+http://dreamsiteradiocp.com:8046/
+#EXTINF:-1, Radio Maria Mozambique - 1
+http://cloudrad.io/radiomariamozambique/listen.asx
+#EXTINF:-1, Radio Cidade 97.9 FM - 0
+http://autodj2.fm5.com.br:9368/stream
+#EXTINF:-1, Radio Cidade 97.9 FM - 1
+http://ample-zeno-16.radiojar.com/25vdzcus7a5tv
+#EXTINF:-1, Radio Cidade 97.9 FM - 2
+http://83.142.226.45:37405/;stream/1
+#EXTINF:-1, Radio Cidade 97.9 FM - 3
+http://41.76.149.162:8000/

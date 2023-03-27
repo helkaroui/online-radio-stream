@@ -1,0 +1,215 @@
+#EXTM3U
+#EXTINF:-1, DEEPMINE RADIO
+http://deepmine.by:8000/deepmine
+#EXTINF:-1, Radio Gomel FM 101.3
+http://s1.radioheart.ru:8001/radiogomelfm
+#EXTINF:-1, Radio Brest 104.8 FM
+http://93.84.112.253:8039/stream
+#EXTINF:-1, Gomel Radio 107.4 FM
+http://gomeltv.by:2015/gomelradio
+#EXTINF:-1, Radio Melody Veka Minsk 96.2 FM
+http://93.84.112.253:8010/MV128
+#EXTINF:-1, Mestnoe Radio Minsk 102.0 FM
+http://www.mestnoe.com/pp_mestnoe_radio_2010.mp3
+#EXTINF:-1, Lider FM Lida 94.3
+http://lider-fm.by:8000/radio
+#EXTINF:-1, Radio Mogilev 96.4 FM
+http://stream.tvrmogilev.by:8035/live
+#EXTINF:-1, Teploe Radio - 0
+http://listen.teploe.net:8100/netopfm.m3u
+#EXTINF:-1, Teploe Radio - 1
+http://radio.teploe.net:8001/teploeradio.m3u
+#EXTINF:-1, Teploe Radio - 2
+http://radio2.teploe.net:8000/teploeradio.m3u
+#EXTINF:-1, Teploe Radio - 3
+http://listen.teploe.net:8100/netop.m3u
+#EXTINF:-1, Teploe Radio - 4
+http://listen.teploe.net:8100/teploeradio.m3u
+#EXTINF:-1, Teploe Radio - 5
+http://listen.teploe.net:8100/teploeradio
+#EXTINF:-1, Radio Racyja 98.1*99.2 FM - 0
+http://air.racyja.com:8000/racja256.m3u
+#EXTINF:-1, Radio Racyja 98.1*99.2 FM - 1
+http://air.racyja.com:8000/racja256
+#EXTINF:-1, Radio Racyja 98.1*99.2 FM - 2
+http://air.racyja.com:8000/racja128
+#EXTINF:-1, Radio Racyja 98.1*99.2 FM - 3
+http://air.racyja.com:8000/racja128.m3u
+#EXTINF:-1, Radio Racyja 98.1*99.2 FM - 4
+http://air.racyja.com:8000/aacp128
+#EXTINF:-1, Radio 123
+http://93.84.112.253:8036/autodj
+#EXTINF:-1, Alpha Radio 107.9 FM - 0
+http://listen.alpha.by:8009/listen.pls
+#EXTINF:-1, Alpha Radio 107.9 FM - 1
+http://81.25.32.97:8000/alpha
+#EXTINF:-1, Alpha Radio 107.9 FM - 2
+http://radio.cosmostv.by:8001/Alpha-Radio
+#EXTINF:-1, RadioNT
+http://cast6.directhostingcenter.com:2199/tunein/yjgztxwp.pls
+#EXTINF:-1, BTRC First Channel
+http://video.tvr.by:1935/radio/radio1/playlist.m3u8
+#EXTINF:-1, Radio Skif
+http://178.172.150.248:2530/;
+#EXTINF:-1, BTRC Radio Belarus FM
+http://video.tvr.by:8000/belfm
+#EXTINF:-1, BTRC Channel Culture
+http://video.tvr.by:8000/culture
+#EXTINF:-1, Novoeradio.by - TOP100
+http://live.novoeradio.by:8000/novoeradio-TOP100-128k
+#EXTINF:-1, Радыё Марыя Беларусь - 0
+http://93.125.53.192:8000/live
+#EXTINF:-1, Радыё Марыя Беларусь - 1
+http://93.125.53.192:8000/start64
+#EXTINF:-1, Радыё Марыя Беларусь - 2
+http://93.125.53.192:8000/start32
+#EXTINF:-1, Euroradio FM - Soft Rock
+http://stream1.euroradio.fm:8000/euroradio3?
+#EXTINF:-1, Euroradio FM - Толькі BY
+http://stream1.euroradio.fm:8000/euroradio4?
+#EXTINF:-1, Euroradio FM - Alternative - 0
+http://stream1.euroradio.fm:8000/euroradio1?
+#EXTINF:-1, Euroradio FM - Alternative - 1
+http://stream1.euroradio.fm:8000/euroradio2?
+#EXTINF:-1, Mir Belarus - 0
+http://178.172.172.252:8000/radiomir
+#EXTINF:-1, Mir Belarus - 1
+http://178.172.172.252/radiomir/studio.m3u8
+#EXTINF:-1, Radio Aplus.fm - @plus Radio Fisrt - 0
+http://live.bn.by:8000/aplus_top_128
+#EXTINF:-1, Radio Aplus.fm - @plus Radio Fisrt - 1
+http://shoutcast.aplus.fm:9000/aplus_128
+#EXTINF:-1, Radio Aplus.fm - @plus Radio Fisrt - 2
+http://shoutcast.aplus.fm:9000/aplus_64
+#EXTINF:-1, Radio Aplus.fm - @plus Radio Fisrt - 3
+http://shoutcast.aplus.fm:9000/aplus_48.aac
+#EXTINF:-1, Radio Aplus.fm - @plus Radio Fisrt - 4
+http://shoutcast.aplus.fm:9000/aplus_24.aac
+#EXTINF:-1, Radio Aplus.fm - @plus Radio Fisrt - 5
+http://shoutcast.aplus.fm:9000/aplus_16.aac
+#EXTINF:-1, Radio Aplus.fm - @plus Deep - 0
+http://shoutcast.aplus.by:9000/aplus_deep_128
+#EXTINF:-1, Radio Aplus.fm - @plus Deep - 1
+http://shoutcast.aplus.by:9000/aplus_deep_64
+#EXTINF:-1, Radio Aplus.fm - @plus Deep - 2
+http://shoutcast.aplus.by:9000/aplus_deep_48.aac
+#EXTINF:-1, Radio Aplus.fm - @plus Deep - 3
+http://shoutcast.aplus.by:9000/aplus_deep_24.aac
+#EXTINF:-1, Radio Aplus.fm - @plus Deep - 4
+http://shoutcast.aplus.by:9000/aplus_deep_32
+#EXTINF:-1, Radio Aplus.fm - @plus Relax - 0
+http://shoutcast.aplus.by:9000/aplus_relax_256
+#EXTINF:-1, Radio Aplus.fm - @plus Relax - 1
+http://shoutcast.aplus.by:9000/aplus_relax_128
+#EXTINF:-1, Radio Aplus.fm - @plus Relax - 2
+http://shoutcast.aplus.by:9000/aplus_relax_64
+#EXTINF:-1, Radio Aplus.fm - @plus Relax - 3
+http://shoutcast.aplus.by:9000/aplus_relax_48.aac
+#EXTINF:-1, Radio Aplus.fm - @plus Relax - 4
+http://shoutcast.aplus.by:9000/aplus_relax_32
+#EXTINF:-1, Radio Aplus.fm - @plus Relax - 5
+http://shoutcast.aplus.by:9000/aplus_relax_24.aac
+#EXTINF:-1, Radio Aplus.fm - @plus Rock - 0
+http://shoutcast.aplus.by:9000/aplus_rock_256
+#EXTINF:-1, Radio Aplus.fm - @plus Rock - 1
+http://shoutcast.aplus.by:9000/aplus_rock_128
+#EXTINF:-1, Radio Aplus.fm - @plus Rock - 2
+http://shoutcast.aplus.by:9000/aplus_rock_64
+#EXTINF:-1, Radio Aplus.fm - @plus Rock - 3
+http://shoutcast.aplus.by:9000/aplus_rock_48.aac
+#EXTINF:-1, Radio Aplus.fm - @plus Rock - 4
+http://shoutcast.aplus.by:9000/aplus_rock_32
+#EXTINF:-1, Radio Aplus.fm - @plus Rock - 5
+http://shoutcast.aplus.by:9000/aplus_rock_24.aac
+#EXTINF:-1, Radio Aplus.fm - @plus Project 3
+http://shoutcast.aplus.by:9000/aplus_project_3
+#EXTINF:-1, Radio Aplus.fm - @plus Project 1 - 0
+http://shoutcast.aplus.by:9000/aplus_project_1
+#EXTINF:-1, Radio Aplus.fm - @plus Project 1 - 1
+http://shoutcast.aplus.by:9000/aplus_texnoplus_1
+#EXTINF:-1, Radio Rocks FM
+http://de.streams.radioplayer.by:8000/live
+#EXTINF:-1, Radio WarGaming.FM
+http://sv.wargaming.fm:8051/128
+#EXTINF:-1, Radio Humor FM Minsk 93.7
+http://live.humorfm.by:8000/veseloe
+#EXTINF:-1, Radio Vitebsk 91.2 FM
+http://radio.vtv.by:8000/radio_vitebsk_128
+#EXTINF:-1, Radio Uvaga
+http://up.uvaga.by:8100/uvaga320.mp3
+#EXTINF:-1, Novoeradio.by - Mega Mix
+http://live.novoeradio.by:8000/novoeradio-megamix-128k
+#EXTINF:-1, Novoeradio.by - Wake Up Show
+http://live.novoeradio.by:8000/novoeradio-wake_up_show-128k
+#EXTINF:-1, Radio Narodnoe Minsk 102.5 FM
+http://live.novoeradio.by:8000/narodnoe-radio-128k
+#EXTINF:-1, Radio Novoe Minsk 98.4 Mhz - 0
+http://live.bn.by:8000/novoeradio_256
+#EXTINF:-1, Radio Novoe Minsk 98.4 Mhz - 1
+http://live.novoeradio.by:8000/novoeradio-128k
+#EXTINF:-1, Radio Novoe Minsk 98.4 Mhz - 2
+http://live.bn.by:8000/novoeradio_128
+#EXTINF:-1, Radio Novoe Minsk 98.4 Mhz - 3
+http://lifemusic.su/online/221.m3u
+#EXTINF:-1, Radio Novoe Minsk 98.4 Mhz - 4
+http://live.bn.by:8000/novoeradio_64
+#EXTINF:-1, Radio Mir Minsk 107.1 FM - 0
+http://217.23.126.106:8002/radio2.mir
+#EXTINF:-1, Radio Mir Minsk 107.1 FM - 1
+http://217.23.126.106:8002/radio.mir
+#EXTINF:-1, Radio Minsk 92.4 FM
+http://93.84.113.142:8000/radio
+#EXTINF:-1, Love Is Radio
+http://listen1.myradio24.com:9000/3355
+#EXTINF:-1, Radio s13
+http://radio.s13.ru:8109/live
+#EXTINF:-1, EURO Radio FM
+http://stream1.euroradio.fm:8000/euroradio1?seed=1523961466
+#EXTINF:-1, BTRC Radius FM
+http://video.tvr.by:8000/radiusfm
+#EXTINF:-1, BTRC Radio Stolitsa
+http://video.tvr.by:8000/stolica
+#EXTINF:-1, Dushevnoe Radio Minsk 105.7 FM
+http://stream.hoster.by:8081/pilotfm/audio/icecast.audio
+#EXTINF:-1, Легенды FM
+http://live.legendy.by:8000/legendyfm
+#EXTINF:-1, Baranovichi FM 100.0
+http://radio.100fm.by:8000/100fm128
+#EXTINF:-1, Pravda Radio
+http://79.98.49.5:8132/pravda?type=.mp3
+#EXTINF:-1, Radio Vatican News Belarusian (daily new podcast)
+http://www2.vaticanwebradio.org/webcasting/bielorusso_1.mp3
+#EXTINF:-1, Radioba Minsk 104.6 FM
+http://93.125.106.180:8000/BA128?1535561529412.mp3
+#EXTINF:-1, Рilot FM Minsk 101.2 - 0
+http://pf.volna.top/PilotBy128
+#EXTINF:-1, Рilot FM Minsk 101.2 - 1
+http://pf.volna.top/PilotBy48
+#EXTINF:-1, Radio Unistar Office
+http://stream.hoster.by/unistar/unistar_lyric-128/icecast.audio
+#EXTINF:-1, Radio Unistar My Rock'n'Roll
+http://stream.hoster.by/unistar/unistar_rnr-128/icecast.audio
+#EXTINF:-1, Radio Unistar 90s
+http://stream.hoster.by/unistar/unistar_90e-128/icecast.audio
+#EXTINF:-1, Radio Unistar TOP
+http://stream.hoster.by/unistar/unistar_top-128/icecast.audio
+#EXTINF:-1, Radio Unistar Minsk 99.5 FM
+http://stream.hoster.by/unistar/unistar-128kb/icecast.audio
+#EXTINF:-1, Centr Minsk 101.7 FM
+http://93.125.31.151:8000/ont
+#EXTINF:-1, Radio BA Minsk 104.6 FM
+http://93.125.106.180:8000/BA128
+#EXTINF:-1, Radio Belarus International
+http://video.tvr.by:8000/belarus
+#EXTINF:-1, Zefir FM 95.4 - 0
+http://178.124.152.212:8008/Zefir
+#EXTINF:-1, Zefir FM 95.4 - 1
+http://178.124.152.212:8008/Zefir.m3u
+#EXTINF:-1, Radio Grodno 101.2FM
+http://178.124.203.233:8000/live
+#EXTINF:-1, Novoeradio.by - Flashback
+http://live.novoeradio.by:8000/novoeradio-128k
+#EXTINF:-1, Минская Волна 97.4 FM
+http://live.aplus.by:9000/minskaya_volna
+#EXTINF:-1, Легенды FM 94.1 FM
+http://live.legendy.by:8000/legendyfm

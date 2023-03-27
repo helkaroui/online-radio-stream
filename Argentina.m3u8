@@ -1,0 +1,3623 @@
+#EXTM3U
+#EXTINF:-1, Confluencia FM 92.7 - 0
+http://www.confluenciafm.com.ar/cfmwm3u.m3u
+#EXTINF:-1, Confluencia FM 92.7 - 1
+http://www.chamigonet.com.ar:9000
+#EXTINF:-1, Confluencia FM 92.7 - 2
+http://www.confluenciafm.com.ar/cfmram.ram
+#EXTINF:-1, Radio Mas Alla del Sol - 0
+http://www.servercristianonetwork.com/radios/windowsmasalla.asx
+#EXTINF:-1, Radio Mas Alla del Sol - 1
+http://www.servercristianonetwork.com/radios/winampmasalla.m3u
+#EXTINF:-1, Radio Mas Alla del Sol - 2
+http://www.servercristianonetwork.com/radios/realmasalla.ram
+#EXTINF:-1, Radio America 24 - 0
+http://www.radioamerica24.com.ar/radio.asx
+#EXTINF:-1, Radio America 24 - 1
+http://radio3.netyco.com:8042
+#EXTINF:-1, Radio LT 12 General Madariaga - 0
+http://www.radiolt12.com.ar/Rlt12W.m3u
+#EXTINF:-1, Radio LT 12 General Madariaga - 1
+http://www.chamigonet.com.ar:9400/
+#EXTINF:-1, Radio LT 12 General Madariaga - 2
+http://www.radiolt12.com.ar/Rlt12.ram
+#EXTINF:-1, Radio Basilio AM 1670 - Buenos Aires
+http://streammax.alsolnet.com/am1670
+#EXTINF:-1, FM Flores 90.7-Buenos Aires
+http://streaming.siliconmediatech.com/fmflores/stream.asx
+#EXTINF:-1, AM 680 - Radio Magna
+http://streammax.alsolnet.com/am650
+#EXTINF:-1, Radio Marina
+http://streammax.alsolnet.com/fmmarina
+#EXTINF:-1, Radio Horizonte 103.1 FM La Pampa
+http://200.43.192.20:8000/
+#EXTINF:-1, Radio Buenos Aires AM1350 Buenos Aires
+http://www.alsolnet.com/stream/radiobuenosaires/vivo.asx
+#EXTINF:-1, FM Pasion 102.7 - Buenos Aires
+http://www.alsolnet.com/stream/fmpasion/vivo.asx
+#EXTINF:-1, Lares FM
+http://radiolares.dyndns.org:2290/listen.pls
+#EXTINF:-1, Estacion AM 820
+http://streamall.alsolnet.com/estacion820?.wma
+#EXTINF:-1, Orbita FM -
+http://streaming10.godns.net:10230/
+#EXTINF:-1, La Radio San Pedro (92.3)
+http://streaming4.wnpower.com:8080/
+#EXTINF:-1, Radio Cardinal Cristi
+http://www.cardinalcristi.com.ar:8010/
+#EXTINF:-1, Radio Folclorisimo
+http://streammax.alsolnet.com/radiofolclorisimo?.wma
+#EXTINF:-1, SABE Buenos Aires (Gnd/Twr/App) - 0
+http://d.liveatc.net/sabe
+#EXTINF:-1, SABE Buenos Aires (Gnd/Twr/App) - 1
+http://www.liveatc.net/play/sabe.pls
+#EXTINF:-1, FM Activa 105.9 - Cordoba
+http://www.fmactiva.com/playlist2.asx
+#EXTINF:-1, 91.9 Mantra FM, Buenos Aires
+http://streamlky.alsolnet.com:443/mantrafm
+#EXTINF:-1, 90.7 FM Franca, Gral. Deheza, Cordoba
+http://stream2.servercristianonetwork.com:8102/
+#EXTINF:-1, Emisora Colon FM-90.1 (Colon, BsAs, Argentina)
+http://200.58.112.14:11955/
+#EXTINF:-1, LU6 Radio Atlantica - Mar del Plata
+http://173.255.205.241:9090/listen.pls
+#EXTINF:-1, Radio Del Aire FM 93.9 - La Plata, Buenos Aires - 0
+http://www.alsolnet.com.ar/stream/radiodelaire/listen.pls
+#EXTINF:-1, Radio Del Aire FM 93.9 - La Plata, Buenos Aires - 1
+http://www.alsolnet.com.ar/stream/radiodelaire/listen.asx
+#EXTINF:-1, Radio Saint Germain
+http://173.255.205.241:8200/
+#EXTINF:-1, Radio Biblica Independiente
+http://192.111.130.38:8000/listen.pls
+#EXTINF:-1, FM 103.5 / La X
+http://184.107.240.26:8565/vivo
+#EXTINF:-1, 105.1 FM La Rioja
+http://streamingargentino4.com.ar:7394/
+#EXTINF:-1, La mega radio 94.1 Pehuajó
+http://01.solumedia.com.ar:8110/
+#EXTINF:-1, FM IMPACTO 90.7 Mar de Ajo
+http://radio.netyco.com.ar:8032/listen.pls
+#EXTINF:-1, Genesis 102.5 MHz
+http://67.212.165.162:9020
+#EXTINF:-1, Radio Genesis 97.1 HD
+http://188.165.236.90:7228
+#EXTINF:-1, RADIO GENESIS 96.9 mhz
+http://yp.shoutcast.com/sbin/tunein-station.pls?id=131538&file=filename.pls
+#EXTINF:-1, Cadena Cumbia Latina FM 89.3 - 0
+http://streamall.alsolnet.com:443/cadenacumbia
+#EXTINF:-1, Cadena Cumbia Latina FM 89.3 - 1
+http://www.alsolnet.com/stream/cadenacumbia/listen.asx
+#EXTINF:-1, Radio Magica 90.7 FM - 0
+http://streamall.alsolnet.com:443/magicalobos
+#EXTINF:-1, Radio Magica 90.7 FM - 1
+http://www.alsolnet.com/stream/magicalobos/listen.asx
+#EXTINF:-1, La 97 FM 97.3 - Mar del Plata
+http://www.alsolnet.com/stream/fm97/listen.pls
+#EXTINF:-1, FM Urban 106 - Pehuajo
+http://01.solumedia.com.ar:8012/listen.pls
+#EXTINF:-1, AM790 Radio Mitre, Buenos Aires
+http://buecrplb01.cienradios.com.ar/Mitre790.aac
+#EXTINF:-1, LRM309- Radio Show 105.9 Mhz  La emisora de la familia
+http://stream.aerstreaming.com:7034/
+#EXTINF:-1, Radio Libetad 92.5 Mhz.
+http://200.58.123.233:5755
+#EXTINF:-1, Radio Libertad - 92.5 Mhz
+http://200.58.123.233:5755
+#EXTINF:-1, Fm Genesis 92.3Mhz
+http://www.genexservicios.com:8192/
+#EXTINF:-1, Radio Contacto Tucuman FM 104.5 - 0
+http://radiocontacto.com.ar/repro.asx
+#EXTINF:-1, Radio Contacto Tucuman FM 104.5 - 1
+http://radiocontacto.com.ar/repro.m3u
+#EXTINF:-1, Radio Contacto Tucuman FM 104.5 - 2
+http://radiocontacto.com.ar/repro.pls
+#EXTINF:-1, Radio Contacto Tucuman FM 104.5 - 3
+http://radioradio7.com/radio-asx/Argentina-Radio-Contacto-1045-FM.asx
+#EXTINF:-1, Radio Contacto Tucuman FM 104.5 - 4
+http://www.radiocontacto.com.ar:8771
+#EXTINF:-1, 95.1 FM Fenix 95.1, La Rioja
+http://184.107.187.146:8032/fenix951
+#EXTINF:-1, Cadena Express 88.1 FM Posadas
+http://streamall.alsolnet.com:443/cadenaexpress
+#EXTINF:-1, 92.5 FM Montecristo, Chilecito, La Rioja
+http://65.254.42.234:10070/vivo
+#EXTINF:-1, 94.1 FM America, La Rioja
+http://200.58.123.233:5605/;stream.mp3
+#EXTINF:-1, Radio Palermo 94.7
+http://buecrplb01.cienradios.com.ar/Palermo_FM947.mp3
+#EXTINF:-1, Radio Boing 97.3 FM
+http://200.58.106.247:8626
+#EXTINF:-1, RadioMusic
+http://190.1.0.5:8035/;stream.mp3
+#EXTINF:-1, Xradio 101.7 Bariloche
+http://radios.streamingnacional.com:7028/listen.pls
+#EXTINF:-1, Universal 95.5 Bahía Blanca
+http://190.1.0.5:8000/
+#EXTINF:-1, Radio Latina FM101.1 - Buenos Aires
+http://streaming.latina101.com.ar:8080/RadioLatina
+#EXTINF:-1, La 95 - Ayacucho (Argentina) - 0
+http://212.83.146.67:7128/
+#EXTINF:-1, La 95 - Ayacucho (Argentina) - 1
+http://212.83.146.67:7128
+#EXTINF:-1, Metropolitana FM 93.5 Tucumán
+http://184.107.166.66:8134/stream.m3u
+#EXTINF:-1, Radio 2 AM 1230 - Rosario Santa Fe
+http://radio2.radio.rosario3.com:8000/prueba2
+#EXTINF:-1, Radio Sudamericana FM 100.5 - Corrientes
+http://suda.coninfo.net:8530/stream
+#EXTINF:-1, FM Oeste 106.9
+http://200.110.156.14:8006/
+#EXTINF:-1, LU36 Radio Coronel Suarez AM 1440 - Coronel Suarez
+http://radio.solumedia.com.ar:8014/
+#EXTINF:-1, Radio Universidad Nacional de Cuyo FM 96.5
+http://fm.uncu.edu.ar:8000/
+#EXTINF:-1, Radio Universidad Nacional de San Luis FM 97.9
+http://01.solumedia.com.ar:8366/
+#EXTINF:-1, RADIO UTN FRC 94.3
+http://01.solumedia.com.ar:8200/
+#EXTINF:-1, Radio Norte 105.5 FM - Bahia Blanca
+http://icecast.hostingbahia.com.ar:8002/live
+#EXTINF:-1, Conexion Bariloche FM 93.9
+http://giss.tv:8001/bariloche939.mp3
+#EXTINF:-1, Planet Music - 101.1 Mar del Plata
+http://www.alsolnet.com/stream/planetmdq/listen.pls
+#EXTINF:-1, Planet Music - 99.5 Pinamar
+http://www.alsolnet.com/stream/planetpinamar/listen.pls
+#EXTINF:-1, Planet Music - 91.9 Mar de las Pampas
+http://www.alsolnet.com/stream/planetmardelaspampas/listen.pls
+#EXTINF:-1, Radio Cristo La Solucion - 0
+http://www.genexservicios.com:8048/listen.pls
+#EXTINF:-1, Radio Cristo La Solucion - 1
+http://www.genexservicios.com:8048/listen.asx
+#EXTINF:-1, Radio Cristo La Solucion - 2
+http://www.genexservicios.com:8048/listen.ram
+#EXTINF:-1, Radio UTN FM 94.5 Mendoza
+http://streaming.fmutn.com.ar:8000/FMUTN
+#EXTINF:-1, Sonido FM 103.5 - Buenos Aires - 0
+http://www.alsolnet.com/stream/fmsonidohd/listen.pls
+#EXTINF:-1, Sonido FM 103.5 - Buenos Aires - 1
+http://www.alsolnet.com/stream/fmsonidohd/listen.asx
+#EXTINF:-1, FM Dakota 104.7
+http://streamall.alsolnet.com:443/fmdakotahd
+#EXTINF:-1, Metro 95.1 FM Buenos Aires
+http://mp3.metroaudio1.stream.avstreaming.net:7200/metro
+#EXTINF:-1, Pop Radio 101.5
+http://popradio.stweb.tv:1935/popradio/live/playlist.m3u8
+#EXTINF:-1, La 100 FM 99.9 - Buenos Aires - 0
+http://buecrplb01.cienradios.com.ar/la100.aac
+#EXTINF:-1, La 100 FM 99.9 - Buenos Aires - 1
+http://s_mobile.cienradios.com/la100.mp3
+#EXTINF:-1, La 97 Radio Fueguina 96.9 FM
+http://streamall.alsolnet.com:443/radiofueguina
+#EXTINF:-1, FM VIDA 97.9 - Rosario Santa Fe
+http://fmvida.radio.rosario3.com:8000/fmvida.mp3
+#EXTINF:-1, Cienradios - The Police y Artistas Relacionados - 0
+http://buecrplb01.cienradios.com.ar/775_The_Police_y_Artistas_Relacionados_32000.aac
+#EXTINF:-1, Cienradios - The Police y Artistas Relacionados - 1
+http://s_mobile.cienradios.com/775_The_Police_y_Artistas_Relacionados_32000.aac
+#EXTINF:-1, Cienradios - The Police y Artistas Relacionados - 2
+http://s_mobile.cienradios.com/775_The_Police_y_Artistas_Relacionados_48.mp3
+#EXTINF:-1, Cienradios - One Direction y Artistas Relacionados - 0
+http://buecrplb01.cienradios.com.ar/990_One_Direction_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - One Direction y Artistas Relacionados - 1
+http://s_mobile.cienradios.com/990_One_Direction_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - One Direction y Artistas Relacionados - 2
+http://s_mobile.cienradios.com/990_One_Direction_y_Art_Rel_48.mp3
+#EXTINF:-1, Cienradios - Oasis y Artistas Relacionados - 0
+http://buecrplb01.cienradios.com.ar/885_Oasis_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Oasis y Artistas Relacionados - 1
+http://s_mobile.cienradios.com/885_Oasis_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Oasis y Artistas Relacionados - 2
+http://s_mobile.cienradios.com/885_Oasis_y_Art_Rel_48.mp3
+#EXTINF:-1, Cienradios - Nueva Musica - 0
+http://buecrplb01.cienradios.com.ar/1235_Nueva_Musica_32000.aac
+#EXTINF:-1, Cienradios - Nueva Musica - 1
+http://s_mobile.cienradios.com/1235_Nueva_Musica_32000.aac
+#EXTINF:-1, Cienradios - Nueva Musica - 2
+http://s_mobile.cienradios.com/1235_Nueva_Musica_48.mp3
+#EXTINF:-1, Cienradios - The Beatles - 0
+http://buecrplb01.cienradios.com.ar/638_The_Beatles_y_Artistas_Relacionados_32000.aac
+#EXTINF:-1, Cienradios - The Beatles - 1
+http://s_mobile.cienradios.com/638_The_Beatles_y_Artistas_Relacionados_32000.aac
+#EXTINF:-1, Cienradios - The Beatles - 2
+http://s_mobile.cienradios.com/638_The_Beatles_y_Artistas_Relacionados_48.mp3
+#EXTINF:-1, Cienradios - Noche de Sabado - 0
+http://buecrplb01.cienradios.com.ar/1240_Noche_de_Sabado_32000.aac
+#EXTINF:-1, Cienradios - Noche de Sabado - 1
+http://s_mobile.cienradios.com/1240_Noche_de_Sabado_32000.aac
+#EXTINF:-1, Cienradios - Noche de Sabado - 2
+http://s_mobile.cienradios.com/1240_Noche_de_Sabado_48.mp3
+#EXTINF:-1, Cienradios - No Te Va Gustar y Artistas Relacionados - 0
+http://buecrplb01.cienradios.com.ar/951_No_Te_Va_Gustar_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - No Te Va Gustar y Artistas Relacionados - 1
+http://s_mobile.cienradios.com/951_No_Te_Va_Gustar_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - No Te Va Gustar y Artistas Relacionados - 2
+http://s_mobile.cienradios.com/951_No_Te_Va_Gustar_y_Art_Rel_48.mp3
+#EXTINF:-1, Cienradios - Nirvana y Artistas Relacionados - 0
+http://buecrplb01.cienradios.com.ar/912_Nirvana_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Nirvana y Artistas Relacionados - 1
+http://s_mobile.cienradios.com/912_Nirvana_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Nirvana y Artistas Relacionados - 2
+http://s_mobile.cienradios.com/912_Nirvana_y_Art_Rel_48.mp3
+#EXTINF:-1, Cienradios - New Party Radio - 0
+http://buecrplb01.cienradios.com.ar/723_New_Party_Radio_32000.aac
+#EXTINF:-1, Cienradios - New Party Radio - 1
+http://s_mobile.cienradios.com/723_New_Party_Radio_32000.aac
+#EXTINF:-1, Cienradios - New Party Radio - 2
+http://s_mobile.cienradios.com/723_New_Party_Radio_48.mp3
+#EXTINF:-1, Cienradios - New Order - 0
+http://buecrplb01.cienradios.com.ar/915_New_Order_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - New Order - 1
+http://s_mobile.cienradios.com/915_New_Order_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - New Order - 2
+http://s_mobile.cienradios.com/915_New_Order_y_Art_Rel_48.mp3
+#EXTINF:-1, Cienradios - Neo Soul - 0
+http://buecrplb01.cienradios.com.ar/1075_Neo_Soul_32000.aac
+#EXTINF:-1, Cienradios - Neo Soul - 1
+http://s_mobile.cienradios.com/1075_Neo_Soul_32000.aac
+#EXTINF:-1, Cienradios - Neo Soul - 2
+http://s_mobile.cienradios.com/1075_Neo_Soul_48.mp3
+#EXTINF:-1, Cienradios - Nacional - 0
+http://buecrplb01.cienradios.com.ar/597_Nacional_32000.aac
+#EXTINF:-1, Cienradios - Nacional - 1
+http://s_mobile.cienradios.com/597_Nacional_32000.aac
+#EXTINF:-1, Cienradios - Nacional - 2
+http://s_mobile.cienradios.com/597_Nacional_48.mp3
+#EXTINF:-1, Cienradios - Nacido en los 90 - 0
+http://buecrplb01.cienradios.com.ar/1239_Nacido_en_los_90_32000.aac
+#EXTINF:-1, Cienradios - Nacido en los 90 - 1
+http://s_mobile.cienradios.com/1239_Nacido_en_los_90_32000.aac
+#EXTINF:-1, Cienradios - Nacido en los 90 - 2
+http://s_mobile.cienradios.com/1239_Nacido_en_los_90_48.mp3
+#EXTINF:-1, Cienradios - Musica para tu Asado - 0
+http://buecrplb01.cienradios.com.ar/1187_Musica_para_tu_Asado_32000.aac
+#EXTINF:-1, Cienradios - Musica para tu Asado - 1
+http://s_mobile.cienradios.com/1187_Musica_para_tu_Asado_32000.aac
+#EXTINF:-1, Cienradios - Musica para tu Asado - 2
+http://s_mobile.cienradios.com/1187_Musica_para_tu_Asado_48.mp3
+#EXTINF:-1, Cienradios - Muse y Artistas Relacionados - 0
+http://buecrplb01.cienradios.com.ar/980_Muse_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Muse y Artistas Relacionados - 1
+http://s_mobile.cienradios.com/980_Muse_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Muse y Artistas Relacionados - 2
+http://s_mobile.cienradios.com/980_Muse_y_Art_Rel_48.mp3
+#EXTINF:-1, Cienradios - MPB - 0
+http://buecrplb01.cienradios.com.ar/588_MPB_32000.aac
+#EXTINF:-1, Cienradios - MPB - 1
+http://s_mobile.cienradios.com/588_MPB_32000.aac
+#EXTINF:-1, Cienradios - MPB - 2
+http://s_mobile.cienradios.com/588_MPB_48.mp3
+#EXTINF:-1, Cienradios - Mozart - 0
+http://buecrplb01.cienradios.com.ar/720_Mozart_32000.aac
+#EXTINF:-1, Cienradios - Mozart - 1
+http://s_mobile.cienradios.com/720_Mozart_32000.aac
+#EXTINF:-1, Cienradios - Mozart - 2
+http://s_mobile.cienradios.com/720_Mozart_48.mp3
+#EXTINF:-1, Cienradios - Mitre y el Campo - 0
+http://buecrplb01.cienradios.com.ar/991_Mitre_y_el_Campo_32000.aac
+#EXTINF:-1, Cienradios - Mitre y el Campo - 1
+http://s_mobile.cienradios.com/991_Mitre_y_el_Campo_32000.aac
+#EXTINF:-1, Cienradios - Mitre y el Campo - 2
+http://s_mobile.cienradios.com/991_Mitre_y_el_Campo_48.mp3
+#EXTINF:-1, Cienradios - Mitad de Semana - 0
+http://buecrplb01.cienradios.com.ar/1248_Mitad_de_Semana_32000.aac
+#EXTINF:-1, Cienradios - Mitad de Semana - 1
+http://s_mobile.cienradios.com/1248_Mitad_de_Semana_32000.aac
+#EXTINF:-1, Cienradios - Mitad de Semana - 2
+http://s_mobile.cienradios.com/1248_Mitad_de_Semana_48.mp3
+#EXTINF:-1, Cienradios - Mis Mejores Amigos - 0
+http://buecrplb01.cienradios.com.ar/1241_Mis_Mejores_Amigos_32000.aac
+#EXTINF:-1, Cienradios - Mis Mejores Amigos - 1
+http://s_mobile.cienradios.com/1241_Mis_Mejores_Amigos_32000.aac
+#EXTINF:-1, Cienradios - Mis Mejores Amigos - 2
+http://s_mobile.cienradios.com/1241_Mis_Mejores_Amigos_48.mp3
+#EXTINF:-1, Cienradios - Miranda y Artistas Relacionados - 0
+http://buecrplb01.cienradios.com.ar/920_Miranda_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Miranda y Artistas Relacionados - 1
+http://s_mobile.cienradios.com/920_Miranda_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Miranda y Artistas Relacionados - 2
+http://s_mobile.cienradios.com/920_Miranda_y_Art_Rel_48.mp3
+#EXTINF:-1, Cienradios - Miniradio - 0
+http://buecrplb01.cienradios.com.ar/716_Mini_Radio_32000.aac
+#EXTINF:-1, Cienradios - Miniradio - 1
+http://s_mobile.cienradios.com/716_Mini_Radio_32000.aac
+#EXTINF:-1, Cienradios - Miniradio - 2
+http://s_mobile.cienradios.com/716_Mini_Radio_48.mp3
+#EXTINF:-1, Cienradios - Michael Buble y Artistas Relacionados - 0
+http://buecrplb01.cienradios.com.ar/945_Michael_Buble_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Michael Buble y Artistas Relacionados - 1
+http://s_mobile.cienradios.com/945_Michael_Buble_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Michael Buble y Artistas Relacionados - 2
+http://s_mobile.cienradios.com/945_Michael_Buble_y_Art_Rel_48.mp3
+#EXTINF:-1, Cienradios - Mi Lugar en el Mundo - 0
+http://buecrplb01.cienradios.com.ar/1310_Mi_Lugar_en_el_Mundo_32000.aac
+#EXTINF:-1, Cienradios - Mi Lugar en el Mundo - 1
+http://s_mobile.cienradios.com/1310_Mi_Lugar_en_el_Mundo_32000.aac
+#EXTINF:-1, Cienradios - Mi Lugar en el Mundo - 2
+http://s_mobile.cienradios.com/1310_Mi_Lugar_en_el_Mundo_48.mp3
+#EXTINF:-1, Cienradios - Mercedes Sosa y Artistas Relacionados - 0
+http://buecrplb01.cienradios.com.ar/713_Mercedes_Sosa_y_Artistas_Relacionados_32000.aac
+#EXTINF:-1, Cienradios - Mercedes Sosa y Artistas Relacionados - 1
+http://s_mobile.cienradios.com/713_Mercedes_Sosa_y_Artistas_Relacionados_32000.aac
+#EXTINF:-1, Cienradios - Mercedes Sosa y Artistas Relacionados - 2
+http://s_mobile.cienradios.com/713_Mercedes_Sosa_y_Artistas_Relacionados_48.mp3
+#EXTINF:-1, Cienradios - Mejor - 0
+http://buecrplb01.cienradios.com.ar/1218_Mejor_32000.aac
+#EXTINF:-1, Cienradios - Mejor - 1
+http://s_mobile.cienradios.com/1218_Mejor_32000.aac
+#EXTINF:-1, Cienradios - Mejor - 2
+http://s_mobile.cienradios.com/1218_Mejor_48.mp3
+#EXTINF:-1, Cienradios - Me Gusta! - 0
+http://buecrplb01.cienradios.com.ar/1255_Me_Gusta_32000.aac
+#EXTINF:-1, Cienradios - Me Gusta! - 1
+http://s_mobile.cienradios.com/1255_Me_Gusta_32000.aac
+#EXTINF:-1, Cienradios - Me Gusta! - 2
+http://s_mobile.cienradios.com/1255_Me_Gusta_48.mp3
+#EXTINF:-1, Cienradios - Matador - 0
+http://buecrplb01.cienradios.com.ar/1042_Matador_32000.aac
+#EXTINF:-1, Cienradios - Matador - 1
+http://s_mobile.cienradios.com/1042_Matador_32000.aac
+#EXTINF:-1, Cienradios - Matador - 2
+http://s_mobile.cienradios.com/1042_Matador_48.mp3
+#EXTINF:-1, Cienradios - Maroon 5 y Art. Rel - 0
+http://buecrplb01.cienradios.com.ar/1008_Maroon_5_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Maroon 5 y Art. Rel - 1
+http://s_mobile.cienradios.com/1008_Maroon_5_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Maroon 5 y Art. Rel - 2
+http://s_mobile.cienradios.com/1008_Maroon_5_y_Art_Rel_48.mp3
+#EXTINF:-1, Cienradios - Maria Elena Walsh y Art. Rel. - 0
+http://buecrplb01.cienradios.com.ar/790_Maria_Elena_Walsh_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Maria Elena Walsh y Art. Rel. - 1
+http://s_mobile.cienradios.com/790_Maria_Elena_Walsh_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Maria Elena Walsh y Art. Rel. - 2
+http://s_mobile.cienradios.com/790_Maria_Elena_Walsh_y_Art_Rel_48.mp3
+#EXTINF:-1, Cienradios - Maná y Artistas Relacionados - 0
+http://buecrplb01.cienradios.com.ar/712_Mana_y_Artistas_Relacionados_32000.aac
+#EXTINF:-1, Cienradios - Maná y Artistas Relacionados - 1
+http://s_mobile.cienradios.com/712_Mana_y_Artistas_Relacionados_32000.aac
+#EXTINF:-1, Cienradios - Maná y Artistas Relacionados - 2
+http://s_mobile.cienradios.com/712_Mana_y_Artistas_Relacionados_48.mp3
+#EXTINF:-1, Cienradios - Maluco_Beleza - 0
+http://buecrplb01.cienradios.com.ar/629_Maluco_Beleza_32000.aac
+#EXTINF:-1, Cienradios - Maluco_Beleza - 1
+http://s_mobile.cienradios.com/629_Maluco_Beleza_32000.aac
+#EXTINF:-1, Cienradios - Maluco_Beleza - 2
+http://s_mobile.cienradios.com/629_Maluco_Beleza_48.mp3
+#EXTINF:-1, Cienradios - Madonna y Artistas Relacionados - 0
+http://buecrplb01.cienradios.com.ar/711_Madonna_y_Artistas_Relacionados_32000.aac
+#EXTINF:-1, Cienradios - Madonna y Artistas Relacionados - 1
+http://s_mobile.cienradios.com/711_Madonna_y_Artistas_Relacionados_32000.aac
+#EXTINF:-1, Cienradios - Madonna y Artistas Relacionados - 2
+http://s_mobile.cienradios.com/711_Madonna_y_Artistas_Relacionados_48.mp3
+#EXTINF:-1, Cienradios - Luis Miguel - 0
+http://buecrplb01.cienradios.com.ar/710_Luis_Miguel_y_Artistas_Relacionados_32000.aac
+#EXTINF:-1, Cienradios - Luis Miguel - 1
+http://s_mobile.cienradios.com/710_Luis_Miguel_y_Artistas_Relacionados_32000.aac
+#EXTINF:-1, Cienradios - Luis Miguel - 2
+http://s_mobile.cienradios.com/710_Luis_Miguel_y_Artistas_Relacionados_48.mp3
+#EXTINF:-1, Cienradios - Luciano Pavarotti y Art. Rel - 0
+http://buecrplb01.cienradios.com.ar/1015_Luciano_Pavarotti_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Luciano Pavarotti y Art. Rel - 1
+http://s_mobile.cienradios.com/1015_Luciano_Pavarotti_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Luciano Pavarotti y Art. Rel - 2
+http://s_mobile.cienradios.com/1015_Luciano_Pavarotti_y_Art_Rel_48.mp3
+#EXTINF:-1, Cienradios - Lounge - 0
+http://buecrplb01.cienradios.com.ar/709_Lounge_32000.aac
+#EXTINF:-1, Cienradios - Lounge - 1
+http://s_mobile.cienradios.com/709_Lounge_32000.aac
+#EXTINF:-1, Cienradios - Lounge - 2
+http://s_mobile.cienradios.com/709_Lounge_48.mp3
+#EXTINF:-1, Cienradios - Los Tipitos y Artistas Relacionados - 0
+http://buecrplb01.cienradios.com.ar/944_Los_Tipitos_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Los Tipitos y Artistas Relacionados - 1
+http://s_mobile.cienradios.com/944_Los_Tipitos_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Los Tipitos y Artistas Relacionados - 2
+http://s_mobile.cienradios.com/944_Los_Tipitos_y_Art_Rel_48.mp3
+#EXTINF:-1, Cienradios - Los Tenores - 0
+http://buecrplb01.cienradios.com.ar/708_Los_Tenores_32000.aac
+#EXTINF:-1, Cienradios - Los Tenores - 1
+http://s_mobile.cienradios.com/708_Los_Tenores_32000.aac
+#EXTINF:-1, Cienradios - Los Tenores - 2
+http://s_mobile.cienradios.com/708_Los_Tenores_48.mp3
+#EXTINF:-1, Cienradios - Los Piojos - 0
+http://buecrplb01.cienradios.com.ar/707_Los_Piojos_y_Artistas_Relacionados_32000.aac
+#EXTINF:-1, Cienradios - Los Piojos - 1
+http://s_mobile.cienradios.com/707_Los_Piojos_y_Artistas_Relacionados_32000.aac
+#EXTINF:-1, Cienradios - Los Piojos - 2
+http://s_mobile.cienradios.com/707_Los_Piojos_y_Artistas_Relacionados_48.mp3
+#EXTINF:-1, Cienradios - Los Pericos y Artistas Relacionados - 0
+http://buecrplb01.cienradios.com.ar/789_Los_Pericos_y_Art_Relac_32000.aac
+#EXTINF:-1, Cienradios - Los Pericos y Artistas Relacionados - 1
+http://s_mobile.cienradios.com/789_Los_Pericos_y_Art_Relac_32000.aac
+#EXTINF:-1, Cienradios - Los Pericos y Artistas Relacionados - 2
+http://s_mobile.cienradios.com/789_Los_Pericos_y_Art_Relac_48.mp3
+#EXTINF:-1, Cienradios - Los Numero 1 de los 90 USA - 0
+http://buecrplb01.cienradios.com.ar/1030_Los_Numero_1_de_los_90_USA_32000.aac
+#EXTINF:-1, Cienradios - Los Numero 1 de los 90 USA - 1
+http://s_mobile.cienradios.com/1030_Los_Numero_1_de_los_90_USA_32000.aac
+#EXTINF:-1, Cienradios - Los Numero 1 de los 90 USA - 2
+http://s_mobile.cienradios.com/1030_Los_Numero_1_de_los_90_USA_48.mp3
+#EXTINF:-1, Cienradios - Los Numero 1 de los 90 UK - 0
+http://buecrplb01.cienradios.com.ar/1047_Los_Numero_1_de_los_90_UK_32000.aac
+#EXTINF:-1, Cienradios - Los Numero 1 de los 90 UK - 1
+http://s_mobile.cienradios.com/1047_Los_Numero_1_de_los_90_UK_32000.aac
+#EXTINF:-1, Cienradios - Los Numero 1 de los 90 UK - 2
+http://s_mobile.cienradios.com/1047_Los_Numero_1_de_los_90_UK_48.mp3
+#EXTINF:-1, Cienradios - Los Numero 1 de los 80 UK - 0
+http://buecrplb01.cienradios.com.ar/1034_Los_Numero_1_de_los_80_UK_32000.aac
+#EXTINF:-1, Cienradios - Los Numero 1 de los 80 UK - 1
+http://s_mobile.cienradios.com/1034_Los_Numero_1_de_los_80_UK_32000.aac
+#EXTINF:-1, Cienradios - Los Numero 1 de los 80 UK - 2
+http://s_mobile.cienradios.com/1034_Los_Numero_1_de_los_80_UK_48.mp3
+#EXTINF:-1, Cienradios - Los Numero 1 de los 70 USA - 0
+http://buecrplb01.cienradios.com.ar/1076_Los_Numero_1_de_los_70_USA_32000.aac
+#EXTINF:-1, Cienradios - Los Numero 1 de los 70 USA - 1
+http://s_mobile.cienradios.com/1076_Los_Numero_1_de_los_70_USA_32000.aac
+#EXTINF:-1, Cienradios - Los Numero 1 de los 70 USA - 2
+http://s_mobile.cienradios.com/1076_Los_Numero_1_de_los_70_USA_48.mp3
+#EXTINF:-1, Cienradios - Los Nocheros y Artistas Relacionados - 0
+http://buecrplb01.cienradios.com.ar/706_Los_Nocheros_y_Art_Relac_32000.aac
+#EXTINF:-1, Cienradios - Los Nocheros y Artistas Relacionados - 1
+http://s_mobile.cienradios.com/706_Los_Nocheros_y_Art_Relac_32000.aac
+#EXTINF:-1, Cienradios - Los Nocheros y Artistas Relacionados - 2
+http://s_mobile.cienradios.com/706_Los_Nocheros_y_Art_Relac_48.mp3
+#EXTINF:-1, Cienradios - Los Chalchaleros y Artistas Relacionados - 0
+http://buecrplb01.cienradios.com.ar/705_Los_Chalchaleros_y_Artistas_Relacionados_32000.aac
+#EXTINF:-1, Cienradios - Los Chalchaleros y Artistas Relacionados - 1
+http://s_mobile.cienradios.com/705_Los_Chalchaleros_y_Artistas_Relacionados_32000.aac
+#EXTINF:-1, Cienradios - Los Chalchaleros y Artistas Relacionados - 2
+http://s_mobile.cienradios.com/705_Los_Chalchaleros_y_Artistas_Relacionados_48.mp3
+#EXTINF:-1, Cienradios - Lo Mejor del 2014 - 0
+http://buecrplb01.cienradios.com.ar/1294_Lo_Mejor_del_2014_32000.aac
+#EXTINF:-1, Cienradios - Lo Mejor del 2014 - 1
+http://s_mobile.cienradios.com/1294_Lo_Mejor_del_2014_32000.aac
+#EXTINF:-1, Cienradios - Lo Mejor del 2014 - 2
+http://s_mobile.cienradios.com/1294_Lo_Mejor_del_2014_48.mp3
+#EXTINF:-1, Cienradios - Lo Mejor del 2011 - 0
+http://buecrplb01.cienradios.com.ar/822_Lo_Mejor_de_2011_32000.aac
+#EXTINF:-1, Cienradios - Lo Mejor del 2011 - 1
+http://s_mobile.cienradios.com/822_Lo_Mejor_de_2011_32000.aac
+#EXTINF:-1, Cienradios - Lo Mejor del 2011 - 2
+http://s_mobile.cienradios.com/822_Lo_Mejor_de_2011_48.mp3
+#EXTINF:-1, Cienradios - Lo Mejor del 2010 - 0
+http://buecrplb01.cienradios.com.ar/610_Lo_Mejor_de_2010_32000.aac
+#EXTINF:-1, Cienradios - Lo Mejor del 2010 - 1
+http://s_mobile.cienradios.com/610_Lo_Mejor_de_2010_32000.aac
+#EXTINF:-1, Cienradios - Lo Mejor del 2010 - 2
+http://s_mobile.cienradios.com/610_Lo_Mejor_de_2010_48.mp3
+#EXTINF:-1, Cienradios - Lo Mejor del 2009 - 0
+http://buecrplb01.cienradios.com.ar/702_Lo_Mejor_De_2009_32000.aac
+#EXTINF:-1, Cienradios - Lo Mejor del 2009 - 1
+http://s_mobile.cienradios.com/702_Lo_Mejor_De_2009_32000.aac
+#EXTINF:-1, Cienradios - Lo Mejor del 2009 - 2
+http://s_mobile.cienradios.com/702_Lo_Mejor_De_2009_48.mp3
+#EXTINF:-1, Cienradios - Lo Mejor del 2005 - 0
+http://buecrplb01.cienradios.com.ar/699_Lo_Mejor_De_2005_32000.aac
+#EXTINF:-1, Cienradios - Lo Mejor del 2005 - 1
+http://s_mobile.cienradios.com/699_Lo_Mejor_De_2005_32000.aac
+#EXTINF:-1, Cienradios - Lo Mejor del 2005 - 2
+http://s_mobile.cienradios.com/699_Lo_Mejor_De_2005_48.mp3
+#EXTINF:-1, Cienradios - Lo Mejor del 2004 - 0
+http://buecrplb01.cienradios.com.ar/696_Lo_Mejor_De_2004_32000.aac
+#EXTINF:-1, Cienradios - Lo Mejor del 2004 - 1
+http://s_mobile.cienradios.com/696_Lo_Mejor_De_2004_32000.aac
+#EXTINF:-1, Cienradios - Lo Mejor del 2004 - 2
+http://s_mobile.cienradios.com/696_Lo_Mejor_De_2004_48.mp3
+#EXTINF:-1, Cienradios - Lo Mejor del 2003 - 0
+http://buecrplb01.cienradios.com.ar/695_Lo_Mejor_De_2003_32000.aac
+#EXTINF:-1, Cienradios - Lo Mejor del 2003 - 1
+http://s_mobile.cienradios.com/695_Lo_Mejor_De_2003_32000.aac
+#EXTINF:-1, Cienradios - Lo Mejor del 2003 - 2
+http://s_mobile.cienradios.com/695_Lo_Mejor_De_2003_48.mp3
+#EXTINF:-1, Cienradios - Lo Mejor del 2001 - 0
+http://buecrplb01.cienradios.com.ar/693_Lo_Mejor_De_2001_32000.aac
+#EXTINF:-1, Cienradios - Lo Mejor del 2001 - 1
+http://s_mobile.cienradios.com/693_Lo_Mejor_De_2001_32000.aac
+#EXTINF:-1, Cienradios - Lo Mejor del 2001 - 2
+http://s_mobile.cienradios.com/693_Lo_Mejor_De_2001_48.mp3
+#EXTINF:-1, Cienradios - Lo Mejor del 2000 - 0
+http://buecrplb01.cienradios.com.ar/698_Lo_Mejor_De_2000_32000.aac
+#EXTINF:-1, Cienradios - Lo Mejor del 2000 - 1
+http://s_mobile.cienradios.com/698_Lo_Mejor_De_2000_32000.aac
+#EXTINF:-1, Cienradios - Lo Mejor del 2000 - 2
+http://s_mobile.cienradios.com/698_Lo_Mejor_De_2000_48.mp3
+#EXTINF:-1, Cienradios - Lo Mas Compartido - 0
+http://buecrplb01.cienradios.com.ar/1276_Lo_Mas_Compartido_32000.aac
+#EXTINF:-1, Cienradios - Lo Mas Compartido - 1
+http://s_mobile.cienradios.com/1276_Lo_Mas_Compartido_32000.aac
+#EXTINF:-1, Cienradios - Lo Mas Compartido - 2
+http://s_mobile.cienradios.com/1276_Lo_Mas_Compartido_48.mp3
+#EXTINF:-1, Cienradios - Lluvia - 0
+http://buecrplb01.cienradios.com.ar/1116_Lluvia_32000.aac
+#EXTINF:-1, Cienradios - Lluvia - 1
+http://s_mobile.cienradios.com/1116_Lluvia_32000.aac
+#EXTINF:-1, Cienradios - Lluvia - 2
+http://s_mobile.cienradios.com/1116_Lluvia_48.mp3
+#EXTINF:-1, Cienradios - Leon Gieco y Artistas Relacionados - 0
+http://buecrplb01.cienradios.com.ar/907_Leon_Gieco_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Leon Gieco y Artistas Relacionados - 1
+http://s_mobile.cienradios.com/907_Leon_Gieco_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Leon Gieco y Artistas Relacionados - 2
+http://s_mobile.cienradios.com/907_Leon_Gieco_y_Art_Rel_48.mp3
+#EXTINF:-1, Cienradios - Lentos 80 - 0
+http://buecrplb01.cienradios.com.ar/586_Lentos_80_32000.aac
+#EXTINF:-1, Cienradios - Lentos 80 - 1
+http://s_mobile.cienradios.com/586_Lentos_80_32000.aac
+#EXTINF:-1, Cienradios - Lentos 80 - 2
+http://s_mobile.cienradios.com/586_Lentos_80_48.mp3
+#EXTINF:-1, Cienradios - Lentos 70 - 0
+http://buecrplb01.cienradios.com.ar/691_Lentos_70_32000.aac
+#EXTINF:-1, Cienradios - Lentos 70 - 1
+http://s_mobile.cienradios.com/691_Lentos_70_32000.aac
+#EXTINF:-1, Cienradios - Lentos 70 - 2
+http://s_mobile.cienradios.com/691_Lentos_70_48.mp3
+#EXTINF:-1, Cienradios - Lentos 60 - 0
+http://buecrplb01.cienradios.com.ar/690_Lentos_60_32000.aac
+#EXTINF:-1, Cienradios - Lentos 60 - 1
+http://s_mobile.cienradios.com/690_Lentos_60_32000.aac
+#EXTINF:-1, Cienradios - Lentos 60 - 2
+http://s_mobile.cienradios.com/690_Lentos_60_48.mp3
+#EXTINF:-1, Cienradios - Lentos 2000 - 0
+http://buecrplb01.cienradios.com.ar/936_Lentos_2000_32000.aac
+#EXTINF:-1, Cienradios - Lentos 2000 - 1
+http://s_mobile.cienradios.com/936_Lentos_2000_32000.aac
+#EXTINF:-1, Cienradios - Lentos 2000 - 2
+http://s_mobile.cienradios.com/936_Lentos_2000_48.mp3
+#EXTINF:-1, Cienradios - Lenny Kravitz y Artistas Relacionados - 0
+http://buecrplb01.cienradios.com.ar/872_Lenny_Kravitz_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Lenny Kravitz y Artistas Relacionados - 1
+http://s_mobile.cienradios.com/872_Lenny_Kravitz_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Lenny Kravitz y Artistas Relacionados - 2
+http://s_mobile.cienradios.com/872_Lenny_Kravitz_y_Art_Rel_48.mp3
+#EXTINF:-1, Cienradios - Laura Pausini y Art. Rel. - 0
+http://buecrplb01.cienradios.com.ar/1052_Laura_Pausini_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Laura Pausini y Art. Rel. - 1
+http://s_mobile.cienradios.com/1052_Laura_Pausini_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Laura Pausini y Art. Rel. - 2
+http://s_mobile.cienradios.com/1052_Laura_Pausini_y_Art_Rel_48.mp3
+#EXTINF:-1, Cienradios - Latina - 0
+http://buecrplb01.cienradios.com.ar/689_Latina_32000.aac
+#EXTINF:-1, Cienradios - Latina - 1
+http://s_mobile.cienradios.com/689_Latina_32000.aac
+#EXTINF:-1, Cienradios - Latina - 2
+http://s_mobile.cienradios.com/689_Latina_48.mp3
+#EXTINF:-1, Cienradios - Lady Gaga y Artistas Relacionados - 0
+http://buecrplb01.cienradios.com.ar/876_Lady_Gaga_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Lady Gaga y Artistas Relacionados - 1
+http://s_mobile.cienradios.com/876_Lady_Gaga_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Lady Gaga y Artistas Relacionados - 2
+http://s_mobile.cienradios.com/876_Lady_Gaga_y_Art_Rel_48.mp3
+#EXTINF:-1, Cienradios - La Sole y Art. Rel - 0
+http://buecrplb01.cienradios.com.ar/1028_La_Sole_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - La Sole y Art. Rel - 1
+http://s_mobile.cienradios.com/1028_La_Sole_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - La Sole y Art. Rel - 2
+http://s_mobile.cienradios.com/1028_La_Sole_y_Art_Rel_48.mp3
+#EXTINF:-1, Cienradios - La Renga y Artistas Relacionados - 0
+http://buecrplb01.cienradios.com.ar/897_La_Renga_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - La Renga y Artistas Relacionados - 1
+http://s_mobile.cienradios.com/897_La_Renga_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - La Renga y Artistas Relacionados - 2
+http://s_mobile.cienradios.com/897_La_Renga_y_Art_Rel_48.mp3
+#EXTINF:-1, Cienradios - La R - 0
+http://buecrplb01.cienradios.com.ar/585_La_R_32000.aac
+#EXTINF:-1, Cienradios - La R - 1
+http://s_mobile.cienradios.com/585_La_R_32000.aac
+#EXTINF:-1, Cienradios - La R - 2
+http://s_mobile.cienradios.com/585_La_R_48.mp3
+#EXTINF:-1, Cienradios - La Musica de Siempre - 0
+http://buecrplb01.cienradios.com.ar/584_La_Musica_De_Siempre_32000.aac
+#EXTINF:-1, Cienradios - La Musica de Siempre - 1
+http://s_mobile.cienradios.com/584_La_Musica_De_Siempre_32000.aac
+#EXTINF:-1, Cienradios - La Musica de Siempre - 2
+http://s_mobile.cienradios.com/584_La_Musica_De_Siempre_48.mp3
+#EXTINF:-1, Cienradios - Lo Mejor del 2006 - 0
+http://buecrplb01.cienradios.com.ar/697_Lo_Mejor_De_2006_32000.aac
+#EXTINF:-1, Cienradios - Lo Mejor del 2006 - 1
+http://s_mobile.cienradios.com/697_Lo_Mejor_De_2006_32000.aac
+#EXTINF:-1, Cienradios - Lo Mejor del 2006 - 2
+http://s_mobile.cienradios.com/697_Lo_Mejor_De_2006_48.mp3
+#EXTINF:-1, Cienradios - La Argentinidad al Palo - 0
+http://buecrplb01.cienradios.com.ar/1257_La_Argentinidad_al_Palo_32000.aac
+#EXTINF:-1, Cienradios - La Argentinidad al Palo - 1
+http://s_mobile.cienradios.com/1257_La_Argentinidad_al_Palo_32000.aac
+#EXTINF:-1, Cienradios - La Argentinidad al Palo - 2
+http://s_mobile.cienradios.com/1257_La_Argentinidad_al_Palo_48.mp3
+#EXTINF:-1, Cienradios - Kevin Johansen y Art. Rel - 0
+http://buecrplb01.cienradios.com.ar/1018_Kevin_Johansen_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Kevin Johansen y Art. Rel - 1
+http://s_mobile.cienradios.com/1018_Kevin_Johansen_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Kevin Johansen y Art. Rel - 2
+http://s_mobile.cienradios.com/1018_Kevin_Johansen_y_Art_Rel_48.mp3
+#EXTINF:-1, Cienradios - Katy Perry y Artistas Relacionados - 0
+http://buecrplb01.cienradios.com.ar/873_Katy_Perry_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Katy Perry y Artistas Relacionados - 1
+http://s_mobile.cienradios.com/873_Katy_Perry_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Katy Perry y Artistas Relacionados - 2
+http://s_mobile.cienradios.com/873_Katy_Perry_y_Art_Rel_48.mp3
+#EXTINF:-1, Cienradios - Kapanga y Art. Rel - 0
+http://buecrplb01.cienradios.com.ar/1067_Kapanga_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Kapanga y Art. Rel - 1
+http://s_mobile.cienradios.com/1067_Kapanga_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Kapanga y Art. Rel - 2
+http://s_mobile.cienradios.com/1067_Kapanga_y_Art_Rel_48.mp3
+#EXTINF:-1, Cienradios - K Pop - 0
+http://buecrplb01.cienradios.com.ar/947_K_Pop_32000.aac
+#EXTINF:-1, Cienradios - K Pop - 1
+http://s_mobile.cienradios.com/947_K_Pop_32000.aac
+#EXTINF:-1, Cienradios - K Pop - 2
+http://s_mobile.cienradios.com/947_K_Pop_48.mp3
+#EXTINF:-1, Cienradios - Justin Bieber y Artistas Relacionados - 0
+http://buecrplb01.cienradios.com.ar/1085_Justin_Bieber_y_Art_Relac_32000.aac
+#EXTINF:-1, Cienradios - Justin Bieber y Artistas Relacionados - 1
+http://s_mobile.cienradios.com/1085_Justin_Bieber_y_Art_Relac_32000.aac
+#EXTINF:-1, Cienradios - Justin Bieber y Artistas Relacionados - 2
+http://s_mobile.cienradios.com/1085_Justin_Bieber_y_Art_Relac_48.mp3
+#EXTINF:-1, Cienradios - Julieta Venegas y Artistas Relacionados - 0
+http://buecrplb01.cienradios.com.ar/686_Julieta_Venegas_y_Artistas_Relacionados_32000.aac
+#EXTINF:-1, Cienradios - Julieta Venegas y Artistas Relacionados - 1
+http://s_mobile.cienradios.com/686_Julieta_Venegas_y_Artistas_Relacionados_32000.aac
+#EXTINF:-1, Cienradios - Julieta Venegas y Artistas Relacionados - 2
+http://s_mobile.cienradios.com/686_Julieta_Venegas_y_Artistas_Relacionados_48.mp3
+#EXTINF:-1, Cienradios - Juanes y Artistas Relacionados - 0
+http://buecrplb01.cienradios.com.ar/685_Juanes_y_Artistas_Relacionados_32000.aac
+#EXTINF:-1, Cienradios - Juanes y Artistas Relacionados - 1
+http://s_mobile.cienradios.com/685_Juanes_y_Artistas_Relacionados_32000.aac
+#EXTINF:-1, Cienradios - Juanes y Artistas Relacionados - 2
+http://s_mobile.cienradios.com/685_Juanes_y_Artistas_Relacionados_48.mp3
+#EXTINF:-1, Cienradios - Juan L Guerra y Artistas Relacionados - 0
+http://buecrplb01.cienradios.com.ar/909_Juan_L_Guerra_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Juan L Guerra y Artistas Relacionados - 1
+http://s_mobile.cienradios.com/909_Juan_L_Guerra_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Juan L Guerra y Artistas Relacionados - 2
+http://s_mobile.cienradios.com/909_Juan_L_Guerra_y_Art_Rel_48.mp3
+#EXTINF:-1, Cienradios - Joss Stone y Art. Rel - 0
+http://buecrplb01.cienradios.com.ar/1026_Joss_Stone_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Joss Stone y Art. Rel - 1
+http://s_mobile.cienradios.com/1026_Joss_Stone_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Joss Stone y Art. Rel - 2
+http://s_mobile.cienradios.com/1026_Joss_Stone_y_Art_Rel_48.mp3
+#EXTINF:-1, Cienradios - Jonas Brothers y Artistas Relacionados - 0
+http://buecrplb01.cienradios.com.ar/684_Jonas_Brothers_y_Artistas_Relacionados_32000.aac
+#EXTINF:-1, Cienradios - Jonas Brothers y Artistas Relacionados - 1
+http://s_mobile.cienradios.com/684_Jonas_Brothers_y_Artistas_Relacionados_32000.aac
+#EXTINF:-1, Cienradios - Jonas Brothers y Artistas Relacionados - 2
+http://s_mobile.cienradios.com/684_Jonas_Brothers_y_Artistas_Relacionados_48.mp3
+#EXTINF:-1, Cienradios - John, Paul, George and Ringo - 0
+http://buecrplb01.cienradios.com.ar/683_John_Paul_George_and_Ringo_32000.aac
+#EXTINF:-1, Cienradios - John, Paul, George and Ringo - 1
+http://s_mobile.cienradios.com/683_John_Paul_George_and_Ringo_32000.aac
+#EXTINF:-1, Cienradios - John, Paul, George and Ringo - 2
+http://s_mobile.cienradios.com/683_John_Paul_George_and_Ringo_48.mp3
+#EXTINF:-1, Cienradios - John Lennon y Artistas Relacionados - 0
+http://buecrplb01.cienradios.com.ar/682_John_Lennon_y_Artistas_Relacionados_32000.aac
+#EXTINF:-1, Cienradios - John Lennon y Artistas Relacionados - 1
+http://s_mobile.cienradios.com/682_John_Lennon_y_Artistas_Relacionados_32000.aac
+#EXTINF:-1, Cienradios - John Lennon y Artistas Relacionados - 2
+http://s_mobile.cienradios.com/682_John_Lennon_y_Artistas_Relacionados_48.mp3
+#EXTINF:-1, Cienradios - Joan Manuel Serrat y Artistas Relacionados - 0
+http://buecrplb01.cienradios.com.ar/721_Joan_Manuel_Serrat_y_Artistas_Relacionados_32000.aac
+#EXTINF:-1, Cienradios - Joan Manuel Serrat y Artistas Relacionados - 1
+http://s_mobile.cienradios.com//721_Joan_Manuel_Serrat_y_Artistas_Relacionados_32000.aac
+#EXTINF:-1, Cienradios - Joan Manuel Serrat y Artistas Relacionados - 2
+http://s_mobile.cienradios.com/721_Joan_Manuel_Serrat_y_Artistas_Relacionados_48.mp3
+#EXTINF:-1, Cienradios - Jazz - 0
+http://buecrplb01.cienradios.com.ar/681_Jazz_32000.aac
+#EXTINF:-1, Cienradios - Jazz - 1
+http://s_mobile.cienradios.com/681_Jazz_32000.aac
+#EXTINF:-1, Cienradios - Jazz - 2
+http://s_mobile.cienradios.com/681_Jazz_48.mp3
+#EXTINF:-1, Cienradios - James Blunt y Artistas Relacionados - 0
+http://buecrplb01.cienradios.com.ar/942_James_Blunt_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - James Blunt y Artistas Relacionados - 1
+http://s_mobile.cienradios.com/942_James_Blunt_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - James Blunt y Artistas Relacionados - 2
+http://s_mobile.cienradios.com/942_James_Blunt_y_Art_Rel_48.mp3
+#EXTINF:-1, Cienradios - Ivan Noble y Art. Rel - 0
+http://buecrplb01.cienradios.com.ar/680_Ivan_Noble_y_Art_Relac_32000.aac
+#EXTINF:-1, Cienradios - Ivan Noble y Art. Rel - 1
+http://s_mobile.cienradios.com/680_Ivan_Noble_y_Art_Relac_32000.aac
+#EXTINF:-1, Cienradios - Ivan Noble y Art. Rel - 2
+http://s_mobile.cienradios.com/680_Ivan_Noble_y_Art_Relac_48.mp3
+#EXTINF:-1, Cienradios - Indie Argentino - 0
+http://buecrplb01.cienradios.com.ar/1313_Indie_Argentino_32000.aac
+#EXTINF:-1, Cienradios - Indie Argentino - 1
+http://s_mobile.cienradios.com/1313_Indie_Argentino_32000.aac
+#EXTINF:-1, Cienradios - Indie Argentino - 2
+http://s_mobile.cienradios.com/1313_Indie_Argentino_48.mp3
+#EXTINF:-1, Cienradios - IKV y Art. Rel - 0
+http://buecrplb01.cienradios.com.ar/1054_IKV_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - IKV y Art. Rel - 1
+http://s_mobile.cienradios.com/1054_IKV_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - IKV y Art. Rel - 2
+http://s_mobile.cienradios.com/1054_IKV_y_Art_Rel_48.mp3
+#EXTINF:-1, Cienradios - Iggy Pop y Artistas Relacionados - 0
+http://buecrplb01.cienradios.com.ar/1016_Iggy_Pop_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Iggy Pop y Artistas Relacionados - 1
+http://s_mobile.cienradios.com/1016_Iggy_Pop_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Iggy Pop y Artistas Relacionados - 2
+http://s_mobile.cienradios.com/1016_Iggy_Pop_y_Art_Rel_48.mp3
+#EXTINF:-1, Cienradios - I Teen - 0
+http://buecrplb01.cienradios.com.ar/908_I_Teen_32000.aac
+#EXTINF:-1, Cienradios - I Teen - 1
+http://s_mobile.cienradios.com/908_I_Teen_32000.aac
+#EXTINF:-1, Cienradios - I Teen - 2
+http://s_mobile.cienradios.com/908_I_Teen_48.mp3
+#EXTINF:-1, Cienradios - Hottest Djs - 0
+http://buecrplb01.cienradios.com.ar/1029_Hottest_DJs_32000.aac
+#EXTINF:-1, Cienradios - Hottest Djs - 1
+http://s_mobile.cienradios.com/1029_Hottest_DJs_32000.aac
+#EXTINF:-1, Cienradios - Hottest Djs - 2
+http://s_mobile.cienradios.com/1029_Hottest_DJs_48.mp3
+#EXTINF:-1, Cienradios - Hot 100 USA - 0
+http://buecrplb01.cienradios.com.ar/896_Hot_100_USA_32000.aac
+#EXTINF:-1, Cienradios - Hot 100 USA - 1
+http://s_mobile.cienradios.com/896_Hot_100_USA_32000.aac
+#EXTINF:-1, Cienradios - Hot 100 USA - 2
+http://s_mobile.cienradios.com/896_Hot_100_USA_48.mp3
+#EXTINF:-1, Cienradios - Hot 100 Teen - 0
+http://buecrplb01.cienradios.com.ar/679_Hot_100_Teen_32000.aac
+#EXTINF:-1, Cienradios - Hot 100 Teen - 1
+http://s_mobile.cienradios.com/679_Hot_100_Teen_32000.aac
+#EXTINF:-1, Cienradios - Hot 100 Teen - 2
+http://s_mobile.cienradios.com/679_Hot_100_Teen_48.mp3
+#EXTINF:-1, Cienradios - Hot 100 Salsa y Bachata - 0
+http://buecrplb01.cienradios.com.ar/910_Hot_100_Salsa_y_Bachata_32000.aac
+#EXTINF:-1, Cienradios - Hot 100 Salsa y Bachata - 1
+http://s_mobile.cienradios.com/910_Hot_100_Salsa_y_Bachata_32000.aac
+#EXTINF:-1, Cienradios - Hot 100 Salsa y Bachata - 2
+http://s_mobile.cienradios.com/910_Hot_100_Salsa_y_Bachata_48.mp3
+#EXTINF:-1, Cienradios - Hot 100 Romantica - 0
+http://buecrplb01.cienradios.com.ar/677_Hot_100_Romantica_32000.aac
+#EXTINF:-1, Cienradios - Hot 100 Romantica - 1
+http://s_mobile.cienradios.com/677_Hot_100_Romantica_32000.aac
+#EXTINF:-1, Cienradios - Hot 100 Romantica - 2
+http://s_mobile.cienradios.com/677_Hot_100_Romantica_48.mp3
+#EXTINF:-1, Cienradios - Hot 100 Nacional - 0
+http://buecrplb01.cienradios.com.ar/674_Hot_100_Nacional_32000.aac
+#EXTINF:-1, Cienradios - Hot 100 Nacional - 1
+http://s_mobile.cienradios.com/674_Hot_100_Nacional_32000.aac
+#EXTINF:-1, Cienradios - Hot 100 Nacional - 2
+http://s_mobile.cienradios.com/674_Hot_100_Nacional_48.mp3
+#EXTINF:-1, Cienradios - Hot 100 Latino - 0
+http://buecrplb01.cienradios.com.ar/931_Hot_100_Latino_32000.aac
+#EXTINF:-1, Cienradios - Hot 100 Latino - 1
+http://s_mobile.cienradios.com/931_Hot_100_Latino_32000.aac
+#EXTINF:-1, Cienradios - Hot 100 Latino - 2
+http://s_mobile.cienradios.com/931_Hot_100_Latino_48.mp3
+#EXTINF:-1, Cienradios - Hot 100 J-Pop - 0
+http://buecrplb01.cienradios.com.ar/894_Hot_100_J_Pop_32000.aac
+#EXTINF:-1, Cienradios - Hot 100 J-Pop - 1
+http://s_mobile.cienradios.com/894_Hot_100_J_Pop_32000.aac
+#EXTINF:-1, Cienradios - Hot 100 J-Pop - 2
+http://s_mobile.cienradios.com/894_Hot_100_J_Pop_48.mp3
+#EXTINF:-1, Cienradios - Hot 100 Europa - 0
+http://buecrplb01.cienradios.com.ar/898_Hot_100_Europa_32000.aac
+#EXTINF:-1, Cienradios - Hot 100 Europa - 1
+http://s_mobile.cienradios.com/898_Hot_100_Europa_32000.aac
+#EXTINF:-1, Cienradios - Hot 100 Europa - 2
+http://s_mobile.cienradios.com/898_Hot_100_Europa_48.mp3
+#EXTINF:-1, Cienradios - Hot 100 Country - 0
+http://buecrplb01.cienradios.com.ar/670_Hot_100_Country_32000.aac
+#EXTINF:-1, Cienradios - Hot 100 Country - 1
+http://s_mobile.cienradios.com/670_Hot_100_Country_32000.aac
+#EXTINF:-1, Cienradios - Hot 100 Country - 2
+http://s_mobile.cienradios.com/670_Hot_100_Country_48.mp3
+#EXTINF:-1, Cienradios - Hot 100 Canada - 0
+http://buecrplb01.cienradios.com.ar/893_Hot_100_Canada_32000.aac
+#EXTINF:-1, Cienradios - Hot 100 Canada - 1
+http://s_mobile.cienradios.com/893_Hot_100_Canada_32000.aac
+#EXTINF:-1, Cienradios - Hot 100 Canada - 2
+http://s_mobile.cienradios.com/893_Hot_100_Canada_48.mp3
+#EXTINF:-1, Cienradios - Hot 100 Alemania - 0
+http://buecrplb01.cienradios.com.ar/669_Hot_100_Alemania_32000.aac
+#EXTINF:-1, Cienradios - Hot 100 Alemania - 1
+http://s_mobile.cienradios.com/669_Hot_100_Alemania_32000.aac
+#EXTINF:-1, Cienradios - Hot 100 Alemania - 2
+http://s_mobile.cienradios.com/669_Hot_100_Alemania_48.mp3
+#EXTINF:-1, Cienradios - Hot 100 Adulto Contemporáneo - 0
+http://buecrplb01.cienradios.com.ar/668_Hot_100_Adulto_Contemporaneo_32000.aac
+#EXTINF:-1, Cienradios - Hot 100 Adulto Contemporáneo - 1
+http://s_mobile.cienradios.com/668_Hot_100_Adulto_Contemporaneo_32000.aac
+#EXTINF:-1, Cienradios - Hot 100 Adulto Contemporáneo - 2
+http://s_mobile.cienradios.com/668_Hot_100_Adulto_Contemporaneo_48.mp3
+#EXTINF:-1, Cienradios - Heroes De La Opera - 0
+http://buecrplb01.cienradios.com.ar/666_Heroes_De_La_Opera_32000.aac
+#EXTINF:-1, Cienradios - Heroes De La Opera - 1
+http://s_mobile.cienradios.com/666_Heroes_De_La_Opera_32000.aac
+#EXTINF:-1, Cienradios - Heroes De La Opera - 2
+http://s_mobile.cienradios.com/666_Heroes_De_La_Opera_48.mp3
+#EXTINF:-1, Cienradios - Heavy Metal Nacional - 0
+http://buecrplb01.cienradios.com.ar/1022_Heavy_Metal_Nacional_32000.aac
+#EXTINF:-1, Cienradios - Heavy Metal Nacional - 1
+http://s_mobile.cienradios.com/1022_Heavy_Metal_Nacional_32000.aac
+#EXTINF:-1, Cienradios - Heavy Metal Nacional - 2
+http://s_mobile.cienradios.com/1022_Heavy_Metal_Nacional_48.mp3
+#EXTINF:-1, Cienradios - Gym en Casa - 0
+http://buecrplb01.cienradios.com.ar/1222_Gym_en_Casa_32000.aac
+#EXTINF:-1, Cienradios - Gym en Casa - 1
+http://s_mobile.cienradios.com/1222_Gym_en_Casa_32000.aac
+#EXTINF:-1, Cienradios - Gym en Casa - 2
+http://s_mobile.cienradios.com/1222_Gym_en_Casa_48.mp3
+#EXTINF:-1, Cienradios - Gustavo Cerati y Art. Rel - 0
+http://buecrplb01.cienradios.com.ar/1091_Gustavo_Cerati_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Gustavo Cerati y Art. Rel - 1
+http://s_mobile.cienradios.com/1091_Gustavo_Cerati_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Gustavo Cerati y Art. Rel - 2
+http://s_mobile.cienradios.com/1091_Gustavo_Cerati_y_Art_Rel_48.mp3
+#EXTINF:-1, Cienradios - Guns N Roses y Artistas Relacionados - 0
+http://buecrplb01.cienradios.com.ar/664_Guns_N_Roses_y_Artistas_Relacionados_32000.aac
+#EXTINF:-1, Cienradios - Guns N Roses y Artistas Relacionados - 1
+http://s_mobile.cienradios.com/664_Guns_N_Roses_y_Artistas_Relacionados_32000.aac
+#EXTINF:-1, Cienradios - Guns N Roses y Artistas Relacionados - 2
+http://s_mobile.cienradios.com/664_Guns_N_Roses_y_Artistas_Relacionados_48.mp3
+#EXTINF:-1, Cienradios - Green Day y Artistas Relacionados - 0
+http://buecrplb01.cienradios.com.ar/1031_Green_Day_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Green Day y Artistas Relacionados - 1
+http://s_mobile.cienradios.com/1031_Green_Day_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Green Day y Artistas Relacionados - 2
+http://s_mobile.cienradios.com/1031_Green_Day_y_Art_Rel_48.mp3
+#EXTINF:-1, Cienradios - Greatest Tango - 0
+http://buecrplb01.cienradios.com.ar/570_Greatest_Tango_32000.aac
+#EXTINF:-1, Cienradios - Greatest Tango - 1
+http://s_mobile.cienradios.com/570_Greatest_Tango_32000.aac
+#EXTINF:-1, Cienradios - Greatest Tango - 2
+http://s_mobile.cienradios.com/570_Greatest_Tango_48.mp3
+#EXTINF:-1, Cienradios - Grandes_Voces - 0
+http://buecrplb01.cienradios.com.ar/599_Grandes_Voces_32000.aac
+#EXTINF:-1, Cienradios - Grandes_Voces - 1
+http://s_mobile.cienradios.com/599_Grandes_Voces_32000.aac
+#EXTINF:-1, Cienradios - Grandes_Voces - 2
+http://s_mobile.cienradios.com/599_Grandes_Voces_48.mp3
+#EXTINF:-1, Cienradios - Grandes Del Rock - 0
+http://buecrplb01.cienradios.com.ar/662_Grandes_Del_Rock_32000.aac
+#EXTINF:-1, Cienradios - Grandes Del Rock - 1
+http://s_mobile.cienradios.com/662_Grandes_Del_Rock_32000.aac
+#EXTINF:-1, Cienradios - Grandes Del Rock - 2
+http://s_mobile.cienradios.com/662_Grandes_Del_Rock_48.mp3
+#EXTINF:-1, Cienradios - Gloria Estefan y Artistas Relacionados - 0
+http://buecrplb01.cienradios.com.ar/958_Gloria_Estefan_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Gloria Estefan y Artistas Relacionados - 1
+http://s_mobile.cienradios.com/958_Gloria_Estefan_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Gloria Estefan y Artistas Relacionados - 2
+http://s_mobile.cienradios.com/958_Gloria_Estefan_y_Art_Rel_48.mp3
+#EXTINF:-1, Cienradios - Glee y Artistas Relacionados - 0
+http://buecrplb01.cienradios.com.ar/847_Glee_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Glee y Artistas Relacionados - 1
+http://s_mobile.cienradios.com/847_Glee_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Glee y Artistas Relacionados - 2
+http://s_mobile.cienradios.com/847_Glee_y_Art_Rel_48.mp3
+#EXTINF:-1, Cienradios - George Harrison y Artistas Relacionados - 0
+http://buecrplb01.cienradios.com.ar/911_George_Harrison_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - George Harrison y Artistas Relacionados - 1
+http://s_mobile.cienradios.com/911_George_Harrison_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - George Harrison y Artistas Relacionados - 2
+http://s_mobile.cienradios.com/911_George_Harrison_y_Art_Rel_48.mp3
+#EXTINF:-1, Cienradios - Genesis y Artistas Relacionados - 0
+http://buecrplb01.cienradios.com.ar/890_Genesis_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Genesis y Artistas Relacionados - 1
+http://s_mobile.cienradios.com/890_Genesis_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Genesis y Artistas Relacionados - 2
+http://s_mobile.cienradios.com/890_Genesis_y_Art_Rel_48.mp3
+#EXTINF:-1, Cienradios - Freddie Mercury y Art. Rel - 0
+http://buecrplb01.cienradios.com.ar/1048_Freddie_Mercury_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Freddie Mercury y Art. Rel - 1
+http://s_mobile.cienradios.com/1048_Freddie_Mercury_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Freddie Mercury y Art. Rel - 2
+http://s_mobile.cienradios.com/1048_Freddie_Mercury_y_Art_Rel_48.mp3
+#EXTINF:-1, Cienradios - Folklore - 0
+http://buecrplb01.cienradios.com.ar/582_Folklore_32000.aac
+#EXTINF:-1, Cienradios - Folklore - 1
+http://s_mobile.cienradios.com/582_Folklore_32000.aac
+#EXTINF:-1, Cienradios - Folklore - 2
+http://s_mobile.cienradios.com/582_Folklore_48.mp3
+#EXTINF:-1, Cienradios - Fito Paez y artistas relacionados - 0
+http://buecrplb01.cienradios.com.ar/654_Fito_Paez_y_Artistas_Relacionados_32000.aac
+#EXTINF:-1, Cienradios - Fito Paez y artistas relacionados - 1
+http://s_mobile.cienradios.com/654_Fito_Paez_y_Artistas_Relacionados_32000.aac
+#EXTINF:-1, Cienradios - Fito Paez y artistas relacionados - 2
+http://s_mobile.cienradios.com/654_Fito_Paez_y_Artistas_Relacionados_48.mp3
+#EXTINF:-1, Cienradios - Fiesta de Egresados - 0
+http://buecrplb01.cienradios.com.ar/1251_Fiesta_de_Egresados_32000.aac
+#EXTINF:-1, Cienradios - Fiesta de Egresados - 1
+http://s_mobile.cienradios.com/1251_Fiesta_de_Egresados_32000.aac
+#EXTINF:-1, Cienradios - Fiesta de Egresados - 2
+http://s_mobile.cienradios.com/1251_Fiesta_de_Egresados_48.mp3
+#EXTINF:-1, Cienradios - Fiesta Dance - 0
+http://buecrplb01.cienradios.com.ar/1041_Fiesta_Dance_32000.aac
+#EXTINF:-1, Cienradios - Fiesta Dance - 1
+http://s_mobile.cienradios.com/1041_Fiesta_Dance_32000.aac
+#EXTINF:-1, Cienradios - Fiesta Dance - 2
+http://s_mobile.cienradios.com/1041_Fiesta_Dance_48.mp3
+#EXTINF:-1, Cienradios - Fabiana Cantilo y Artistas Relacionados - 0
+http://buecrplb01.cienradios.com.ar/975_Fabiana_Cantilo_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Fabiana Cantilo y Artistas Relacionados - 1
+http://s_mobile.cienradios.com/975_Fabiana_Cantilo_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Fabiana Cantilo y Artistas Relacionados - 2
+http://s_mobile.cienradios.com/975_Fabiana_Cantilo_y_Art_Rel_48.mp3
+#EXTINF:-1, Cienradios - Exito_a_la_Vista - 0
+http://buecrplb01.cienradios.com.ar/603_Exito_a_la_Vista_32000.aac
+#EXTINF:-1, Cienradios - Exito_a_la_Vista - 1
+http://s_mobile.cienradios.com/603_Exito_a_la_Vista_32000.aac
+#EXTINF:-1, Cienradios - Exito_a_la_Vista - 2
+http://s_mobile.cienradios.com/603_Exito_a_la_Vista_48.mp3
+#EXTINF:-1, Cienradios - Estudiando - 0
+http://buecrplb01.cienradios.com.ar/1385_Estudiando_32000.aac
+#EXTINF:-1, Cienradios - Estudiando - 1
+http://s_mobile.cienradios.com/1385_Estudiando_32000.aac
+#EXTINF:-1, Cienradios - Estudiando - 2
+http://s_mobile.cienradios.com/1385_Estudiando_48.mp3
+#EXTINF:-1, Cienradios - Estrenos - 0
+http://buecrplb01.cienradios.com.ar/751_Estrenos_32000.aac
+#EXTINF:-1, Cienradios - Estrenos - 1
+http://s_mobile.cienradios.com/751_Estrenos_32000.aac
+#EXTINF:-1, Cienradios - Estrenos - 2
+http://s_mobile.cienradios.com/751_Estrenos_48.mp3
+#EXTINF:-1, Cienradios - Escapada - 0
+http://buecrplb01.cienradios.com.ar/1266_Escapada_32000.aac
+#EXTINF:-1, Cienradios - Escapada - 1
+http://s_mobile.cienradios.com/1266_Escapada_32000.aac
+#EXTINF:-1, Cienradios - Escapada - 2
+http://s_mobile.cienradios.com/1266_Escapada_48.mp3
+#EXTINF:-1, Cienradios - Eros Ramazzotti y Artistas Relacionados - 0
+http://buecrplb01.cienradios.com.ar/923_Eros_Ramazzotti_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Eros Ramazzotti y Artistas Relacionados - 1
+http://s_mobile.cienradios.com/923_Eros_Ramazzotti_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Eros Ramazzotti y Artistas Relacionados - 2
+http://s_mobile.cienradios.com/923_Eros_Ramazzotti_y_Art_Rel_48.mp3
+#EXTINF:-1, Cienradios - Eric Clapton y Artistas Relacionados - 0
+http://buecrplb01.cienradios.com.ar/879_Eric_Clapton_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Eric Clapton y Artistas Relacionados - 1
+http://s_mobile.cienradios.com/879_Eric_Clapton_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Eric Clapton y Artistas Relacionados - 2
+http://s_mobile.cienradios.com/879_Eric_Clapton_y_Art_Rel_48.mp3
+#EXTINF:-1, Cienradios - Erasure y Artistas Relacionados - 0
+http://buecrplb01.cienradios.com.ar/855_Erasure_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Erasure y Artistas Relacionados - 1
+http://s_mobile.cienradios.com/855_Erasure_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Erasure y Artistas Relacionados - 2
+http://s_mobile.cienradios.com/855_Erasure_y_Art_Rel_48.mp3
+#EXTINF:-1, Cienradios - Entrenando - 0
+http://buecrplb01.cienradios.com.ar/1204_Entrenando_32000.aac
+#EXTINF:-1, Cienradios - Entrenando - 1
+http://s_mobile.cienradios.com/1204_Entrenando_32000.aac
+#EXTINF:-1, Cienradios - Entrenando - 2
+http://s_mobile.cienradios.com/1204_Entrenando_48.mp3
+#EXTINF:-1, Cienradios - Enrique Iglesias y Artistas Relacionados - 0
+http://buecrplb01.cienradios.com.ar/922_Enrique_Iglesias_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Enrique Iglesias y Artistas Relacionados - 1
+http://s_mobile.cienradios.com/922_Enrique_Iglesias_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Enrique Iglesias y Artistas Relacionados - 2
+http://s_mobile.cienradios.com/922_Enrique_Iglesias_y_Art_Rel_48.mp3
+#EXTINF:-1, Cienradios - Enamorados - 0
+http://buecrplb01.cienradios.com.ar/802_Enamorados_32000.aac
+#EXTINF:-1, Cienradios - Enamorados - 1
+http://s_mobile.cienradios.com/802_Enamorados_32000.aac
+#EXTINF:-1, Cienradios - Enamorados - 2
+http://s_mobile.cienradios.com/802_Enamorados_48.mp3
+#EXTINF:-1, Cienradios - En Línea - 0
+http://buecrplb01.cienradios.com.ar/1249_En_Linea_32000.aac
+#EXTINF:-1, Cienradios - En Línea - 1
+http://s_mobile.cienradios.com/1249_En_Linea_32000.aac
+#EXTINF:-1, Cienradios - En Línea - 2
+http://s_mobile.cienradios.com/1249_En_Linea_48.mp3
+#EXTINF:-1, Cienradios - En la Oficina - 0
+http://buecrplb01.cienradios.com.ar/1211_En_la_Oficina_32000.aac
+#EXTINF:-1, Cienradios - En la Oficina - 1
+http://s_mobile.cienradios.com/1211_En_la_Oficina_32000.aac
+#EXTINF:-1, Cienradios - En la Oficina - 2
+http://s_mobile.cienradios.com/1211_En_la_Oficina_48.mp3
+#EXTINF:-1, Cienradios - Ellos - 0
+http://buecrplb01.cienradios.com.ar/801_Ellos_32000.aac
+#EXTINF:-1, Cienradios - Ellos - 1
+http://s_mobile.cienradios.com/801_Ellos_32000.aac
+#EXTINF:-1, Cienradios - Ellos - 2
+http://s_mobile.cienradios.com/801_Ellos_48.mp3
+#EXTINF:-1, Cienradios - Ellas - 0
+http://buecrplb01.cienradios.com.ar/581_Ellas_32000.aac
+#EXTINF:-1, Cienradios - Ellas - 1
+http://s_mobile.cienradios.com/581_Ellas_32000.aac
+#EXTINF:-1, Cienradios - Ellas - 2
+http://s_mobile.cienradios.com/581_Ellas_48.mp3
+#EXTINF:-1, Cienradios - Electronic Tango - 0
+http://buecrplb01.cienradios.com.ar/568_Electronic_Tango_32000.aac
+#EXTINF:-1, Cienradios - Electronic Tango - 1
+http://s_mobile.cienradios.com/568_Electronic_Tango_32000.aac
+#EXTINF:-1, Cienradios - Electronic Tango - 2
+http://s_mobile.cienradios.com/568_Electronic_Tango_48.mp3
+#EXTINF:-1, Cienradios - El Pelado - 0
+http://buecrplb01.cienradios.com.ar/754_Radio_El_Pelado_32000.aac
+#EXTINF:-1, Cienradios - El Pelado - 1
+http://s_mobile.cienradios.com/754_Radio_El_Pelado_32000.aac
+#EXTINF:-1, Cienradios - El Pelado - 2
+http://s_mobile.cienradios.com/754_Radio_El_Pelado_48.mp3
+#EXTINF:-1, Cienradios - Egresados 2000 - 0
+http://buecrplb01.cienradios.com.ar/863_Egresados_2000_32000.aac
+#EXTINF:-1, Cienradios - Egresados 2000 - 1
+http://s_mobile.cienradios.com/863_Egresados_2000_32000.aac
+#EXTINF:-1, Cienradios - Egresados 2000 - 2
+http://s_mobile.cienradios.com/863_Egresados_2000_48.mp3
+#EXTINF:-1, Cienradios - Egresados 1996 - 0
+http://buecrplb01.cienradios.com.ar/858_Egresados_1996_32000.aac
+#EXTINF:-1, Cienradios - Egresados 1996 - 1
+http://s_mobile.cienradios.com/858_Egresados_1996_32000.aac
+#EXTINF:-1, Cienradios - Egresados 1996 - 2
+http://s_mobile.cienradios.com/858_Egresados_1996_48.mp3
+#EXTINF:-1, Cienradios -  Egresados 1994 - 0
+http://buecrplb01.cienradios.com.ar/853_Egresados_1994_32000.aac
+#EXTINF:-1, Cienradios -  Egresados 1994 - 1
+http://s_mobile.cienradios.com/853_Egresados_1994_32000.aac
+#EXTINF:-1, Cienradios -  Egresados 1994 - 2
+http://s_mobile.cienradios.com/853_Egresados_1994_48.mp3
+#EXTINF:-1, Cienradios - Egresados 1993 - 0
+http://buecrplb01.cienradios.com.ar/851_Egresados_1993_32000.aac
+#EXTINF:-1, Cienradios - Egresados 1993 - 1
+http://s_mobile.cienradios.com/851_Egresados_1993_32000.aac
+#EXTINF:-1, Cienradios - Egresados 1993 - 2
+http://s_mobile.cienradios.com/851_Egresados_1993_48.mp3
+#EXTINF:-1, Cienradios - Egresados 1992 - 0
+http://buecrplb01.cienradios.com.ar/850_Egresados_1992_32000.aac
+#EXTINF:-1, Cienradios - Egresados 1992 - 1
+http://s_mobile.cienradios.com/850_Egresados_1992_32000.aac
+#EXTINF:-1, Cienradios - Egresados 1992 - 2
+http://s_mobile.cienradios.com/850_Egresados_1992_48.mp3
+#EXTINF:-1, Cienradios -  Egresados 1991 - 0
+http://buecrplb01.cienradios.com.ar/844_Egresados_1991_32000.aac
+#EXTINF:-1, Cienradios -  Egresados 1991 - 1
+http://s_mobile.cienradios.com/844_Egresados_1991_32000.aac
+#EXTINF:-1, Cienradios -  Egresados 1991 - 2
+http://s_mobile.cienradios.com/844_Egresados_1991_48.mp3
+#EXTINF:-1, Cienradios - Egresados 1990 - 0
+http://buecrplb01.cienradios.com.ar/838_Egresados_1990_32000.aac
+#EXTINF:-1, Cienradios - Egresados 1990 - 1
+http://s_mobile.cienradios.com/838_Egresados_1990_32000.aac
+#EXTINF:-1, Cienradios - Egresados 1990 - 2
+http://s_mobile.cienradios.com/838_Egresados_1990_48.mp3
+#EXTINF:-1, Cienradios -  Egresados 1989 - 0
+http://buecrplb01.cienradios.com.ar/835_Egresados_1989_32000.aac
+#EXTINF:-1, Cienradios -  Egresados 1989 - 1
+http://s_mobile.cienradios.com/835_Egresados_1989_32000.aac
+#EXTINF:-1, Cienradios -  Egresados 1989 - 2
+http://s_mobile.cienradios.com/835_Egresados_1989_48.mp3
+#EXTINF:-1, Cienradios - Egresados 1987 - 0
+http://buecrplb01.cienradios.com.ar/832_Egresados_1987_32000.aac
+#EXTINF:-1, Cienradios - Egresados 1987 - 1
+http://s_mobile.cienradios.com/832_Egresados_1987_32000.aac
+#EXTINF:-1, Cienradios - Egresados 1987 - 2
+http://s_mobile.cienradios.com/832_Egresados_1987_48.mp3
+#EXTINF:-1, Cienradios - Egresados 1986 - 0
+http://buecrplb01.cienradios.com.ar/831_Egresados_1986_32000.aac
+#EXTINF:-1, Cienradios - Egresados 1986 - 1
+http://s_mobile.cienradios.com/831_Egresados_1986_32000.aac
+#EXTINF:-1, Cienradios - Egresados 1986 - 2
+http://s_mobile.cienradios.com/831_Egresados_1986_48.mp3
+#EXTINF:-1, Cienradios - Egresados 1985 - 0
+http://buecrplb01.cienradios.com.ar/830_Egresados_1985_32000.aac
+#EXTINF:-1, Cienradios - Egresados 1985 - 1
+http://s_mobile.cienradios.com/830_Egresados_1985_32000.aac
+#EXTINF:-1, Cienradios - Egresados 1985 - 2
+http://s_mobile.cienradios.com/830_Egresados_1985_48.mp3
+#EXTINF:-1, Cienradios - Egresados 1984 - 0
+http://buecrplb01.cienradios.com.ar/828_Egresados_1984_32000.aac
+#EXTINF:-1, Cienradios - Egresados 1984 - 1
+http://s_mobile.cienradios.com/828_Egresados_1984_32000.aac
+#EXTINF:-1, Cienradios - Egresados 1984 - 2
+http://s_mobile.cienradios.com/828_Egresados_1984_48.mp3
+#EXTINF:-1, Cienradios - Egresados 1983 - 0
+http://buecrplb01.cienradios.com.ar/609_Egresados_1983_32000.aac
+#EXTINF:-1, Cienradios - Egresados 1983 - 1
+http://s_mobile.cienradios.com/609_Egresados_1983_32000.aac
+#EXTINF:-1, Cienradios - Egresados 1983 - 2
+http://s_mobile.cienradios.com/609_Egresados_1983_48.mp3
+#EXTINF:-1, Cienradios - Egresados 1982 - 0
+http://buecrplb01.cienradios.com.ar/608_Egresados_1982_32000.aac
+#EXTINF:-1, Cienradios - Egresados 1982 - 1
+http://s_mobile.cienradios.com/608_Egresados_1982_32000.aac
+#EXTINF:-1, Cienradios - Egresados 1982 - 2
+http://s_mobile.cienradios.com/608_Egresados_1982_48.mp3
+#EXTINF:-1, Cienradios - Egresados 1981 - 0
+http://buecrplb01.cienradios.com.ar/607_Egresados_1981_32000.aac
+#EXTINF:-1, Cienradios - Egresados 1981 - 1
+http://s_mobile.cienradios.com/607_Egresados_1981_32000.aac
+#EXTINF:-1, Cienradios - Egresados 1981 - 2
+http://s_mobile.cienradios.com/607_Egresados_1981_48.mp3
+#EXTINF:-1, Cienradios - Egresados_1980 - 0
+http://buecrplb01.cienradios.com.ar/606_Egresados_1980_32000.aac
+#EXTINF:-1, Cienradios - Egresados_1980 - 1
+http://s_mobile.cienradios.com/606_Egresados_1980_32000.aac
+#EXTINF:-1, Cienradios - Egresados_1980 - 2
+http://s_mobile.cienradios.com/606_Egresados_1980_48.mp3
+#EXTINF:-1, Cienradios - Egresados 1979 - 0
+http://buecrplb01.cienradios.com.ar/864_Egresados_1979_32000.aac
+#EXTINF:-1, Cienradios - Egresados 1979 - 1
+http://s_mobile.cienradios.com/864_Egresados_1979_32000.aac
+#EXTINF:-1, Cienradios - Egresados 1979 - 2
+http://s_mobile.cienradios.com/864_Egresados_1979_48.mp3
+#EXTINF:-1, Cienradios - Egresados 1978 - 0
+http://buecrplb01.cienradios.com.ar/865_Egresados_1978_32000.aac
+#EXTINF:-1, Cienradios - Egresados 1978 - 1
+http://s_mobile.cienradios.com/865_Egresados_1978_32000.aac
+#EXTINF:-1, Cienradios - Egresados 1978 - 2
+http://s_mobile.cienradios.com/865_Egresados_1978_48.mp3
+#EXTINF:-1, Cienradios - Egresados 1977 - 0
+http://buecrplb01.cienradios.com.ar/866_Egresados_1977_32000.aac
+#EXTINF:-1, Cienradios - Egresados 1977 - 1
+http://s_mobile.cienradios.com/866_Egresados_1977_32000.aac
+#EXTINF:-1, Cienradios - Egresados 1977 - 2
+http://s_mobile.cienradios.com/866_Egresados_1977_48.mp3
+#EXTINF:-1, Cienradios - Egresados 1975 - 0
+http://buecrplb01.cienradios.com.ar/868_Egresados_1975_32000.aac
+#EXTINF:-1, Cienradios - Egresados 1975 - 1
+http://s_mobile.cienradios.com/868_Egresados_1975_32000.aac
+#EXTINF:-1, Cienradios - Egresados 1975 - 2
+http://s_mobile.cienradios.com/868_Egresados_1975_48.mp3
+#EXTINF:-1, Cienradios - Ed Sheeran y Art. Rel. - 0
+http://buecrplb01.cienradios.com.ar/1269_Ed_Sheeran_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Ed Sheeran y Art. Rel. - 1
+http://s_mobile.cienradios.com/1269_Ed_Sheeran_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Ed Sheeran y Art. Rel. - 2
+http://s_mobile.cienradios.com/1269_Ed_Sheeran_y_Art_Rel_48.mp3
+#EXTINF:-1, Cienradios - Duran Duran y Artistas Relacionados - 0
+http://buecrplb01.cienradios.com.ar/969_Duran_Duran_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Duran Duran y Artistas Relacionados - 1
+http://s_mobile.cienradios.com/969_Duran_Duran_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Duran Duran y Artistas Relacionados - 2
+http://s_mobile.cienradios.com/969_Duran_Duran_y_Art_Rel_48.mp3
+#EXTINF:-1, Cienradios - Dread Mar-I y Art. Rel. - 0
+http://buecrplb01.cienradios.com.ar/1013_Dread_Mar_I_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Dread Mar-I y Art. Rel. - 1
+http://s_mobile.cienradios.com/1013_Dread_Mar_I_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Dread Mar-I y Art. Rel. - 2
+http://s_mobile.cienradios.com/1013_Dread_Mar_I_y_Art_Rel_48.mp3
+#EXTINF:-1, Cienradios - Divididos y Artistas Relacionados - 0
+http://buecrplb01.cienradios.com.ar/604_Divididos_y_Art_Relac_32000.aac
+#EXTINF:-1, Cienradios - Divididos y Artistas Relacionados - 1
+http://s_mobile.cienradios.com/604_Divididos_y_Art_Relac_32000.aac
+#EXTINF:-1, Cienradios - Divididos y Artistas Relacionados - 2
+http://s_mobile.cienradios.com/604_Divididos_y_Art_Relac_48.mp3
+#EXTINF:-1, Cienradios - Diego_Torres_y_Artistas_Relacionados - 0
+http://buecrplb01.cienradios.com.ar/649_Diego_Torres_y_Artistas_Relacionados_32000.aac
+#EXTINF:-1, Cienradios - Diego_Torres_y_Artistas_Relacionados - 1
+http://s_mobile.cienradios.com/649_Diego_Torres_y_Artistas_Relacionados_32000.aac
+#EXTINF:-1, Cienradios - Diego_Torres_y_Artistas_Relacionados - 2
+http://s_mobile.cienradios.com/649_Diego_Torres_y_Artistas_Relacionados_48.mp3
+#EXTINF:-1, Cienradios - Desenchufado - 0
+http://buecrplb01.cienradios.com.ar/1302_Desenchufado_32000.aac
+#EXTINF:-1, Cienradios - Desenchufado - 1
+http://s_mobile.cienradios.com/1302_Desenchufado_32000.aac
+#EXTINF:-1, Cienradios - Desenchufado - 2
+http://s_mobile.cienradios.com/1302_Desenchufado_48.mp3
+#EXTINF:-1, Cienradios - Depeche Mode y Artistas Relacionados - 0
+http://buecrplb01.cienradios.com.ar/963_Depeche_Mode_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Depeche Mode y Artistas Relacionados - 1
+http://s_mobile.cienradios.com/963_Depeche_Mode_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Depeche Mode y Artistas Relacionados - 2
+http://s_mobile.cienradios.com/963_Depeche_Mode_y_Art_Rel_48.mp3
+#EXTINF:-1, Cienradios - Demi Lovato y Artistas Relacionados - 0
+http://buecrplb01.cienradios.com.ar/875_Demi_Lovato_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Demi Lovato y Artistas Relacionados - 1
+http://s_mobile.cienradios.com/875_Demi_Lovato_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Demi Lovato y Artistas Relacionados - 2
+http://s_mobile.cienradios.com/875_Demi_Lovato_y_Art_Rel_48.mp3
+#EXTINF:-1, Cienradios - Del Lago - 0
+http://buecrplb01.cienradios.com.ar/825_Del_Lago_32000.aac
+#EXTINF:-1, Cienradios - Del Lago - 1
+http://s_mobile.cienradios.com/825_Del_Lago_32000.aac
+#EXTINF:-1, Cienradios - Del Lago - 2
+http://s_mobile.cienradios.com/825_Del_Lago_48.mp3
+#EXTINF:-1, Cienradios - Del Camino - 0
+http://buecrplb01.cienradios.com.ar/601_Del_Camino_32000.aac
+#EXTINF:-1, Cienradios - Del Camino - 1
+http://s_mobile.cienradios.com/601_Del_Camino_32000.aac
+#EXTINF:-1, Cienradios - Del Camino - 2
+http://s_mobile.cienradios.com/601_Del_Camino_48.mp3
+#EXTINF:-1, Cienradios - Deep Purple y Artistas Relacionados - 0
+http://buecrplb01.cienradios.com.ar/901_Deep_Purple_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Deep Purple y Artistas Relacionados - 1
+http://s_mobile.cienradios.com/901_Deep_Purple_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Deep Purple y Artistas Relacionados - 2
+http://s_mobile.cienradios.com/901_Deep_Purple_y_Art_Rel_48.mp3
+#EXTINF:-1, Cienradios - David Guetta y Artistas Relacionados - 0
+http://buecrplb01.cienradios.com.ar/946_David_Guetta_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - David Guetta y Artistas Relacionados - 1
+http://s_mobile.cienradios.com/946_David_Guetta_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - David Guetta y Artistas Relacionados - 2
+http://s_mobile.cienradios.com/946_David_Guetta_y_Art_Rel_48.mp3
+#EXTINF:-1, Cienradios - David Bowie y Artistas Relacionados - 0
+http://buecrplb01.cienradios.com.ar/892_David_Bowie_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - David Bowie y Artistas Relacionados - 1
+http://s_mobile.cienradios.com/892_David_Bowie_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - David Bowie y Artistas Relacionados - 2
+http://s_mobile.cienradios.com/892_David_Bowie_y_Art_Rel_48.mp3
+#EXTINF:-1, Cienradios - David Bisbal y Artistas Relacionados - 0
+http://buecrplb01.cienradios.com.ar/856_David_Bisbal_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - David Bisbal y Artistas Relacionados - 1
+http://s_mobile.cienradios.com/856_David_Bisbal_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - David Bisbal y Artistas Relacionados - 2
+http://s_mobile.cienradios.com/856_David_Bisbal_y_Art_Rel_48.mp3
+#EXTINF:-1, Cienradios - Cumbia - 0
+http://buecrplb01.cienradios.com.ar/779_Cumbia_32000.aac
+#EXTINF:-1, Cienradios - Cumbia - 1
+http://s_mobile.cienradios.com/779_Cumbia_32000.aac
+#EXTINF:-1, Cienradios - Cumbia - 2
+http://s_mobile.cienradios.com/779_Cumbia_48.mp3
+#EXTINF:-1, Cienradios - Cuarteto - 0
+http://buecrplb01.cienradios.com.ar/578_Cuarteto_32000.aac
+#EXTINF:-1, Cienradios - Cuarteto - 1
+http://s_mobile.cienradios.com/578_Cuarteto_32000.aac
+#EXTINF:-1, Cienradios - Cuarteto - 2
+http://s_mobile.cienradios.com/578_Cuarteto_48.mp3
+#EXTINF:-1, Cienradios - Cristiana - 0
+http://buecrplb01.cienradios.com.ar/799_Cristiana_32000.aac
+#EXTINF:-1, Cienradios - Cristiana - 1
+http://s_mobile.cienradios.com/799_Cristiana_32000.aac
+#EXTINF:-1, Cienradios - Cristiana - 2
+http://s_mobile.cienradios.com/799_Cristiana_48.mp3
+#EXTINF:-1, Cienradios - Cristian Castro y Artistas Relacionados - 0
+http://buecrplb01.cienradios.com.ar/921_Cristian_Castro_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Cristian Castro y Artistas Relacionados - 1
+http://s_mobile.cienradios.com/921_Cristian_Castro_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Cristian Castro y Artistas Relacionados - 2
+http://s_mobile.cienradios.com/921_Cristian_Castro_y_Art_Rel_48.mp3
+#EXTINF:-1, Cienradios - Creedence Clearwater Revival - 0
+http://buecrplb01.cienradios.com.ar/827_Creedence_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Creedence Clearwater Revival - 1
+http://s_mobile.cienradios.com/827_Creedence_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Creedence Clearwater Revival - 2
+http://s_mobile.cienradios.com/827_Creedence_y_Art_Rel_48.mp3
+#EXTINF:-1, Cienradios - Covers Nacional - 0
+http://buecrplb01.cienradios.com.ar/932_Covers_Nacional_32000.aac
+#EXTINF:-1, Cienradios - Covers Nacional - 1
+http://s_mobile.cienradios.com/932_Covers_Nacional_32000.aac
+#EXTINF:-1, Cienradios - Covers Nacional - 2
+http://s_mobile.cienradios.com/932_Covers_Nacional_48.mp3
+#EXTINF:-1, Cienradios - Costumbres Argentinas - 0
+http://buecrplb01.cienradios.com.ar/1292_Costumbres_Argentinas_32000.aac
+#EXTINF:-1, Cienradios - Costumbres Argentinas - 1
+http://s_mobile.cienradios.com/1292_Costumbres_Argentinas_32000.aac
+#EXTINF:-1, Cienradios - Costumbres Argentinas - 2
+http://s_mobile.cienradios.com/1292_Costumbres_Argentinas_48.mp3
+#EXTINF:-1, Cienradios - Coldplay y Artistas Relacionados - 0
+http://buecrplb01.cienradios.com.ar/877_Coldplay_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Coldplay y Artistas Relacionados - 1
+http://s_mobile.cienradios.com/877_Coldplay_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Coldplay y Artistas Relacionados - 2
+http://s_mobile.cienradios.com/877_Coldplay_y_Art_Rel_48.mp3
+#EXTINF:-1, Cienradios - Clasica Para Meditar - 0
+http://buecrplb01.cienradios.com.ar/1002_Clasica_Para_Meditar_32000.aac
+#EXTINF:-1, Cienradios - Clasica Para Meditar - 1
+http://s_mobile.cienradios.com/1002_Clasica_Para_Meditar_32000.aac
+#EXTINF:-1, Cienradios - Clasica Para Meditar - 2
+http://s_mobile.cienradios.com/1002_Clasica_Para_Meditar_48.mp3
+#EXTINF:-1, Cienradios - Clasica - 0
+http://buecrplb01.cienradios.com.ar/642_Clasica_32000.aac
+#EXTINF:-1, Cienradios - Clasica - 1
+http://s_mobile.cienradios.com/642_Clasica_32000.aac
+#EXTINF:-1, Cienradios - Clasica - 2
+http://s_mobile.cienradios.com/642_Clasica_48.mp3
+#EXTINF:-1, Cienradios - Chopin - 0
+http://buecrplb01.cienradios.com.ar/1043_Chopin_32000.aac
+#EXTINF:-1, Cienradios - Chopin - 1
+http://s_mobile.cienradios.com/1043_Chopin_32000.aac
+#EXTINF:-1, Cienradios - Chopin - 2
+http://s_mobile.cienradios.com/1043_Chopin_48.mp3
+#EXTINF:-1, Cienradios - Chillout - 0
+http://buecrplb01.cienradios.com.ar/786_Chillout_32000.aac
+#EXTINF:-1, Cienradios - Chillout - 1
+http://s_mobile.cienradios.com/786_Chillout_32000.aac
+#EXTINF:-1, Cienradios - Chillout - 2
+http://s_mobile.cienradios.com/786_Chillout_48.mp3
+#EXTINF:-1, Cienradios - Chayanne y Artistas Relacionados - 0
+http://buecrplb01.cienradios.com.ar/797_Chayanne_y_Artistas_Relacionados_32000.aac
+#EXTINF:-1, Cienradios - Chayanne y Artistas Relacionados - 1
+http://s_mobile.cienradios.com/797_Chayanne_y_Artistas_Relacionados_32000.aac
+#EXTINF:-1, Cienradios - Chayanne y Artistas Relacionados - 2
+http://s_mobile.cienradios.com/797_Chayanne_y_Artistas_Relacionados_48.mp3
+#EXTINF:-1, Cienradios - Charly García y Artistas Relacionados - 0
+http://buecrplb01.cienradios.com.ar/644_Charly_Garcia_y_Artistas_Relacionados_32000.aac
+#EXTINF:-1, Cienradios - Charly García y Artistas Relacionados - 1
+http://s_mobile.cienradios.com/644_Charly_Garcia_y_Artistas_Relacionados_32000.aac
+#EXTINF:-1, Cienradios - Charly García y Artistas Relacionados - 2
+http://s_mobile.cienradios.com/644_Charly_Garcia_y_Artistas_Relacionados_48.mp3
+#EXTINF:-1, Cienradios - Celine Dion y Artistas Relacionados - 0
+http://buecrplb01.cienradios.com.ar/1004_Celine_Dion_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Celine Dion y Artistas Relacionados - 1
+http://s_mobile.cienradios.com/1004_Celine_Dion_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Celine Dion y Artistas Relacionados - 2
+http://s_mobile.cienradios.com/1004_Celine_Dion_y_Art_Rel_48.mp3
+#EXTINF:-1, Cienradios - Celebration - 0
+http://buecrplb01.cienradios.com.ar/796_Celebration_32000.aac
+#EXTINF:-1, Cienradios - Celebration - 1
+http://s_mobile.cienradios.com/796_Celebration_32000.aac
+#EXTINF:-1, Cienradios - Celebration - 2
+http://s_mobile.cienradios.com/796_Celebration_48.mp3
+#EXTINF:-1, Cienradios - Carly Simon y Art. Rel. - 0
+http://buecrplb01.cienradios.com.ar/1053_Carly_Simon_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Carly Simon y Art. Rel. - 1
+http://s_mobile.cienradios.com/1053_Carly_Simon_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Carly Simon y Art. Rel. - 2
+http://s_mobile.cienradios.com/1053_Carly_Simon_y_Art_Rel_48.mp3
+#EXTINF:-1, Cienradios - Canciones Son Amores - 0
+http://buecrplb01.cienradios.com.ar/795_Canciones_Son_Amores_32000.aac
+#EXTINF:-1, Cienradios - Canciones Son Amores - 1
+http://s_mobile.cienradios.com/795_Canciones_Son_Amores_32000.aac
+#EXTINF:-1, Cienradios - Canciones Son Amores - 2
+http://s_mobile.cienradios.com/795_Canciones_Son_Amores_48.mp3
+#EXTINF:-1, Cienradios - Canciones para Viajar - 0
+http://buecrplb01.cienradios.com.ar/1284_Canciones_para_Viajar_32000.aac
+#EXTINF:-1, Cienradios - Canciones para Viajar - 1
+http://s_mobile.cienradios.com/1284_Canciones_para_Viajar_32000.aac
+#EXTINF:-1, Cienradios - Canciones para Viajar - 2
+http://s_mobile.cienradios.com/1284_Canciones_para_Viajar_48.mp3
+#EXTINF:-1, Cienradios - Canciones de la Ducha - 0
+http://buecrplb01.cienradios.com.ar/1232_Canciones_de_la_Ducha_32000.aac
+#EXTINF:-1, Cienradios - Canciones de la Ducha - 1
+http://s_mobile.cienradios.com/1232_Canciones_de_la_Ducha_32000.aac
+#EXTINF:-1, Cienradios - Canciones de la Ducha - 2
+http://s_mobile.cienradios.com/1232_Canciones_de_la_Ducha_48.mp3
+#EXTINF:-1, Cienradios - Caetano Veloso y Art. Rel. - 0
+http://buecrplb01.cienradios.com.ar/952_Caetano_Veloso_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Caetano Veloso y Art. Rel. - 1
+http://s_mobile.cienradios.com/952_Caetano_Veloso_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Caetano Veloso y Art. Rel. - 2
+http://s_mobile.cienradios.com/952_Caetano_Veloso_y_Art_Rel_48.mp3
+#EXTINF:-1, Cienradios - Cadena Latina - 0
+http://buecrplb01.cienradios.com.ar/640_Cadena_Latina_32000.aac
+#EXTINF:-1, Cienradios - Cadena Latina - 1
+http://s_mobile.cienradios.com/640_Cadena_Latina_32000.aac
+#EXTINF:-1, Cienradios - Cadena Latina - 2
+http://s_mobile.cienradios.com/640_Cadena_Latina_48.mp3
+#EXTINF:-1, Cienradios - Cacho Castana y Artistas Relacionados - 0
+http://buecrplb01.cienradios.com.ar/837_Cacho_Castana_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Cacho Castana y Artistas Relacionados - 1
+http://s_mobile.cienradios.com/837_Cacho_Castana_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Cacho Castana y Artistas Relacionados - 2
+http://s_mobile.cienradios.com/837_Cacho_Castana_y_Art_Rel_48.mp3
+#EXTINF:-1, Cienradios - Bryan Adams y Artistas Relacionados - 0
+http://buecrplb01.cienradios.com.ar/887_Bryan_Adams_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Bryan Adams y Artistas Relacionados - 1
+http://s_mobile.cienradios.com/887_Bryan_Adams_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Bryan Adams y Artistas Relacionados - 2
+http://s_mobile.cienradios.com/887_Bryan_Adams_y_Art_Rel_48.mp3
+#EXTINF:-1, Cienradios - Hot 100 España - 0
+http://buecrplb01.cienradios.com.ar/672_Hot_100_Espana_32000.aac
+#EXTINF:-1, Cienradios - Hot 100 España - 1
+http://s_mobile.cienradios.com/672_Hot_100_Espana_32000.aac
+#EXTINF:-1, Cienradios - Hot 100 España - 2
+http://s_mobile.cienradios.com/672_Hot_100_Espana_48.mp3
+#EXTINF:-1, Cienradios - Britpop - 0
+http://buecrplb01.cienradios.com.ar/625_Britpop_32000.aac
+#EXTINF:-1, Cienradios - Britpop - 1
+http://s_mobile.cienradios.com/625_Britpop_32000.aac
+#EXTINF:-1, Cienradios - Britpop - 2
+http://s_mobile.cienradios.com/625_Britpop_48.mp3
+#EXTINF:-1, Cienradios - Brasil - 0
+http://buecrplb01.cienradios.com.ar/639_Brasil_32000.aac
+#EXTINF:-1, Cienradios - Brasil - 1
+http://s_mobile.cienradios.com/639_Brasil_32000.aac
+#EXTINF:-1, Cienradios - Brasil - 2
+http://s_mobile.cienradios.com/639_Brasil_48.mp3
+#EXTINF:-1, Cienradios - Bossa Nova - 0
+http://buecrplb01.cienradios.com.ar/577_Bossa_Nova_32000.aac
+#EXTINF:-1, Cienradios - Bossa Nova - 1
+http://s_mobile.cienradios.com/577_Bossa_Nova_32000.aac
+#EXTINF:-1, Cienradios - Bossa Nova - 2
+http://s_mobile.cienradios.com/577_Bossa_Nova_48.mp3
+#EXTINF:-1, Cienradios - Bon Jovi y Artistas Relacionados - 0
+http://buecrplb01.cienradios.com.ar/913_Bon_Jovi_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Bon Jovi y Artistas Relacionados - 1
+http://s_mobile.cienradios.com/913_Bon_Jovi_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Bon Jovi y Artistas Relacionados - 2
+http://s_mobile.cienradios.com/913_Bon_Jovi_y_Art_Rel_48.mp3
+#EXTINF:-1, Cienradios - Boleros - 0
+http://buecrplb01.cienradios.com.ar/576_Boleros_32000.aac
+#EXTINF:-1, Cienradios - Boleros - 1
+http://s_mobile.cienradios.com/576_Boleros_32000.aac
+#EXTINF:-1, Cienradios - Boleros - 2
+http://s_mobile.cienradios.com/576_Boleros_48.mp3
+#EXTINF:-1, Cienradios - Bob Marley y Artistas Relacionados - 0
+http://buecrplb01.cienradios.com.ar/617_Bob_Marley_y_Artistas_Relacionados_32000.aac
+#EXTINF:-1, Cienradios - Bob Marley y Artistas Relacionados - 1
+http://s_mobile.cienradios.com/617_Bob_Marley_y_Artistas_Relacionados_32000.aac
+#EXTINF:-1, Cienradios - Bob Marley y Artistas Relacionados - 2
+http://s_mobile.cienradios.com/617_Bob_Marley_y_Artistas_Relacionados_48.mp3
+#EXTINF:-1, Cienradios - Bob Dylan y Artistas Relacionados - 0
+http://buecrplb01.cienradios.com.ar/965_Bob_Dylan_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Bob Dylan y Artistas Relacionados - 1
+http://s_mobile.cienradios.com/965_Bob_Dylan_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Bob Dylan y Artistas Relacionados - 2
+http://s_mobile.cienradios.com/965_Bob_Dylan_y_Art_Rel_48.mp3
+#EXTINF:-1, Cienradios - Blend - 0
+http://buecrplb01.cienradios.com.ar/615_Blend_32000.aac
+#EXTINF:-1, Cienradios - Blend - 1
+http://s_mobile.cienradios.com/615_Blend_32000.aac
+#EXTINF:-1, Cienradios - Blend - 2
+http://s_mobile.cienradios.com/615_Blend_48.mp3
+#EXTINF:-1, Cienradios - Black Eyed Peas y Artistas Relacionados - 0
+http://buecrplb01.cienradios.com.ar/883_Black_Eyed_Peas_32000.aac
+#EXTINF:-1, Cienradios - Black Eyed Peas y Artistas Relacionados - 1
+http://s_mobile.cienradios.com/883_Black_Eyed_Peas_32000.aac
+#EXTINF:-1, Cienradios - Black Eyed Peas y Artistas Relacionados - 2
+http://s_mobile.cienradios.com/883_Black_Eyed_Peas_48.mp3
+#EXTINF:-1, Cienradios - Billy Joel y Artistas Relacionados - 0
+http://buecrplb01.cienradios.com.ar/966_Billy_Joel_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Billy Joel y Artistas Relacionados - 1
+http://s_mobile.cienradios.com/966_Billy_Joel_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Billy Joel y Artistas Relacionados - 2
+http://s_mobile.cienradios.com/966_Billy_Joel_y_Art_Rel_48.mp3
+#EXTINF:-1, Cienradios - Big Time Rush y Art Rel - 0
+http://buecrplb01.cienradios.com.ar/992_Big_Time_Rush_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Big Time Rush y Art Rel - 1
+http://s_mobile.cienradios.com/992_Big_Time_Rush_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Big Time Rush y Art Rel - 2
+http://s_mobile.cienradios.com/992_Big_Time_Rush_y_Art_Rel_48.mp3
+#EXTINF:-1, Cienradios - Bici - 0
+http://buecrplb01.cienradios.com.ar/1267_Bici_32000.aac
+#EXTINF:-1, Cienradios - Bici - 1
+http://s_mobile.cienradios.com/1267_Bici_32000.aac
+#EXTINF:-1, Cienradios - Bici - 2
+http://s_mobile.cienradios.com/1267_Bici_48.mp3
+#EXTINF:-1, Cienradios - Beyonce y Artistas Relacionados - 0
+http://buecrplb01.cienradios.com.ar/986_Beyonce_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Beyonce y Artistas Relacionados - 1
+http://s_mobile.cienradios.com/986_Beyonce_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Beyonce y Artistas Relacionados - 2
+http://s_mobile.cienradios.com/986_Beyonce_y_Art_Rel_48.mp3
+#EXTINF:-1, Cienradios - Bersuit Vergarabat y Artistas Relacionados - 0
+http://buecrplb01.cienradios.com.ar/614_Bersuit_Vergarabat_y_Art_Relac_32000.aac
+#EXTINF:-1, Cienradios - Bersuit Vergarabat y Artistas Relacionados - 1
+http://s_mobile.cienradios.com/614_Bersuit_Vergarabat_y_Art_Relac_32000.aac
+#EXTINF:-1, Cienradios - Bersuit Vergarabat y Artistas Relacionados - 2
+http://s_mobile.cienradios.com/614_Bersuit_Vergarabat_y_Art_Relac_48.mp3
+#EXTINF:-1, Cienradios - Beethoven - 0
+http://buecrplb01.cienradios.com.ar/748_Beethoven_32000.aac
+#EXTINF:-1, Cienradios - Beethoven - 1
+http://s_mobile.cienradios.com/748_Beethoven_32000.aac
+#EXTINF:-1, Cienradios - Beethoven - 2
+http://s_mobile.cienradios.com/748_Beethoven_48.mp3
+#EXTINF:-1, Cienradios - Bee Gees y Artistas Relacionados - 0
+http://buecrplb01.cienradios.com.ar/954_Bee_Gees_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Bee Gees y Artistas Relacionados - 1
+http://s_mobile.cienradios.com/954_Bee_Gees_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Bee Gees y Artistas Relacionados - 2
+http://s_mobile.cienradios.com/954_Bee_Gees_y_Art_Rel_48.mp3
+#EXTINF:-1, Cienradios - Beach Boys y Artistas Relacionados - 0
+http://buecrplb01.cienradios.com.ar/960_Beach_Boys_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Beach Boys y Artistas Relacionados - 1
+http://s_mobile.cienradios.com/960_Beach_Boys_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Beach Boys y Artistas Relacionados - 2
+http://s_mobile.cienradios.com/960_Beach_Boys_y_Art_Rel_48.mp3
+#EXTINF:-1, Cienradios - Bautista - 0
+http://buecrplb01.cienradios.com.ar/747_Bautista_32000.aac
+#EXTINF:-1, Cienradios - Bautista - 1
+http://s_mobile.cienradios.com/747_Bautista_32000.aac
+#EXTINF:-1, Cienradios - Bautista - 2
+http://s_mobile.cienradios.com/747_Bautista_48.mp3
+#EXTINF:-1, Cienradios - Barbra Streisand y Art. Rel. - 0
+http://buecrplb01.cienradios.com.ar/1055_Barbra_Streisand_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Barbra Streisand y Art. Rel. - 1
+http://s_mobile.cienradios.com/1055_Barbra_Streisand_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Barbra Streisand y Art. Rel. - 2
+http://s_mobile.cienradios.com/1055_Barbra_Streisand_y_Art_Rel_48.mp3
+#EXTINF:-1, Cienradios - Bachata - 0
+http://buecrplb01.cienradios.com.ar/998_Bachata_32000.aac
+#EXTINF:-1, Cienradios - Bachata - 1
+http://s_mobile.cienradios.com/998_Bachata_32000.aac
+#EXTINF:-1, Cienradios - Bachata - 2
+http://s_mobile.cienradios.com/998_Bachata_48.mp3
+#EXTINF:-1, Cienradios - Babasonicos y Artistas Relacionados - 0
+http://buecrplb01.cienradios.com.ar/859_Babasonicos_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Babasonicos y Artistas Relacionados - 1
+http://s_mobile.cienradios.com/859_Babasonicos_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Babasonicos y Artistas Relacionados - 2
+http://s_mobile.cienradios.com/859_Babasonicos_y_Art_Rel_48.mp3
+#EXTINF:-1, Cienradios - Axel y Artistas Relacionados - 0
+http://buecrplb01.cienradios.com.ar/618_Axel_y_Artistas_Relacionados_32000.aac
+#EXTINF:-1, Cienradios - Axel y Artistas Relacionados - 1
+http://s_mobile.cienradios.com/618_Axel_y_Artistas_Relacionados_32000.aac
+#EXTINF:-1, Cienradios - Axel y Artistas Relacionados - 2
+http://s_mobile.cienradios.com/618_Axel_y_Artistas_Relacionados_48.mp3
+#EXTINF:-1, Cienradios - Autenticos Decadentes y Art Rel - 0
+http://buecrplb01.cienradios.com.ar/940_Autenticos_Decadentes_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Autenticos Decadentes y Art Rel - 1
+http://s_mobile.cienradios.com/940_Autenticos_Decadentes_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Autenticos Decadentes y Art Rel - 2
+http://s_mobile.cienradios.com/940_Autenticos_Decadentes_y_Art_Rel_48.mp3
+#EXTINF:-1, Cienradios - Attaque 77 y Artistas Relacionados - 0
+http://buecrplb01.cienradios.com.ar/636_Attaque_77_y_Artistas_Relacionados_32000.aac
+#EXTINF:-1, Cienradios - Attaque 77 y Artistas Relacionados - 1
+http://s_mobile.cienradios.com/636_Attaque_77_y_Artistas_Relacionados_32000.aac
+#EXTINF:-1, Cienradios - Attaque 77 y Artistas Relacionados - 2
+http://s_mobile.cienradios.com/636_Attaque_77_y_Artistas_Relacionados_48.mp3
+#EXTINF:-1, Cienradios - Argentinos en inglés - 0
+http://buecrplb01.cienradios.com.ar/810_Argentinos_en_Ingles_32000.aac
+#EXTINF:-1, Cienradios - Argentinos en inglés - 1
+http://s_mobile.cienradios.com/810_Argentinos_en_Ingles_32000.aac
+#EXTINF:-1, Cienradios - Argentinos en inglés - 2
+http://s_mobile.cienradios.com/810_Argentinos_en_Ingles_48.mp3
+#EXTINF:-1, Cienradios - Arctic Monkeys y Art. Rel - 0
+http://buecrplb01.cienradios.com.ar/1221_Arctic_Monkeys_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Arctic Monkeys y Art. Rel - 1
+http://s_mobile.cienradios.com/1221_Arctic_Monkeys_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Arctic Monkeys y Art. Rel - 2
+http://s_mobile.cienradios.com/1221_Arctic_Monkeys_y_Art_Rel_48.mp3
+#EXTINF:-1, Cienradios - AntiDomingo - 0
+http://buecrplb01.cienradios.com.ar/1263_AntiDomingo_32000.aac
+#EXTINF:-1, Cienradios - AntiDomingo - 1
+http://s_mobile.cienradios.com/1263_AntiDomingo_32000.aac
+#EXTINF:-1, Cienradios - AntiDomingo - 2
+http://s_mobile.cienradios.com/1263_AntiDomingo_48.mp3
+#EXTINF:-1, Cienradios - Andres Calamaro y Artistas Relacionados - 0
+http://buecrplb01.cienradios.com.ar/641_Andres_Calamaro_y_Artistas_Relacionados_32000.aac
+#EXTINF:-1, Cienradios - Andres Calamaro y Artistas Relacionados - 1
+http://s_mobile.cienradios.com/641_Andres_Calamaro_y_Artistas_Relacionados_32000.aac
+#EXTINF:-1, Cienradios - Andres Calamaro y Artistas Relacionados - 2
+http://s_mobile.cienradios.com/641_Andres_Calamaro_y_Artistas_Relacionados_48.mp3
+#EXTINF:-1, Cienradios - Andrea Bocelli y Art. Rel - 0
+http://buecrplb01.cienradios.com.ar/1040_Andrea_Bocelli_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Andrea Bocelli y Art. Rel - 1
+http://s_mobile.cienradios.com/1040_Andrea_Bocelli_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Andrea Bocelli y Art. Rel - 2
+http://s_mobile.cienradios.com/1040_Andrea_Bocelli_y_Art_Rel_48.mp3
+#EXTINF:-1, Cienradios - Amy Winehouse - 0
+http://buecrplb01.cienradios.com.ar/854_Amy_Winehouse_32000.aac
+#EXTINF:-1, Cienradios - Amy Winehouse - 1
+http://s_mobile.cienradios.com/854_Amy_Winehouse_32000.aac
+#EXTINF:-1, Cienradios - Amy Winehouse - 2
+http://s_mobile.cienradios.com/854_Amy_Winehouse_48.mp3
+#EXTINF:-1, Cienradios - Amo la Musica - 0
+http://buecrplb01.cienradios.com.ar/1252_Amo_la_Musica_32000.aac
+#EXTINF:-1, Cienradios - Amo la Musica - 1
+http://s_mobile.cienradios.com/1252_Amo_la_Musica_32000.aac
+#EXTINF:-1, Cienradios - Amo la Musica - 2
+http://s_mobile.cienradios.com/1252_Amo_la_Musica_48.mp3
+#EXTINF:-1, Cienradios - Amadeus - 0
+http://buecrplb01.cienradios.com.ar/1019_Amadeus_32000.aac
+#EXTINF:-1, Cienradios - Amadeus - 1
+http://s_mobile.cienradios.com/1019_Amadeus_32000.aac
+#EXTINF:-1, Cienradios - Amadeus - 2
+http://s_mobile.cienradios.com/1019_Amadeus_48.mp3
+#EXTINF:-1, Cienradios - All About Tango - 0
+http://buecrplb01.cienradios.com.ar/566_All_About_Tango_32000.aac
+#EXTINF:-1, Cienradios - All About Tango - 1
+http://s_mobile.cienradios.com/566_All_About_Tango_32000.aac
+#EXTINF:-1, Cienradios - All About Tango - 2
+http://s_mobile.cienradios.com/566_All_About_Tango_48.mp3
+#EXTINF:-1, Cienradios - Alejandro Sanz y Artistas Relacionados - 0
+http://buecrplb01.cienradios.com.ar/635_Alejandro_Sanz_y_Artistas_Relacionados_32000.aac
+#EXTINF:-1, Cienradios - Alejandro Sanz y Artistas Relacionados - 1
+http://s_mobile.cienradios.com/635_Alejandro_Sanz_y_Artistas_Relacionados_32000.aac
+#EXTINF:-1, Cienradios - Alejandro Sanz y Artistas Relacionados - 2
+http://s_mobile.cienradios.com/635_Alejandro_Sanz_y_Artistas_Relacionados_48.mp3
+#EXTINF:-1, Cienradios - Alejandro Lerner y Art. Rel - 0
+http://buecrplb01.cienradios.com.ar/1033_Alejandro_Lerner_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Alejandro Lerner y Art. Rel - 1
+http://s_mobile.cienradios.com/1033_Alejandro_Lerner_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Alejandro Lerner y Art. Rel - 2
+http://s_mobile.cienradios.com/1033_Alejandro_Lerner_y_Art_Rel_48.mp3
+#EXTINF:-1, Cienradios - Agapornis y Art. Rel. - 0
+http://buecrplb01.cienradios.com.ar/1185_Agapornis_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Agapornis y Art. Rel. - 1
+http://s_mobile.cienradios.com/1185_Agapornis_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Agapornis y Art. Rel. - 2
+http://s_mobile.cienradios.com/1185_Agapornis_y_Art_Rel_48.mp3
+#EXTINF:-1, Cienradios - Aerosmith y Artistas Relacionados - 0
+http://buecrplb01.cienradios.com.ar/829_Aerosmith_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Aerosmith y Artistas Relacionados - 1
+http://s_mobile.cienradios.com/829_Aerosmith_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Aerosmith y Artistas Relacionados - 2
+http://s_mobile.cienradios.com/829_Aerosmith_y_Art_Rel_48.mp3
+#EXTINF:-1, Cienradios - Adrenalina - 0
+http://buecrplb01.cienradios.com.ar/1325_Adrenalina_32000.aac
+#EXTINF:-1, Cienradios - Adrenalina - 1
+http://s_mobile.cienradios.com/1325_Adrenalina_32000.aac
+#EXTINF:-1, Cienradios - Adrenalina - 2
+http://s_mobile.cienradios.com/1325_Adrenalina_48.mp3
+#EXTINF:-1, Cienradios - Adele y Artistas Relacionados - 0
+http://buecrplb01.cienradios.com.ar/948_Adele_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Adele y Artistas Relacionados - 1
+http://s_mobile.cienradios.com/948_Adele_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Adele y Artistas Relacionados - 2
+http://s_mobile.cienradios.com/948_Adele_y_Art_Rel_48.mp3
+#EXTINF:-1, Cienradios - Ad Republic - 0
+http://buecrplb01.cienradios.com.ar/977_Ad_Republic_32000.aac
+#EXTINF:-1, Cienradios - Ad Republic - 1
+http://s_mobile.cienradios.com/977_Ad_Republic_32000.aac
+#EXTINF:-1, Cienradios - Ad Republic - 2
+http://s_mobile.cienradios.com/977_Ad_Republic_48.mp3
+#EXTINF:-1, Cienradios - AC DC y Artistas Relacionados - 0
+http://buecrplb01.cienradios.com.ar/624_AC_DC_y_Artistas_Relacionados_32000.aac
+#EXTINF:-1, Cienradios - AC DC y Artistas Relacionados - 1
+http://s_mobile.cienradios.com/624_AC_DC_y_Artistas_Relacionados_32000.aac
+#EXTINF:-1, Cienradios - AC DC y Artistas Relacionados - 2
+http://s_mobile.cienradios.com/624_AC_DC_y_Artistas_Relacionados_48.mp3
+#EXTINF:-1, Cienradios - Abraham Mateo y Art. Rel. - 0
+http://buecrplb01.cienradios.com.ar/1258_Abraham_Mateo_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Abraham Mateo y Art. Rel. - 1
+http://s_mobile.cienradios.com/1258_Abraham_Mateo_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Abraham Mateo y Art. Rel. - 2
+http://s_mobile.cienradios.com/1258_Abraham_Mateo_y_Art_Rel_48.mp3
+#EXTINF:-1, Cienradios - Abel Pintos y Art. Rel - 0
+http://buecrplb01.cienradios.com.ar/1096_Abel_Pintos_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Abel Pintos y Art. Rel - 1
+http://s_mobile.cienradios.com/1096_Abel_Pintos_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Abel Pintos y Art. Rel - 2
+http://s_mobile.cienradios.com/1096_Abel_Pintos_y_Art_Rel_48.mp3
+#EXTINF:-1, Cienradios - Abba y Artistas Relacionados - 0
+http://buecrplb01.cienradios.com.ar/620_Abba_y_Art_Relac_32000.aac
+#EXTINF:-1, Cienradios - Abba y Artistas Relacionados - 1
+http://s_mobile.cienradios.com/620_Abba_y_Art_Relac_32000.aac
+#EXTINF:-1, Cienradios - Abba y Artistas Relacionados - 2
+http://s_mobile.cienradios.com/620_Abba_y_Art_Relac_48.mp3
+#EXTINF:-1, Cienradios - 90 Nacional e Internacional - 0
+http://buecrplb01.cienradios.com.ar/955_90_Nacional_E_Internacional_32000.aac
+#EXTINF:-1, Cienradios - 90 Nacional e Internacional - 1
+http://s_mobile.cienradios.com/955_90_Nacional_E_Internacional_32000.aac
+#EXTINF:-1, Cienradios - 90 Nacional e Internacional - 2
+http://s_mobile.cienradios.com/955_90_Nacional_E_Internacional_48.mp3
+#EXTINF:-1, Cienradios - 90 Nacional - 0
+http://buecrplb01.cienradios.com.ar/634_90_Nacional_32000.aac
+#EXTINF:-1, Cienradios - 90 Nacional - 1
+http://s_mobile.cienradios.com/634_90_Nacional_32000.aac
+#EXTINF:-1, Cienradios - 90 Nacional - 2
+http://s_mobile.cienradios.com/634_90_Nacional_48.mp3
+#EXTINF:-1, Cienradios - Hot 100 Reggaeton - 0
+http://buecrplb01.cienradios.com.ar/675_Hot_100_Reggaeton_32000.aac
+#EXTINF:-1, Cienradios - Hot 100 Reggaeton - 1
+http://s_mobile.cienradios.com/675_Hot_100_Reggaeton_32000.aac
+#EXTINF:-1, Cienradios - Hot 100 Reggaeton - 2
+http://s_mobile.cienradios.com/675_Hot_100_Reggaeton_48.mp3
+#EXTINF:-1, Cienradios - 90 Internacional - 0
+http://buecrplb01.cienradios.com.ar/633_90_Internacional_32000.aac
+#EXTINF:-1, Cienradios - 90 Internacional - 1
+http://s_mobile.cienradios.com/633_90_Internacional_32000.aac
+#EXTINF:-1, Cienradios - 90 Internacional - 2
+http://s_mobile.cienradios.com/633_90_Internacional_48.mp3
+#EXTINF:-1, Cienradios - 80_Nacional_E_Internacional - 0
+http://buecrplb01.cienradios.com.ar/571_80_Nacional_E_Internacional_32000.aac
+#EXTINF:-1, Cienradios - 80_Nacional_E_Internacional - 1
+http://s_mobile.cienradios.com/571_80_Nacional_E_Internacional_32000.aac
+#EXTINF:-1, Cienradios - 80_Nacional_E_Internacional - 2
+http://s_mobile.cienradios.com/571_80_Nacional_E_Internacional_48.mp3
+#EXTINF:-1, Cienradios - 80 90 Nacional - 0
+http://buecrplb01.cienradios.com.ar/589_80_90_Nacional_32000.aac
+#EXTINF:-1, Cienradios - 80 90 Nacional - 1
+http://s_mobile.cienradios.com/589_80_90_Nacional_32000.aac
+#EXTINF:-1, Cienradios - 80 90 Nacional - 2
+http://s_mobile.cienradios.com/589_80_90_Nacional_48.mp3
+#EXTINF:-1, Cienradios - 80 90 Internacional - 0
+http://buecrplb01.cienradios.com.ar/792_80_90_Internacional_32000.aac
+#EXTINF:-1, Cienradios - 80 90 Internacional - 1
+http://s_mobile.cienradios.com/792_80_90_Internacional_32000.aac
+#EXTINF:-1, Cienradios - 80 90 Internacional - 2
+http://s_mobile.cienradios.com/792_80_90_Internacional_48.mp3
+#EXTINF:-1, Cienradios - 60s - 0
+http://buecrplb01.cienradios.com.ar/612_60_32000.aac
+#EXTINF:-1, Cienradios - 60s - 1
+http://s_mobile.cienradios.com/612_60_32000.aac
+#EXTINF:-1, Cienradios - 60s - 2
+http://s_mobile.cienradios.com/612_60_48.mp3
+#EXTINF:-1, Cienradios - 20 Lentos para Amar - 0
+http://buecrplb01.cienradios.com.ar/1329_20_Lentos_para_Amar_32000.aac
+#EXTINF:-1, Cienradios - 20 Lentos para Amar - 1
+http://s_mobile.cienradios.com/1329_20_Lentos_para_Amar_32000.aac
+#EXTINF:-1, Cienradios - 20 Lentos para Amar - 2
+http://s_mobile.cienradios.com/1329_20_Lentos_para_Amar_48.mp3
+#EXTINF:-1, Cienradios - 20 Canciones Romanticas - 0
+http://buecrplb01.cienradios.com.ar/1265_20_Canciones_Romanticas_32000.aac
+#EXTINF:-1, Cienradios - 20 Canciones Romanticas - 1
+http://s_mobile.cienradios.com/1265_20_Canciones_Romanticas_32000.aac
+#EXTINF:-1, Cienradios - 20 Canciones Romanticas - 2
+http://s_mobile.cienradios.com/1265_20_Canciones_Romanticas_48.mp3
+#EXTINF:-1, Cienradios - Foo Fighters - 0
+http://buecrplb01.cienradios.com.ar/961_Foo_Fighters_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Foo Fighters - 1
+http://s_mobile.cienradios.com/961_Foo_Fighters_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Foo Fighters - 2
+http://s_mobile.cienradios.com/961_Foo_Fighters_y_Art_Rel_48.mp3
+#EXTINF:-1, Cienradios - Frank Sinatra - 0
+http://buecrplb01.cienradios.com.ar/687_Frank_Sinatra_y_Artistas_Relacionados_32000.aac
+#EXTINF:-1, Cienradios - Frank Sinatra - 1
+http://s_mobile.cienradios.com/687_Frank_Sinatra_y_Artistas_Relacionados_32000.aac
+#EXTINF:-1, Cienradios - Frank Sinatra - 2
+http://s_mobile.cienradios.com/687_Frank_Sinatra_y_Artistas_Relacionados_48.mp3
+#EXTINF:-1, Cienradios - 20 Canciones de Fiesta - 0
+http://buecrplb01.cienradios.com.ar/1286_20_Canciones_de_Fiesta_32000.aac
+#EXTINF:-1, Cienradios - 20 Canciones de Fiesta - 1
+http://s_mobile.cienradios.com/1286_20_Canciones_de_Fiesta_32000.aac
+#EXTINF:-1, Cienradios - 20 Canciones de Fiesta - 2
+http://s_mobile.cienradios.com/1286_20_Canciones_de_Fiesta_48.mp3
+#EXTINF:-1, Cienradios - 20 Artistas Latinos - 0
+http://buecrplb01.cienradios.com.ar/1278_20_Artistas_Latinos_32000.aac
+#EXTINF:-1, Cienradios - 20 Artistas Latinos - 1
+http://s_mobile.cienradios.com/1278_20_Artistas_Latinos_32000.aac
+#EXTINF:-1, Cienradios - 20 Artistas Latinos - 2
+http://s_mobile.cienradios.com/1278_20_Artistas_Latinos_48.mp3
+#EXTINF:-1, Cienradios - 1 Hora de Zumba - 0
+http://buecrplb01.cienradios.com.ar/1230_1_Hora_de_Zumba_32000.aac
+#EXTINF:-1, Cienradios - 1 Hora de Zumba - 1
+http://s_mobile.cienradios.com/1230_1_Hora_de_Zumba_32000.aac
+#EXTINF:-1, Cienradios - 1 Hora de Zumba - 2
+http://s_mobile.cienradios.com/1230_1_Hora_de_Zumba_48.mp3
+#EXTINF:-1, Cienradios - 1 Hora de Ritmos Caribenos - 0
+http://buecrplb01.cienradios.com.ar/1268_1_Hora_de_Ritmos_Caribenos_32000.aac
+#EXTINF:-1, Cienradios - 1 Hora de Ritmos Caribenos - 1
+http://s_mobile.cienradios.com/1268_1_Hora_de_Ritmos_Caribenos_32000.aac
+#EXTINF:-1, Cienradios - 1 Hora de Ritmos Caribenos - 2
+http://s_mobile.cienradios.com/1268_1_Hora_de_Ritmos_Caribenos_48.mp3
+#EXTINF:-1, Cienradios - 1 Hora de Gimnasia - 0
+http://buecrplb01.cienradios.com.ar/1277_1_Hora_de_Gimnasia_32000.aac
+#EXTINF:-1, Cienradios - 1 Hora de Gimnasia - 1
+http://s_mobile.cienradios.com/1277_1_Hora_de_Gimnasia_32000.aac
+#EXTINF:-1, Cienradios - 1 Hora de Gimnasia - 2
+http://s_mobile.cienradios.com/1277_1_Hora_de_Gimnasia_48.mp3
+#EXTINF:-1, Cienradios - Retromix - 0
+http://buecrplb01.cienradios.com.ar/592_Retromix_32000.aac
+#EXTINF:-1, Cienradios - Retromix - 1
+http://s_mobile.cienradios.com/592_Retromix_32000.aac
+#EXTINF:-1, Cienradios - Retromix - 2
+http://s_mobile.cienradios.com/592_Retromix_48.mp3
+#EXTINF:-1, Cienradios -  Puccini - 0
+http://buecrplb01.cienradios.com.ar/742_Puccini_32000.aac
+#EXTINF:-1, Cienradios -  Puccini - 1
+http://s_mobile.cienradios.com/742_Puccini_32000.aac
+#EXTINF:-1, Cienradios -  Puccini - 2
+http://s_mobile.cienradios.com/742_Puccini_48.mp3
+#EXTINF:-1, Cienradios -  Miley Cyrus y Artistas Relacionados - 0
+http://buecrplb01.cienradios.com.ar/715_Miley_Cyrus_y_Artistas_Relacionados_32000.aac
+#EXTINF:-1, Cienradios -  Miley Cyrus y Artistas Relacionados - 1
+http://s_mobile.cienradios.com/715_Miley_Cyrus_y_Artistas_Relacionados_32000.aac
+#EXTINF:-1, Cienradios -  Miley Cyrus y Artistas Relacionados - 2
+http://s_mobile.cienradios.com/715_Miley_Cyrus_y_Artistas_Relacionados_48.mp3
+#EXTINF:-1, Cienradios - Folklore Salteno - 0
+http://buecrplb01.cienradios.com.ar/1039_Folklore_Salteno_32000.aac
+#EXTINF:-1, Cienradios - Folklore Salteno - 1
+http://s_mobile.cienradios.com/1039_Folklore_Salteno_32000.aac
+#EXTINF:-1, Cienradios - Folklore Salteno - 2
+http://s_mobile.cienradios.com/1039_Folklore_Salteno_48.mp3
+#EXTINF:-1, Cienradios -  Los Fabulosos Cadillacs y Artistas Relacionados - 0
+http://buecrplb01.cienradios.com.ar/653_Los_Fabulosos_Cadillacs_y_Artistas_Relacionados_32000.aac
+#EXTINF:-1, Cienradios -  Los Fabulosos Cadillacs y Artistas Relacionados - 1
+http://s_mobile.cienradios.com/653_Los_Fabulosos_Cadillacs_y_Artistas_Relacionados_32000.aac
+#EXTINF:-1, Cienradios -  Los Fabulosos Cadillacs y Artistas Relacionados - 2
+http://s_mobile.cienradios.com/653_Los_Fabulosos_Cadillacs_y_Artistas_Relacionados_48.mp3
+#EXTINF:-1, Cienradios -  Lo Mejor del 2002 - 0
+http://buecrplb01.cienradios.com.ar/694_Lo_Mejor_De_2002_32000.aac
+#EXTINF:-1, Cienradios -  Lo Mejor del 2002 - 1
+http://s_mobile.cienradios.com/694_Lo_Mejor_De_2002_32000.aac
+#EXTINF:-1, Cienradios -  Lo Mejor del 2002 - 2
+http://s_mobile.cienradios.com/694_Lo_Mejor_De_2002_48.mp3
+#EXTINF:-1, Cienradios -  Letras y Canciones - 0
+http://buecrplb01.cienradios.com.ar/587_Letras_y_Canciones_32000.aac
+#EXTINF:-1, Cienradios -  Letras y Canciones - 1
+http://s_mobile.cienradios.com/587_Letras_y_Canciones_32000.aac
+#EXTINF:-1, Cienradios -  Letras y Canciones - 2
+http://s_mobile.cienradios.com/587_Letras_y_Canciones_48.mp3
+#EXTINF:-1, Cienradios -  Keane y Artistas Relacionados - 0
+http://buecrplb01.cienradios.com.ar/927_Keane_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios -  Keane y Artistas Relacionados - 1
+http://s_mobile.cienradios.com/927_Keane_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios -  Keane y Artistas Relacionados - 2
+http://s_mobile.cienradios.com/927_Keane_y_Art_Rel_48.mp3
+#EXTINF:-1, Cienradios -  Joaquin Sabina y Artistas Relacionados - 0
+http://buecrplb01.cienradios.com.ar/767_Joaquin_Sabina_y_Artistas_Relacionados_32000.aac
+#EXTINF:-1, Cienradios -  Joaquin Sabina y Artistas Relacionados - 1
+http://s_mobile.cienradios.com/767_Joaquin_Sabina_y_Artistas_Relacionados_32000.aac
+#EXTINF:-1, Cienradios -  Joaquin Sabina y Artistas Relacionados - 2
+http://s_mobile.cienradios.com/767_Joaquin_Sabina_y_Artistas_Relacionados_48.mp3
+#EXTINF:-1, Cienradios -  Hot 100 UK - 0
+http://buecrplb01.cienradios.com.ar/891_Hot_100_UK_32000.aac
+#EXTINF:-1, Cienradios -  Hot 100 UK - 1
+http://s_mobile.cienradios.com/891_Hot_100_UK_32000.aac
+#EXTINF:-1, Cienradios -  Hot 100 UK - 2
+http://s_mobile.cienradios.com/891_Hot_100_UK_48.mp3
+#EXTINF:-1, Cienradios - Hot 100 Hip Hop - 0
+http://buecrplb01.cienradios.com.ar/673_Hot_100_Hip_Hop_32000.aac
+#EXTINF:-1, Cienradios - Hot 100 Hip Hop - 1
+http://s_mobile.cienradios.com/673_Hot_100_Hip_Hop_32000.aac
+#EXTINF:-1, Cienradios - Hot 100 Hip Hop - 2
+http://s_mobile.cienradios.com/673_Hot_100_Hip_Hop_48.mp3
+#EXTINF:-1, Cienradios - Los 100 de la 100 2015 - 0
+http://buecrplb01.cienradios.com.ar/1410_Los_100_de_la_100_2015_32000.aac
+#EXTINF:-1, Cienradios - Los 100 de la 100 2015 - 1
+http://s_mobile.cienradios.com/1410_Los_100_de_la_100_2015_32000.aac
+#EXTINF:-1, Cienradios - Los 100 de la 100 2015 - 2
+http://s_mobile.cienradios.com/1410_Los_100_de_la_100_2015_48.mp3
+#EXTINF:-1, Cienradios - Los 100 De La 100 2009 - 0
+http://buecrplb01.cienradios.com.ar/703_Los_100_De_La_100_2009_32000.aac
+#EXTINF:-1, Cienradios - Los 100 De La 100 2009 - 1
+http://s_mobile.cienradios.com/703_Los_100_De_La_100_2009_32000.aac
+#EXTINF:-1, Cienradios - Los 100 De La 100 2009 - 2
+http://s_mobile.cienradios.com/703_Los_100_De_La_100_2009_48.mp3
+#EXTINF:-1, Cienradios - Los 100 de la 100 2014 - 0
+http://buecrplb01.cienradios.com.ar/1295_Los_100_de_la_100_2014_32000.aac
+#EXTINF:-1, Cienradios - Los 100 de la 100 2014 - 1
+http://s_mobile.cienradios.com/1295_Los_100_de_la_100_2014_32000.aac
+#EXTINF:-1, Cienradios - Los 100 de la 100 2014 - 2
+http://s_mobile.cienradios.com/1295_Los_100_de_la_100_2014_48.mp3
+#EXTINF:-1, Cienradios - Los 100 de la 100 2013 - 0
+http://buecrplb01.cienradios.com.ar/1084_Los_100_de_la_100_2013_32000.aac
+#EXTINF:-1, Cienradios - Los 100 de la 100 2013 - 1
+http://s_mobile.cienradios.com/1084_Los_100_de_la_100_2013_32000.aac
+#EXTINF:-1, Cienradios - Los 100 de la 100 2013 - 2
+http://s_mobile.cienradios.com/1084_Los_100_de_la_100_2013_48.mp3
+#EXTINF:-1, Cienradios - Los 100 de la 100 2012 - 0
+http://buecrplb01.cienradios.com.ar/1063_Los_100_de_la_100_2012_32000.aac
+#EXTINF:-1, Cienradios - Los 100 de la 100 2012 - 1
+http://s_mobile.cienradios.com/1063_Los_100_de_la_100_2012_32000.aac
+#EXTINF:-1, Cienradios - Los 100 de la 100 2012 - 2
+http://s_mobile.cienradios.com/1063_Los_100_de_la_100_2012_48.mp3
+#EXTINF:-1, Cienradios - Los 100 de la 100 2011 - 0
+http://buecrplb01.cienradios.com.ar/925_Los_100_de_la_100_2011_32000.aac
+#EXTINF:-1, Cienradios - Los 100 de la 100 2011 - 1
+http://s_mobile.cienradios.com/925_Los_100_de_la_100_2011_32000.aac
+#EXTINF:-1, Cienradios - Los 100 de la 100 2011 - 2
+http://s_mobile.cienradios.com/925_Los_100_de_la_100_2011_48.mp3
+#EXTINF:-1, Cienradios - Los 100 de la 100 2010 - 0
+http://buecrplb01.cienradios.com.ar/704_Los_100_De_La_100_2010_32000.aac
+#EXTINF:-1, Cienradios - Los 100 de la 100 2010 - 1
+http://s_mobile.cienradios.com/704_Los_100_De_La_100_2010_32000.aac
+#EXTINF:-1, Cienradios - Los 100 de la 100 2010 - 2
+http://s_mobile.cienradios.com/704_Los_100_De_La_100_2010_48.mp3
+#EXTINF:-1, Cienradios - Los 100 de la 100 2008 - 0
+http://buecrplb01.cienradios.com.ar/933_Los_100_de_la_100_2008_32000.aac
+#EXTINF:-1, Cienradios - Los 100 de la 100 2008 - 1
+http://s_mobile.cienradios.com/933_Los_100_de_la_100_2008_32000.aac
+#EXTINF:-1, Cienradios - Los 100 de la 100 2008 - 2
+http://s_mobile.cienradios.com/933_Los_100_de_la_100_2008_48.mp3
+#EXTINF:-1, Cienradios - Los 100 de la 100 2007 - 0
+http://buecrplb01.cienradios.com.ar/928_Los_100_de_la_100_2007_32000.aac
+#EXTINF:-1, Cienradios - Los 100 de la 100 2007 - 1
+http://s_mobile.cienradios.com/928_Los_100_de_la_100_2007_32000.aac
+#EXTINF:-1, Cienradios - Los 100 de la 100 2007 - 2
+http://s_mobile.cienradios.com/928_Los_100_de_la_100_2007_48.mp3
+#EXTINF:-1, Cienradios - Los 100 de la 100 2006 - 0
+http://buecrplb01.cienradios.com.ar/929_Los_100_de_la_100_2006_32000.aac
+#EXTINF:-1, Cienradios - Los 100 de la 100 2006 - 1
+http://s_mobile.cienradios.com/929_Los_100_de_la_100_2006_32000.aac
+#EXTINF:-1, Cienradios - Los 100 de la 100 2006 - 2
+http://s_mobile.cienradios.com/929_Los_100_de_la_100_2006_48.mp3
+#EXTINF:-1, Cienradios - Los 100 de la 100 2005 - 0
+http://buecrplb01.cienradios.com.ar/930_Los_100_de_la_100_2005_32000.aac
+#EXTINF:-1, Cienradios - Los 100 de la 100 2005 - 1
+http://s_mobile.cienradios.com/930_Los_100_de_la_100_2005_32000.aac
+#EXTINF:-1, Cienradios - Los 100 de la 100 2005 - 2
+http://s_mobile.cienradios.com/930_Los_100_de_la_100_2005_48.mp3
+#EXTINF:-1, Cienradios - Los 100 de la 100 2004 - 0
+http://buecrplb01.cienradios.com.ar/934_Los_100_de_la_100_2004_32000.aac
+#EXTINF:-1, Cienradios - Los 100 de la 100 2004 - 1
+http://s_mobile.cienradios.com/934_Los_100_de_la_100_2004_32000.aac
+#EXTINF:-1, Cienradios - Los 100 de la 100 2004 - 2
+http://s_mobile.cienradios.com/934_Los_100_de_la_100_2004_48.mp3
+#EXTINF:-1, Cienradios - Los 100 de la 100 2003 - 0
+http://buecrplb01.cienradios.com.ar/935_Los_100_de_la_100_2003_32000.aac
+#EXTINF:-1, Cienradios - Los 100 de la 100 2003 - 1
+http://s_mobile.cienradios.com/935_Los_100_de_la_100_2003_32000.aac
+#EXTINF:-1, Cienradios - Los 100 de la 100 2003 - 2
+http://s_mobile.cienradios.com/935_Los_100_de_la_100_2003_48.mp3
+#EXTINF:-1, Cienradios - Los 100 de la 100 2002 - 0
+http://buecrplb01.cienradios.com.ar/937_Los_100_de_la_100_2002_32000.aac
+#EXTINF:-1, Cienradios - Los 100 de la 100 2002 - 1
+http://s_mobile.cienradios.com/937_Los_100_de_la_100_2002_32000.aac
+#EXTINF:-1, Cienradios - Los 100 de la 100 2002 - 2
+http://s_mobile.cienradios.com/937_Los_100_de_la_100_2002_48.mp3
+#EXTINF:-1, Cienradios - Los 100 de la 100 2000 - 0
+http://buecrplb01.cienradios.com.ar/941_Los_100_de_la_100_2000_32000.aac
+#EXTINF:-1, Cienradios - Los 100 de la 100 2000 - 1
+http://s_mobile.cienradios.com/941_Los_100_de_la_100_2000_32000.aac
+#EXTINF:-1, Cienradios - Los 100 de la 100 2000 - 2
+http://s_mobile.cienradios.com/941_Los_100_de_la_100_2000_48.mp3
+#EXTINF:-1, Cienradios - Mundo Clasico - 0
+http://buecrplb01.cienradios.com.ar/1179_Mundo_Clasico_32000.aac
+#EXTINF:-1, Cienradios - Mundo Clasico - 1
+http://s_mobile.cienradios.com/1179_Mundo_Clasico_32000.aac
+#EXTINF:-1, Cienradios - Mundo Clasico - 2
+http://s_mobile.cienradios.com/1179_Mundo_Clasico_48.mp3
+#EXTINF:-1, Cienradios - A la Sombra - 0
+http://buecrplb01.cienradios.com.ar/1331_A_la_Sombra_32000.aac
+#EXTINF:-1, Cienradios - A la Sombra - 1
+http://s_mobile.cienradios.com/1331_A_la_Sombra_32000.aac
+#EXTINF:-1, Cienradios - A la Sombra - 2
+http://s_mobile.cienradios.com/1331_A_la_Sombra_48.mp3
+#EXTINF:-1, Cienradios - 20 Artistas Pop - 0
+http://buecrplb01.cienradios.com.ar/1212_20_Artistas_Pop_32000.aac
+#EXTINF:-1, Cienradios - 20 Artistas Pop - 1
+http://s_mobile.cienradios.com/1212_20_Artistas_Pop_32000.aac
+#EXTINF:-1, Cienradios - 20 Artistas Pop - 2
+http://s_mobile.cienradios.com/1212_20_Artistas_Pop_48.mp3
+#EXTINF:-1, Cienradios - Maria Callas y Art. Rel. - 0
+http://buecrplb01.cienradios.com.ar/1023_Maria_Callas_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Maria Callas y Art. Rel. - 1
+http://s_mobile.cienradios.com/1023_Maria_Callas_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Maria Callas y Art. Rel. - 2
+http://s_mobile.cienradios.com/1023_Maria_Callas_y_Art_Rel_48.mp3
+#EXTINF:-1, Cienradios - Opera Pop - 0
+http://buecrplb01.cienradios.com.ar/1050_Opera_Pop_32000.aac
+#EXTINF:-1, Cienradios - Opera Pop - 1
+http://s_mobile.cienradios.com/1050_Opera_Pop_32000.aac
+#EXTINF:-1, Cienradios - Opera Pop - 2
+http://s_mobile.cienradios.com/1050_Opera_Pop_48.mp3
+#EXTINF:-1, Cienradios - Teen Series y Peliculas - 0
+http://buecrplb01.cienradios.com.ar/1032_Teen_Series_y_Peliculas_32000.aac
+#EXTINF:-1, Cienradios - Teen Series y Peliculas - 1
+http://s_mobile.cienradios.com/1032_Teen_Series_y_Peliculas_32000.aac
+#EXTINF:-1, Cienradios - Teen Series y Peliculas - 2
+http://s_mobile.cienradios.com/1032_Teen_Series_y_Peliculas_48.mp3
+#EXTINF:-1, Cienradios - Restauracion Radio - 0
+http://buecrplb01.cienradios.com.ar/1319_Restauracion_32000.aac
+#EXTINF:-1, Cienradios - Restauracion Radio - 1
+http://s_mobile.cienradios.com/1319_Restauracion_32000.aac
+#EXTINF:-1, Cienradios - Restauracion Radio - 2
+http://s_mobile.cienradios.com/1319_Restauracion_48.mp3
+#EXTINF:-1, Cienradios - Luna Llena - 0
+http://buecrplb01.cienradios.com.ar/1303_Luna_Llena_32000.aac
+#EXTINF:-1, Cienradios - Luna Llena - 1
+http://s_mobile.cienradios.com/1303_Luna_Llena_32000.aac
+#EXTINF:-1, Cienradios - Luna Llena - 2
+http://s_mobile.cienradios.com/1303_Luna_Llena_48.mp3
+#EXTINF:-1, Cienradios - The Cure y Art. Rel - 0
+http://buecrplb01.cienradios.com.ar/836_The_Cure_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - The Cure y Art. Rel - 1
+http://s_mobile.cienradios.com/836_The_Cure_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - The Cure y Art. Rel - 2
+http://s_mobile.cienradios.com/836_The_Cure_y_Art_Rel_48.mp3
+#EXTINF:-1, Cienradios - The Clash y Art. Rel - 0
+http://buecrplb01.cienradios.com.ar/1003_The_Clash_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - The Clash y Art. Rel - 1
+http://s_mobile.cienradios.com/1003_The_Clash_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - The Clash y Art. Rel - 2
+http://s_mobile.cienradios.com/1003_The_Clash_y_Art_Rel_48.mp3
+#EXTINF:-1, Cienradios - Whitney Houston y Art. Rel. - 0
+http://buecrplb01.cienradios.com.ar/943_Whitney_Houston_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Whitney Houston y Art. Rel. - 1
+http://s_mobile.cienradios.com/943_Whitney_Houston_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Whitney Houston y Art. Rel. - 2
+http://s_mobile.cienradios.com/943_Whitney_Houston_y_Art_Rel_48.mp3
+#EXTINF:-1, Cienradios - Thalia y Art. Rel. - 0
+http://buecrplb01.cienradios.com.ar/1017_Thalia_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Thalia y Art. Rel. - 1
+http://s_mobile.cienradios.com/1017_Thalia_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Thalia y Art. Rel. - 2
+http://s_mobile.cienradios.com/1017_Thalia_y_Art_Rel_48.mp3
+#EXTINF:-1, Cienradios - TGIF - 0
+http://buecrplb01.cienradios.com.ar/1237_TGIF_32000.aac
+#EXTINF:-1, Cienradios - TGIF - 1
+http://s_mobile.cienradios.com/1237_TGIF_32000.aac
+#EXTINF:-1, Cienradios - TGIF - 2
+http://s_mobile.cienradios.com/1237_TGIF_48.mp3
+#EXTINF:-1, Cienradios - Romantica 2000 - 0
+http://buecrplb01.cienradios.com.ar/766_Romantica_2000_32000.aac
+#EXTINF:-1, Cienradios - Romantica 2000 - 1
+http://s_mobile.cienradios.com/766_Romantica_2000_32000.aac
+#EXTINF:-1, Cienradios - Romantica 2000 - 2
+http://s_mobile.cienradios.com/766_Romantica_2000_48.mp3
+#EXTINF:-1, Cienradios - Vivo Nacional - 0
+http://buecrplb01.cienradios.com.ar/953_Vivo_Nacional_32000.aac
+#EXTINF:-1, Cienradios - Vivo Nacional - 1
+http://s_mobile.cienradios.com/953_Vivo_Nacional_32000.aac
+#EXTINF:-1, Cienradios - Vivo Nacional - 2
+http://s_mobile.cienradios.com/953_Vivo_Nacional_48.mp3
+#EXTINF:-1, Cienradios - Teen - 0
+http://buecrplb01.cienradios.com.ar/643_Teen_32000.aac
+#EXTINF:-1, Cienradios - Teen - 1
+http://s_mobile.cienradios.com/643_Teen_32000.aac
+#EXTINF:-1, Cienradios - Teen - 2
+http://s_mobile.cienradios.com/643_Teen_48.mp3
+#EXTINF:-1, Cienradios - Teen Girls - 0
+http://buecrplb01.cienradios.com.ar/905_Teen_Girls_32000.aac
+#EXTINF:-1, Cienradios - Teen Girls - 1
+http://s_mobile.cienradios.com/905_Teen_Girls_32000.aac
+#EXTINF:-1, Cienradios - Teen Girls - 2
+http://s_mobile.cienradios.com/905_Teen_Girls_48.mp3
+#EXTINF:-1, Cienradios - Tears For Fears y Art. Rel. - 0
+http://buecrplb01.cienradios.com.ar/888_Tears_For_Fears_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Tears For Fears y Art. Rel. - 1
+http://s_mobile.cienradios.com/888_Tears_For_Fears_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Tears For Fears y Art. Rel. - 2
+http://s_mobile.cienradios.com/888_Tears_For_Fears_y_Art_Rel_48.mp3
+#EXTINF:-1, Cienradios - Te Amo - 0
+http://buecrplb01.cienradios.com.ar/1224_Te_Amo_32000.aac
+#EXTINF:-1, Cienradios - Te Amo - 1
+http://s_mobile.cienradios.com/1224_Te_Amo_32000.aac
+#EXTINF:-1, Cienradios - Te Amo - 2
+http://s_mobile.cienradios.com/1224_Te_Amo_48.mp3
+#EXTINF:-1, Cienradios - Taylor Swift y Art. Rel - 0
+http://buecrplb01.cienradios.com.ar/1213_Taylor_Swift_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Taylor Swift y Art. Rel - 1
+http://s_mobile.cienradios.com/1213_Taylor_Swift_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Taylor Swift y Art. Rel - 2
+http://s_mobile.cienradios.com/1213_Taylor_Swift_y_Art_Rel_48.mp3
+#EXTINF:-1, Cienradios - Tarantino - 0
+http://buecrplb01.cienradios.com.ar/1024_Tarantino_32000.aac
+#EXTINF:-1, Cienradios - Tarantino - 1
+http://s_mobile.cienradios.com/1024_Tarantino_32000.aac
+#EXTINF:-1, Cienradios - Tarantino - 2
+http://s_mobile.cienradios.com/1024_Tarantino_48.mp3
+#EXTINF:-1, Cienradios - Tango - 0
+http://buecrplb01.cienradios.com.ar/596_Tango_32000.aac
+#EXTINF:-1, Cienradios - Tango - 1
+http://s_mobile.cienradios.com/596_Tango_32000.aac
+#EXTINF:-1, Cienradios - Tango - 2
+http://s_mobile.cienradios.com/596_Tango_48.mp3
+#EXTINF:-1, Cienradios - Opera - 0
+http://buecrplb01.cienradios.com.ar/727_Opera_32000.aac
+#EXTINF:-1, Cienradios - Opera - 1
+http://s_mobile.cienradios.com/727_Opera_32000.aac
+#EXTINF:-1, Cienradios - Opera - 2
+http://s_mobile.cienradios.com/727_Opera_48.mp3
+#EXTINF:-1, Cienradios - Opera_Francesa - 0
+http://buecrplb01.cienradios.com.ar/729_Opera_Francesa_32000.aac
+#EXTINF:-1, Cienradios - Opera_Francesa - 1
+http://s_mobile.cienradios.com/729_Opera_Francesa_32000.aac
+#EXTINF:-1, Cienradios - Opera_Francesa - 2
+http://s_mobile.cienradios.com/729_Opera_Francesa_48.mp3
+#EXTINF:-1, Cienradios - Opera Italiana - 0
+http://buecrplb01.cienradios.com.ar/730_Opera_Italiana_32000.aac
+#EXTINF:-1, Cienradios - Opera Italiana - 1
+http://s_mobile.cienradios.com/730_Opera_Italiana_32000.aac
+#EXTINF:-1, Cienradios - Opera Italiana - 2
+http://s_mobile.cienradios.com/730_Opera_Italiana_48.mp3
+#EXTINF:-1, Cienradios - Opera Rusa - 0
+http://buecrplb01.cienradios.com.ar/820_Opera_Rusa_32000.aac
+#EXTINF:-1, Cienradios - Opera Rusa - 1
+http://s_mobile.cienradios.com/820_Opera_Rusa_32000.aac
+#EXTINF:-1, Cienradios - Opera Rusa - 2
+http://s_mobile.cienradios.com/820_Opera_Rusa_48.mp3
+#EXTINF:-1, Cienradios - Opera Alemana - 0
+http://buecrplb01.cienradios.com.ar/728_Opera_Alemana_32000.aac
+#EXTINF:-1, Cienradios - Opera Alemana - 1
+http://s_mobile.cienradios.com/728_Opera_Alemana_32000.aac
+#EXTINF:-1, Cienradios - Opera Alemana - 2
+http://s_mobile.cienradios.com/728_Opera_Alemana_48.mp3
+#EXTINF:-1, Cienradios - Ozzy Osbourne y Art. Rel - 0
+http://buecrplb01.cienradios.com.ar/809_Ozzy_Osbourne_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Ozzy Osbourne y Art. Rel - 1
+http://s_mobile.cienradios.com/809_Ozzy_Osbourne_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Ozzy Osbourne y Art. Rel - 2
+http://s_mobile.cienradios.com/809_Ozzy_Osbourne_y_Art_Rel_48.mp3
+#EXTINF:-1, Cienradios - Pablo Alboran y Art. Rel - 0
+http://buecrplb01.cienradios.com.ar/1250_Pablo_Alboran_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Pablo Alboran y Art. Rel - 1
+http://s_mobile.cienradios.com/1250_Pablo_Alboran_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Pablo Alboran y Art. Rel - 2
+http://s_mobile.cienradios.com/1250_Pablo_Alboran_y_Art_Rel_48.mp3
+#EXTINF:-1, Cienradios - Party_Dance - 0
+http://buecrplb01.cienradios.com.ar/734_Party_Dance_32000.aac
+#EXTINF:-1, Cienradios - Party_Dance - 1
+http://s_mobile.cienradios.com/734_Party_Dance_32000.aac
+#EXTINF:-1, Cienradios - Party_Dance - 2
+http://s_mobile.cienradios.com/734_Party_Dance_48.mp3
+#EXTINF:-1, Cienradios - Pasion por la Vida - 0
+http://buecrplb01.cienradios.com.ar/950_Pasion_por_la_Vida_32000.aac
+#EXTINF:-1, Cienradios - Pasion por la Vida - 1
+http://s_mobile.cienradios.com/950_Pasion_por_la_Vida_32000.aac
+#EXTINF:-1, Cienradios - Pasion por la Vida - 2
+http://s_mobile.cienradios.com/950_Pasion_por_la_Vida_48.mp3
+#EXTINF:-1, Cienradios - Patricio Rey y Sus Redonditos de Ricota y Artistas Relacionados - 0
+http://buecrplb01.cienradios.com.ar/763_Los_Redondos_y_Artistas_Relacionados_32000.aac
+#EXTINF:-1, Cienradios - Patricio Rey y Sus Redonditos de Ricota y Artistas Relacionados - 1
+http://s_mobile.cienradios.com/763_Los_Redondos_y_Artistas_Relacionados_32000.aac
+#EXTINF:-1, Cienradios - Patricio Rey y Sus Redonditos de Ricota y Artistas Relacionados - 2
+http://s_mobile.cienradios.com/763_Los_Redondos_y_Artistas_Relacionados_48.mp3
+#EXTINF:-1, Cienradios - Paul McCartney y Artistas Relacionados - 0
+http://buecrplb01.cienradios.com.ar/735_Paul_McCartney_y_Artistas_Relacionados_32000.aac
+#EXTINF:-1, Cienradios - Paul McCartney y Artistas Relacionados - 1
+http://s_mobile.cienradios.com/735_Paul_McCartney_y_Artistas_Relacionados_32000.aac
+#EXTINF:-1, Cienradios - Paul McCartney y Artistas Relacionados - 2
+http://s_mobile.cienradios.com/735_Paul_McCartney_y_Artistas_Relacionados_48.mp3
+#EXTINF:-1, Cienradios - Pearl Jam y Artistas Relacionados - 0
+http://buecrplb01.cienradios.com.ar/895_Pearl_Jam_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Pearl Jam y Artistas Relacionados - 1
+http://s_mobile.cienradios.com/895_Pearl_Jam_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Pearl Jam y Artistas Relacionados - 2
+http://s_mobile.cienradios.com/895_Pearl_Jam_y_Art_Rel_48.mp3
+#EXTINF:-1, Cienradios - Peliculas - 0
+http://buecrplb01.cienradios.com.ar/591_Peliculas_32000.aac
+#EXTINF:-1, Cienradios - Peliculas - 1
+http://s_mobile.cienradios.com/591_Peliculas_32000.aac
+#EXTINF:-1, Cienradios - Peliculas - 2
+http://s_mobile.cienradios.com/591_Peliculas_48.mp3
+#EXTINF:-1, Cienradios - Peter Gabriel y Artistas Relacionados - 0
+http://buecrplb01.cienradios.com.ar/899_Peter_Gabriel_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Peter Gabriel y Artistas Relacionados - 1
+http://s_mobile.cienradios.com/899_Peter_Gabriel_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Peter Gabriel y Artistas Relacionados - 2
+http://s_mobile.cienradios.com/899_Peter_Gabriel_y_Art_Rel_48.mp3
+#EXTINF:-1, Cienradios - Piano Classic - 0
+http://buecrplb01.cienradios.com.ar/1001_Piano_Classic_32000.aac
+#EXTINF:-1, Cienradios - Piano Classic - 1
+http://s_mobile.cienradios.com/1001_Piano_Classic_32000.aac
+#EXTINF:-1, Cienradios - Piano Classic - 2
+http://s_mobile.cienradios.com/1001_Piano_Classic_48.mp3
+#EXTINF:-1, Cienradios - Piazzolla y Artistas Relacionados - 0
+http://buecrplb01.cienradios.com.ar/737_Piazzolla_y_Artistas_Relacionados_32000.aac
+#EXTINF:-1, Cienradios - Piazzolla y Artistas Relacionados - 1
+http://s_mobile.cienradios.com/737_Piazzolla_y_Artistas_Relacionados_32000.aac
+#EXTINF:-1, Cienradios - Piazzolla y Artistas Relacionados - 2
+http://s_mobile.cienradios.com/737_Piazzolla_y_Artistas_Relacionados_48.mp3
+#EXTINF:-1, Cienradios - Pimpinela y Artistas Relacionados - 0
+http://buecrplb01.cienradios.com.ar/996_Pimpinela_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Pimpinela y Artistas Relacionados - 1
+http://s_mobile.cienradios.com/996_Pimpinela_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Pimpinela y Artistas Relacionados - 2
+http://s_mobile.cienradios.com/996_Pimpinela_y_Art_Rel_48.mp3
+#EXTINF:-1, Cienradios - Pink Floyd y Artistas Relacionados - 0
+http://buecrplb01.cienradios.com.ar/626_Pink_Floyd_y_Artistas_Relacionados_32000.aac
+#EXTINF:-1, Cienradios - Pink Floyd y Artistas Relacionados - 1
+http://s_mobile.cienradios.com/626_Pink_Floyd_y_Artistas_Relacionados_32000.aac
+#EXTINF:-1, Cienradios - Pink Floyd y Artistas Relacionados - 2
+http://s_mobile.cienradios.com/626_Pink_Floyd_y_Artistas_Relacionados_48.mp3
+#EXTINF:-1, Cienradios - Pitbull y Art. Rel - 0
+http://buecrplb01.cienradios.com.ar/1282_Pitbull_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Pitbull y Art. Rel - 1
+http://s_mobile.cienradios.com/1282_Pitbull_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Pitbull y Art. Rel - 2
+http://s_mobile.cienradios.com/1282_Pitbull_y_Art_Rel_48.mp3
+#EXTINF:-1, Cienradios - Pizza Conmigo - 0
+http://buecrplb01.cienradios.com.ar/1261_Pizza_Conmigo_32000.aac
+#EXTINF:-1, Cienradios - Pizza Conmigo - 1
+http://s_mobile.cienradios.com/1261_Pizza_Conmigo_32000.aac
+#EXTINF:-1, Cienradios - Pizza Conmigo - 2
+http://s_mobile.cienradios.com/1261_Pizza_Conmigo_48.mp3
+#EXTINF:-1, Cienradios - Pop - 0
+http://buecrplb01.cienradios.com.ar/1225_Pop_32000.aac
+#EXTINF:-1, Cienradios - Pop - 1
+http://s_mobile.cienradios.com/1225_Pop_32000.aac
+#EXTINF:-1, Cienradios - Pop - 2
+http://s_mobile.cienradios.com/1225_Pop_48.mp3
+#EXTINF:-1, Cienradios - Power Ballads - 0
+http://buecrplb01.cienradios.com.ar/738_Power_Ballads_32000.aac
+#EXTINF:-1, Cienradios - Power Ballads - 1
+http://s_mobile.cienradios.com/738_Power_Ballads_32000.aac
+#EXTINF:-1, Cienradios - Power Ballads - 2
+http://s_mobile.cienradios.com/738_Power_Ballads_48.mp3
+#EXTINF:-1, Cienradios - Previa Retro - 0
+http://buecrplb01.cienradios.com.ar/1262_Previa_Retro_32000.aac
+#EXTINF:-1, Cienradios - Previa Retro - 1
+http://s_mobile.cienradios.com/1262_Previa_Retro_32000.aac
+#EXTINF:-1, Cienradios - Previa Retro - 2
+http://s_mobile.cienradios.com/1262_Previa_Retro_48.mp3
+#EXTINF:-1, Cienradios - Primer_Exito - 0
+http://buecrplb01.cienradios.com.ar/739_Primer_Exito_32000.aac
+#EXTINF:-1, Cienradios - Primer_Exito - 1
+http://s_mobile.cienradios.com/739_Primer_Exito_32000.aac
+#EXTINF:-1, Cienradios - Primer_Exito - 2
+http://s_mobile.cienradios.com/739_Primer_Exito_48.mp3
+#EXTINF:-1, Cienradios - Prince y Artistas Relacionados - 0
+http://buecrplb01.cienradios.com.ar/740_Prince_y_Artistas_Relacionados_32000.aac
+#EXTINF:-1, Cienradios - Prince y Artistas Relacionados - 1
+http://s_mobile.cienradios.com/740_Prince_y_Artistas_Relacionados_32000.aac
+#EXTINF:-1, Cienradios - Prince y Artistas Relacionados - 2
+http://s_mobile.cienradios.com/740_Prince_y_Artistas_Relacionados_48.mp3
+#EXTINF:-1, Cienradios - Princesas - 0
+http://buecrplb01.cienradios.com.ar/741_Princesas_32000.aac
+#EXTINF:-1, Cienradios - Princesas - 1
+http://s_mobile.cienradios.com/741_Princesas_32000.aac
+#EXTINF:-1, Cienradios - Princesas - 2
+http://s_mobile.cienradios.com/741_Princesas_48.mp3
+#EXTINF:-1, Cienradios - Putumayo - 0
+http://buecrplb01.cienradios.com.ar/833_Putumayo_32000.aac
+#EXTINF:-1, Cienradios - Putumayo - 1
+http://s_mobile.cienradios.com/833_Putumayo_32000.aac
+#EXTINF:-1, Cienradios - Putumayo - 2
+http://s_mobile.cienradios.com/833_Putumayo_48.mp3
+#EXTINF:-1, Cienradios - Queen y Artistas Relacionados - 0
+http://buecrplb01.cienradios.com.ar/743_Queen_y_Artistas_Relacionados_32000.aac
+#EXTINF:-1, Cienradios - Queen y Artistas Relacionados - 1
+http://s_mobile.cienradios.com/743_Queen_y_Artistas_Relacionados_32000.aac
+#EXTINF:-1, Cienradios - Queen y Artistas Relacionados - 2
+http://s_mobile.cienradios.com/743_Queen_y_Artistas_Relacionados_48.mp3
+#EXTINF:-1, Cienradios - Quiero Vacaciones - 0
+http://buecrplb01.cienradios.com.ar/1231_Quiero_Vacaciones_32000.aac
+#EXTINF:-1, Cienradios - Quiero Vacaciones - 1
+http://s_mobile.cienradios.com/1231_Quiero_Vacaciones_32000.aac
+#EXTINF:-1, Cienradios - Quiero Vacaciones - 2
+http://s_mobile.cienradios.com/1231_Quiero_Vacaciones_48.mp3
+#EXTINF:-1, Cienradios - Radio Cerfoglio - 0
+http://buecrplb01.cienradios.com.ar/1220_Radio_Cerfoglio_32000.aac
+#EXTINF:-1, Cienradios - Radio Cerfoglio - 1
+http://s_mobile.cienradios.com/1220_Radio_Cerfoglio_32000.aac
+#EXTINF:-1, Cienradios - Radio Cerfoglio - 2
+http://s_mobile.cienradios.com/1220_Radio_Cerfoglio_48.mp3
+#EXTINF:-1, Cienradios - Radio Covers - 0
+http://buecrplb01.cienradios.com.ar/749_Radio_Covers_32000.aac
+#EXTINF:-1, Cienradios - Radio Covers - 1
+http://s_mobile.cienradios.com/749_Radio_Covers_32000.aac
+#EXTINF:-1, Cienradios - Radio Covers - 2
+http://s_mobile.cienradios.com/749_Radio_Covers_48.mp3
+#EXTINF:-1, Cienradios - Radio Deró - 0
+http://buecrplb01.cienradios.com.ar/605_Radio_Dero_32000.aac
+#EXTINF:-1, Cienradios - Radio Deró - 1
+http://s_mobile.cienradios.com/605_Radio_Dero_32000.aac
+#EXTINF:-1, Cienradios - Radio Deró - 2
+http://s_mobile.cienradios.com/605_Radio_Dero_48.mp3
+#EXTINF:-1, Cienradios - Radio Mundo Gaturro - 0
+http://buecrplb01.cienradios.com.ar/869_Radio_Mundo_Gaturro_32000.aac
+#EXTINF:-1, Cienradios - Radio Mundo Gaturro - 1
+http://s_mobile.cienradios.com/869_Radio_Mundo_Gaturro_32000.aac
+#EXTINF:-1, Cienradios - Radio Mundo Gaturro - 2
+http://s_mobile.cienradios.com/869_Radio_Mundo_Gaturro_48.mp3
+#EXTINF:-1, Cienradios - RadiOlé - 0
+http://buecrplb01.cienradios.com.ar/993_radiole_32000.aac
+#EXTINF:-1, Cienradios - RadiOlé - 1
+http://s_mobile.cienradios.com/993_radiole_32000.aac
+#EXTINF:-1, Cienradios - RadiOlé - 2
+http://s_mobile.cienradios.com/993_radiole_48.mp3
+#EXTINF:-1, Cienradios - Red Hot Chili Peppers - 0
+http://buecrplb01.cienradios.com.ar/852_Red_Hot_Chili_Peppers_32000.aac
+#EXTINF:-1, Cienradios - Red Hot Chili Peppers - 1
+http://s_mobile.cienradios.com/852_Red_Hot_Chili_Peppers_32000.aac
+#EXTINF:-1, Cienradios - Red Hot Chili Peppers - 2
+http://s_mobile.cienradios.com/852_Red_Hot_Chili_Peppers_48.mp3
+#EXTINF:-1, Cienradios - Reggae Nacional - 0
+http://buecrplb01.cienradios.com.ar/974_Reggae_Nacional_32000.aac
+#EXTINF:-1, Cienradios - Reggae Nacional - 1
+http://s_mobile.cienradios.com/974_Reggae_Nacional_32000.aac
+#EXTINF:-1, Cienradios - Reggae Nacional - 2
+http://s_mobile.cienradios.com/974_Reggae_Nacional_48.mp3
+#EXTINF:-1, Cienradios - Reggae - 0
+http://buecrplb01.cienradios.com.ar/758_Reggae_32000.aac
+#EXTINF:-1, Cienradios - Reggae - 1
+http://s_mobile.cienradios.com/758_Reggae_32000.aac
+#EXTINF:-1, Cienradios - Reggae - 2
+http://s_mobile.cienradios.com/758_Reggae_48.mp3
+#EXTINF:-1, Cienradios - Reggaeton Romantico - 0
+http://buecrplb01.cienradios.com.ar/760_Reggaeton_Romantico_32000.aac
+#EXTINF:-1, Cienradios - Reggaeton Romantico - 1
+http://s_mobile.cienradios.com/760_Reggaeton_Romantico_32000.aac
+#EXTINF:-1, Cienradios - Reggaeton Romantico - 2
+http://s_mobile.cienradios.com/760_Reggaeton_Romantico_48.mp3
+#EXTINF:-1, Cienradios - Reik y Art. Rel - 0
+http://buecrplb01.cienradios.com.ar/985_Reik_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Reik y Art. Rel - 1
+http://s_mobile.cienradios.com/985_Reik_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Reik y Art. Rel - 2
+http://s_mobile.cienradios.com/985_Reik_y_Art_Rel_48.mp3
+#EXTINF:-1, Cienradios - Reiki - 0
+http://buecrplb01.cienradios.com.ar/761_Reiki_32000.aac
+#EXTINF:-1, Cienradios - Reiki - 1
+http://s_mobile.cienradios.com/761_Reiki_32000.aac
+#EXTINF:-1, Cienradios - Reiki - 2
+http://s_mobile.cienradios.com/761_Reiki_48.mp3
+#EXTINF:-1, Cienradios - Relax_y_Meditacion - 0
+http://buecrplb01.cienradios.com.ar/1074_Relax_y_Meditacion_32000.aac
+#EXTINF:-1, Cienradios - Relax_y_Meditacion - 1
+http://s_mobile.cienradios.com/1074_Relax_y_Meditacion_32000.aac
+#EXTINF:-1, Cienradios - Relax_y_Meditacion - 2
+http://s_mobile.cienradios.com/1074_Relax_y_Meditacion_48.mp3
+#EXTINF:-1, Cienradios - Rock Alternativo Nacional - 0
+http://buecrplb01.cienradios.com.ar/826_Rock_Alternativo_Nacional_32000.aac
+#EXTINF:-1, Cienradios - Rock Alternativo Nacional - 1
+http://s_mobile.cienradios.com/826_Rock_Alternativo_Nacional_32000.aac
+#EXTINF:-1, Cienradios - Rock Alternativo Nacional - 2
+http://s_mobile.cienradios.com/826_Rock_Alternativo_Nacional_48.mp3
+#EXTINF:-1, Cienradios - Rock Alternativo - 0
+http://buecrplb01.cienradios.com.ar/816_Rock_Alternativo_32000.aac
+#EXTINF:-1, Cienradios - Rock Alternativo - 1
+http://s_mobile.cienradios.com/816_Rock_Alternativo_32000.aac
+#EXTINF:-1, Cienradios - Rock Alternativo - 2
+http://s_mobile.cienradios.com/816_Rock_Alternativo_48.mp3
+#EXTINF:-1, Cienradios - Rock Hits - 0
+http://buecrplb01.cienradios.com.ar/764_Rock_Hits_32000.aac
+#EXTINF:-1, Cienradios - Rock Hits - 1
+http://s_mobile.cienradios.com/764_Rock_Hits_32000.aac
+#EXTINF:-1, Cienradios - Rock Hits - 2
+http://s_mobile.cienradios.com/764_Rock_Hits_48.mp3
+#EXTINF:-1, Cienradios - Rock Latinoamericano - 0
+http://buecrplb01.cienradios.com.ar/964_Rock_Latinoamericano_32000.aac
+#EXTINF:-1, Cienradios - Rock Latinoamericano - 1
+http://s_mobile.cienradios.com/964_Rock_Latinoamericano_32000.aac
+#EXTINF:-1, Cienradios - Rock Latinoamericano - 2
+http://s_mobile.cienradios.com/964_Rock_Latinoamericano_48.mp3
+#EXTINF:-1, Cienradios - Roger Waters y Art. Rel. - 0
+http://buecrplb01.cienradios.com.ar/949_Roger_Waters_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Roger Waters y Art. Rel. - 1
+http://s_mobile.cienradios.com/949_Roger_Waters_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Roger Waters y Art. Rel. - 2
+http://s_mobile.cienradios.com/949_Roger_Waters_y_Art_Rel_48.mp3
+#EXTINF:-1, Cienradios - Rollers - 0
+http://buecrplb01.cienradios.com.ar/1173_Rollers_32000.aac
+#EXTINF:-1, Cienradios - Rollers - 1
+http://s_mobile.cienradios.com/1173_Rollers_32000.aac
+#EXTINF:-1, Cienradios - Rollers - 2
+http://s_mobile.cienradios.com/1173_Rollers_48.mp3
+#EXTINF:-1, Cienradios - Romantica 90 - 0
+http://buecrplb01.cienradios.com.ar/593_Romantica_90_32000.aac
+#EXTINF:-1, Cienradios - Romantica 90 - 1
+http://s_mobile.cienradios.com/593_Romantica_90_32000.aac
+#EXTINF:-1, Cienradios - Romantica 90 - 2
+http://s_mobile.cienradios.com/593_Romantica_90_48.mp3
+#EXTINF:-1, Cienradios - Rosana y Art. Rel. - 0
+http://buecrplb01.cienradios.com.ar/880_Rosana_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Rosana y Art. Rel. - 1
+http://s_mobile.cienradios.com/880_Rosana_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Rosana y Art. Rel. - 2
+http://s_mobile.cienradios.com/880_Rosana_y_Art_Rel_48.mp3
+#EXTINF:-1, Cienradios - Roxette y Art. Rel - 0
+http://buecrplb01.cienradios.com.ar/917_Roxette_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Roxette y Art. Rel - 1
+http://s_mobile.cienradios.com/917_Roxette_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Roxette y Art. Rel - 2
+http://s_mobile.cienradios.com/917_Roxette_y_Art_Rel_48.mp3
+#EXTINF:-1, Cienradios - Samba - 0
+http://buecrplb01.cienradios.com.ar/768_Samba_32000.aac
+#EXTINF:-1, Cienradios - Samba - 1
+http://s_mobile.cienradios.com/768_Samba_32000.aac
+#EXTINF:-1, Cienradios - Samba - 2
+http://s_mobile.cienradios.com/768_Samba_48.mp3
+#EXTINF:-1, Cienradios - Tan Bionica y Art. Rel. - 0
+http://buecrplb01.cienradios.com.ar/1087_Tan_Bionica_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Tan Bionica y Art. Rel. - 1
+http://s_mobile.cienradios.com/1087_Tan_Bionica_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Tan Bionica y Art. Rel. - 2
+http://s_mobile.cienradios.com/1087_Tan_Bionica_y_Art_Rel_48.mp3
+#EXTINF:-1, Cienradios - Sandro y Artistas Relacionados - 0
+http://buecrplb01.cienradios.com.ar/769_Sandro_y_Artistas_Relacionados_32000.aac
+#EXTINF:-1, Cienradios - Sandro y Artistas Relacionados - 1
+http://s_mobile.cienradios.com/769_Sandro_y_Artistas_Relacionados_32000.aac
+#EXTINF:-1, Cienradios - Sandro y Artistas Relacionados - 2
+http://s_mobile.cienradios.com/769_Sandro_y_Artistas_Relacionados_48.mp3
+#EXTINF:-1, Cienradios - Santana y Art. Rel - 0
+http://buecrplb01.cienradios.com.ar/1036_Santana_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Santana y Art. Rel - 1
+http://s_mobile.cienradios.com/1036_Santana_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Santana y Art. Rel - 2
+http://s_mobile.cienradios.com/1036_Santana_y_Art_Rel_48.mp3
+#EXTINF:-1, Cienradios - Selena Gomez y Art. Rel. - 0
+http://buecrplb01.cienradios.com.ar/818_Selena_Gomez_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Selena Gomez y Art. Rel. - 1
+http://s_mobile.cienradios.com/818_Selena_Gomez_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Selena Gomez y Art. Rel. - 2
+http://s_mobile.cienradios.com/818_Selena_Gomez_y_Art_Rel_48.mp3
+#EXTINF:-1, Cienradios - Sting y Art. Rel - 0
+http://buecrplb01.cienradios.com.ar/962_Sting_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Sting y Art. Rel - 1
+http://s_mobile.cienradios.com/962_Sting_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Sting y Art. Rel - 2
+http://s_mobile.cienradios.com/962_Sting_y_Art_Rel_48.mp3
+#EXTINF:-1, Cienradios - Selfie - 0
+http://buecrplb01.cienradios.com.ar/1086_Selfie_Radio_32000.aac
+#EXTINF:-1, Cienradios - Selfie - 1
+http://s_mobile.cienradios.com/1086_Selfie_Radio_32000.aac
+#EXTINF:-1, Cienradios - Selfie - 2
+http://s_mobile.cienradios.com/1086_Selfie_Radio_48.mp3
+#EXTINF:-1, Cienradios - Serrat & Sabina - 0
+http://buecrplb01.cienradios.com.ar/881_Serrat_Sabina_32000.aac
+#EXTINF:-1, Cienradios - Serrat & Sabina - 1
+http://s_mobile.cienradios.com/881_Serrat_Sabina_32000.aac
+#EXTINF:-1, Cienradios - Serrat & Sabina - 2
+http://s_mobile.cienradios.com/881_Serrat_Sabina_48.mp3
+#EXTINF:-1, Cienradios - Shakira y Artistas Relacionados - 0
+http://buecrplb01.cienradios.com.ar/746_Shakira_y_Artistas_Relacionados_32000.aac
+#EXTINF:-1, Cienradios - Shakira y Artistas Relacionados - 1
+http://s_mobile.cienradios.com/746_Shakira_y_Artistas_Relacionados_32000.aac
+#EXTINF:-1, Cienradios - Shakira y Artistas Relacionados - 2
+http://s_mobile.cienradios.com/746_Shakira_y_Artistas_Relacionados_48.mp3
+#EXTINF:-1, Cienradios - Si - 0
+http://buecrplb01.cienradios.com.ar/770_Si_32000.aac
+#EXTINF:-1, Cienradios - Si - 1
+http://s_mobile.cienradios.com/770_Si_32000.aac
+#EXTINF:-1, Cienradios - Si - 2
+http://s_mobile.cienradios.com/770_Si_48.mp3
+#EXTINF:-1, Cienradios - Stamateas Para Todos - 0
+http://buecrplb01.cienradios.com.ar/823_Stamateas_Para_Todos_32000.aac
+#EXTINF:-1, Cienradios - Stamateas Para Todos - 1
+http://s_mobile.cienradios.com/823_Stamateas_Para_Todos_32000.aac
+#EXTINF:-1, Cienradios - Stamateas Para Todos - 2
+http://s_mobile.cienradios.com/823_Stamateas_Para_Todos_48.mp3
+#EXTINF:-1, Cienradios - Stevie Wonder y Art. Rel. - 0
+http://buecrplb01.cienradios.com.ar/926_Stevie_Wonder_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Stevie Wonder y Art. Rel. - 1
+http://s_mobile.cienradios.com/926_Stevie_Wonder_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Stevie Wonder y Art. Rel. - 2
+http://s_mobile.cienradios.com/926_Stevie_Wonder_y_Art_Rel_48.mp3
+#EXTINF:-1, Cienradios - The Killers y Art. Rel. - 0
+http://buecrplb01.cienradios.com.ar/973_The_Killers_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - The Killers y Art. Rel. - 1
+http://s_mobile.cienradios.com/973_The_Killers_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - The Killers y Art. Rel. - 2
+http://s_mobile.cienradios.com/973_The_Killers_y_Art_Rel_48.mp3
+#EXTINF:-1, Cienradios - The Rolling Stones y Artistas Relacionados - 0
+http://buecrplb01.cienradios.com.ar/765_The_Rolling_Stones_y_Artistas_Relacionados_32000.aac
+#EXTINF:-1, Cienradios - The Rolling Stones y Artistas Relacionados - 1
+http://s_mobile.cienradios.com/765_The_Rolling_Stones_y_Artistas_Relacionados_32000.aac
+#EXTINF:-1, Cienradios - The Rolling Stones y Artistas Relacionados - 2
+http://s_mobile.cienradios.com/765_The_Rolling_Stones_y_Artistas_Relacionados_48.mp3
+#EXTINF:-1, Cienradios - The Ramones y Artistas Relacionados - 0
+http://buecrplb01.cienradios.com.ar/757_The_Ramones_y_Artistas_Relacionados_32000.aac
+#EXTINF:-1, Cienradios - The Ramones y Artistas Relacionados - 1
+http://s_mobile.cienradios.com/757_The_Ramones_y_Artistas_Relacionados_32000.aac
+#EXTINF:-1, Cienradios - The Ramones y Artistas Relacionados - 2
+http://s_mobile.cienradios.com/757_The_Ramones_y_Artistas_Relacionados_48.mp3
+#EXTINF:-1, Cienradios - Tira para Arriba - 0
+http://buecrplb01.cienradios.com.ar/1244_Tira_para_Arriba_32000.aac
+#EXTINF:-1, Cienradios - Tira para Arriba - 1
+http://s_mobile.cienradios.com/1244_Tira_para_Arriba_32000.aac
+#EXTINF:-1, Cienradios - Tira para Arriba - 2
+http://s_mobile.cienradios.com/1244_Tira_para_Arriba_48.mp3
+#EXTINF:-1, Cienradios - Top Europa - 0
+http://buecrplb01.cienradios.com.ar/776_Top_Europa_32000.aac
+#EXTINF:-1, Cienradios - Top Europa - 1
+http://s_mobile.cienradios.com/776_Top_Europa_32000.aac
+#EXTINF:-1, Cienradios - Top Europa - 2
+http://s_mobile.cienradios.com/776_Top_Europa_48.mp3
+#EXTINF:-1, Cienradios - Top 40 - 0
+http://buecrplb01.cienradios.com.ar/1083_Top_40_32000.aac
+#EXTINF:-1, Cienradios - Top 40 - 1
+http://s_mobile.cienradios.com/1083_Top_40_32000.aac
+#EXTINF:-1, Cienradios - Top 40 - 2
+http://s_mobile.cienradios.com/1083_Top_40_48.mp3
+#EXTINF:-1, Cienradios - Trendy - 0
+http://buecrplb01.cienradios.com.ar/778_Trendy_32000.aac
+#EXTINF:-1, Cienradios - Trendy - 1
+http://s_mobile.cienradios.com/778_Trendy_32000.aac
+#EXTINF:-1, Cienradios - Trendy - 2
+http://s_mobile.cienradios.com/778_Trendy_48.mp3
+#EXTINF:-1, Cienradios - Un_Solo_Exito - 0
+http://buecrplb01.cienradios.com.ar/782_Un_Solo_Exito_32000.aac
+#EXTINF:-1, Cienradios - Un_Solo_Exito - 1
+http://s_mobile.cienradios.com/782_Un_Solo_Exito_32000.aac
+#EXTINF:-1, Cienradios - Un_Solo_Exito - 2
+http://s_mobile.cienradios.com/782_Un_Solo_Exito_48.mp3
+#EXTINF:-1, Cienradios - UnFuego - 0
+http://buecrplb01.cienradios.com.ar/1186_UnFuego_32000.aac
+#EXTINF:-1, Cienradios - UnFuego - 1
+http://s_mobile.cienradios.com/1186_UnFuego_32000.aac
+#EXTINF:-1, Cienradios - UnFuego - 2
+http://s_mobile.cienradios.com/1186_UnFuego_48.mp3
+#EXTINF:-1, Cienradios - Verdi - 0
+http://buecrplb01.cienradios.com.ar/783_Verdi_32000.aac
+#EXTINF:-1, Cienradios - Verdi - 1
+http://s_mobile.cienradios.com/783_Verdi_32000.aac
+#EXTINF:-1, Cienradios - Verdi - 2
+http://s_mobile.cienradios.com/783_Verdi_48.mp3
+#EXTINF:-1, Cienradios - Vicentico y Art. Rel. - 0
+http://buecrplb01.cienradios.com.ar/1044_Vicentico_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Vicentico y Art. Rel. - 1
+http://s_mobile.cienradios.com/1044_Vicentico_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Vicentico y Art. Rel. - 2
+http://s_mobile.cienradios.com/1044_Vicentico_y_Art_Rel_48.mp3
+#EXTINF:-1, Cienradios - Smooth Jazz - 0
+http://buecrplb01.cienradios.com.ar/771_Smooth_Jazz_32000.aac
+#EXTINF:-1, Cienradios - Smooth Jazz - 1
+http://s_mobile.cienradios.com/771_Smooth_Jazz_32000.aac
+#EXTINF:-1, Cienradios - Smooth Jazz - 2
+http://s_mobile.cienradios.com/771_Smooth_Jazz_48.mp3
+#EXTINF:-1, Italia on Air
+http://178.32.138.88:8100/stream
+#EXTINF:-1, Clave FM 99.1
+http://s3.myradiostream.com:4240
+#EXTINF:-1, LRJ888 - Radio FM 2000 104.1 FM
+http://desatec.net:8748
+#EXTINF:-1, 100.3 FM Radio Mitre, Mendoza
+http://buecrplb01.cienradios.com.ar/mitremdz.mp3?1366740883170.mp3
+#EXTINF:-1, ESPN 107.9 FM - 0
+http://apiradio.espn-la.com/64list.m3u8
+#EXTINF:-1, ESPN 107.9 FM - 1
+http://espnsslarugby-i.akamaihd.net/hls/live/225068/rugbytest/64/64.m3u8
+#EXTINF:-1, Coca-Cola FM - Argentina - 0
+http://ic.imusicaradios.com.br:8000/argentina.stream.http?url=radiosure
+#EXTINF:-1, Coca-Cola FM - Argentina - 1
+http://ic.imusicaradios.com.br:8000/argentina.stream.http.48k?url=radiosure
+#EXTINF:-1, 102.3 FM Aspen, Buenos Aires - 0
+http://playerservices.streamtheworld.com/pls/ASPENAAC.pls
+#EXTINF:-1, 102.3 FM Aspen, Buenos Aires - 1
+http://playerservices.streamtheworld.com/pls/ASPEN.pls
+#EXTINF:-1, GDS Radio
+http://167.114.103.39:8666/stream
+#EXTINF:-1, Radio FM Space - 0
+http://87.117.205.22:8074/listen.mp3
+#EXTINF:-1, Radio FM Space - 1
+http://87.117.205.22:8074/listen.pls
+#EXTINF:-1, Radio del Pueblo AM 830
+http://streaming.radiolinksmedia.com:7830
+#EXTINF:-1, Milenium 106.7 FM - Buenos Aires
+http://50.22.212.205:8078/;stream1
+#EXTINF:-1, Cadena 3 Argentina 92.3 FM Radio Popular - 0
+http://playerservices.streamtheworld.com/pls/RADIO_POPULAR.pls
+#EXTINF:-1, Cadena 3 Argentina 92.3 FM Radio Popular - 1
+http://c3live-sm.mediainbox.net/popular.mp3
+#EXTINF:-1, Cadena 3 Argentina 100.5 FM Córdoba - 0
+http://playerservices.streamtheworld.com/pls/FM_CORDOBA.pls
+#EXTINF:-1, Cadena 3 Argentina 100.5 FM Córdoba - 1
+http://c3live-sm.mediainbox.net/fmcordoba.mp3
+#EXTINF:-1, Cadena 3 Argentina - 0
+http://playerservices.streamtheworld.com/pls/CADENA3.pls
+#EXTINF:-1, Cadena 3 Argentina - 1
+http://c3live-sm.mediainbox.net/cadena3.mp3
+#EXTINF:-1, Cadena 3 Argentina Extra
+http://playerservices.streamtheworld.com/api/livestream-redirect/CADENA3_EXTRA.mp3
+#EXTINF:-1, Radio Baires
+http://62.210.200.25:8000/baires
+#EXTINF:-1, Radio Rosales Punta Alta 88.1 FM
+http://01.solumedia.com.ar:8166/listen.pls
+#EXTINF:-1, Radio Cooperativa 770 AM
+http://rcoop.cnwks.ws:8358/listen.pls
+#EXTINF:-1, Radio Fraternidad Misionera Argentina
+http://200.110.145.2:8117/stream
+#EXTINF:-1, Radio Festival Atitlan - 0
+http://ks1.getstreamhosting.com:2199/tunein/rtypiqsm.pls
+#EXTINF:-1, Radio Festival Atitlan - 1
+http://ks1.getstreamhosting.com:2199/tunein/rtypiqsm.ram
+#EXTINF:-1, Radio Amistad 102.1 Apostoles
+http://207.210.120.98:8070/vivo
+#EXTINF:-1, Radio Light - Posadas
+http://streamall.alsolnet.com:443/radiolightfm
+#EXTINF:-1, Radio Los 80 Online
+http://67.212.165.162:9124
+#EXTINF:-1, 100.5 FM Radio 24, La Rioja
+http://streaming01.shockmedia.com.ar:9842/
+#EXTINF:-1, 99.3 FM Impacto, Córdoba
+http://212.83.146.67:7086/;
+#EXTINF:-1, FM 105.5 Radio Pop, San Bernardo, Buenos Aires
+http://server4.veemesoft.com.ar:26952/listen.pls
+#EXTINF:-1, Radio Maria Argentina
+http://dreamsiteradiocp.com:8004/
+#EXTINF:-1, Vale 97.5
+http://vale.stweb.tv:1935/vale/live/playlist.m3u8
+#EXTINF:-1, The Musical Box Radio
+http://142.4.217.133:9740/listen.pls?sid=1
+#EXTINF:-1, Radio Disney Argentina
+http://disneyargradio-lh.akamaihd.net/i/ARG_Disney_RADIO@102438/master.m3u8
+#EXTINF:-1, Cienradios - Lo Mejor del 2007 - 0
+http://buecrplb01.cienradios.com.ar/700_Lo_Mejor_De_2007_32000.aac
+#EXTINF:-1, Cienradios - Lo Mejor del 2007 - 1
+http://s_mobile.cienradios.com/700_Lo_Mejor_De_2007_32000.aac
+#EXTINF:-1, Cienradios - Lo Mejor del 2007 - 2
+http://s_mobile.cienradios.com/700_Lo_Mejor_De_2007_48.mp3
+#EXTINF:-1, Cienradios - Lo Mejor del 2008 - 0
+http://buecrplb01.cienradios.com.ar/701_Lo_Mejor_De_2008_32000.aac
+#EXTINF:-1, Cienradios - Lo Mejor del 2008 - 1
+http://s_mobile.cienradios.com/701_Lo_Mejor_De_2008_32000.aac
+#EXTINF:-1, Cienradios - Lo Mejor del 2008 - 2
+http://s_mobile.cienradios.com/701_Lo_Mejor_De_2008_48.mp3
+#EXTINF:-1, Cienradios - Egresados 1988 - 0
+http://buecrplb01.cienradios.com.ar/834_Egresados_1988_32000.aac
+#EXTINF:-1, Cienradios - Egresados 1988 - 1
+http://s_mobile.cienradios.com/834_Egresados_1988_32000.aac
+#EXTINF:-1, Cienradios - Egresados 1988 - 2
+http://s_mobile.cienradios.com/834_Egresados_1988_48.mp3
+#EXTINF:-1, Cienradios - Egresados 1995 - 0
+http://buecrplb01.cienradios.com.ar/857_Egresados_1995_32000.aac
+#EXTINF:-1, Cienradios - Egresados 1995 - 1
+http://s_mobile.cienradios.com/857_Egresados_1995_32000.aac
+#EXTINF:-1, Cienradios - Egresados 1995 - 2
+http://s_mobile.cienradios.com/857_Egresados_1995_48.mp3
+#EXTINF:-1, Cienradios - Egresados 1976 - 0
+http://buecrplb01.cienradios.com.ar/867_Egresados_1976_32000.aac
+#EXTINF:-1, Cienradios - Egresados 1976 - 1
+http://s_mobile.cienradios.com/867_Egresados_1976_32000.aac
+#EXTINF:-1, Cienradios - Egresados 1976 - 2
+http://s_mobile.cienradios.com/867_Egresados_1976_48.mp3
+#EXTINF:-1, Cienradios - Egresados 1997 - 0
+http://buecrplb01.cienradios.com.ar/860_Egresados_1997_32000.aac
+#EXTINF:-1, Cienradios - Egresados 1997 - 1
+http://s_mobile.cienradios.com/860_Egresados_1997_32000.aac
+#EXTINF:-1, Cienradios - Egresados 1997 - 2
+http://s_mobile.cienradios.com/860_Egresados_1997_48.mp3
+#EXTINF:-1, Cienradios - Veranos Pasados - 0
+http://buecrplb01.cienradios.com.ar/1326_Veranos_Pasados_32000.aac
+#EXTINF:-1, Cienradios - Veranos Pasados - 1
+http://s_mobile.cienradios.com/1326_Veranos_Pasados_32000.aac
+#EXTINF:-1, Cienradios - Veranos Pasados - 2
+http://s_mobile.cienradios.com/1326_Veranos_Pasados_48.mp3
+#EXTINF:-1, Cienradios - Viejitos Piolas - 0
+http://buecrplb01.cienradios.com.ar/784_Viejitos_Piolas_32000.aac
+#EXTINF:-1, Cienradios - Viejitos Piolas - 1
+http://s_mobile.cienradios.com/784_Viejitos_Piolas_32000.aac
+#EXTINF:-1, Cienradios - Viejitos Piolas - 2
+http://s_mobile.cienradios.com/784_Viejitos_Piolas_48.mp3
+#EXTINF:-1, Cienradios - Wasapear - 0
+http://buecrplb01.cienradios.com.ar/1219_Wasapear_32000.aac
+#EXTINF:-1, Cienradios - Wasapear - 1
+http://s_mobile.cienradios.com/1219_Wasapear_32000.aac
+#EXTINF:-1, Cienradios - Wasapear - 2
+http://s_mobile.cienradios.com/1219_Wasapear_48.mp3
+#EXTINF:-1, Cienradios - Yoga - 0
+http://buecrplb01.cienradios.com.ar/785_Yoga_32000.aac
+#EXTINF:-1, Cienradios - Yoga - 1
+http://s_mobile.cienradios.com/785_Yoga_32000.aac
+#EXTINF:-1, Cienradios - Yoga - 2
+http://s_mobile.cienradios.com/785_Yoga_48.mp3
+#EXTINF:-1, Cienradios - Tina Turner y Art. Rel. - 0
+http://buecrplb01.cienradios.com.ar/987_Tina_Turner_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Tina Turner y Art. Rel. - 1
+http://s_mobile.cienradios.com/987_Tina_Turner_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Tina Turner y Art. Rel. - 2
+http://s_mobile.cienradios.com/987_Tina_Turner_y_Art_Rel_48.mp3
+#EXTINF:-1, Cienradios - Nuevos Clasicos Nacional e Internacional - 0
+http://buecrplb01.cienradios.com.ar/725_Nuevos_Clasicos_Nacional_E_Internacional_32000.aac
+#EXTINF:-1, Cienradios - Nuevos Clasicos Nacional e Internacional - 1
+http://s_mobile.cienradios.com/725_Nuevos_Clasicos_Nacional_E_Internacional_32000.aac
+#EXTINF:-1, Cienradios - Nuevos Clasicos Nacional e Internacional - 2
+http://s_mobile.cienradios.com/725_Nuevos_Clasicos_Nacional_E_Internacional_48.mp3
+#EXTINF:-1, Cienradios - Nuevos Clasicos Internacional - 0
+http://buecrplb01.cienradios.com.ar/590_Nuevos_Clasicos_Internacional_32000.aac
+#EXTINF:-1, Cienradios - Nuevos Clasicos Internacional - 1
+http://s_mobile.cienradios.com/590_Nuevos_Clasicos_Internacional_32000.aac
+#EXTINF:-1, Cienradios - Nuevos Clasicos Internacional - 2
+http://s_mobile.cienradios.com/590_Nuevos_Clasicos_Internacional_48.mp3
+#EXTINF:-1, Cienradios - La Oreja de Van Gogh y Artistas Relacionados - 0
+http://buecrplb01.cienradios.com.ar/972_La_Oreja_de_Van_Gogh_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - La Oreja de Van Gogh y Artistas Relacionados - 1
+http://s_mobile.cienradios.com/972_La_Oreja_de_Van_Gogh_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - La Oreja de Van Gogh y Artistas Relacionados - 2
+http://s_mobile.cienradios.com/972_La_Oreja_de_Van_Gogh_y_Art_Rel_48.mp3
+#EXTINF:-1, Cienradios - Bach - 0
+http://buecrplb01.cienradios.com.ar/821_Bach_32000.aac
+#EXTINF:-1, Cienradios - Bach - 1
+http://s_mobile.cienradios.com/821_Bach_32000.aac
+#EXTINF:-1, Cienradios - Bach - 2
+http://s_mobile.cienradios.com/821_Bach_48.mp3
+#EXTINF:-1, Cienradios - Los Numero 1 de los 80 USA - 0
+http://buecrplb01.cienradios.com.ar/1025_Los_Numero_1_de_los_80_USA_32000.aac
+#EXTINF:-1, Cienradios - Los Numero 1 de los 80 USA - 1
+http://s_mobile.cienradios.com/1025_Los_Numero_1_de_los_80_USA_32000.aac
+#EXTINF:-1, Cienradios - Los Numero 1 de los 80 USA - 2
+http://s_mobile.cienradios.com/1025_Los_Numero_1_de_los_80_USA_48.mp3
+#EXTINF:-1, Cienradios - Elton John y Artistas Relacionados - 0
+http://buecrplb01.cienradios.com.ar/903_Elton_John_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Elton John y Artistas Relacionados - 1
+http://s_mobile.cienradios.com/903_Elton_John_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Elton John y Artistas Relacionados - 2
+http://s_mobile.cienradios.com/903_Elton_John_y_Art_Rel_48.mp3
+#EXTINF:-1, Cienradios - Nuevos Clasicos Nacional - 0
+http://buecrplb01.cienradios.com.ar/726_Nuevos_Clasicos_Nacional_32000.aac
+#EXTINF:-1, Cienradios - Nuevos Clasicos Nacional - 1
+http://s_mobile.cienradios.com/726_Nuevos_Clasicos_Nacional_32000.aac
+#EXTINF:-1, Cienradios - Nuevos Clasicos Nacional - 2
+http://s_mobile.cienradios.com/726_Nuevos_Clasicos_Nacional_48.mp3
+#EXTINF:-1, Cienradios - 80 Nacional - 0
+http://buecrplb01.cienradios.com.ar/575_80_Nacional_32000.aac
+#EXTINF:-1, Cienradios - 80 Nacional - 1
+http://s_mobile.cienradios.com/575_80_Nacional_32000.aac
+#EXTINF:-1, Cienradios - 80 Nacional - 2
+http://s_mobile.cienradios.com/575_80_Nacional_48.mp3
+#EXTINF:-1, Cienradios - Michael Jackson - 0
+http://buecrplb01.cienradios.com.ar/714_Michael_Jackson_y_Artistas_Relacionados_32000.aac
+#EXTINF:-1, Cienradios - Michael Jackson - 1
+http://s_mobile.cienradios.com/714_Michael_Jackson_y_Artistas_Relacionados_32000.aac
+#EXTINF:-1, Cienradios - Michael Jackson - 2
+http://s_mobile.cienradios.com/714_Michael_Jackson_y_Artistas_Relacionados_48.mp3
+#EXTINF:-1, Cienradios - Los 100 de la 100 2001 - 0
+http://buecrplb01.cienradios.com.ar/939_Los_100_de_la_100_2001_32000.aac
+#EXTINF:-1, Cienradios - Los 100 de la 100 2001 - 1
+http://s_mobile.cienradios.com/939_Los_100_de_la_100_2001_32000.aac
+#EXTINF:-1, Cienradios - Los 100 de la 100 2001 - 2
+http://s_mobile.cienradios.com/939_Los_100_de_la_100_2001_48.mp3
+#EXTINF:-1, Cienradios - Opera Romantica - 0
+http://buecrplb01.cienradios.com.ar/731_Opera_Romantica_32000.aac
+#EXTINF:-1, Cienradios - Opera Romantica - 1
+http://s_mobile.cienradios.com/731_Opera_Romantica_32000.aac
+#EXTINF:-1, Cienradios - Opera Romantica - 2
+http://s_mobile.cienradios.com/731_Opera_Romantica_48.mp3
+#EXTINF:-1, Cienradios - Hot 100 Rock - 0
+http://buecrplb01.cienradios.com.ar/676_Hot_100_Rock_32000.aac
+#EXTINF:-1, Cienradios - Hot 100 Rock - 1
+http://s_mobile.cienradios.com/676_Hot_100_Rock_32000.aac
+#EXTINF:-1, Cienradios - Hot 100 Rock - 2
+http://s_mobile.cienradios.com/676_Hot_100_Rock_48.mp3
+#EXTINF:-1, Cienradios - Frank Zappa y Artistas Relacionados - 0
+http://buecrplb01.cienradios.com.ar/657_Frank_Zappa_y_Artistas_Relacionados_32000.aac
+#EXTINF:-1, Cienradios - Frank Zappa y Artistas Relacionados - 1
+http://s_mobile.cienradios.com/657_Frank_Zappa_y_Artistas_Relacionados_32000.aac
+#EXTINF:-1, Cienradios - Frank Zappa y Artistas Relacionados - 2
+http://s_mobile.cienradios.com/657_Frank_Zappa_y_Artistas_Relacionados_48.mp3
+#EXTINF:-1, Cienradios - Gen - 0
+http://buecrplb01.cienradios.com.ar/658_Gen_32000.aac
+#EXTINF:-1, Cienradios - Gen - 1
+http://s_mobile.cienradios.com/658_Gen_32000.aac
+#EXTINF:-1, Cienradios - Gen - 2
+http://s_mobile.cienradios.com/658_Gen_48.mp3
+#EXTINF:-1, Cienradios - Grandes del Tango - 0
+http://buecrplb01.cienradios.com.ar/569_Grandes_del_Tango_32000.aac
+#EXTINF:-1, Cienradios - Grandes del Tango - 1
+http://s_mobile.cienradios.com/569_Grandes_del_Tango_32000.aac
+#EXTINF:-1, Cienradios - Grandes del Tango - 2
+http://s_mobile.cienradios.com/569_Grandes_del_Tango_48.mp3
+#EXTINF:-1, Cienradios - Heavy Metal - 0
+http://buecrplb01.cienradios.com.ar/665_Heavy_Metal_32000.aac
+#EXTINF:-1, Cienradios - Heavy Metal - 1
+http://s_mobile.cienradios.com/665_Heavy_Metal_32000.aac
+#EXTINF:-1, Cienradios - Heavy Metal - 2
+http://s_mobile.cienradios.com/665_Heavy_Metal_48.mp3
+#EXTINF:-1, Cienradios - New Age - 0
+http://buecrplb01.cienradios.com.ar/722_New_Age_32000.aac
+#EXTINF:-1, Cienradios - New Age - 1
+http://s_mobile.cienradios.com/722_New_Age_32000.aac
+#EXTINF:-1, Cienradios - New Age - 2
+http://s_mobile.cienradios.com/722_New_Age_48.mp3
+#EXTINF:-1, Cienradios - Quiero - 0
+http://buecrplb01.cienradios.com.ar/744_Quiero_32000.aac
+#EXTINF:-1, Cienradios - Quiero - 1
+http://s_mobile.cienradios.com/744_Quiero_32000.aac
+#EXTINF:-1, Cienradios - Quiero - 2
+http://s_mobile.cienradios.com/744_Quiero_48.mp3
+#EXTINF:-1, Cienradios - Ya me Voy - 0
+http://buecrplb01.cienradios.com.ar/1271_Ya_me_Voy_32000.aac
+#EXTINF:-1, Cienradios - Ya me Voy - 1
+http://s_mobile.cienradios.com/1271_Ya_me_Voy_32000.aac
+#EXTINF:-1, Cienradios - Ya me Voy - 2
+http://s_mobile.cienradios.com/1271_Ya_me_Voy_48.mp3
+#EXTINF:-1, Cienradios - Vivo - 0
+http://buecrplb01.cienradios.com.ar/756_Vivo_32000.aac
+#EXTINF:-1, Cienradios - Vivo - 1
+http://s_mobile.cienradios.com/756_Vivo_32000.aac
+#EXTINF:-1, Cienradios - Vivo - 2
+http://s_mobile.cienradios.com/756_Vivo_48.mp3
+#EXTINF:-1, Cienradios - Top USA - 0
+http://buecrplb01.cienradios.com.ar/777_Top_USA_32000.aac
+#EXTINF:-1, Cienradios - Top USA - 1
+http://s_mobile.cienradios.com/777_Top_USA_32000.aac
+#EXTINF:-1, Cienradios - Top USA - 2
+http://s_mobile.cienradios.com/777_Top_USA_48.mp3
+#EXTINF:-1, Cienradios - U2 y Artistas Relacionados - 0
+http://buecrplb01.cienradios.com.ar/805_U2_y_Artistas_Relacionados_32000.aac
+#EXTINF:-1, Cienradios - U2 y Artistas Relacionados - 1
+http://s_mobile.cienradios.com/805_U2_y_Artistas_Relacionados_32000.aac
+#EXTINF:-1, Cienradios - U2 y Artistas Relacionados - 2
+http://s_mobile.cienradios.com/805_U2_y_Artistas_Relacionados_48.mp3
+#EXTINF:-1, Cienradios - Tranqui - 0
+http://buecrplb01.cienradios.com.ar/1217_Tranqui_32000.aac
+#EXTINF:-1, Cienradios - Tranqui - 1
+http://s_mobile.cienradios.com/1217_Tranqui_32000.aac
+#EXTINF:-1, Cienradios - Tranqui - 2
+http://s_mobile.cienradios.com/1217_Tranqui_48.mp3
+#EXTINF:-1, Cienradios - Trending Topic - 0
+http://buecrplb01.cienradios.com.ar/1124_Trending_Topic_32000.aac
+#EXTINF:-1, Cienradios - Trending Topic - 1
+http://s_mobile.cienradios.com/1124_Trending_Topic_32000.aac
+#EXTINF:-1, Cienradios - Trending Topic - 2
+http://s_mobile.cienradios.com/1124_Trending_Topic_48.mp3
+#EXTINF:-1, Cienradios - Top UK - 0
+http://buecrplb01.cienradios.com.ar/781_Top_Uk_32000.aac
+#EXTINF:-1, Cienradios - Top UK - 1
+http://s_mobile.cienradios.com/781_Top_Uk_32000.aac
+#EXTINF:-1, Cienradios - Top UK - 2
+http://s_mobile.cienradios.com/781_Top_Uk_48.mp3
+#EXTINF:-1, Cienradios - Hot Hot Hot - 0
+http://buecrplb01.cienradios.com.ar/1208_Hot_Hot_Hot_32000.aac
+#EXTINF:-1, Cienradios - Hot Hot Hot - 1
+http://s_mobile.cienradios.com/1208_Hot_Hot_Hot_32000.aac
+#EXTINF:-1, Cienradios - Hot Hot Hot - 2
+http://s_mobile.cienradios.com/1208_Hot_Hot_Hot_48.mp3
+#EXTINF:-1, Cienradios - 50s - 0
+http://buecrplb01.cienradios.com.ar/611_50_32000.aac
+#EXTINF:-1, Cienradios - 50s - 1
+http://s_mobile.cienradios.com/611_50_32000.aac
+#EXTINF:-1, Cienradios - 50s - 2
+http://s_mobile.cienradios.com/611_50_48.mp3
+#EXTINF:-1, Cienradios - Soda Stereo y Artistas Relacionados - 0
+http://buecrplb01.cienradios.com.ar/772_Soda_Stereo_y_Artistas_Relacionados_32000.aac
+#EXTINF:-1, Cienradios - Soda Stereo y Artistas Relacionados - 1
+http://s_mobile.cienradios.com/772_Soda_Stereo_y_Artistas_Relacionados_32000.aac
+#EXTINF:-1, Cienradios - Soda Stereo y Artistas Relacionados - 2
+http://s_mobile.cienradios.com/772_Soda_Stereo_y_Artistas_Relacionados_48.mp3
+#EXTINF:-1, Cienradios - Romeo Santos y Art. Rel. - 0
+http://buecrplb01.cienradios.com.ar/1092_Romeo_Santos_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Romeo Santos y Art. Rel. - 1
+http://s_mobile.cienradios.com/1092_Romeo_Santos_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Romeo Santos y Art. Rel. - 2
+http://s_mobile.cienradios.com/1092_Romeo_Santos_y_Art_Rel_48.mp3
+#EXTINF:-1, Cienradios -Todo Tango - 0
+http://buecrplb01.cienradios.com.ar/804_Todo_Tango_32000.aac
+#EXTINF:-1, Cienradios -Todo Tango - 1
+http://s_mobile.cienradios.com/804_Todo_Tango_32000.aac
+#EXTINF:-1, Cienradios -Todo Tango - 2
+http://s_mobile.cienradios.com/804_Todo_Tango_48.mp3
+#EXTINF:-1, Cienradios - Romantica - 0
+http://buecrplb01.cienradios.com.ar/1081_Romantica_32000.aac
+#EXTINF:-1, Cienradios - Romantica - 1
+http://s_mobile.cienradios.com/1081_Romantica_32000.aac
+#EXTINF:-1, Cienradios - Romantica - 2
+http://s_mobile.cienradios.com/1081_Romantica_48.mp3
+#EXTINF:-1, Cienradios - Salsa - 0
+http://buecrplb01.cienradios.com.ar/594_Salsa_32000.aac
+#EXTINF:-1, Cienradios - Salsa - 1
+http://s_mobile.cienradios.com/594_Salsa_32000.aac
+#EXTINF:-1, Cienradios - Salsa - 2
+http://s_mobile.cienradios.com/594_Salsa_48.mp3
+#EXTINF:-1, Cienradios - Egresados 1998 - 0
+http://buecrplb01.cienradios.com.ar/861_Egresados_1998_32000.aac
+#EXTINF:-1, Cienradios - Egresados 1998 - 1
+http://s_mobile.cienradios.com/861_Egresados_1998_32000.aac
+#EXTINF:-1, Cienradios - Egresados 1998 - 2
+http://s_mobile.cienradios.com/861_Egresados_1998_48.mp3
+#EXTINF:-1, Cienradios - Romantica 70 - 0
+http://buecrplb01.cienradios.com.ar/628_Romantica_70_32000.aac
+#EXTINF:-1, Cienradios - Romantica 70 - 1
+http://s_mobile.cienradios.com/628_Romantica_70_32000.aac
+#EXTINF:-1, Cienradios - Romantica 70 - 2
+http://s_mobile.cienradios.com/628_Romantica_70_48.mp3
+#EXTINF:-1, Cienradios - Rod Stewart y Art. Rel - 0
+http://buecrplb01.cienradios.com.ar/874_Rod_Stewart_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Rod Stewart y Art. Rel - 1
+http://s_mobile.cienradios.com/874_Rod_Stewart_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Rod Stewart y Art. Rel - 2
+http://s_mobile.cienradios.com/874_Rod_Stewart_y_Art_Rel_48.mp3
+#EXTINF:-1, Cienradios - Radio Lape - 0
+http://buecrplb01.cienradios.com.ar/753_Radio_Lape_32000.aac
+#EXTINF:-1, Cienradios - Radio Lape - 1
+http://s_mobile.cienradios.com/753_Radio_Lape_32000.aac
+#EXTINF:-1, Cienradios - Radio Lape - 2
+http://s_mobile.cienradios.com/753_Radio_Lape_48.mp3
+#EXTINF:-1, Cienradios - Proyectando - 0
+http://buecrplb01.cienradios.com.ar/1330_Proyectando_32000.aac
+#EXTINF:-1, Cienradios - Proyectando - 1
+http://s_mobile.cienradios.com/1330_Proyectando_32000.aac
+#EXTINF:-1, Cienradios - Proyectando - 2
+http://s_mobile.cienradios.com/1330_Proyectando_48.mp3
+#EXTINF:-1, Cienradios - Target - 0
+http://buecrplb01.cienradios.com.ar/630_Target_32000.aac
+#EXTINF:-1, Cienradios - Target - 1
+http://s_mobile.cienradios.com/630_Target_32000.aac
+#EXTINF:-1, Cienradios - Target - 2
+http://s_mobile.cienradios.com/630_Target_48.mp3
+#EXTINF:-1, Cienradios - 70s Internacional - 0
+http://buecrplb01.cienradios.com.ar/613_70_Internacional_32000.aac
+#EXTINF:-1, Cienradios - 70s Internacional - 1
+http://s_mobile.cienradios.com/613_70_Internacional_32000.aac
+#EXTINF:-1, Cienradios - 70s Internacional - 2
+http://s_mobile.cienradios.com/613_70_Internacional_48.mp3
+#EXTINF:-1, Cienradios - Hot 100 Dance - 0
+http://buecrplb01.cienradios.com.ar/671_Hot_100_Dance_32000.aac
+#EXTINF:-1, Cienradios - Hot 100 Dance - 1
+http://s_mobile.cienradios.com/671_Hot_100_Dance_32000.aac
+#EXTINF:-1, Cienradios - Hot 100 Dance - 2
+http://s_mobile.cienradios.com/671_Hot_100_Dance_48.mp3
+#EXTINF:-1, Cienradios - 80 Internacional - 0
+http://buecrplb01.cienradios.com.ar/808_80_Internacional_32000.aac
+#EXTINF:-1, Cienradios - 80 Internacional - 1
+http://s_mobile.cienradios.com/808_80_Internacional_32000.aac
+#EXTINF:-1, Cienradios - 80 Internacional - 2
+http://s_mobile.cienradios.com/808_80_Internacional_48.mp3
+#EXTINF:-1, Cienradios - Arte Urbano - 0
+http://buecrplb01.cienradios.com.ar/745_Arte_Urbano_32000.aac
+#EXTINF:-1, Cienradios - Arte Urbano - 1
+http://s_mobile.cienradios.com/745_Arte_Urbano_32000.aac
+#EXTINF:-1, Cienradios - Arte Urbano - 2
+http://s_mobile.cienradios.com/745_Arte_Urbano_48.mp3
+#EXTINF:-1, Cienradios - Hot 100 Navidad - 0
+http://buecrplb01.cienradios.com.ar/919_Hot_100_Navidad_32000.aac
+#EXTINF:-1, Cienradios - Hot 100 Navidad - 1
+http://s_mobile.cienradios.com/919_Hot_100_Navidad_32000.aac
+#EXTINF:-1, Cienradios - Hot 100 Navidad - 2
+http://s_mobile.cienradios.com/919_Hot_100_Navidad_48.mp3
+#EXTINF:-1, Cienradios - Ismael Serrano y Art. Rel. - 0
+http://buecrplb01.cienradios.com.ar/1035_Ismael_Serrano_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Ismael Serrano y Art. Rel. - 1
+http://s_mobile.cienradios.com/1035_Ismael_Serrano_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Ismael Serrano y Art. Rel. - 2
+http://s_mobile.cienradios.com/1035_Ismael_Serrano_y_Art_Rel_48.mp3
+#EXTINF:-1, Cienradios - Lentos 90 - 0
+http://buecrplb01.cienradios.com.ar/692_Lentos_90_32000.aac
+#EXTINF:-1, Cienradios - Lentos 90 - 1
+http://s_mobile.cienradios.com/692_Lentos_90_32000.aac
+#EXTINF:-1, Cienradios - Lentos 90 - 2
+http://s_mobile.cienradios.com/692_Lentos_90_48.mp3
+#EXTINF:-1, Cienradios - Teen Internacional - 0
+http://buecrplb01.cienradios.com.ar/773_Teen_Internacional_32000.aac
+#EXTINF:-1, Cienradios - Teen Internacional - 1
+http://s_mobile.cienradios.com/773_Teen_Internacional_32000.aac
+#EXTINF:-1, Cienradios - Teen Internacional - 2
+http://s_mobile.cienradios.com/773_Teen_Internacional_48.mp3
+#EXTINF:-1, Cienradios - Lo Mejor del 2013 - 0
+http://buecrplb01.cienradios.com.ar/1078_Lo_Mejor_de_2013_32000.aac
+#EXTINF:-1, Cienradios - Lo Mejor del 2013 - 1
+http://s_mobile.cienradios.com/1078_Lo_Mejor_de_2013_32000.aac
+#EXTINF:-1, Cienradios - Lo Mejor del 2013 - 2
+http://s_mobile.cienradios.com/1078_Lo_Mejor_de_2013_48.mp3
+#EXTINF:-1, Cienradios - Lo Mejor del 2012 - 0
+http://buecrplb01.cienradios.com.ar/976_Lo_Mejor_de_2012_32000.aac
+#EXTINF:-1, Cienradios - Lo Mejor del 2012 - 1
+http://s_mobile.cienradios.com/976_Lo_Mejor_de_2012_32000.aac
+#EXTINF:-1, Cienradios - Lo Mejor del 2012 - 2
+http://s_mobile.cienradios.com/976_Lo_Mejor_de_2012_48.mp3
+#EXTINF:-1, Cienradios - No Doubt - 0
+http://buecrplb01.cienradios.com.ar/1010_No_Doubt_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - No Doubt - 1
+http://s_mobile.cienradios.com/1010_No_Doubt_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - No Doubt - 2
+http://s_mobile.cienradios.com/1010_No_Doubt_y_Art_Rel_48.mp3
+#EXTINF:-1, Cienradios - Noche Latina - 0
+http://buecrplb01.cienradios.com.ar/724_Noche_Latina_32000.aac
+#EXTINF:-1, Cienradios - Noche Latina - 1
+http://s_mobile.cienradios.com/724_Noche_Latina_32000.aac
+#EXTINF:-1, Cienradios - Noche Latina - 2
+http://s_mobile.cienradios.com/724_Noche_Latina_48.mp3
+#EXTINF:-1, Cienradios - Reset - 0
+http://buecrplb01.cienradios.com.ar/1242_Reset_32000.aac
+#EXTINF:-1, Cienradios - Reset - 1
+http://s_mobile.cienradios.com/1242_Reset_48.mp3
+#EXTINF:-1, Cienradios - Ricardo Arjona - 0
+http://buecrplb01.cienradios.com.ar/788_Ricardo_Arjona_y_Artistas_Relacionados_32000.aac
+#EXTINF:-1, Cienradios - Ricardo Arjona - 1
+http://s_mobile.cienradios.com/788_Ricardo_Arjona_y_Artistas_Relacionados_48.mp3
+#EXTINF:-1, Cienradios - Ricardo Montaner y Artistas Relacionados - 0
+http://buecrplb01.cienradios.com.ar/719_Ricardo_Montaner_y_Artistas_Relacionados_32000.aac
+#EXTINF:-1, Cienradios - Ricardo Montaner y Artistas Relacionados - 1
+http://s_mobile.cienradios.com/719_Ricardo_Montaner_y_Artistas_Relacionados_48.mp3
+#EXTINF:-1, Cienradios - Ricky Martin - 0
+http://buecrplb01.cienradios.com.ar/762_Ricky_Martin_y_Artistas_Relacionados_32000.aac
+#EXTINF:-1, Cienradios - Ricky Martin - 1
+http://s_mobile.cienradios.com/762_Ricky_Martin_y_Artistas_Relacionados_48.mp3
+#EXTINF:-1, Cienradios - Rihanna y Art. Rel. - 0
+http://buecrplb01.cienradios.com.ar/994_Rihanna_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Rihanna y Art. Rel. - 1
+http://s_mobile.cienradios.com/994_Rihanna_y_Art_Rel_48.mp3
+#EXTINF:-1, Cienradios - Catupecu Machu y Artistas Relacionados - 0
+http://buecrplb01.cienradios.com.ar/918_Catupecu_Machu_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Catupecu Machu y Artistas Relacionados - 1
+http://s_mobile.cienradios.com/918_Catupecu_Machu_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Catupecu Machu y Artistas Relacionados - 2
+http://s_mobile.cienradios.com/918_Catupecu_Machu_y_Art_Rel_48.mp3
+#EXTINF:-1, Cienradios - Chaqueno Palavecino y Art. Rel. - 0
+http://buecrplb01.cienradios.com.ar/1009_Chaqueno_Palavecino_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Chaqueno Palavecino y Art. Rel. - 1
+http://s_mobile.cienradios.com/1009_Chaqueno_Palavecino_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Chaqueno Palavecino y Art. Rel. - 2
+http://s_mobile.cienradios.com/1009_Chaqueno_Palavecino_y_Art_Rel_48.mp3
+#EXTINF:-1, Cienradios - Carlos Baute y Art. Rel. - 0
+http://buecrplb01.cienradios.com.ar/1051_Carlos_Baute_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Carlos Baute y Art. Rel. - 1
+http://s_mobile.cienradios.com/1051_Carlos_Baute_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Carlos Baute y Art. Rel. - 2
+http://s_mobile.cienradios.com/1051_Carlos_Baute_y_Art_Rel_48.mp3
+#EXTINF:-1, Cienradios - Divas De La Opera - 0
+http://buecrplb01.cienradios.com.ar/650_Divas_De_La_Opera_32000.aac
+#EXTINF:-1, Cienradios - Divas De La Opera - 1
+http://s_mobile.cienradios.com/650_Divas_De_La_Opera_32000.aac
+#EXTINF:-1, Cienradios - Divas De La Opera - 2
+http://s_mobile.cienradios.com/650_Divas_De_La_Opera_48.mp3
+#EXTINF:-1, Cienradios - Felicidad - 0
+http://buecrplb01.cienradios.com.ar/1210_Felicidad_32000.aac
+#EXTINF:-1, Cienradios - Felicidad - 1
+http://s_mobile.cienradios.com/1210_Felicidad_32000.aac
+#EXTINF:-1, Cienradios - Felicidad - 2
+http://s_mobile.cienradios.com/1210_Felicidad_48.mp3
+#EXTINF:-1, Cienradios -  Egresados 1999 - 0
+http://buecrplb01.cienradios.com.ar/862_Egresados_1999_32000.aac
+#EXTINF:-1, Cienradios -  Egresados 1999 - 1
+http://s_mobile.cienradios.com/862_Egresados_1999_32000.aac
+#EXTINF:-1, Cienradios -  Egresados 1999 - 2
+http://s_mobile.cienradios.com/862_Egresados_1999_48.mp3
+#EXTINF:-1, Cienradios - Electronico - 0
+http://buecrplb01.cienradios.com.ar/580_Electronico_32000.aac
+#EXTINF:-1, Cienradios - Electronico - 1
+http://s_mobile.cienradios.com/580_Electronico_32000.aac
+#EXTINF:-1, Cienradios - Electronico - 2
+http://s_mobile.cienradios.com/580_Electronico_48.mp3
+#EXTINF:-1, Cienradios - Norah Jones y Art. Rel - 0
+http://buecrplb01.cienradios.com.ar/1012_Norah_Jones_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Norah Jones y Art. Rel - 1
+http://s_mobile.cienradios.com/1012_Norah_Jones_y_Art_Rel_32000.aac
+#EXTINF:-1, Cienradios - Norah Jones y Art. Rel - 2
+http://s_mobile.cienradios.com/1012_Norah_Jones_y_Art_Rel_48.mp3
+#EXTINF:-1, Cienradios -  Classic Cinema - 0
+http://buecrplb01.cienradios.com.ar/798_Classic_Cinema_32000.aac
+#EXTINF:-1, Cienradios -  Classic Cinema - 1
+http://s_mobile.cienradios.com/798_Classic_Cinema_32000.aac
+#EXTINF:-1, Cienradios -  Classic Cinema - 2
+http://s_mobile.cienradios.com/798_Classic_Cinema_48.mp3
+#EXTINF:-1, Cienradios - Tango Electronico - 0
+http://buecrplb01.cienradios.com.ar/567_Tango_Electronico_32000.aac
+#EXTINF:-1, Cienradios - Tango Electronico - 1
+http://s_mobile.cienradios.com/567_Tango_Electronico_32000.aac
+#EXTINF:-1, Cienradios - Tango Electronico - 2
+http://s_mobile.cienradios.com/567_Tango_Electronico_48.mp3
+#EXTINF:-1, Cienradios - OMG - 0
+http://buecrplb01.cienradios.com.ar/1323_OMG_32000.aac
+#EXTINF:-1, Cienradios - OMG - 1
+http://s_mobile.cienradios.com/1323_OMG_32000.aac
+#EXTINF:-1, Cienradios - OMG - 2
+http://s_mobile.cienradios.com/1323_OMG_48.mp3
+#EXTINF:-1, Oldies Cristianos - Clasicos de Musica Cristiana - 0
+http://streaming.radionomy.com/ChillOutWorld?lang=en-US&appName=iTunes.m3u
+#EXTINF:-1, Oldies Cristianos - Clasicos de Musica Cristiana - 1
+http://listen.radionomy.com/oldiesdemusicacristiana.m3u
+#EXTINF:-1, FM Popular 89.1 Claypole - Buenos Aires - 0
+http://stream4.cibersoft.com:8205/listen.pls
+#EXTINF:-1, FM Popular 89.1 Claypole - Buenos Aires - 1
+http://www.fmpopular891.com.ar/live.pls
+#EXTINF:-1, FM Si 91.1 Mhz
+http://s2.netradiofm.com:9022/;
+#EXTINF:-1, Frecuencia Zero Fm 92.5 - Buenos Aires
+http://209.95.35.49:7240/Stream
+#EXTINF:-1, FM Urquiza - Argentina
+http://173.255.138.90:8127/;
+#EXTINF:-1, FM Power Max 104.5 - Santa Fe
+http://65.254.42.234:14060/vivo
+#EXTINF:-1, La Radio Te Escucha
+http://st.produccionesdha.com:9300/;
+#EXTINF:-1, La 2 por 4 Tango FM92.7 - Buenos Aires
+http://radios.argentina.fm:9270/stream
+#EXTINF:-1, Kiss FM 95.1 - Rosario Santa Fe
+http://70.38.73.27:8071/live
+#EXTINF:-1, La Radio FM 92.3 - Buenos Aires
+http://cdnaudio.nexolife.com:8023/laradio923?
+#EXTINF:-1, M90 Radio 89.9
+http://23.111.184.195:8030/m90.mp3
+#EXTINF:-1, FM Lider 92.7 Mar del Plata
+http://927.servemp3.com:8000/listen.pls
+#EXTINF:-1, 911 FM 91.1 - 9 de julio Buenos Aires
+http://miradioenlaweb.com:6080/;
+#EXTINF:-1, La Serranita 95.1 FM Cordoba - 0
+http://s1.radiosnethosting.com:9942/;
+#EXTINF:-1, La Serranita 95.1 FM Cordoba - 1
+http://s1.radiosnethosting.com:9942/;stream.nsv&type=mp3
+#EXTINF:-1, La Serranita 95.1 FM Cordoba - 2
+http://s1.radiosnethosting.com:9942/listen.pls
+#EXTINF:-1, FM Viva 91.1 - 0
+http://200.58.106.247:8548/
+#EXTINF:-1, FM Viva 91.1 - 1
+http://200.58.106.247:8548/;
+#EXTINF:-1, FM Uruguay - 87.9 - Rosario Santa Fe
+http://142.44.135.172:8081/;
+#EXTINF:-1, Red Puerto Libre
+http://181.170.75.61:8000/;stream.mp3?_=1
+#EXTINF:-1, Radio Del Rosario FM 103.9 - Rosario Santa Fé - 0
+http://servidor.01argentina.net:4376/;
+#EXTINF:-1, Radio Del Rosario FM 103.9 - Rosario Santa Fé - 1
+http://hostingystreaming.com:4376/;
+#EXTINF:-1, FM Meridiano 107.1- Rosario, Santa Fé - 0
+http://23.111.184.195:8050/fmmeridiano.mp3
+#EXTINF:-1, FM Meridiano 107.1- Rosario, Santa Fé - 1
+http://23.111.184.195:8050/fmmeridiano.mp3
+#EXTINF:-1, FM Genesis 106.7 - San Pedro Buenos Aires
+http://62.210.200.25:9120/stream
+#EXTINF:-1, AM 1170 Mi Pais - Buenos Aires
+http://nnvserver.com:8100/live
+#EXTINF:-1, Radio Vida 105.5 FM San Miguel De Tucumán, Tucumán, Argentina
+http://genexservicios.com:8102/stream;
+#EXTINF:-1, Sonic.FM
+http://streamer01.sonic.server54.net:8000/live128
+#EXTINF:-1, Radio Jungla 94.3 FM Chascomús - Bs.As.
+http://167.114.208.100:9850/
+#EXTINF:-1, Radio Mocoví AM 800 Charata - Chaco
+http://23.111.184.195:8100/mocovi.mp3
+#EXTINF:-1, Del Siglo FM 99.5 - Rosario Santa Fe
+http://23.111.184.195:8090/delsiglo995.mp3
+#EXTINF:-1, Radio SI FM 98.9 - Rosario Santa Fe
+http://server.laradio.online:8202/;
+#EXTINF:-1, FM América 90.9 Leandro N. Alem - Misiones - 0
+http://streamall.alsolnet.com:443/fmamerica
+#EXTINF:-1, FM América 90.9 Leandro N. Alem - Misiones - 1
+http://alsolnet.com/stream/fmamerica/listen.pls
+#EXTINF:-1, La Redonda FM 100.3 La Plata
+http://cdn.instream.audio:8017/stream.m3u
+#EXTINF:-1, Cadena Rio 88.7 FM La Plata
+http://70.38.54.14:7406/;
+#EXTINF:-1, Radio JCB 104.9
+http://server.ohradio.com.ar:9666/stream
+#EXTINF:-1, Radio News 104.3 FM - Rio Gallegos, Santa Cruz - 0
+http://ded23.server54.net:8000/stream312/;stream.nsv&type=mp3
+#EXTINF:-1, Radio News 104.3 FM - Rio Gallegos, Santa Cruz - 1
+http://ded23.server54.net:8000/stream312
+#EXTINF:-1, Radio Del Mar 98.7 FM - Comodoro Rivadavia
+http://65.254.42.234:10020/vivo
+#EXTINF:-1, Radio Jai FM 96.3
+http://streamlky.alsolnet.com:443/radiojai
+#EXTINF:-1, Zero FM 91.1 Mendoza - 0
+http://104.131.4.100:8020/mp3
+#EXTINF:-1, Zero FM 91.1 Mendoza - 1
+http://104.131.4.100:8020/aac
+#EXTINF:-1, Radio Patagonia 90.5
+http://streamingraddios.net:9285/;
+#EXTINF:-1, Radio Argentina AM 570 Buenos Aires
+http://195.154.182.222:25223/live.mp3
+#EXTINF:-1, Blue 100.7 FM
+http://mp3.metroaudio1.stream.avstreaming.net:7200/bluefmaudio1
+#EXTINF:-1, Radio Espectaculo - LRF 366Radio Espectaculo 93.1mhz.
+http://server.laradio.online:8002/live
+#EXTINF:-1, Radio Nuevo Tiempo  FM 88.5 Buenos Aires,Argentina
+http://stream.novotempo.com:1935/radio/smil:radionuevotiempo.smil/playlist.m3u8
+#EXTINF:-1, Radio Zero 102.1 FM - Goya
+http://www.streaming.konextaradios.com:8206/;
+#EXTINF:-1, Radio Cristiana 95.7 FM - Rosario, Santa Fe
+http://www.genexservicios.com:8098/listen.pls
+#EXTINF:-1, Radio Cultura FM 97.9
+http://192.95.39.65:5165/stream.mp3
+#EXTINF:-1, RADIO DEL PLATA AQM 1030 BS.AS
+http://181.119.157.98:8000/amdelplata.mp3
+#EXTINF:-1, Radio Estudionet 100.5
+http://radio.netyco.com:9220/stream
+#EXTINF:-1, Radio Gamba 106.3 fm
+http://gambafm.lorini.net:10630/stream
+#EXTINF:-1, Ranquel FM 93.9
+http://hostingystreaming.com:4640/;stream.nsv
+#EXTINF:-1, RetroMusic San Justo - 0
+http://94.23.62.189:5938/listen.pls
+#EXTINF:-1, RetroMusic San Justo - 1
+http://s1.freeshoutcast.com:25396
+#EXTINF:-1, Radio El Vinilo - 0
+http://streaming.radionomy.com/RadioElVinilo?lang=en-US&appName=iTunes.m3u
+#EXTINF:-1, Radio El Vinilo - 1
+http://listen.radionomy.com/radioelvinilo
+#EXTINF:-1, Rincon Gaucho FM - 0
+http://streaming.radionomy.com/Rincon-Gaucho-FM?lang=en-US&appName=iTunes.m3u
+#EXTINF:-1, Rincon Gaucho FM - 1
+http://listen.radionomy.com/rincon-gaucho-fm.m3u
+#EXTINF:-1, Devoción Radio Música Cristiana - 0
+http://streaming.radionomy.com/DevocionRadio?lang=en-US&appName=iTunes.m3u
+#EXTINF:-1, Devoción Radio Música Cristiana - 1
+http://listen.radionomy.com/devocionradio.m3u
+#EXTINF:-1, Devoción Radio Música Cristiana - 2
+http://listen.radionomy.com/devocionradio
+#EXTINF:-1, Acqua FM 105.9 - Mar del Plata
+http://streamall.alsolnet.com:443/acquamdq
+#EXTINF:-1, 91.9 FM Cadena Provincia, La Rioja - 0
+http://200.58.106.247:8542/;
+#EXTINF:-1, 91.9 FM Cadena Provincia, La Rioja - 1
+http://200.58.106.247:8542/
+#EXTINF:-1, Sol 91.5 FM - Santa Fe
+http://miradioenlaweb.com:4650/;
+#EXTINF:-1, Radio de Dios Eben-Ezer Argentina HD - 0
+http://radio2.netyco.com:7178/listen.pls
+#EXTINF:-1, Radio de Dios Eben-Ezer Argentina HD - 1
+http://radiodediosebenezer.com.ar/playlist.asx
+#EXTINF:-1, Radio de Dios Eben-Ezer Argentina HD - 2
+http://5.133.182.164:21295/;stream.nsv
+#EXTINF:-1, 93.7 FM Astral, Capilla Del Monte, Cordoba - 0
+http://server9.veemesoft.com.ar:11636/listen.pls
+#EXTINF:-1, 93.7 FM Astral, Capilla Del Monte, Cordoba - 1
+http://server9.veemesoft.com.ar:11636/;
+#EXTINF:-1, fm95.3 Ayacucho - 0
+http://212.83.146.67:7128/listen.pls
+#EXTINF:-1, fm95.3 Ayacucho - 1
+http://212.83.146.67:7128/
+#EXTINF:-1, FM Del Lago 102.5 MHz FM Patagonia
+http://207.210.120.98:8090/vivo
+#EXTINF:-1, Radio Ciudad AM 111
+http://radios.argentina.fm:1110/stream
+#EXTINF:-1, Blur FM - 0
+http://www.blurfm.com/streams/asx/blurfm.asx
+#EXTINF:-1, Blur FM - 1
+http://www.blurfm.com/streams/pls/blurfm.pls
+#EXTINF:-1, Blur FM - 2
+http://www.blurfm.com/streams/m3u/blurfm.m3u
+#EXTINF:-1, Blur FM - 3
+http://www.blurfm.com/streams/pls/blurfmlow.pls
+#EXTINF:-1, Blur FM - 4
+http://www.blurfm.com/streams/m3u/blurfmlow.m3u
+#EXTINF:-1, Radio Ciudad 92.3 - Resistencia, Chaco
+http://208.77.20.3:11037/stream
+#EXTINF:-1, Radio Kermes 106.1 FM
+http://209.95.35.49:7315/stream
+#EXTINF:-1, Radio Eter
+http://ded23.server54.net:8000/stream111
+#EXTINF:-1, Genesis Lujan 100.9 Mhz
+http://s1.radiosnethosting.com:9800/
+#EXTINF:-1, Radio Universidad Nacional de La Plata AM 1390
+http://163.10.198.150:8001/broadwavehigh.mp3
+#EXTINF:-1, Radio Universidad Nacional de La Plata FM 107.5
+http://163.10.198.150:8002/broadwavehigh.mp3
+#EXTINF:-1, Radio Universidad Nacional de San Juan FM 93.1
+http://178.32.57.127:9386/;
+#EXTINF:-1, Radio Universidad 580 AM - Córdoba
+http://relaypw.580am.com.ar:7029/stream
+#EXTINF:-1, Radio Universidad 88.5 FM - Córdoba
+http://209.95.35.49:9105/live
+#EXTINF:-1, 102.3 FM Nuestra Radio, Cordoba
+http://relaypw.580am.com.ar:7030/stream
+#EXTINF:-1, LT12 Radio General Madariaga AM 840 - Paso de los Libres
+http://www.chamigonet.com.ar:9400
+#EXTINF:-1, LS10 - Radio del Plata AM 1030
+http://181.119.157.98:8000/amdelplata.mp3
+#EXTINF:-1, RADIO ESTUDIO 97.5 PEHUAJO
+http://radio.solumedia.com.ar:8580/;
+#EXTINF:-1, WikiHits
+http://142.44.135.172:8077/live
+#EXTINF:-1, Cienradios - Gospel y Christiana
+http://buecrplb01.cienradios.com.ar/660_Gospel_y_Cristiana_32000.aac
+#EXTINF:-1, Cienradios - Mía FM
+http://buecrplb01.cienradios.com.ar/Mia.aac
+#EXTINF:-1, Cienradios - Miss 15
+http://buecrplb01.cienradios.com.ar/718_Miss_15_32000.aac
+#EXTINF:-1, Cienradios - Siempre en mi mente
+http://buecrplb01.cienradios.com.ar/siempre.aac
+#EXTINF:-1, Radio Iglesia Visión de futuro, Rosario Santa Fé
+http://cdnaudio.nexolife.com:8043/radiovisiondefuturo?1525705359912
+#EXTINF:-1, Radio Uno FM 101.3 Santa Fe
+http://s1.radiosnethosting.com:9888/;
+#EXTINF:-1, Radio Uno 88.5 FM
+http://63.247.91.178:13378/stream
+#EXTINF:-1, APA Radio San Pedro
+http://192.99.46.171:10112/;
+#EXTINF:-1, Cadena Eco - AM 1220 Buenos Aires
+http://ample-zeno-05.radiojar.com/uv3vkhw2qvduv
+#EXTINF:-1, Dorado Chamame FM 98.3 Corrientes
+http://streamingraddios.net:7589/;
+#EXTINF:-1, Estilo FM 91.7 Santa Fe - 0
+http://138.219.43.138:8030/;
+#EXTINF:-1, Estilo FM 91.7 Santa Fe - 1
+http://138.219.43.138:8030/,;audio.mp3?hash=1526152914191
+#EXTINF:-1, Fm alpha 91.5 - Las Flores, Buenos Aires
+http://207.210.120.98:8095/vivo
+#EXTINF:-1, fm city 90.1 PEHUAJO
+http://s1.radiosnethosting.com:9862/;
+#EXTINF:-1, FM Loma 92.1 - Merlo - Buenos Aires
+http://5.133.182.174:18522/;
+#EXTINF:-1, FM Signos 92.5 FM Buenos Aires
+http://190.210.199.251:8009/;
+#EXTINF:-1, FM Tiempo - 92.5 FM Buenos Aires, Argentina
+http://hostingystreaming.com:4344/;
+#EXTINF:-1, FM Lider 90.7 - Santa Fe
+http://63.247.76.50:8048/;
+#EXTINF:-1, Mas Energia FM 97.9 Henderson - 0
+http://playerservices.streamtheworld.com/pls/LOS40_ARGENTINAAAC.pls
+#EXTINF:-1, Mas Energia FM 97.9 Henderson - 1
+http://playerservices.streamtheworld.com/pls/LOS40_ARGENTINAAAC.pls
+#EXTINF:-1, Mas Energia FM 97.9 Henderson - 2
+http://18813.live.streamtheworld.com/LOS40_ARGENTINA_SC
+#EXTINF:-1, Radio San Gabriel
+http://72.29.70.22:8048/;
+#EXTINF:-1, La Nueva Radio Suarez 101.3 FM - Buenos Aires
+http://66.70.255.8:9968/;
+#EXTINF:-1, Ozono Rock FM 107.1 La Plata
+http://01.solumedia.com.ar:8560/
+#EXTINF:-1, Radio Dolores FM 94.9 - Dolores, Buenos Aires
+http://168.181.185.173:9490/stream
+#EXTINF:-1, Radio Génesis Córdoba 89.9 FM
+http://192.99.17.12:6358/;
+#EXTINF:-1, Radio Nuclear AM 1500 Zárate - Bs.As.
+http://s1.radiosnethosting.com:9830/;
+#EXTINF:-1, Sentir Radio
+http://ample-zeno-04.radiojar.com/qb4f1bt3a2wtv
+#EXTINF:-1, YoSoY 1ove FM 102.9 - Cañada de Gomez, Santa Fe - 0
+http://nvirred.com:9328/;
+#EXTINF:-1, YoSoY 1ove FM 102.9 - Cañada de Gomez, Santa Fe - 1
+http://nvirred.com:9328/;stream.mp3
+#EXTINF:-1, Milenium Rosario FM 94.1 Santa Fe
+http://23.111.184.195:8020/mileniumrosario.mp3
+#EXTINF:-1, Radio Bahia Clasica
+http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad1
+#EXTINF:-1, Radio LV11, 890 AM, Santiago del Estero
+http://195.154.182.222:25272/live?type=.mp3
+#EXTINF:-1, 88.3 FM La Red, La Rioja, Argentina
+http://centova.questreaming.com:26956/
+#EXTINF:-1, RAE - Radiodifusión Argentina al Exterior
+http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad35
+#EXTINF:-1, FM Estudiantil UAP
+http://70.38.73.27:8129/live
+#EXTINF:-1, FM Paraiso 42
+http://streaming2.locucionar.com:8366/stream
+#EXTINF:-1, 90.3 FM Power Hit, La Rioja
+http://63.247.65.202:8038/stream
+#EXTINF:-1, AM 750 Buenos Aires
+http://192.99.38.174:9342/stream
+#EXTINF:-1, Cristal Classic 101.3 - Rosario Santa Fe
+http://63.247.76.50:8030/stream
+#EXTINF:-1, Cristal FM 107.9 - Rosario Santa Fé
+http://63.247.76.50:8012/stream
+#EXTINF:-1, Exito a la Vista
+http://buecrplb01.cienradios.com.ar/603_Exito_a_la_Vista_32000.aac
+#EXTINF:-1, FM Santa Rita 107.1 - Esquina, Argentina
+http://190.104.217.181:9938/;
+#EXTINF:-1, Fisherton CNN FM 89.5 - Rosario Santa Fe
+http://23.111.184.195:8140/radio.mp3
+#EXTINF:-1, FM 97.7 Beat, Villa Carlos Paz, Córdoba
+http://audio.questreaming.com:27902/;
+#EXTINF:-1, FM AZ 92.7 Rosario
+http://63.247.91.178:12140/stream
+#EXTINF:-1, FM Del Sol 100.5 Pehuajó
+http://63.247.65.202:8089/stream
+#EXTINF:-1, FM Fuego 90.1 - Tierra del Fuego
+http://radiohd.net:7064/;
+#EXTINF:-1, FM LA VOZ 92.7  PEHUAJÓ
+http://63.247.91.178:12144/stream
+#EXTINF:-1, Fm Latina 92.5
+http://178.32.57.127:9682/;
+#EXTINF:-1, FM Magic 91.5 - 0
+http://184.107.187.146:9148/fmmagic
+#EXTINF:-1, FM Magic 91.5 - 1
+http://184.107.187.146:9150/ecanuelas
+#EXTINF:-1, Milagros 98.5 FM
+http://server4.veemesoft.com.ar:27011/;
+#EXTINF:-1, FM Noticias 88.1
+http://s2.netradiofm.com:8062/;
+#EXTINF:-1, FM OCCIDENTE 97.1
+http://s1.radiosnethosting.com:9968/;stream.nsv&type=mp3
+#EXTINF:-1, FM Sol Rafaela 90.9
+http://mstr16.mundostreaming.tv:8085/vivo
+#EXTINF:-1, FM VIDA SAN JOSE
+http://servidor.ilive.com.ar:9324/;
+#EXTINF:-1, La 105 - Buenos Aires
+http://63.247.65.202:8237/stream
+#EXTINF:-1, La Radio FM 105.1 - Mar del Plata
+http://corporacionlatina.com:8000/;stream.nsv
+#EXTINF:-1, La Red Rosario 98.3 FM
+http://23.111.184.195:8070/laredrosario.mp3
+#EXTINF:-1, La Voz » Paraná - 90.1
+http://www.streaming.konextaradios.com:8220/;
+#EXTINF:-1, LCDA La Catedral del Americano
+http://streamall.alsolnet.com:443/lacatedral
+#EXTINF:-1, Mega 98.3 Santa Fe
+http://s1.radiosnethosting.com:9986/;stream.nsv&type=mp3
+#EXTINF:-1, Power FM 90.5 - General Belgrano - 0
+http://miradioenlaweb.com:11004/;/;type=mp3
+#EXTINF:-1, Power FM 90.5 - General Belgrano - 1
+http://198.105.212.4:11004/
+#EXTINF:-1, Radio 26 de Julio - 1580 AM - 0
+http://70.38.73.27:8004/radiodej
+#EXTINF:-1, Radio 26 de Julio - 1580 AM - 1
+http://70.38.73.27:8004/radiodej
+#EXTINF:-1, Radio Adrenalina
+http://cdn.instream.audio:8044/stream
+#EXTINF:-1, Alegría FM 99.7 Córdoba
+http://01.solumedia.com.ar:8004/stream/1/
+#EXTINF:-1, Radio del Sol 95.9
+http://01.solumedia.com.ar:7477/stream.mp3
+#EXTINF:-1, Radio EL Valle AM640 LU18 Gral. Roca - 0
+http://streamingraddios.net:7997/;
+#EXTINF:-1, Radio EL Valle AM640 LU18 Gral. Roca - 1
+http://streamingraddios.net:7997/listen.pls
+#EXTINF:-1, Radio Estacion Sur 91.7 FM
+http://209.95.35.49:7172/stream
+#EXTINF:-1, Radio Fan FM 103.9 - Buenos Aires
+http://200.58.109.174:8055/;
+#EXTINF:-1, Radio Fiel 106.5 Córdoba - 0
+http://centova.questreaming.com:4001/stream
+#EXTINF:-1, Radio Fiel 106.5 Córdoba - 1
+http://centova.questreaming.com:2199/tunein/fmfiel.pls
+#EXTINF:-1, Radio Fm Jardin 96.3
+http://192.99.150.52:7854/;
+#EXTINF:-1, Radio Gualeguay LT38 1520 AM
+http://cdn.instream.audio:8135//stream
+#EXTINF:-1, Radio House
+http://142.44.135.172:8001/listen
+#EXTINF:-1, Radio LT 14 General Urquiza AM 1260
+http://ea.mp3.icecast.magma.edge-access.net:7200/sc_rad44
+#EXTINF:-1, Radio Maxima 94.5 FM
+http://streaming10.godns.net:10220/;stream.nsv&type=mp3
+#EXTINF:-1, Radio Palermo FM 94.7
+http://buecrplb01.cienradios.com.ar/Palermo_FM947.mp3
+#EXTINF:-1, Radio Palermo 93.9 FM
+http://buecrplb01.cienradios.com.ar/Palermo_FM939.mp3
+#EXTINF:-1, Radio Quilpo FM 107.7
+http://200.58.106.247:8376/;
+#EXTINF:-1, Radio Rivadavia AM 630 - Buenos Aires
+http://209.95.35.49:7012/stream
+#EXTINF:-1, Radio Rotonda 90.9 FM - Argentina
+http://server.ohradio.com.ar:9662/;
+#EXTINF:-1, Radio Salta AM840
+http://streamingraddios.net:10340/;
+#EXTINF:-1, Radio Sucesos - Cordoba
+http://server1.dainusradio.com:2341/;
+#EXTINF:-1, Radio Universidad Nacional de la Matanza FM 89.1 UNIROCK RADIO WEB
+http://www.miradioenlaweb.com:4648/;stream/1
+#EXTINF:-1, Radiofónica Fm 100.7 -Rosario Santa Fé
+http://200.58.106.247:8628/;
+#EXTINF:-1, Sin Dial Radio
+http://70.38.73.27:8078//stream
+#EXTINF:-1, Sol Disco FM 97.7 - Tandil
+http://01.solumedia.com.ar:8476/;
+#EXTINF:-1, Rádio TKM 103.7 FM Buenos Aires
+http://node-01.strongradiohost.com/u8f5w0zgus5tv
+#EXTINF:-1, RADIO BRITANNIA - 100% MÚSICA BRITÁNICA  BUENOS AIRES - ARGENTINA
+http://01.solumedia.com.ar:8472/;
+#EXTINF:-1, Mackenna FM 105.1 -  Vicuña Mackenna, Cordoba, Argentina
+http://hostingystreaming.com:14006/;
+#EXTINF:-1, Vorterix 92.1 - Buenos Aires, Argentina
+http://192.99.150.52:9904/;
+#EXTINF:-1, X1 Radio POP - 0
+http://listen.shoutcast.com/x1radiopop
+#EXTINF:-1, X1 Radio POP - 1
+http://181.111.178.50:58090/stream/1/
+#EXTINF:-1, RADIO HDS ARG - 0
+http://servidor.aacplusargentina.com:10008/;
+#EXTINF:-1, RADIO HDS ARG - 1
+http://cloudrad.io/hdsradio/listen.pls
+#EXTINF:-1, La 105 FM 105.3 Cordoba
+http://142.44.213.54:8770/;
+#EXTINF:-1, AM 840 Radio General Belgrano - Capital Federal Buenos Aires
+http://streaming2.locucionar.com:8160/stream
+#EXTINF:-1, FM Calchaquí 104.1
+http://63.247.65.202:8744/stream
+#EXTINF:-1, Radio Amanecer AM 1290 FM 92.7 - Reconquista Santa Fé
+http://63.247.65.202:8756/stream
+#EXTINF:-1, 95.7 FM Libertad, La Rioja
+http://streaming01.shockmedia.com.ar:9938/;stream/1
+#EXTINF:-1, Cienradios - Radio_X
+http://buecrplb01.cienradios.com.ar/602_Radio_X_64000.aac
+#EXTINF:-1, Radio General San Martin - 0
+http://nnvserver.com:8600/live
+#EXTINF:-1, Radio General San Martin - 1
+http://nnvserver.com:8600/live?type=.mp3/;
+#EXTINF:-1, Radio General San Martin - 2
+http://nnvserver.com:8600/live?type=.aac/;
+#EXTINF:-1, Radio General San Martin - 3
+http://nnvserver.com:8600/live?type=.flv/;
+#EXTINF:-1, FM Integracion 99.3
+http://radio.ntsoluciones.com:9358/;stream
+#EXTINF:-1, LRA1 Radio Nacional AM 870 - Buenos Aires
+http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad1
+#EXTINF:-1, LRA14 Radio Nacional AM 540 - Santa Fe
+http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad14
+#EXTINF:-1, LRA15 Radio Nacional AM 1190 - Tucuman
+http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad15
+#EXTINF:-1, LRA17 Radio Nacional AM 710 - Zapala
+http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad17
+#EXTINF:-1, LRA2 Radio Nacional AM 1150 - Viedma
+http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad2
+#EXTINF:-1, LRA20 Radio Nacional AM 1220 - Las Lomitas
+http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad20
+#EXTINF:-1, LRA24 Radio Nacional AM 640 - Rio Grande
+http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad24
+#EXTINF:-1, LRA26 Radio Nacional AM 620 - Resistencia
+http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad26
+#EXTINF:-1, LRA27 Radio Nacional AM 730 - Catamarca
+http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad27
+#EXTINF:-1, LRA30 Radio Nacional AM 590 - Bariloche
+http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad30
+#EXTINF:-1, LRA42 Radio Nacional AM 1310 - Gualeguaychú
+http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad31
+#EXTINF:-1, LRA5 Radio Nacional FM 104.5 - Rosario
+http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad41
+#EXTINF:-1, LT11 Radio Gral. Francisco Ramirez AM 1560 - Concepción del Uruguay
+http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad45
+#EXTINF:-1, LV4 Radio San Rafael AM 620 - San Rafael
+http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad46
+#EXTINF:-1, LV19 Radio Malargüe AM 790 - Malargüe
+http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad47
+#EXTINF:-1, LV8 Radio Libertador AM 780 - Ciudad de Mendoza
+http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad48
+#EXTINF:-1, LRA5 Radio Nacional AM 1300 - Rosario
+http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad5
+#EXTINF:-1, LRA52 Radio Nacional AM 670 -  Chos Malal
+http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad52
+#EXTINF:-1, LRA7 Radio Nacional AM 750 - Cordoba
+http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad7
+#EXTINF:-1, LRA7 Radio Nacional FM 100.1 - Cordoba
+http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad70
+#EXTINF:-1, LRA8 Radio Nacional AM 820 - Formosa
+http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad8
+#EXTINF:-1, Mundo Auricular
+http://stream.radio.co/s2f46834ac/listen
+#EXTINF:-1, Radio 100 FM 104.3 FM Gualeguay - 0
+http://cdn.instream.audio:8077//stream
+#EXTINF:-1, Radio 100 FM 104.3 FM Gualeguay - 1
+https://proxyserver.inovanex.com/audio?url=http://cdn.instream.audio:8077//stream
+#EXTINF:-1, AM 630 Rádio Visión
+https://5975e06a1f292.streamlock.net:4443/radio/am630.stream/playlist.m3u8
+#EXTINF:-1, AM 710 Radio 10, Buenos Aires
+http://s6.stweb.tv/radio10/live/playlist.m3u8
+#EXTINF:-1, AM 810 Radio Mitre, Cordoba
+http://buecrplb01.cienradios.com.ar/Mitre810.aac
+#EXTINF:-1, Radio Arias FM 91.1 - Jujuy
+http://cdn.instream.audio:9095/;
+#EXTINF:-1, FM Psicosis Disco -
+http://www.psicosisdisco.com.ar:9700/;
+#EXTINF:-1, Quilmes Web Radio - 0
+http://miradioenlaweb.com:10008/;
+#EXTINF:-1, Quilmes Web Radio - 1
+http://miradioenlaweb.com:10008/listen.pls
+#EXTINF:-1, Radio Maipu AM 1460
+http://200.58.112.154:8575/;
+#EXTINF:-1, Fm Azul Villa Carlos Paz Córdoba
+http://67.212.165.162:7522/;
+#EXTINF:-1, 93.5 FM Estacion X, La Falda, Córdoba - 0
+http://streaming4.wnpower.com:8510/;
+#EXTINF:-1, 93.5 FM Estacion X, La Falda, Córdoba - 1
+http://streaming.wnpower.com:8510/;
+#EXTINF:-1, 98.5 FM Ancasti, San Fernando Del Valle, Catamarca
+http://miradioenlaweb.com:10010/;
+#EXTINF:-1, Red 92 FM 92.1 - La Plata
+http://18.220.84.192:8924/;
+#EXTINF:-1, Radio Emanuel FM 95.7 - Mendoza
+http://190.15.210.217/;stream.mp3
+#EXTINF:-1, Radio del Cielo - 0
+http://190.61.250.140:8036/listen.pls
+#EXTINF:-1, Radio del Cielo - 1
+http://200.62.54.112:8120/;
+#EXTINF:-1, Genesis Radio 94.3 - Buenos Aires
+http://server.radiolive.ml:8282/;
+#EXTINF:-1, 94.5 FM Comarca, Chilecito, La Rioja
+http://199.167.150.105:8738/stream
+#EXTINF:-1, FRECUENCIA Z -  Santa Fé
+http://188.165.56.138:9332/;
+#EXTINF:-1, Rock & Pop 95.9 FM
+http://play-rockandpop.cdn.sion.com:1935/rockandpop/audioweb/playlist.m3u8
+#EXTINF:-1, Radio Vox FM 102.9
+http://alpha.radioplayer.com.ar:9110/radiovox1029
+#EXTINF:-1, Radio Caroya Popular, Colonia Caroya, Córdoba
+http://79.137.68.42:9972/;
+#EXTINF:-1, Frecuencia Arena 98.3
+http://01.solumedia.com.ar:7074/aacp
+#EXTINF:-1, Litoral FM 103.1 - Parana, Entre Rios
+http://stm2.xcast.com.br:7604/;
+#EXTINF:-1, Cadena Uno AM 1240 - 0
+http://streaming.antenaregistrada.com:9992/;
+#EXTINF:-1, Cadena Uno AM 1240 - 1
+http://207.7.80.14:9992/;
+#EXTINF:-1, Splendid AM 990 - Buenos Aires
+http://colombiawebs.co:9990/;
+#EXTINF:-1, Radio Sentidos
+http://62.210.167.140:8058/;
+#EXTINF:-1, Radio Suquia 96.5 Cordoba
+http://streaming01.shockmedia.com.ar:9968/stream
+#EXTINF:-1, Amadeus FM 104.9 Cultura Musical
+http://18.220.84.192:8484/;
+#EXTINF:-1, Dimension FM 90.1 - Rosario del Tala, Entre Ríos
+http://arcast.net:1935/radio/fmdimension.stream/playlist.m3u8
+#EXTINF:-1, Radio Provincia de Buenos Aires AM1270
+http://provinciaradio.com.ar:7007/
+#EXTINF:-1, Radio Raices Argentinas
+http://198.7.62.157:8003/;
+#EXTINF:-1, Radio La Metro FM 100.3 Santa Fe
+http://79.137.68.42:9968/;
+#EXTINF:-1, Radio Libertad FM 90.7 Cordoba
+http://centova.hostradios.com:8269/;stream.mp3
+#EXTINF:-1, Nuevos Aires 99.7 - 0
+http://streamingv2.shoutcast.com/NuevosAiresFM997
+#EXTINF:-1, Nuevos Aires 99.7 - 1
+http://listen1.mixlr.com/4483485f846fa9fc4cd2f64ce8851795
+#EXTINF:-1, Radio Claromecó 106.9
+http://181.224.103.55:6100/1069.opus
+#EXTINF:-1, Radio Hacha y Tiza
+http://streaming.gmedios.net:8113/;
+#EXTINF:-1, TOP 107.1 BAHÍA BLANCA
+http://player.xcast.com.br/player/8028/winamp.pls
+#EXTINF:-1, Disconight Radio
+http://108.59.9.147:8316/;
+#EXTINF:-1, Prisa - Radio Continental » Buenos Aires - 0
+http://provisioning.streamtheworld.com/pls/CONTINENTALAAC.pls
+#EXTINF:-1, Prisa - Radio Continental » Buenos Aires - 1
+http://provisioning.streamtheworld.com/asx/CONTINENTALAAC.asx
+#EXTINF:-1, Prisa - Radio Continental » Buenos Aires - 2
+http://provisioning.streamtheworld.com/pls/CONTINENTAL.pls
+#EXTINF:-1, Prisa - Radio Continental » Buenos Aires - 3
+http://provisioning.streamtheworld.com/asx/CONTINENTAL.asx
+#EXTINF:-1, Prisa - Los 40 Principales » Buenos Aires - 0
+http://provisioning.streamtheworld.com/pls/LOS40_ARGENTINAAAC.pls
+#EXTINF:-1, Prisa - Los 40 Principales » Buenos Aires - 1
+http://provisioning.streamtheworld.com/asx/LOS40_ARGENTINAAAC.asx
+#EXTINF:-1, Prisa - Los 40 Principales » Buenos Aires - 2
+http://provisioning.streamtheworld.com/pls/LOS40_ARGENTINA.pls
+#EXTINF:-1, Prisa - Los 40 Principales » Buenos Aires - 3
+http://provisioning.streamtheworld.com/asx/LOS40_ARGENTINA.asx
+#EXTINF:-1, Cadena Centro FM
+http://63.247.91.178:12484/stream
+#EXTINF:-1, AM 890 Radio Libre - Buenos Aires - 0
+http://01.solumedia.com.ar:8420/;stream.nsv
+#EXTINF:-1, AM 890 Radio Libre - Buenos Aires - 1
+http://www.alsolnet.com/stream/am890hd/listen.asx
+#EXTINF:-1, Koradi Radio - 0
+http://mstr16.mundostreaming.tv:8505/vivo
+#EXTINF:-1, Koradi Radio - 1
+http://www.mundostreaming.com/radios/enlaces/64.15.155.49.8500.m3u
+#EXTINF:-1, Koradi Radio - 2
+http://www.mundostreaming.com/radios/enlaces/64.15.155.49.8500.asx
+#EXTINF:-1, Koradi Radio - 3
+http://www.mundostreaming.com/radios/enlaces/64.15.155.49.8500.ram
+#EXTINF:-1, LRA37 Radio Nacional Clásica FM 96.7 - Buenos Aires
+http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad37
+#EXTINF:-1, LRA39 Radio Nacional Rock FM 93.7 - Buenos Aires
+http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad39
+#EXTINF:-1, LRA38 Radio Nacional Folklorica FM 98.7 - Buenos Aires
+http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad38
+#EXTINF:-1, LRA10 Radio Nacional FM 92.1 - Usuahia
+http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad82
+#EXTINF:-1, LRA11 Radio Nacional AM 670 - Comodoro Rivadavia
+http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad11
+#EXTINF:-1, LRA43 Radio Nacional FM 103  - Neuqén
+http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad73
+#EXTINF:-1, LRA3 Radio Nacional AM 730 - Santa Rosa
+http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad3
+#EXTINF:-1, LRA19 Radio Nacional AM 710 - Puerto Iguazú
+http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad19
+#EXTINF:-1, LRA18 Radio Nacional AM 620 - Río Turbio
+http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad18
+#EXTINF:-1, LRA13 Radio Nacional AM 560 - Bahía Blanca
+http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad13
+#EXTINF:-1, LRA6 Radio Nacional AM 960 - Mendoza
+http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad6
+#EXTINF:-1, LRA58 Radio Nacional AM 1020 - Rio Mayo
+http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad58
+#EXTINF:-1, LRA57 Radio Nacional AM 1160 - El Bolson
+http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad57
+#EXTINF:-1, LRA56 Radio Nacional FM 93.5 - Perito Moreno
+http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad34
+#EXTINF:-1, LRA29 Radio Nacional AM 1170 - San Luis
+http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad29
+#EXTINF:-1, LRA4 Radio Nacional AM 690 - Salta
+http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad4

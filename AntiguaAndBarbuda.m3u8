@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1, Observer Radio - 91.1 (St. John's)
+http://s8.voscast.com:8176/;stream.mp3
+#EXTINF:-1, ABS Radio -  Antigua & Barbuda
+http://s1.voscast.com:9344/;
+#EXTINF:-1, Hitz FM - 91.9 FM (St. John's) - 0
+http://s8.voscast.com:8176/;
+#EXTINF:-1, Hitz FM - 91.9 FM (St. John's) - 1
+http://cdn.voscast.com/resources/?key=4725332bce772435c1f6af3364508e31&c=winamp
+#EXTINF:-1, ZDK 97.1 FM - 0
+http://s7.voscast.com:10052/;
+#EXTINF:-1, ZDK 97.1 FM - 1
+http://cdn.voscast.com/resources/?key=36104ae16ae29a560364ae0e5b492342&c=winamp

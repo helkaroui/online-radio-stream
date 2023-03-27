@@ -1,0 +1,185 @@
+#EXTM3U
+#EXTINF:-1, Cyprus Dub Community Radio
+http://50.7.77.114:8479/stream
+#EXTINF:-1, Bayrak - Radyosu FM 102 - 0
+http://sc.brtk.net:8002/
+#EXTINF:-1, Bayrak - Radyosu FM 102 - 1
+mms://bms.brtk.net/bayrakradio
+#EXTINF:-1, Bayrak - International FM 105 - 0
+http://sc.brtk.net:8004/
+#EXTINF:-1, Bayrak - International FM 105 - 1
+mms://bms.brtk.net/bayrak-int
+#EXTINF:-1, Bayrak - Klasik 88.4 - 0
+http://sc.brtk.net:8006/
+#EXTINF:-1, Bayrak - Klasik 88.4 - 1
+mms://bms.brtk.net/bayrak-classic
+#EXTINF:-1, Bayrak - FM 92.1 - 0
+http://sc.brtk.net:8000/
+#EXTINF:-1, Bayrak - FM 92.1 - 1
+mms://bms.brtk.net/bayrakfm
+#EXTINF:-1, Bayrak - TURK MUZIGI FM 94.6
+http://sc.brtk.net:8010/
+#EXTINF:-1, Bayrak - RADYO HABER FM 100.1
+http://sc.brtk.net:8008/
+#EXTINF:-1, Choice 104.3 - 0
+http://eco.onestreaming.com:8364
+#EXTINF:-1, Choice 104.3 - 1
+http://go.erad.io/asx/choice.asx
+#EXTINF:-1, Ιερά Μητρόπολη Λεμεσού 94.5 & 107.9
+mms://217.27.32.232:1755
+#EXTINF:-1, Sfera 96.8 (Nicosia) - 0
+http://live3.istoikona.net:2199/tunein/sfera.asx
+#EXTINF:-1, Sfera 96.8 (Nicosia) - 1
+http://37.48.82.50:8193
+#EXTINF:-1, Zentih 96.4 (Nicosia) - 0
+http://go.e-rad.io/asx/zenith.asx
+#EXTINF:-1, Zentih 96.4 (Nicosia) - 1
+mms://livecy.onestreaming.com/zenith
+#EXTINF:-1, Zentih 96.4 (Nicosia) - 2
+mms://live.onestreaming.com/zenith
+#EXTINF:-1, Mix fm 102.3 (Nicosia) - 0
+http://eco.onestreaming.com:8127
+#EXTINF:-1, Mix fm 102.3 (Nicosia) - 1
+http://go.e-rad.io/asx/mixfm.asx
+#EXTINF:-1, MYCYradio
+http://radio.canstream.co.uk:8038/live.mp3
+#EXTINF:-1, Chillout Zone
+http://5.189.142.165:2304/stream
+#EXTINF:-1, Love Zone
+http://5.189.142.165:8108/stream
+#EXTINF:-1, Russian Wave
+http://shout.kalsedia.com:1057/ruwave1057_64
+#EXTINF:-1, GREEK WORLD RADIO
+http://5.189.142.165:8140/stream
+#EXTINF:-1, Sport fm 104 (Nicosia) - 0
+http://sportfm-cyprus.live24.gr/sportfm-cyprus
+#EXTINF:-1, Sport fm 104 (Nicosia) - 1
+http://go.e-rad.io/asx/sportfmcy.asx
+#EXTINF:-1, Sport FM 95 (Nicosia)
+http://eradio.networksolutions.com.cy:1935/SportFM/SportFM.stream/playlist.m3u8
+#EXTINF:-1, Pure 90s
+http://5.189.142.165:8505/stream
+#EXTINF:-1, 60s Chartbusters
+http://streaming.radionomy.com/60sChartbusters?lang=en-US&appName=iTunes.m3u
+#EXTINF:-1, Transcendence Guide Radio
+http://185.80.220.12:8252/;
+#EXTINF:-1, Kanali 7 FM 98.4 - 0
+http://live.kanali7.com:4012/;stream.mp3
+#EXTINF:-1, Kanali 7 FM 98.4 - 1
+http://live.kanali7.com:4012
+#EXTINF:-1, Kanali 7 FM 98.4 - 2
+http://live.kanali7.com:4010
+#EXTINF:-1, CyBC - First Channel (ΠΡΩΤΟ)
+http://r1.cloudskep.com/cybcr/cybc1/icecast.audio
+#EXTINF:-1, CyBC - Second Channel (ΔΕΥΤΕΡΟ)
+http://r1.cloudskep.com/cybcr/cybc2/icecast.audio
+#EXTINF:-1, CyBC - Third Channel (ΤΡΙΤΟ)
+http://r1.cloudskep.com/cybcr/cybc3/icecast.audio
+#EXTINF:-1, CyBC - Fourth Channel (ΤΕΤΑΡΤΟ)
+http://r1.cloudskep.com/cybcr/cybc4/icecast.audio
+#EXTINF:-1, Rock FM - Paphos  98.5 & Latchi 106.7 - 0
+http://live3.istoikona.net:8278/;
+#EXTINF:-1, Rock FM - Paphos  98.5 & Latchi 106.7 - 1
+http://live3.istoikona.net:8278/;stream.mp3
+#EXTINF:-1, MixFm 102.3
+http://eco.onestreaming.com:8127/;
+#EXTINF:-1, All Time 70s 80s Greatest - 0
+http://streaming.radionomy.com/AllTime70s80sGreatest?lang=en-US&appName=iTunes.m3u
+#EXTINF:-1, All Time 70s 80s Greatest - 1
+http://listen.radionomy.com/alltime70s80sgreatest
+#EXTINF:-1, 90s All Time Greatest - 0
+http://streaming.radionomy.com/90sAllTimeGreatest?lang=en-US&appName=iTunes.m3u
+#EXTINF:-1, 90s All Time Greatest - 1
+http://listen.radionomy.com/90salltimegreatest
+#EXTINF:-1, 50s All Time Greatest - 0
+http://streaming.radionomy.com/50sAllTimeGreatest?lang=en-US&appName=iTunes.m3u
+#EXTINF:-1, 50s All Time Greatest - 1
+http://listen.radionomy.com/50salltimegreatest
+#EXTINF:-1, GREEK HITS RADIO - 0
+http://streaming.radionomy.com/GREEKHITSRADIO?lang=en-US&appName=website.m3u
+#EXTINF:-1, GREEK HITS RADIO - 1
+http://listen.radionomy.com/greekhitsradio
+#EXTINF:-1, Ραδιο Πάφος 93.7
+http://live.iteam4media.com:1818/
+#EXTINF:-1, Μελωδία (Nicosia)
+http://eco.onestreaming.com:8031;
+#EXTINF:-1, Sara Net FM 97.00
+http://yayin.cloud:8000/live
+#EXTINF:-1, Super FM Radio 104.8 & 95.7 & 103.4 - 0
+http://live3.istoikona.net:2199/tunein/super.pls
+#EXTINF:-1, Super FM Radio 104.8 & 95.7 & 103.4 - 1
+http://eco.onestreaming.com:8175/;
+#EXTINF:-1, Ράδιο Πρώτο 99.3 & 89.4 & 87.9 - 0
+http://eco.onestreaming.com:8191/;
+#EXTINF:-1, Ράδιο Πρώτο 99.3 & 89.4 & 87.9 - 1
+http://go.e-rad.io/asx/proto.asx
+#EXTINF:-1, Chillout Moments - 0
+http://5.189.142.165:2304/stream/;
+#EXTINF:-1, Chillout Moments - 1
+http://5.189.142.165:2199/tunein/spanic.pls
+#EXTINF:-1, Melody Digital Internet Radio - 0
+http://liveaudio.virtualict.com:8000/;
+#EXTINF:-1, Melody Digital Internet Radio - 1
+http://liveaudio.virtualict.com:8000/;stream.nsv&?_=1
+#EXTINF:-1, Radyo Vatan Canlı Yayın
+http://95.0.173.195:9002/vatan
+#EXTINF:-1, Ant1 Fm 102.7
+http://r1.cloudskep.com/radio2/ant1fm/icecast.audio
+#EXTINF:-1, Rock fm 98.5 Paphosl  / 106.7 Latchi
+http://live3.istoikona.net:8278/;stream.mp3
+#EXTINF:-1, Super Sport FM Κύπρου 100
+http://sportfm-cyprus.live24.gr/sportfm-cyprus
+#EXTINF:-1, SUPER GREEK RADIO
+http://streaming.radionomy.com/GREEKHITSRADIO?lang=en-US&appName=iTunes.m3u
+#EXTINF:-1, Δρόμος 100.5 fm - Dromos FM Cyprus 100.5
+http://dromoscyprus.live24.gr/dromoscyprus
+#EXTINF:-1, Russian Radio Limassol 103.1 FM
+http://eco.onestreaming.com:8634/;
+#EXTINF:-1, Kiss FM 89,0 & 88.5 (Nicosia) - 0
+http://r1.phileradio.com:8193/89FM
+#EXTINF:-1, Kiss FM 89,0 & 88.5 (Nicosia) - 1
+http://live3.istoikona.net:2199/tunein/kiss.asx
+#EXTINF:-1, Kiss FM 89,0 & 88.5 (Nicosia) - 2
+http://37.48.82.50:8195
+#EXTINF:-1, 70s 80s All Time Greatest - 0
+http://5.189.142.165:8032/stream
+#EXTINF:-1, 70s 80s All Time Greatest - 1
+http://listen.openstream.co/3126/audio
+#EXTINF:-1, All Hits Zone
+http://listen.openstream.co/3126/audio
+#EXTINF:-1, 70s Hits Zone
+http://listen.openstream.co/3126/audio
+#EXTINF:-1, Radio 5 Cyprus (Web) - 0
+http://live3.istoikona.net:8436/listen.pls
+#EXTINF:-1, Radio 5 Cyprus (Web) - 1
+http://www.e-radio.gr/asx/radio5.asx
+#EXTINF:-1, Radio 5 Cyprus (Web) - 2
+http://go.e-rad.io/asx/radio5.asx
+#EXTINF:-1, 50s Hits Zone - 0
+http://streaming.radionomy.com/50sAllTimeGreatest?lang=en-US&appName=iTunes.m3u
+#EXTINF:-1, 50s Hits Zone - 1
+http://listen.radionomy.com/50salltimegreatest
+#EXTINF:-1, 60s Hits Zone - 0
+http://streaming.radionomy.com/60sChartbusters?lang=en-US&appName=iTunes.m3u
+#EXTINF:-1, 60s Hits Zone - 1
+http://listen.radionomy.com/60schartbusters
+#EXTINF:-1, Radyo Güven
+http://82.145.227.16:8080/radyoguven.mp3
+#EXTINF:-1, Star fm 93.7 - 0
+http://eco.onestreaming.com:8538/;
+#EXTINF:-1, Star fm 93.7 - 1
+mms://live.onestreaming.com/starfmcy
+#EXTINF:-1, Star fm 93.7 - 2
+http://go.e-rad.io/asx/starfmcy.asx
+#EXTINF:-1, Κανάλι 6  98.6 & 106 & 107 - 0
+http://stream.dnsgb.net:8012
+#EXTINF:-1, Κανάλι 6  98.6 & 106 & 107 - 1
+http://31.193.142.7:8012/stream
+#EXTINF:-1, Κανάλι 6  98.6 & 106 & 107 - 2
+http://go.e-rad.io/asx/kanali6.asx
+#EXTINF:-1, Κλικ fm 105.5 & 89.6 & 98.2
+http://eco.onestreaming.com:8310/;
+#EXTINF:-1, Pure 60s
+https://listen.openstream.co/3341/audio
+#EXTINF:-1, Sunny 98.8 online radio
+http://51.77.124.144:8157/stream

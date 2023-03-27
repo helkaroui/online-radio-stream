@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1, Radio Vazo Gasy - 0
+http://radiovazogasy.com/media/player/winamp.pls
+#EXTINF:-1, Radio Vazo Gasy - 1
+http://radiovazogasy.com/media/player/wmp.asx
+#EXTINF:-1, Radio Paradisagasy - 0
+http://www.radioparadisagasy.com/stream/radioparadisagasy.m3u
+#EXTINF:-1, Radio Paradisagasy - 1
+http://www.radioparadisagasy.com/stream/radioparadisagasy.pls
+#EXTINF:-1, Radio Paradisagasy - 2
+http://www.radioparadisagasy.com/stream/radioparadisagasy_low.m3u
+#EXTINF:-1, Radio Paradisagasy - 3
+http://www.radioparadisagasy.com/stream/radioparadisagasy_low.pls
+#EXTINF:-1, Radio Paradisagasy - 4
+http://www.radioparadisagasy.com/stream/aac/aac.m3u
+#EXTINF:-1, Radio Paradisagasy - 5
+http://www.radioparadisagasy.com/stream/aac/aac.pls
+#EXTINF:-1, Radio Agape1 - 0
+http://91.121.148.49:9777/
+#EXTINF:-1, Radio Agape1 - 1
+http://www.agape1.fr/mihaino.asx
+#EXTINF:-1, Radio Vaovao Mahasoa
+http://91.121.148.49:7777/
+#EXTINF:-1, Radio Don Bosco
+http://onair15.xdevel.com:9248/;stream.mp3
+#EXTINF:-1, Radio RNA Antalaha
+http://92.39.243.126:9001/

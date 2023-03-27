@@ -1,0 +1,101 @@
+#EXTM3U
+#EXTINF:-1, Radio Dzair - Sahara
+http://radio-dzair.net:8026/
+#EXTINF:-1, Radio Dzair - Aures
+http://radio-dzair.net:8044/
+#EXTINF:-1, Radio Dzair - Chaabia
+http://radio-dzair.net:8012/
+#EXTINF:-1, Radio Dzair - Izuran
+http://radio-dzair.net:8020/
+#EXTINF:-1, Radio Dzair - Orientale
+http://radio-dzair.net:8006/
+#EXTINF:-1, Radio Dzair - Dzair
+http://radio-dzair.net:8000/stream3
+#EXTINF:-1, Radio Dzair - Raina
+http://radio-dzair.net:8020/
+#EXTINF:-1, Radio Dzair - Andaloussia
+http://radio-dzair.net:8038/
+#EXTINF:-1, Maghreb M, la radio libre
+http://188.165.242.25:8560/stream/1/;
+#EXTINF:-1, Radio Algérienne - Chaine 1
+http://ch1.ice.infomaniak.ch/ch1-64.aac?
+#EXTINF:-1, Radio Algérienne - Chaine 2
+http://ch2.ice.infomaniak.ch/ch2-64.aac?
+#EXTINF:-1, Radio Algérienne - Chaine 3
+http://ch3.ice.infomaniak.ch/ch3-64.aac?
+#EXTINF:-1, Radio Algérienne - Internetionale
+http://rai.ice.infomaniak.ch/rai-64.aac?
+#EXTINF:-1, Radio Algérienne - El Bahdja
+http://elbahdja.ice.infomaniak.ch/elbahdja-64.aac?
+#EXTINF:-1, Radio Murdjajo Fm - 0
+http://streaming.radionomy.com/Murdjajo?lang=en-US&appName=iTunes.m3u
+#EXTINF:-1, Radio Murdjajo Fm - 1
+http://listen.radionomy.com/murdjajo
+#EXTINF:-1, RadioHchicha.COM - 0
+http://streaming.radionomy.com/RadioHchichaCOM?lang=en-US&appName=iTunes.m3u
+#EXTINF:-1, RadioHchicha.COM - 1
+http://listen.radionomy.com/radiohchichacom
+#EXTINF:-1, Radio Algérienne - Jil Fm
+http://jil-fm.ice.infomaniak.ch/jilfm.aac
+#EXTINF:-1, Radio Algérienne - Ain Defla
+http://icepe8.infomaniak.ch/44.aac
+#EXTINF:-1, Radio Algérienne - Annaba
+http://icepe8.infomaniak.ch/23.aac
+#EXTINF:-1, Radio Algérienne - Bouira
+http://icepe8.infomaniak.ch/10.aac
+#EXTINF:-1, Radio Algérienne - Boumerdes
+http://icepe8.infomaniak.ch/35.aac
+#EXTINF:-1, Radio Algérienne - Djelfa
+http://icepe8.infomaniak.ch/17.aac
+#EXTINF:-1, Radio Algérienne - El Oued
+http://icepe8.infomaniak.ch/39.aac
+#EXTINF:-1, Radio Algérienne - Jijel
+http://icepe8.infomaniak.ch/18.aac
+#EXTINF:-1, Radio Algérienne - Khenchla
+http://icepe8.infomaniak.ch/40.aac
+#EXTINF:-1, Radio Algérienne - M'sila
+http://icepe8.infomaniak.ch/28.aac
+#EXTINF:-1, Radio Algérienne - Mascara
+http://icepe8.infomaniak.ch/29.aac
+#EXTINF:-1, Radio Algérienne - Medea
+http://icepe8.infomaniak.ch/26.aac
+#EXTINF:-1, Radio Algérienne - Tizi Ouzou
+http://icepe8.infomaniak.ch/15.aac
+#EXTINF:-1, Radio Algérienne - Tamenrasset
+http://icepe8.infomaniak.ch/11.aac
+#EXTINF:-1, Radio Algérienne - Souk Ahras
+http://icepe8.infomaniak.ch/41.aac
+#EXTINF:-1, Radio Algérienne - Skikda
+http://icepe8.infomaniak.ch/21.aac
+#EXTINF:-1, Radio Algérienne - Sidi Bel Abbes
+http://icepe8.infomaniak.ch/22.aac
+#EXTINF:-1, Radio Algérienne - Setif
+http://icepe8.infomaniak.ch/19.aac
+#EXTINF:-1, Radio Algérienne - Saida
+http://icepe8.infomaniak.ch/20.aac
+#EXTINF:-1, Radio Algérienne - Relizane
+http://icepe8.infomaniak.ch/48.aac
+#EXTINF:-1, Radio Algérienne - Naama
+http://icepe8.infomaniak.ch/45.aac
+#EXTINF:-1, Radio Algérienne - Mila
+http://icepe8.infomaniak.ch/43.aac
+#EXTINF:-1, Radio Algérienne - Tlemcen
+http://icepe8.infomaniak.ch/13.aac
+#EXTINF:-1, Radio Algérienne - Radio Culture/Quran
+http://radiocoran-culture.ice.infomaniak.ch/coran.aac
+#EXTINF:-1, Radio Dzair Andaloussia
+http://188.165.242.25:8038/stream
+#EXTINF:-1, Radio Dzair Raina
+http://188.165.242.25:8020/stream
+#EXTINF:-1, Radio Dzair
+http://188.165.242.25:8000/;listen.mp3
+#EXTINF:-1, Radio Dzair Orientale
+http://188.165.242.25:8006/stream
+#EXTINF:-1, Radio Dzair Izuran
+http://188.165.242.25:8032/stream
+#EXTINF:-1, Radio Dzair Chaabia
+http://188.165.242.25:8012/stream
+#EXTINF:-1, Radio Dzair Aurès
+http://188.165.242.25:8044/stream
+#EXTINF:-1, Radio Dzair Sahara
+http://188.165.242.25:8026/stream

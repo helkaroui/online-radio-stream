@@ -1,0 +1,2291 @@
+#EXTM3U
+#EXTINF:-1, Radio Unica FM Stereo
+http://198.27.88.38:7108/;
+#EXTINF:-1, FundinguƎ - 0
+http://emisora.fundingue.com:8072/;
+#EXTINF:-1, FundinguƎ - 1
+http://emisora.fundingue.com:8070/;
+#EXTINF:-1, La Voz Del Petróleo « Barrancabermeja - 0
+http://69.175.14.30/;stream/1
+#EXTINF:-1, La Voz Del Petróleo « Barrancabermeja - 1
+http://69.175.14.30:80/;stream
+#EXTINF:-1, Prisa - Caracol « Bogotá - 0
+http://provisioning.streamtheworld.com/pls/CARACOL_RADIOAAC.pls
+#EXTINF:-1, Prisa - Caracol « Bogotá - 1
+http://provisioning.streamtheworld.com/asx/CARACOL_RADIOAAC.asx
+#EXTINF:-1, Prisa - Caracol « Bogotá - 2
+http://provisioning.streamtheworld.com/pls/CARACOL_RADIO.pls
+#EXTINF:-1, Prisa - Caracol « Bogotá - 3
+http://provisioning.streamtheworld.com/asx/CARACOL_RADIO.asx
+#EXTINF:-1, Prisa - Caracol « Barranquilla - 0
+http://provisioning.streamtheworld.com/pls/CR_BARRANQAAC.pls
+#EXTINF:-1, Prisa - Caracol « Barranquilla - 1
+http://provisioning.streamtheworld.com/asx/CR_BARRANQAAC.asx
+#EXTINF:-1, Prisa - Caracol « Barranquilla - 2
+http://provisioning.streamtheworld.com/pls/CR_BARRANQ.pls
+#EXTINF:-1, Prisa - Caracol « Barranquilla - 3
+http://provisioning.streamtheworld.com/asx/CR_BARRANQ.asx
+#EXTINF:-1, Prisa - Caracol « Bucaramanga - 0
+http://provisioning.streamtheworld.com/pls/CR_BUCARAMAAAC.pls
+#EXTINF:-1, Prisa - Caracol « Bucaramanga - 1
+http://provisioning.streamtheworld.com/asx/CR_BUCARAMAAAC.asx
+#EXTINF:-1, Prisa - Caracol « Bucaramanga - 2
+http://provisioning.streamtheworld.com/pls/CR_BUCARAMA.pls
+#EXTINF:-1, Prisa - Caracol « Bucaramanga - 3
+http://provisioning.streamtheworld.com/asx/CR_BUCARAMA.asx
+#EXTINF:-1, Prisa - Caracol « Cali - 0
+http://provisioning.streamtheworld.com/pls/CR_CALIAAC.pls
+#EXTINF:-1, Prisa - Caracol « Cali - 1
+http://provisioning.streamtheworld.com/asx/CR_CALIAAC.asx
+#EXTINF:-1, Prisa - Caracol « Cali - 2
+http://provisioning.streamtheworld.com/pls/CR_CALI.pls
+#EXTINF:-1, Prisa - Caracol « Cali - 3
+http://provisioning.streamtheworld.com/asx/CR_CALI.asx
+#EXTINF:-1, Prisa - Caracol « Medellín - 0
+http://provisioning.streamtheworld.com/pls/CR_MEDELLINAAC.pls
+#EXTINF:-1, Prisa - Caracol « Medellín - 1
+http://provisioning.streamtheworld.com/asx/CR_MEDELLINAAC.asx
+#EXTINF:-1, Prisa - Caracol « Medellín - 2
+http://provisioning.streamtheworld.com/pls/CR_MEDELLIN.pls
+#EXTINF:-1, Prisa - Caracol « Medellín - 3
+http://provisioning.streamtheworld.com/asx/CR_MEDELLIN.asx
+#EXTINF:-1, Prisa - Caracol « Pereira - 0
+http://provisioning.streamtheworld.com/pls/CR_PEREIRAAAC.pls
+#EXTINF:-1, Prisa - Caracol « Pereira - 1
+http://provisioning.streamtheworld.com/asx/CR_PEREIRAAAC.asx
+#EXTINF:-1, Prisa - Caracol « Pereira - 2
+http://provisioning.streamtheworld.com/pls/CR_PEREIRA.pls
+#EXTINF:-1, Prisa - Caracol « Pereira - 3
+http://provisioning.streamtheworld.com/asx/CR_PEREIRA.asx
+#EXTINF:-1, Radiopolis - Candela Estéreo « Bogotá - 0
+http://playerservices.streamtheworld.com/pls/CANDELAESTEREOAAC.pls
+#EXTINF:-1, Radiopolis - Candela Estéreo « Bogotá - 1
+http://playerservices.streamtheworld.com/asx/CANDELAESTEREOAAC.asx
+#EXTINF:-1, Radiopolis - Candela Estéreo « Bogotá - 2
+http://playerservices.streamtheworld.com/pls/CANDELAESTEREO.pls
+#EXTINF:-1, Radiopolis - Candela Estéreo « Bogotá - 3
+http://playerservices.streamtheworld.com/asx/CANDELAESTEREO.asx
+#EXTINF:-1, Radiopolis - Vibra « Bogotá - 0
+http://playerservices.streamtheworld.com/pls/vibraAAC.pls
+#EXTINF:-1, Radiopolis - Vibra « Bogotá - 1
+http://playerservices.streamtheworld.com/asx/vibraAAC.asx
+#EXTINF:-1, Radiopolis - Vibra « Bogotá - 2
+http://playerservices.streamtheworld.com/pls/vibra.pls
+#EXTINF:-1, Radiopolis - Vibra « Bogotá - 3
+http://playerservices.streamtheworld.com/asx/vibra.asx
+#EXTINF:-1, Radio Digital - 0
+http://62.210.209.179:8093/live
+#EXTINF:-1, Radio Digital - 1
+http://62.210.209.179:8093/stream
+#EXTINF:-1, UIS AM « Bucaramanga
+http://emisoras.uis.edu.co:8000/mp3am
+#EXTINF:-1, UIS Estéreo « Bucaramanga
+http://emisoras.uis.edu.co:8000/vivo.ogg
+#EXTINF:-1, ConecZion Vital Radio
+http://koltorah.co:8100/;
+#EXTINF:-1, Piedemonte Stereo « Labranzagrande
+http://198.27.88.38:7010/;
+#EXTINF:-1, Exito Stereo « Firavitoba
+http://198.27.88.38:7006/;
+#EXTINF:-1, JPC Radio - Clásica
+http://198.27.88.38:7002/;
+#EXTINF:-1, JPC Radio - Encuentro Latino
+http://198.27.88.38:7020/;
+#EXTINF:-1, JPC Radio - Deportiva
+http://198.27.88.38:7004/;
+#EXTINF:-1, JPC Radio - Crossover
+http://198.27.88.38:7032/;
+#EXTINF:-1, JPC Radio - Carranguera
+http://198.27.88.38:7036/;
+#EXTINF:-1, JPC Radio - Bolero
+http://198.27.88.38:7014/;
+#EXTINF:-1, JPC Radio - Baladas Americanas
+http://198.27.88.38:7024/;
+#EXTINF:-1, JPC Radio - Balada
+http://198.27.88.38:7030/;
+#EXTINF:-1, JPC Radio - Vallenata
+http://198.27.88.38:7000/;
+#EXTINF:-1, JPC Radio - Tropical
+http://198.27.88.38:7016/;
+#EXTINF:-1, JPC Radio - Salsa
+http://198.27.88.38:7018/;
+#EXTINF:-1, JPC Radio - Reggaeton
+http://198.27.88.38:7022/;
+#EXTINF:-1, JPC Radio - Popular
+http://198.27.88.38:7012/;
+#EXTINF:-1, JPC Radio - Norteña
+http://198.27.88.38:7038/;
+#EXTINF:-1, JPC Radio - Merengue
+http://198.27.88.38:7008/;
+#EXTINF:-1, JPC Radio - Llanera
+http://198.27.88.38:7026/;
+#EXTINF:-1, JPC Radio - Latinos
+http://198.27.88.38:7028/;
+#EXTINF:-1, Radio Bolivariana FM « Medellín - 0
+http://streaming.radiobolivarianavirtual.com:7630/;
+#EXTINF:-1, Radio Bolivariana FM « Medellín - 1
+http://184.107.55.74:7630/;
+#EXTINF:-1, Radio Bolivariana AM « Medellín - 0
+http://streaming.radiobolivarianavirtual.com:7620/;
+#EXTINF:-1, Radio Bolivariana AM « Medellín - 1
+http://64.15.144.236:7620/;
+#EXTINF:-1, Unipiloto Radio - 0
+http://i50.letio.com/7224.aac
+#EXTINF:-1, Unipiloto Radio - 1
+http://i60.letio.com/7224.aac
+#EXTINF:-1, Unisucre FM Stereo « Sincelejo - 0
+http://i50.letio.com/5048.aac
+#EXTINF:-1, Unisucre FM Stereo « Sincelejo - 1
+http://i60.letio.com/5048.aac
+#EXTINF:-1, Urepublicana Radio
+http://200.69.120.170:8080/urepublicanaradio
+#EXTINF:-1, AvivaFuego Internacional - 0
+http://192.99.203.81:9015/;
+#EXTINF:-1, AvivaFuego Internacional - 1
+http://radio1.dongee.com:9015/:
+#EXTINF:-1, Ecos Del Combeima « Ibagué - 0
+http://s2.viastreaming.net:8030/
+#EXTINF:-1, Ecos Del Combeima « Ibagué - 1
+http://s2.viastreaming.net/8030/listen.asx
+#EXTINF:-1, Energía FM « Cali - 0
+http://audio1.energia1025.com:8000/;
+#EXTINF:-1, Energía FM « Cali - 1
+http://162.223.11.141:8000/;
+#EXTINF:-1, Estrella Estéreo « Medellín - 0
+http://audio.estrellacolombia.com:8006/;
+#EXTINF:-1, Estrella Estéreo « Medellín - 1
+http://68.233.236.92:8006/;
+#EXTINF:-1, Maravilla Stereo « Valledupar - 0
+http://i50.letio.com/7282.aac
+#EXTINF:-1, Maravilla Stereo « Valledupar - 1
+http://i60.letio.com/7282.aac
+#EXTINF:-1, Radio Santa Fe « Bogotá - 0
+http://real2.streaming-co.com:8227/stream
+#EXTINF:-1, Radio Santa Fe « Bogotá - 1
+http://199.217.118.14:8227/stream
+#EXTINF:-1, Radio Cristo Mi Fortaleza
+http://69.175.13.34:9974/;
+#EXTINF:-1, Enlace Hip Hop
+http://redpulsohd-server.info:9208/;
+#EXTINF:-1, Full 80s Radio - 0
+http://radio05.cehis.net:8020/stream
+#EXTINF:-1, Full 80s Radio - 1
+http://sc1.cehis.net:8020/stream
+#EXTINF:-1, La Voz De Donmatías - 0
+http://rad.radiomas.co:8000/donmatias.mp3
+#EXTINF:-1, La Voz De Donmatías - 1
+http://198.154.240.106:8000/donmatias.mp3
+#EXTINF:-1, Impacto Estéreo - 0
+http://real2.streaming-co.com:8055/;
+#EXTINF:-1, Impacto Estéreo - 1
+http://199.217.118.14:8055/;
+#EXTINF:-1, HJUT 106.9 FM Stereo « Bogotá - 0
+http://hjut.utadeo.edu.co:8000/;
+#EXTINF:-1, HJUT 106.9 FM Stereo « Bogotá - 1
+http://190.131.198.7:8000/;
+#EXTINF:-1, La U Radio Crossover - 0
+http://72.29.87.97:8008/;
+#EXTINF:-1, La U Radio Crossover - 1
+http://stream2.multistreaminghost.com/tunein.php/lauradiocrossover/playlist.pls
+#EXTINF:-1, La U Radio Crossover - 2
+http://stream2.multistreaminghost.com/tunein.php/lauradiocrossover/playlist.asx
+#EXTINF:-1, Madamia Radio
+http://162.243.13.89:8212/live
+#EXTINF:-1, Transmisora Quindío « Armenia - 0
+http://server11.shoutcheap.com:8187/;
+#EXTINF:-1, Transmisora Quindío « Armenia - 1
+http://173.236.19.90:8187/;
+#EXTINF:-1, Barrancabermeja Virtual - 0
+http://stream2.servercristianonetwork.com:8176/live
+#EXTINF:-1, Barrancabermeja Virtual - 1
+http://206.190.141.116:8176/live
+#EXTINF:-1, Radio IPUC
+http://62.210.141.243:8151/;
+#EXTINF:-1, La Voz De Amalfi
+http://rad.radiomas.co:8000/amalfi.mp3
+#EXTINF:-1, La Tropical De Colombia - 0
+http://www.pcpcomunicaciones.com:8050/;
+#EXTINF:-1, La Tropical De Colombia - 1
+http://192.95.23.135:8050/;
+#EXTINF:-1, La Vibrante
+http://62.210.141.243:8115/;
+#EXTINF:-1, MasMusica - 0
+http://server2.ejeserver.com:8720/live
+#EXTINF:-1, MasMusica - 1
+http://162.246.56.113:8720/live
+#EXTINF:-1, Olímpica Stereo « Guajira
+http://96.127.190.130:9992/;
+#EXTINF:-1, Tolima Stereo « Ibagué - 0
+http://i60.letio.com/5016.aac
+#EXTINF:-1, Tolima Stereo « Ibagué - 1
+http://i50.letio.com/5016.aac
+#EXTINF:-1, Cacica Stereo « Valledupar
+http://198.27.88.38:7062/;
+#EXTINF:-1, Cielos Abiertos Tu Radio - 0
+http://stream2.servercristianonetwork.com:8012/;
+#EXTINF:-1, Cielos Abiertos Tu Radio - 1
+http://www.servercristianonetwork.com/radios/winampcielos.m3u
+#EXTINF:-1, Cielos Abiertos Tu Radio - 2
+http://www.servercristianonetwork.com/radios/windowscielos.asx
+#EXTINF:-1, La Eje Radio - 0
+http://server2.ejeserver.com:10860/live
+#EXTINF:-1, La Eje Radio - 1
+http://162.246.56.113:10860/live
+#EXTINF:-1, La Eje Radio - 2
+http://laeje.com/listen.m3u
+#EXTINF:-1, La Eje Radio - 3
+http://laeje.com/listen.asx
+#EXTINF:-1, La Eje Radio - 4
+http://server2.ejeserver.com:10860/movil
+#EXTINF:-1, La Eje Radio - 5
+http://stream.laeje.com:10860/movil
+#EXTINF:-1, Uninorte FM Estéreo « Barranquilla - 0
+http://cactus2.uninorte.edu.co:1755/;
+#EXTINF:-1, Uninorte FM Estéreo « Barranquilla - 1
+http://190.144.170.11:1755/;
+#EXTINF:-1, UNradio Web - 0
+http://streaming.unradio.unal.edu.co:8014/;
+#EXTINF:-1, UNradio Web - 1
+http://168.176.5.22:8014/;
+#EXTINF:-1, UNradio « Medellín - 0
+http://streaming.unradio.unal.edu.co:8012/;
+#EXTINF:-1, UNradio « Medellín - 1
+http://168.176.5.22:8012/;
+#EXTINF:-1, UNradio « Bogotá - 0
+http://streaming.unradio.unal.edu.co:8010/;
+#EXTINF:-1, UNradio « Bogotá - 1
+http://168.176.5.22:8010/;
+#EXTINF:-1, RCN - La Radio « Villavicencio - 0
+http://live1.rcnmundo.com/rcnlaradiovillavicencio.mp3
+#EXTINF:-1, RCN - La Radio « Villavicencio - 1
+http://live2.rcnmundo.com/rcnlaradiovillavicencio.mp3
+#EXTINF:-1, RCN - La Radio « Villavicencio - 2
+http://live3.rcnmundo.com/rcnlaradiovillavicencio.mp3
+#EXTINF:-1, RCN - La Radio « Villavicencio - 3
+http://live4.rcnmundo.com/rcnlaradiovillavicencio.mp3
+#EXTINF:-1, RCN - La Radio « Valledupar - 0
+http://live1.rcnmundo.com/rcnlaradiovalledupar.mp3
+#EXTINF:-1, RCN - La Radio « Valledupar - 1
+http://live2.rcnmundo.com/rcnlaradiovalledupar.mp3
+#EXTINF:-1, RCN - La Radio « Valledupar - 2
+http://live3.rcnmundo.com/rcnlaradiovalledupar.mp3
+#EXTINF:-1, RCN - La Radio « Valledupar - 3
+http://live4.rcnmundo.com/rcnlaradiovalledupar.mp3
+#EXTINF:-1, RCN - La Radio « Tunja - 0
+http://live1.rcnmundo.com/rcnlaradiotunja.mp3
+#EXTINF:-1, RCN - La Radio « Tunja - 1
+http://live2.rcnmundo.com/rcnlaradiotunja.mp3
+#EXTINF:-1, RCN - La Radio « Tunja - 2
+http://live3.rcnmundo.com/rcnlaradiotunja.mp3
+#EXTINF:-1, RCN - La Radio « Tunja - 3
+http://live4.rcnmundo.com/rcnlaradiotunja.mp3
+#EXTINF:-1, RCN - La Radio « Tuluá - 0
+http://live1.rcnmundo.com/rcnlaradiotulua.mp3
+#EXTINF:-1, RCN - La Radio « Tuluá - 1
+http://live2.rcnmundo.com/rcnlaradiotulua.mp3
+#EXTINF:-1, RCN - La Radio « Tuluá - 2
+http://live3.rcnmundo.com/rcnlaradiotulua.mp3
+#EXTINF:-1, RCN - La Radio « Tuluá - 3
+http://live4.rcnmundo.com/rcnlaradiotulua.mp3
+#EXTINF:-1, RCN - La Radio « Sogamoso - 0
+http://live1.rcnmundo.com/rcnlaradiosogamoso.mp3
+#EXTINF:-1, RCN - La Radio « Sogamoso - 1
+http://live2.rcnmundo.com/rcnlaradiosogamoso.mp3
+#EXTINF:-1, RCN - La Radio « Sogamoso - 2
+http://live3.rcnmundo.com/rcnlaradiosogamoso.mp3
+#EXTINF:-1, RCN - La Radio « Sogamoso - 3
+http://live4.rcnmundo.com/rcnlaradiosogamoso.mp3
+#EXTINF:-1, RCN - La Radio « Sincelejo - 0
+http://live1.rcnmundo.com/rcnlaradiosincelejo.mp3
+#EXTINF:-1, RCN - La Radio « Sincelejo - 1
+http://live2.rcnmundo.com/rcnlaradiosincelejo.mp3
+#EXTINF:-1, RCN - La Radio « Sincelejo - 2
+http://live3.rcnmundo.com/rcnlaradiosincelejo.mp3
+#EXTINF:-1, RCN - La Radio « Sincelejo - 3
+http://live4.rcnmundo.com/rcnlaradiosincelejo.mp3
+#EXTINF:-1, RCN - La Radio « Santa Marta - 0
+http://live1.rcnmundo.com/rcnlaradiosantamarta.mp3
+#EXTINF:-1, RCN - La Radio « Santa Marta - 1
+http://live2.rcnmundo.com/rcnlaradiosantamarta.mp3
+#EXTINF:-1, RCN - La Radio « Santa Marta - 2
+http://live3.rcnmundo.com/rcnlaradiosantamarta.mp3
+#EXTINF:-1, RCN - La Radio « Santa Marta - 3
+http://live4.rcnmundo.com/rcnlaradiosantamarta.mp3
+#EXTINF:-1, RCN - La Radio « San Gil - 0
+http://live1.rcnmundo.com/rcnlaradiosangil.mp3
+#EXTINF:-1, RCN - La Radio « San Gil - 1
+http://live2.rcnmundo.com/rcnlaradiosangil.mp3
+#EXTINF:-1, RCN - La Radio « San Gil - 2
+http://live3.rcnmundo.com/rcnlaradiosangil.mp3
+#EXTINF:-1, RCN - La Radio « San Gil - 3
+http://live4.rcnmundo.com/rcnlaradiosangil.mp3
+#EXTINF:-1, RCN - La Radio « San Andrés - 0
+http://live1.rcnmundo.com/rcnlaradiosanandres.mp3
+#EXTINF:-1, RCN - La Radio « San Andrés - 1
+http://live2.rcnmundo.com/rcnlaradiosanandres.mp3
+#EXTINF:-1, RCN - La Radio « San Andrés - 2
+http://live3.rcnmundo.com/rcnlaradiosanandres.mp3
+#EXTINF:-1, RCN - La Radio « San Andrés - 3
+http://live4.rcnmundo.com/rcnlaradiosanandres.mp3
+#EXTINF:-1, RCN - La Radio « Rionegro - 0
+http://live1.rcnmundo.com/rcnlaradiorionegro.mp3
+#EXTINF:-1, RCN - La Radio « Rionegro - 1
+http://live2.rcnmundo.com/rcnlaradiorionegro.mp3
+#EXTINF:-1, RCN - La Radio « Rionegro - 2
+http://live3.rcnmundo.com/rcnlaradiorionegro.mp3
+#EXTINF:-1, RCN - La Radio « Rionegro - 3
+http://live4.rcnmundo.com/rcnlaradiorionegro.mp3
+#EXTINF:-1, RCN - La Radio « Popayán - 0
+http://live1.rcnmundo.com/rcnlaradiopopayan.mp3
+#EXTINF:-1, RCN - La Radio « Popayán - 1
+http://live2.rcnmundo.com/rcnlaradiopopayan.mp3
+#EXTINF:-1, RCN - La Radio « Popayán - 2
+http://live3.rcnmundo.com/rcnlaradiopopayan.mp3
+#EXTINF:-1, RCN - La Radio « Popayán - 3
+http://live4.rcnmundo.com/rcnlaradiopopayan.mp3
+#EXTINF:-1, RCN - La Radio « Pereira - 0
+http://live1.rcnmundo.com/rcnlaradiopereira.mp3
+#EXTINF:-1, RCN - La Radio « Pereira - 1
+http://live2.rcnmundo.com/rcnlaradiopereira.mp3
+#EXTINF:-1, RCN - La Radio « Pereira - 2
+http://live3.rcnmundo.com/rcnlaradiopereira.mp3
+#EXTINF:-1, RCN - La Radio « Pereira - 3
+http://live4.rcnmundo.com/rcnlaradiopereira.mp3
+#EXTINF:-1, RCN - La Radio « Pasto - 0
+http://live1.rcnmundo.com/rcnlaradiopasto.mp3
+#EXTINF:-1, RCN - La Radio « Pasto - 1
+http://live2.rcnmundo.com/rcnlaradiopasto.mp3
+#EXTINF:-1, RCN - La Radio « Pasto - 2
+http://live3.rcnmundo.com/rcnlaradiopasto.mp3
+#EXTINF:-1, RCN - La Radio « Pasto - 3
+http://live4.rcnmundo.com/rcnlaradiopasto.mp3
+#EXTINF:-1, RCN - La Radio « Neiva - 0
+http://live1.rcnmundo.com/rcnlaradioneiva.mp3
+#EXTINF:-1, RCN - La Radio « Neiva - 1
+http://live2.rcnmundo.com/rcnlaradioneiva.mp3
+#EXTINF:-1, RCN - La Radio « Neiva - 2
+http://live3.rcnmundo.com/rcnlaradioneiva.mp3
+#EXTINF:-1, RCN - La Radio « Neiva - 3
+http://live4.rcnmundo.com/rcnlaradioneiva.mp3
+#EXTINF:-1, RCN - La Radio « Medellín - 0
+http://live1.rcnmundo.com/rcnlaradiomedellin.mp3
+#EXTINF:-1, RCN - La Radio « Medellín - 1
+http://live2.rcnmundo.com/rcnlaradiomedellin.mp3
+#EXTINF:-1, RCN - La Radio « Medellín - 2
+http://live3.rcnmundo.com/rcnlaradiomedellin.mp3
+#EXTINF:-1, RCN - La Radio « Medellín - 3
+http://live4.rcnmundo.com/rcnlaradiomedellin.mp3
+#EXTINF:-1, RCN - La Radio « Manizales - 0
+http://live1.rcnmundo.com/rcnlaradiomanizales.mp3
+#EXTINF:-1, RCN - La Radio « Manizales - 1
+http://live2.rcnmundo.com/rcnlaradiomanizales.mp3
+#EXTINF:-1, RCN - La Radio « Manizales - 2
+http://live3.rcnmundo.com/rcnlaradiomanizales.mp3
+#EXTINF:-1, RCN - La Radio « Manizales - 3
+http://live4.rcnmundo.com/rcnlaradiomanizales.mp3
+#EXTINF:-1, RCN - La Radio « Ibagué - 0
+http://live1.rcnmundo.com/rcnlaradioibague.mp3
+#EXTINF:-1, RCN - La Radio « Ibagué - 1
+http://live2.rcnmundo.com/rcnlaradioibague.mp3
+#EXTINF:-1, RCN - La Radio « Ibagué - 2
+http://live3.rcnmundo.com/rcnlaradioibague.mp3
+#EXTINF:-1, RCN - La Radio « Ibagué - 3
+http://live4.rcnmundo.com/rcnlaradioibague.mp3
+#EXTINF:-1, RCN - La Radio « Girardot - 0
+http://live1.rcnmundo.com/rcnlaradiogirardot.mp3
+#EXTINF:-1, RCN - La Radio « Girardot - 1
+http://live2.rcnmundo.com/rcnlaradiogirardot.mp3
+#EXTINF:-1, RCN - La Radio « Girardot - 2
+http://live3.rcnmundo.com/rcnlaradiogirardot.mp3
+#EXTINF:-1, RCN - La Radio « Girardot - 3
+http://live4.rcnmundo.com/rcnlaradiogirardot.mp3
+#EXTINF:-1, RCN - La Radio « Cartagena - 0
+http://live1.rcnmundo.com/rcnlaradiocartagena.mp3
+#EXTINF:-1, RCN - La Radio « Cartagena - 1
+http://live2.rcnmundo.com/rcnlaradiocartagena.mp3
+#EXTINF:-1, RCN - La Radio « Cartagena - 2
+http://live3.rcnmundo.com/rcnlaradiocartagena.mp3
+#EXTINF:-1, RCN - La Radio « Cartagena - 3
+http://live4.rcnmundo.com/rcnlaradiocartagena.mp3
+#EXTINF:-1, RCN - La Radio « Buenaventura - 0
+http://live1.rcnmundo.com/rcnlaradiobuenaventura.mp3
+#EXTINF:-1, RCN - La Radio « Buenaventura - 1
+http://live2.rcnmundo.com/rcnlaradiobuenaventura.mp3
+#EXTINF:-1, RCN - La Radio « Buenaventura - 2
+http://live3.rcnmundo.com/rcnlaradiobuenaventura.mp3
+#EXTINF:-1, RCN - La Radio « Buenaventura - 3
+http://live4.rcnmundo.com/rcnlaradiobuenaventura.mp3
+#EXTINF:-1, RCN - La Radio « Bucaramanga - 0
+http://live1.rcnmundo.com/rcnlaradiobucaramanga.mp3
+#EXTINF:-1, RCN - La Radio « Bucaramanga - 1
+http://live2.rcnmundo.com/rcnlaradiobucaramanga.mp3
+#EXTINF:-1, RCN - La Radio « Bucaramanga - 2
+http://live3.rcnmundo.com/rcnlaradiobucaramanga.mp3
+#EXTINF:-1, RCN - La Radio « Bucaramanga - 3
+http://live4.rcnmundo.com/rcnlaradiobucaramanga.mp3
+#EXTINF:-1, RCN - La Radio « Bogotá - 0
+http://live1.rcnmundo.com/rcnlaradio.mp3
+#EXTINF:-1, RCN - La Radio « Bogotá - 1
+http://live2.rcnmundo.com/rcnlaradio.mp3
+#EXTINF:-1, RCN - La Radio « Bogotá - 2
+http://live3.rcnmundo.com/rcnlaradio.mp3
+#EXTINF:-1, RCN - La Radio « Bogotá - 3
+http://live4.rcnmundo.com/rcnlaradio.mp3
+#EXTINF:-1, RCN - La Radio « Barranquilla - 0
+http://live1.rcnmundo.com/rcnlaradiobarranquilla.mp3
+#EXTINF:-1, RCN - La Radio « Barranquilla - 1
+http://live2.rcnmundo.com/rcnlaradiobarranquilla.mp3
+#EXTINF:-1, RCN - La Radio « Barranquilla - 2
+http://live3.rcnmundo.com/rcnlaradiobarranquilla.mp3
+#EXTINF:-1, RCN - La Radio « Barranquilla - 3
+http://live4.rcnmundo.com/rcnlaradiobarranquilla.mp3
+#EXTINF:-1, RCN - La Radio « Barbosa - 0
+http://live1.rcnmundo.com/rcnlaradiobarbosa.mp3
+#EXTINF:-1, RCN - La Radio « Barbosa - 1
+http://live2.rcnmundo.com/rcnlaradiobarbosa.mp3
+#EXTINF:-1, RCN - La Radio « Barbosa - 2
+http://live3.rcnmundo.com/rcnlaradiobarbosa.mp3
+#EXTINF:-1, RCN - La Radio « Barbosa - 3
+http://live4.rcnmundo.com/rcnlaradiobarbosa.mp3
+#EXTINF:-1, RCN - La Radio « Armenia - 0
+http://live1.rcnmundo.com/rcnlaradioarmenia.mp3
+#EXTINF:-1, RCN - La Radio « Armenia - 1
+http://live2.rcnmundo.com/rcnlaradioarmenia.mp3
+#EXTINF:-1, RCN - La Radio « Armenia - 2
+http://live3.rcnmundo.com/rcnlaradioarmenia.mp3
+#EXTINF:-1, RCN - La Radio « Armenia - 3
+http://live4.rcnmundo.com/rcnlaradioarmenia.mp3
+#EXTINF:-1, RCN - Fantástica « Medellín - 0
+http://live1.rcnmundo.com/fantasticamedellin.mp3
+#EXTINF:-1, RCN - Fantástica « Medellín - 1
+http://live2.rcnmundo.com/fantasticamedellin.mp3
+#EXTINF:-1, RCN - Fantástica « Medellín - 2
+http://live3.rcnmundo.com/fantasticamedellin.mp3
+#EXTINF:-1, RCN - Fantástica « Medellín - 3
+http://live4.rcnmundo.com/fantasticamedellin.mp3
+#EXTINF:-1, RCN - Fantástica « Bogotá - 0
+http://live1.rcnmundo.com/fantastica.mp3
+#EXTINF:-1, RCN - Fantástica « Bogotá - 1
+http://live2.rcnmundo.com/fantastica.mp3
+#EXTINF:-1, RCN - Fantástica « Bogotá - 2
+http://live3.rcnmundo.com/fantastica.mp3
+#EXTINF:-1, RCN - Fantástica « Bogotá - 3
+http://live4.rcnmundo.com/fantastica.mp3
+#EXTINF:-1, RCN - Radio Red « Medellín - 0
+http://live1.rcnmundo.com/radioredmedellin.mp3
+#EXTINF:-1, RCN - Radio Red « Medellín - 1
+http://live2.rcnmundo.com/radioredmedellin.mp3
+#EXTINF:-1, RCN - Radio Red « Medellín - 2
+http://live3.rcnmundo.com/radioredmedellin.mp3
+#EXTINF:-1, RCN - Radio Red « Medellín - 3
+http://live4.rcnmundo.com/radioredmedellin.mp3
+#EXTINF:-1, RCN - Radio Red « Bogotá - 0
+http://live1.rcnmundo.com/radiored.mp3
+#EXTINF:-1, RCN - Radio Red « Bogotá - 1
+http://live2.rcnmundo.com/radiored.mp3
+#EXTINF:-1, RCN - Radio Red « Bogotá - 2
+http://live3.rcnmundo.com/radiored.mp3
+#EXTINF:-1, RCN - Radio Red « Bogotá - 3
+http://live4.rcnmundo.com/radiored.mp3
+#EXTINF:-1, RCN - Cristal « Sevilla - 0
+http://live1.rcnmundo.com/radiocristalsevilla.mp3
+#EXTINF:-1, RCN - Cristal « Sevilla - 1
+http://live2.rcnmundo.com/radiocristalsevilla.mp3
+#EXTINF:-1, RCN - Cristal « Sevilla - 2
+http://live3.rcnmundo.com/radiocristalsevilla.mp3
+#EXTINF:-1, RCN - Cristal « Sevilla - 3
+http://live4.rcnmundo.com/radiocristalsevilla.mp3
+#EXTINF:-1, RCN - Antena 2 « Pereira - 0
+http://live1.rcnmundo.com/antena2pereira.mp3
+#EXTINF:-1, RCN - Antena 2 « Pereira - 1
+http://live2.rcnmundo.com/antena2pereira.mp3
+#EXTINF:-1, RCN - Antena 2 « Pereira - 2
+http://live3.rcnmundo.com/antena2pereira.mp3
+#EXTINF:-1, RCN - Antena 2 « Pereira - 3
+http://live4.rcnmundo.com/antena2pereira.mp3
+#EXTINF:-1, RCN - Antena 2 « Medellín - 0
+http://live1.rcnmundo.com/antena2medellin.mp3
+#EXTINF:-1, RCN - Antena 2 « Medellín - 1
+http://live2.rcnmundo.com/antena2medellin.mp3
+#EXTINF:-1, RCN - Antena 2 « Medellín - 2
+http://live3.rcnmundo.com/antena2medellin.mp3
+#EXTINF:-1, RCN - Antena 2 « Medellín - 3
+http://live4.rcnmundo.com/antena2medellin.mp3
+#EXTINF:-1, RCN - La FM « Neiva - 0
+http://live1.rcnmundo.com/lafmneiva.mp3
+#EXTINF:-1, RCN - La FM « Neiva - 1
+http://live2.rcnmundo.com/lafmneiva.mp3
+#EXTINF:-1, RCN - La FM « Neiva - 2
+http://live3.rcnmundo.com/lafmneiva.mp3
+#EXTINF:-1, RCN - La FM « Neiva - 3
+http://live4.rcnmundo.com/lafmneiva.mp3
+#EXTINF:-1, RCN - La FM « Medellín - 0
+http://live1.rcnmundo.com/lafmmedellin.mp3
+#EXTINF:-1, RCN - La FM « Medellín - 1
+http://live2.rcnmundo.com/lafmmedellin.mp3
+#EXTINF:-1, RCN - La FM « Medellín - 2
+http://live3.rcnmundo.com/lafmmedellin.mp3
+#EXTINF:-1, RCN - La FM « Medellín - 3
+http://live4.rcnmundo.com/lafmmedellin.mp3
+#EXTINF:-1, RCN - La FM « Manizales - 0
+http://live1.rcnmundo.com/lafmmanizales.mp3
+#EXTINF:-1, RCN - La FM « Manizales - 1
+http://live2.rcnmundo.com/lafmmanizales.mp3
+#EXTINF:-1, RCN - La FM « Manizales - 2
+http://live3.rcnmundo.com/lafmmanizales.mp3
+#EXTINF:-1, RCN - La FM « Manizales - 3
+http://live4.rcnmundo.com/lafmmanizales.mp3
+#EXTINF:-1, RCN - La FM « Fusagasugá - 0
+http://live1.rcnmundo.com/lafmfusa.mp3
+#EXTINF:-1, RCN - La FM « Fusagasugá - 1
+http://live2.rcnmundo.com/lafmfusa.mp3
+#EXTINF:-1, RCN - La FM « Fusagasugá - 2
+http://live3.rcnmundo.com/lafmfusa.mp3
+#EXTINF:-1, RCN - La FM « Fusagasugá - 3
+http://live4.rcnmundo.com/lafmfusa.mp3
+#EXTINF:-1, RCN - La FM « Eje Cafetero - 0
+http://live1.rcnmundo.com/lafmdeleje.mp3
+#EXTINF:-1, RCN - La FM « Eje Cafetero - 1
+http://live2.rcnmundo.com/lafmdeleje.mp3
+#EXTINF:-1, RCN - La FM « Eje Cafetero - 2
+http://live3.rcnmundo.com/lafmdeleje.mp3
+#EXTINF:-1, RCN - La FM « Eje Cafetero - 3
+http://live4.rcnmundo.com/lafmdeleje.mp3
+#EXTINF:-1, RCN - La FM « Cúcuta - 0
+http://live1.rcnmundo.com/lafmcucuta.mp3
+#EXTINF:-1, RCN - La FM « Cúcuta - 1
+http://live2.rcnmundo.com/lafmcucuta.mp3
+#EXTINF:-1, RCN - La FM « Cúcuta - 2
+http://live3.rcnmundo.com/lafmcucuta.mp3
+#EXTINF:-1, RCN - La FM « Cúcuta - 3
+http://live4.rcnmundo.com/lafmcucuta.mp3
+#EXTINF:-1, RCN - La FM « Bucaramanga - 0
+http://live1.rcnmundo.com/lafmbucaramanga.mp3
+#EXTINF:-1, RCN - La FM « Bucaramanga - 1
+http://live2.rcnmundo.com/lafmbucaramanga.mp3
+#EXTINF:-1, RCN - La FM « Bucaramanga - 2
+http://live3.rcnmundo.com/lafmbucaramanga.mp3
+#EXTINF:-1, RCN - La FM « Bucaramanga - 3
+http://live4.rcnmundo.com/lafmbucaramanga.mp3
+#EXTINF:-1, RCN - La FM « Boyacá - 0
+http://live1.rcnmundo.com/lafmduitama.mp3
+#EXTINF:-1, RCN - La FM « Boyacá - 1
+http://live2.rcnmundo.com/lafmduitama.mp3
+#EXTINF:-1, RCN - La FM « Boyacá - 2
+http://live3.rcnmundo.com/lafmduitama.mp3
+#EXTINF:-1, RCN - La FM « Boyacá - 3
+http://live4.rcnmundo.com/lafmduitama.mp3
+#EXTINF:-1, RCN - La Radio « Apartadó - 0
+http://live1.rcnmundo.com/rcnlaradioapartado.mp3
+#EXTINF:-1, RCN - La Radio « Apartadó - 1
+http://live2.rcnmundo.com/rcnlaradioapartado.mp3
+#EXTINF:-1, RCN - La Radio « Apartadó - 2
+http://live3.rcnmundo.com/rcnlaradioapartado.mp3
+#EXTINF:-1, RCN - La Radio « Apartadó - 3
+http://live4.rcnmundo.com/rcnlaradioapartado.mp3
+#EXTINF:-1, RCN La Mega Retro - 0
+http://live1.rcnmundo.com/lamegaretro.mp3
+#EXTINF:-1, RCN La Mega Retro - 1
+http://live2.rcnmundo.com/lamegaretro.mp3
+#EXTINF:-1, RCN La Mega Retro - 2
+http://live3.rcnmundo.com/lamegaretro.mp3
+#EXTINF:-1, RCN La Mega Retro - 3
+http://live4.rcnmundo.com/lamegaretro.mp3
+#EXTINF:-1, RCN La Mega Plus - 0
+http://live1.rcnmundo.com/lamegaplus.mp3
+#EXTINF:-1, RCN La Mega Plus - 1
+http://live2.rcnmundo.com/lamegaplus.mp3
+#EXTINF:-1, RCN La Mega Plus - 2
+http://live3.rcnmundo.com/lamegaplus.mp3
+#EXTINF:-1, RCN La Mega Plus - 3
+http://live4.rcnmundo.com/lamegaplus.mp3
+#EXTINF:-1, RCN La Mega Electro - 0
+http://live1.rcnmundo.com/lamegaelectro.mp3
+#EXTINF:-1, RCN La Mega Electro - 1
+http://live2.rcnmundo.com/lamegaelectro.mp3
+#EXTINF:-1, RCN La Mega Electro - 2
+http://live3.rcnmundo.com/lamegaelectro.mp3
+#EXTINF:-1, RCN La Mega Electro - 3
+http://live4.rcnmundo.com/lamegaelectro.mp3
+#EXTINF:-1, RCN Rumba Y Bembe - 0
+http://live1.rcnmundo.com/rumbaybembe.mp3
+#EXTINF:-1, RCN Rumba Y Bembe - 1
+http://live2.rcnmundo.com/rumbaybembe.mp3
+#EXTINF:-1, RCN Rumba Y Bembe - 2
+http://live3.rcnmundo.com/rumbaybembe.mp3
+#EXTINF:-1, RCN Rumba Y Bembe - 3
+http://live4.rcnmundo.com/rumbaybembe.mp3
+#EXTINF:-1, RCN Ochentera - 0
+http://live1.rcnmundo.com/ochentera.mp3
+#EXTINF:-1, RCN Ochentera - 1
+http://live2.rcnmundo.com/ochentera.mp3
+#EXTINF:-1, RCN Ochentera - 2
+http://live3.rcnmundo.com/ochentera.mp3
+#EXTINF:-1, RCN Ochentera - 3
+http://live4.rcnmundo.com/ochentera.mp3
+#EXTINF:-1, RCN Colombianisima - 0
+http://live1.rcnmundo.com/colombianisima.mp3
+#EXTINF:-1, RCN Colombianisima - 1
+http://live2.rcnmundo.com/colombianisima.mp3
+#EXTINF:-1, RCN Colombianisima - 2
+http://live3.rcnmundo.com/colombianisima.mp3
+#EXTINF:-1, RCN Colombianisima - 3
+http://live4.rcnmundo.com/colombianisima.mp3
+#EXTINF:-1, RCN Clásica - 0
+http://live1.rcnmundo.com/rcnclasica.mp3
+#EXTINF:-1, RCN Clásica - 1
+http://live2.rcnmundo.com/rcnclasica.mp3
+#EXTINF:-1, RCN Clásica - 2
+http://live3.rcnmundo.com/rcnclasica.mp3
+#EXTINF:-1, RCN Clásica - 3
+http://live4.rcnmundo.com/rcnclasica.mp3
+#EXTINF:-1, RCN Bolero - 0
+http://live1.rcnmundo.com/bolero.mp3
+#EXTINF:-1, RCN Bolero - 1
+http://live2.rcnmundo.com/bolero.mp3
+#EXTINF:-1, RCN Bolero - 2
+http://live3.rcnmundo.com/bolero.mp3
+#EXTINF:-1, RCN Bolero - 3
+http://live4.rcnmundo.com/bolero.mp3
+#EXTINF:-1, RCN La FM Pop Latino - 0
+http://live1.rcnmundo.com/lafmpoplatino.mp3
+#EXTINF:-1, RCN La FM Pop Latino - 1
+http://live2.rcnmundo.com/lafmpoplatino.mp3
+#EXTINF:-1, RCN La FM Pop Latino - 2
+http://live3.rcnmundo.com/lafmpoplatino.mp3
+#EXTINF:-1, RCN La FM Pop Latino - 3
+http://live4.rcnmundo.com/lafmpoplatino.mp3
+#EXTINF:-1, RCN La FM Anglo - 0
+http://live1.rcnmundo.com/lafmmusicabogota.mp3
+#EXTINF:-1, RCN La FM Anglo - 1
+http://live2.rcnmundo.com/lafmmusicabogota.mp3
+#EXTINF:-1, RCN La FM Anglo - 2
+http://live3.rcnmundo.com/lafmmusicabogota.mp3
+#EXTINF:-1, RCN La FM Anglo - 3
+http://live4.rcnmundo.com/lafmmusicabogota.mp3
+#EXTINF:-1, RCN - Rumba « Bucaramanga - 0
+http://live1.rcnmundo.com/rumbabucaramanga.mp3
+#EXTINF:-1, RCN - Rumba « Bucaramanga - 1
+http://live2.rcnmundo.com/rumbabucaramanga.mp3
+#EXTINF:-1, RCN - Rumba « Bucaramanga - 2
+http://live3.rcnmundo.com/rumbabucaramanga.mp3
+#EXTINF:-1, RCN - Rumba « Bucaramanga - 3
+http://live4.rcnmundo.com/rumbabucaramanga.mp3
+#EXTINF:-1, RCN - Rumba « Barrancabermeja - 0
+http://live1.rcnmundo.com/rumbabarranca.mp3
+#EXTINF:-1, RCN - Rumba « Barrancabermeja - 1
+http://live2.rcnmundo.com/rumbabarranca.mp3
+#EXTINF:-1, RCN - Rumba « Barrancabermeja - 2
+http://live3.rcnmundo.com/rumbabarranca.mp3
+#EXTINF:-1, RCN - Rumba « Barrancabermeja - 3
+http://live4.rcnmundo.com/rumbabarranca.mp3
+#EXTINF:-1, RCN - La Cariñosa « Tuluá - 0
+http://live1.rcnmundo.com/lacarinosatulua.mp3
+#EXTINF:-1, RCN - La Cariñosa « Tuluá - 1
+http://live2.rcnmundo.com/lacarinosatulua.mp3
+#EXTINF:-1, RCN - La Cariñosa « Tuluá - 2
+http://live3.rcnmundo.com/lacarinosatulua.mp3
+#EXTINF:-1, RCN - La Cariñosa « Tuluá - 3
+http://live4.rcnmundo.com/lacarinosatulua.mp3
+#EXTINF:-1, RCN - La Cariñosa « Pereira - 0
+http://live1.rcnmundo.com/lacarinosapereira.mp3
+#EXTINF:-1, RCN - La Cariñosa « Pereira - 1
+http://live2.rcnmundo.com/lacarinosapereira.mp3
+#EXTINF:-1, RCN - La Cariñosa « Pereira - 2
+http://live3.rcnmundo.com/lacarinosapereira.mp3
+#EXTINF:-1, RCN - La Cariñosa « Pereira - 3
+http://live4.rcnmundo.com/lacarinosapereira.mp3
+#EXTINF:-1, RCN - La Mega « San Andrés - 0
+http://live1.rcnmundo.com/lamegasanandres.mp3
+#EXTINF:-1, RCN - La Mega « San Andrés - 1
+http://live2.rcnmundo.com/lamegasanandres.mp3
+#EXTINF:-1, RCN - La Mega « San Andrés - 2
+http://live3.rcnmundo.com/lamegasanandres.mp3
+#EXTINF:-1, RCN - La Mega « San Andrés - 3
+http://live4.rcnmundo.com/lamegasanandres.mp3
+#EXTINF:-1, RCN - La Mega « Medellín - 0
+http://live1.rcnmundo.com/lamegamedellin.mp3
+#EXTINF:-1, RCN - La Mega « Medellín - 1
+http://live2.rcnmundo.com/lamegamedellin.mp3
+#EXTINF:-1, RCN - La Mega « Medellín - 2
+http://live3.rcnmundo.com/lamegamedellin.mp3
+#EXTINF:-1, RCN - La Mega « Medellín - 3
+http://live4.rcnmundo.com/lamegamedellin.mp3
+#EXTINF:-1, RCN - La Mega « Ibagué - 0
+http://live1.rcnmundo.com/lamegaibague.mp3
+#EXTINF:-1, RCN - La Mega « Ibagué - 1
+http://live2.rcnmundo.com/lamegaibague.mp3
+#EXTINF:-1, RCN - La Mega « Ibagué - 2
+http://live3.rcnmundo.com/lamegaibague.mp3
+#EXTINF:-1, RCN - La Mega « Ibagué - 3
+http://live4.rcnmundo.com/lamegaibague.mp3
+#EXTINF:-1, RCN - La Mega « Cúcuta - 0
+http://live1.rcnmundo.com/lamegacucuta.mp3
+#EXTINF:-1, RCN - La Mega « Cúcuta - 1
+http://live2.rcnmundo.com/lamegacucuta.mp3
+#EXTINF:-1, RCN - La Mega « Cúcuta - 2
+http://live3.rcnmundo.com/lamegacucuta.mp3
+#EXTINF:-1, RCN - La Mega « Cúcuta - 3
+http://live4.rcnmundo.com/lamegacucuta.mp3
+#EXTINF:-1, RCN - La Mega « Cartagena - 0
+http://live1.rcnmundo.com/lamegacartagena.mp3
+#EXTINF:-1, RCN - La Mega « Cartagena - 1
+http://live2.rcnmundo.com/lamegacartagena.mp3
+#EXTINF:-1, RCN - La Mega « Cartagena - 2
+http://live3.rcnmundo.com/lamegacartagena.mp3
+#EXTINF:-1, RCN - La Mega « Cartagena - 3
+http://live4.rcnmundo.com/lamegacartagena.mp3
+#EXTINF:-1, RCN - La Mega « Bucaramanga - 0
+http://live1.rcnmundo.com/lamegabucaramanga.mp3
+#EXTINF:-1, RCN - La Mega « Bucaramanga - 1
+http://live2.rcnmundo.com/lamegabucaramanga.mp3
+#EXTINF:-1, RCN - La Mega « Bucaramanga - 2
+http://live3.rcnmundo.com/lamegabucaramanga.mp3
+#EXTINF:-1, RCN - La Mega « Bucaramanga - 3
+http://live4.rcnmundo.com/lamegabucaramanga.mp3
+#EXTINF:-1, RCN - La Mega « Barranquilla - 0
+http://live1.rcnmundo.com/lamegabarranquilla.mp3
+#EXTINF:-1, RCN - La Mega « Barranquilla - 1
+http://live2.rcnmundo.com/lamegabarranquilla.mp3
+#EXTINF:-1, RCN - La Mega « Barranquilla - 2
+http://live3.rcnmundo.com/lamegabarranquilla.mp3
+#EXTINF:-1, RCN - La Mega « Barranquilla - 3
+http://live4.rcnmundo.com/lamegabarranquilla.mp3
+#EXTINF:-1, RCN - La Mega « Armenia - 0
+http://live1.rcnmundo.com/lamegaarmenia.mp3
+#EXTINF:-1, RCN - La Mega « Armenia - 1
+http://live2.rcnmundo.com/lamegaarmenia.mp3
+#EXTINF:-1, RCN - La Mega « Armenia - 2
+http://live3.rcnmundo.com/lamegaarmenia.mp3
+#EXTINF:-1, RCN - La Mega « Armenia - 3
+http://live4.rcnmundo.com/lamegaarmenia.mp3
+#EXTINF:-1, RCN - La Mega « Villavicencio - 0
+http://live1.rcnmundo.com/lamegavillavicencio.mp3
+#EXTINF:-1, RCN - La Mega « Villavicencio - 1
+http://live2.rcnmundo.com/lamegavillavicencio.mp3
+#EXTINF:-1, RCN - La Mega « Villavicencio - 2
+http://live3.rcnmundo.com/lamegavillavicencio.mp3
+#EXTINF:-1, RCN - La Mega « Villavicencio - 3
+http://live4.rcnmundo.com/lamegavillavicencio.mp3
+#EXTINF:-1, RCN - La Mega « Popayán - 0
+http://live1.rcnmundo.com/lamegapopayan.mp3
+#EXTINF:-1, RCN - La Mega « Popayán - 1
+http://live2.rcnmundo.com/lamegapopayan.mp3
+#EXTINF:-1, RCN - La Mega « Popayán - 2
+http://live3.rcnmundo.com/lamegapopayan.mp3
+#EXTINF:-1, RCN - La Mega « Popayán - 3
+http://live4.rcnmundo.com/lamegapopayan.mp3
+#EXTINF:-1, RCN - La Mega « Pereira - 0
+http://live1.rcnmundo.com/lamegapereira.mp3
+#EXTINF:-1, RCN - La Mega « Pereira - 1
+http://live2.rcnmundo.com/lamegapereira.mp3
+#EXTINF:-1, RCN - La Mega « Pereira - 2
+http://live3.rcnmundo.com/lamegapereira.mp3
+#EXTINF:-1, RCN - La Mega « Pereira - 3
+http://live4.rcnmundo.com/lamegapereira.mp3
+#EXTINF:-1, RCN - La Mega « Neiva - 0
+http://live1.rcnmundo.com/lameganeiva.mp3
+#EXTINF:-1, RCN - La Mega « Neiva - 1
+http://live2.rcnmundo.com/lameganeiva.mp3
+#EXTINF:-1, RCN - La Mega « Neiva - 2
+http://live3.rcnmundo.com/lameganeiva.mp3
+#EXTINF:-1, RCN - La Mega « Neiva - 3
+http://live4.rcnmundo.com/lameganeiva.mp3
+#EXTINF:-1, RCN - La Mega « Manizales - 0
+http://live1.rcnmundo.com/lamegamanizales.mp3
+#EXTINF:-1, RCN - La Mega « Manizales - 1
+http://live2.rcnmundo.com/lamegamanizales.mp3
+#EXTINF:-1, RCN - La Mega « Manizales - 2
+http://live3.rcnmundo.com/lamegamanizales.mp3
+#EXTINF:-1, RCN - La Mega « Manizales - 3
+http://live4.rcnmundo.com/lamegamanizales.mp3
+#EXTINF:-1, RCN - La Mega « Girardot - 0
+http://live1.rcnmundo.com/lamegagirardot.mp3
+#EXTINF:-1, RCN - La Mega « Girardot - 1
+http://live2.rcnmundo.com/lamegagirardot.mp3
+#EXTINF:-1, RCN - La Mega « Girardot - 2
+http://live3.rcnmundo.com/lamegagirardot.mp3
+#EXTINF:-1, RCN - La Mega « Girardot - 3
+http://live4.rcnmundo.com/lamegagirardot.mp3
+#EXTINF:-1, RCN Rumba Choke - 0
+http://live1.rcnmundo.com/rumbachoke.mp3
+#EXTINF:-1, RCN Rumba Choke - 1
+http://live2.rcnmundo.com/rumbachoke.mp3
+#EXTINF:-1, RCN Rumba Choke - 2
+http://live3.rcnmundo.com/rumbachoke.mp3
+#EXTINF:-1, RCN Rumba Choke - 3
+http://live4.rcnmundo.com/rumbachoke.mp3
+#EXTINF:-1, RCN - Rumba « Caucasia - 0
+http://live1.rcnmundo.com/rumbacaucasia.mp3
+#EXTINF:-1, RCN - Rumba « Caucasia - 1
+http://live2.rcnmundo.com/rumbacaucasia.mp3
+#EXTINF:-1, RCN - Rumba « Caucasia - 2
+http://live3.rcnmundo.com/rumbacaucasia.mp3
+#EXTINF:-1, RCN - Rumba « Caucasia - 3
+http://live4.rcnmundo.com/rumbacaucasia.mp3
+#EXTINF:-1, RCN - Radio 1 « Bogotá - 0
+http://live1.rcnmundo.com/radiouno.mp3
+#EXTINF:-1, RCN - Radio 1 « Bogotá - 1
+http://live2.rcnmundo.com/radiouno.mp3
+#EXTINF:-1, RCN - Radio 1 « Bogotá - 2
+http://live3.rcnmundo.com/radiouno.mp3
+#EXTINF:-1, RCN - Radio 1 « Bogotá - 3
+http://live4.rcnmundo.com/radiouno.mp3
+#EXTINF:-1, RCN - Radio 1 « Bucaramanga - 0
+http://live1.rcnmundo.com/radiounobucaramanga.mp3
+#EXTINF:-1, RCN - Radio 1 « Bucaramanga - 1
+http://live2.rcnmundo.com/radiounobucaramanga.mp3
+#EXTINF:-1, RCN - Radio 1 « Bucaramanga - 2
+http://live3.rcnmundo.com/radiounobucaramanga.mp3
+#EXTINF:-1, RCN - Radio 1 « Bucaramanga - 3
+http://live4.rcnmundo.com/radiounobucaramanga.mp3
+#EXTINF:-1, RCN - Radio 1 « Medellín - 0
+http://live1.rcnmundo.com/radiounomedellin.mp3
+#EXTINF:-1, RCN - Radio 1 « Medellín - 1
+http://live2.rcnmundo.com/radiounomedellin.mp3
+#EXTINF:-1, RCN - Radio 1 « Medellín - 2
+http://live3.rcnmundo.com/radiounomedellin.mp3
+#EXTINF:-1, RCN - Radio 1 « Medellín - 3
+http://live4.rcnmundo.com/radiounomedellin.mp3
+#EXTINF:-1, RCN - Radio 1 « Villapinzón - 0
+http://live1.rcnmundo.com/radiouno.mp3
+#EXTINF:-1, RCN - Radio 1 « Villapinzón - 1
+http://live2.rcnmundo.com/radiouno.mp3
+#EXTINF:-1, RCN - Radio 1 « Villapinzón - 2
+http://live3.rcnmundo.com/radiouno.mp3
+#EXTINF:-1, RCN - Radio 1 « Villapinzón - 3
+http://live4.rcnmundo.com/radiouno.mp3
+#EXTINF:-1, RCN Kids - 0
+http://live1.rcnmundo.com/rcnkids.mp3
+#EXTINF:-1, RCN Kids - 1
+http://live2.rcnmundo.com/rcnkids.mp3
+#EXTINF:-1, RCN Kids - 2
+http://live3.rcnmundo.com/rcnkids.mp3
+#EXTINF:-1, RCN Kids - 3
+http://live4.rcnmundo.com/rcnkids.mp3
+#EXTINF:-1, RCN - Radio 1 « Pereira - 0
+http://live1.rcnmundo.com/radiounopereira.mp3
+#EXTINF:-1, RCN - Radio 1 « Pereira - 1
+http://live2.rcnmundo.com/radiounopereira.mp3
+#EXTINF:-1, RCN - Radio 1 « Pereira - 2
+http://live3.rcnmundo.com/radiounopereira.mp3
+#EXTINF:-1, RCN - Radio 1 « Pereira - 3
+http://live4.rcnmundo.com/radiounopereira.mp3
+#EXTINF:-1, RCN - Radio 1 « Manizales - 0
+http://live1.rcnmundo.com/radiounomanizales.mp3
+#EXTINF:-1, RCN - Radio 1 « Manizales - 1
+http://live2.rcnmundo.com/radiounomanizales.mp3
+#EXTINF:-1, RCN - Radio 1 « Manizales - 2
+http://live3.rcnmundo.com/radiounomanizales.mp3
+#EXTINF:-1, RCN - Radio 1 « Manizales - 3
+http://live4.rcnmundo.com/radiounomanizales.mp3
+#EXTINF:-1, RCN - Radio 1 « La Ceja - 0
+http://live1.rcnmundo.com/radiounolaceja.mp3
+#EXTINF:-1, RCN - Radio 1 « La Ceja - 1
+http://live2.rcnmundo.com/radiounolaceja.mp3
+#EXTINF:-1, RCN - Radio 1 « La Ceja - 2
+http://live3.rcnmundo.com/radiounolaceja.mp3
+#EXTINF:-1, RCN - Radio 1 « La Ceja - 3
+http://live4.rcnmundo.com/radiounolaceja.mp3
+#EXTINF:-1, RCN - Radio 1 « Ibagué - 0
+http://live1.rcnmundo.com/radiounoibague.mp3
+#EXTINF:-1, RCN - Radio 1 « Ibagué - 1
+http://live2.rcnmundo.com/radiounoibague.mp3
+#EXTINF:-1, RCN - Radio 1 « Ibagué - 2
+http://live3.rcnmundo.com/radiounoibague.mp3
+#EXTINF:-1, RCN - Radio 1 « Ibagué - 3
+http://live4.rcnmundo.com/radiounoibague.mp3
+#EXTINF:-1, RCN - La FM « Ibagué - 0
+http://live1.rcnmundo.com/lafmibague.mp3
+#EXTINF:-1, RCN - La FM « Ibagué - 1
+http://live2.rcnmundo.com/lafmibague.mp3
+#EXTINF:-1, RCN - La FM « Ibagué - 2
+http://live3.rcnmundo.com/lafmibague.mp3
+#EXTINF:-1, RCN - La FM « Ibagué - 3
+http://live4.rcnmundo.com/lafmibague.mp3
+#EXTINF:-1, RCN - Cristal « Medellín - 0
+http://live1.rcnmundo.com/radiocristal.mp3
+#EXTINF:-1, RCN - Cristal « Medellín - 1
+http://live2.rcnmundo.com/radiocristal.mp3
+#EXTINF:-1, RCN - Cristal « Medellín - 2
+http://live3.rcnmundo.com/radiocristal.mp3
+#EXTINF:-1, RCN - Cristal « Medellín - 3
+http://live4.rcnmundo.com/radiocristal.mp3
+#EXTINF:-1, RCN - La Cariñosa « Medellín - 0
+http://live1.rcnmundo.com/radiopaisa.mp3
+#EXTINF:-1, RCN - La Cariñosa « Medellín - 1
+http://live2.rcnmundo.com/radiopaisa.mp3
+#EXTINF:-1, RCN - La Cariñosa « Medellín - 2
+http://live3.rcnmundo.com/radiopaisa.mp3
+#EXTINF:-1, RCN - La Cariñosa « Medellín - 3
+http://live4.rcnmundo.com/radiopaisa.mp3
+#EXTINF:-1, RCN - La Cariñosa « Bucaramanga - 0
+http://live1.rcnmundo.com/lacarinosabucaramanga.mp3
+#EXTINF:-1, RCN - La Cariñosa « Bucaramanga - 1
+http://live2.rcnmundo.com/lacarinosabucaramanga.mp3
+#EXTINF:-1, RCN - La Cariñosa « Bucaramanga - 2
+http://live3.rcnmundo.com/lacarinosabucaramanga.mp3
+#EXTINF:-1, RCN - La Cariñosa « Bucaramanga - 3
+http://live4.rcnmundo.com/lacarinosabucaramanga.mp3
+#EXTINF:-1, RCN - La Cariñosa « Bogotá - 0
+http://live1.rcnmundo.com/lacarinosa.mp3
+#EXTINF:-1, RCN - La Cariñosa « Bogotá - 1
+http://live2.rcnmundo.com/lacarinosa.mp3
+#EXTINF:-1, RCN - La Cariñosa « Bogotá - 2
+http://live3.rcnmundo.com/lacarinosa.mp3
+#EXTINF:-1, RCN - La Cariñosa « Bogotá - 3
+http://live4.rcnmundo.com/lacarinosa.mp3
+#EXTINF:-1, RCN - La Cariñosa « Barranquilla - 0
+http://live1.rcnmundo.com/lacarinosabarranquilla.mp3
+#EXTINF:-1, RCN - La Cariñosa « Barranquilla - 1
+http://live2.rcnmundo.com/lacarinosabarranquilla.mp3
+#EXTINF:-1, RCN - La Cariñosa « Barranquilla - 2
+http://live3.rcnmundo.com/lacarinosabarranquilla.mp3
+#EXTINF:-1, RCN - La Cariñosa « Barranquilla - 3
+http://live4.rcnmundo.com/lacarinosabarranquilla.mp3
+#EXTINF:-1, RCN - La Cariñosa « Barrancabermeja - 0
+http://live1.rcnmundo.com/lacarinosabarranca.mp3
+#EXTINF:-1, RCN - La Cariñosa « Barrancabermeja - 1
+http://live2.rcnmundo.com/lacarinosabarranca.mp3
+#EXTINF:-1, RCN - La Cariñosa « Barrancabermeja - 2
+http://live3.rcnmundo.com/lacarinosabarranca.mp3
+#EXTINF:-1, RCN - La Cariñosa « Barrancabermeja - 3
+http://live4.rcnmundo.com/lacarinosabarranca.mp3
+#EXTINF:-1, RCN - La Cariñosa « Cúcuta - 0
+http://live1.rcnmundo.com/lacarinosacucuta.mp3
+#EXTINF:-1, RCN - La Cariñosa « Cúcuta - 1
+http://live2.rcnmundo.com/lacarinosacucuta.mp3
+#EXTINF:-1, RCN - La Cariñosa « Cúcuta - 2
+http://live3.rcnmundo.com/lacarinosacucuta.mp3
+#EXTINF:-1, RCN - La Cariñosa « Cúcuta - 3
+http://live4.rcnmundo.com/lacarinosacucuta.mp3
+#EXTINF:-1, RCN - La Cariñosa « Armenia - 0
+http://live1.rcnmundo.com/lacarinosaarmenia.mp3
+#EXTINF:-1, RCN - La Cariñosa « Armenia - 1
+http://live2.rcnmundo.com/lacarinosaarmenia.mp3
+#EXTINF:-1, RCN - La Cariñosa « Armenia - 2
+http://live3.rcnmundo.com/lacarinosaarmenia.mp3
+#EXTINF:-1, RCN - La Cariñosa « Armenia - 3
+http://live4.rcnmundo.com/lacarinosaarmenia.mp3
+#EXTINF:-1, RCN - Radio 1 « Fredonia - 0
+http://live1.rcnmundo.com/radiounofredonia.mp3
+#EXTINF:-1, RCN - Radio 1 « Fredonia - 1
+http://live2.rcnmundo.com/radiounofredonia.mp3
+#EXTINF:-1, RCN - Radio 1 « Fredonia - 2
+http://live3.rcnmundo.com/radiounofredonia.mp3
+#EXTINF:-1, RCN - Radio 1 « Fredonia - 3
+http://live4.rcnmundo.com/radiounofredonia.mp3
+#EXTINF:-1, RCN - Radio 1 « Florencia - 0
+http://live1.rcnmundo.com/radiounoflorencia.mp3
+#EXTINF:-1, RCN - Radio 1 « Florencia - 1
+http://live2.rcnmundo.com/radiounoflorencia.mp3
+#EXTINF:-1, RCN - Radio 1 « Florencia - 2
+http://live3.rcnmundo.com/radiounoflorencia.mp3
+#EXTINF:-1, RCN - Radio 1 « Florencia - 3
+http://live4.rcnmundo.com/radiounoflorencia.mp3
+#EXTINF:-1, RCN - Radio 1 « Caucasia - 0
+http://live1.rcnmundo.com/radiounocaucasia.mp3
+#EXTINF:-1, RCN - Radio 1 « Caucasia - 1
+http://live2.rcnmundo.com/radiounocaucasia.mp3
+#EXTINF:-1, RCN - Radio 1 « Caucasia - 2
+http://live3.rcnmundo.com/radiounocaucasia.mp3
+#EXTINF:-1, RCN - Radio 1 « Caucasia - 3
+http://live4.rcnmundo.com/radiounocaucasia.mp3
+#EXTINF:-1, RCN - Radio 1 « Barrancabermeja - 0
+http://live1.rcnmundo.com/radiounobarranca.mp3
+#EXTINF:-1, RCN - Radio 1 « Barrancabermeja - 1
+http://live2.rcnmundo.com/radiounobarranca.mp3
+#EXTINF:-1, RCN - Radio 1 « Barrancabermeja - 2
+http://live3.rcnmundo.com/radiounobarranca.mp3
+#EXTINF:-1, RCN - Radio 1 « Barrancabermeja - 3
+http://live4.rcnmundo.com/radiounobarranca.mp3
+#EXTINF:-1, RCN - Rumba « Valledupar - 0
+http://live1.rcnmundo.com/rumbalapaz.mp3
+#EXTINF:-1, RCN - Rumba « Valledupar - 1
+http://live2.rcnmundo.com/rumbalapaz.mp3
+#EXTINF:-1, RCN - Rumba « Valledupar - 2
+http://live3.rcnmundo.com/rumbalapaz.mp3
+#EXTINF:-1, RCN - Rumba « Valledupar - 3
+http://live4.rcnmundo.com/rumbalapaz.mp3
+#EXTINF:-1, RCN - Rumba « Cartagena - 0
+http://live1.rcnmundo.com/rumbacartagena.mp3
+#EXTINF:-1, RCN - Rumba « Cartagena - 1
+http://live2.rcnmundo.com/rumbacartagena.mp3
+#EXTINF:-1, RCN - Rumba « Cartagena - 2
+http://live3.rcnmundo.com/rumbacartagena.mp3
+#EXTINF:-1, RCN - Rumba « Cartagena - 3
+http://live4.rcnmundo.com/rumbacartagena.mp3
+#EXTINF:-1, RCN - Rumba « Barranquilla - 0
+http://live1.rcnmundo.com/rumbabarranquilla.mp3
+#EXTINF:-1, RCN - Rumba « Barranquilla - 1
+http://live2.rcnmundo.com/rumbabarranquilla.mp3
+#EXTINF:-1, RCN - Rumba « Barranquilla - 2
+http://live3.rcnmundo.com/rumbabarranquilla.mp3
+#EXTINF:-1, RCN - Rumba « Barranquilla - 3
+http://live4.rcnmundo.com/rumbabarranquilla.mp3
+#EXTINF:-1, RCN - Rumba « Barbosa - 0
+http://live1.rcnmundo.com/rumbabarbosa.mp3
+#EXTINF:-1, RCN - Rumba « Barbosa - 1
+http://live2.rcnmundo.com/rumbabarbosa.mp3
+#EXTINF:-1, RCN - Rumba « Barbosa - 2
+http://live3.rcnmundo.com/rumbabarbosa.mp3
+#EXTINF:-1, RCN - Rumba « Barbosa - 3
+http://live4.rcnmundo.com/rumbabarbosa.mp3
+#EXTINF:-1, RCN - La Cariñosa « Pasto - 0
+http://live1.rcnmundo.com/lacarinosapasto.mp3
+#EXTINF:-1, RCN - La Cariñosa « Pasto - 1
+http://live2.rcnmundo.com/lacarinosapasto.mp3
+#EXTINF:-1, RCN - La Cariñosa « Pasto - 2
+http://live3.rcnmundo.com/lacarinosapasto.mp3
+#EXTINF:-1, RCN - La Cariñosa « Pasto - 3
+http://live4.rcnmundo.com/lacarinosapasto.mp3
+#EXTINF:-1, RCN - La Cariñosa « Neiva - 0
+http://live1.rcnmundo.com/lacarinosaneiva.mp3
+#EXTINF:-1, RCN - La Cariñosa « Neiva - 1
+http://live2.rcnmundo.com/lacarinosaneiva.mp3
+#EXTINF:-1, RCN - La Cariñosa « Neiva - 2
+http://live3.rcnmundo.com/lacarinosaneiva.mp3
+#EXTINF:-1, RCN - La Cariñosa « Neiva - 3
+http://live4.rcnmundo.com/lacarinosaneiva.mp3
+#EXTINF:-1, RCN - La Cariñosa « Manizales - 0
+http://live1.rcnmundo.com/lacarinosamanizales.mp3
+#EXTINF:-1, RCN - La Cariñosa « Manizales - 1
+http://live2.rcnmundo.com/lacarinosamanizales.mp3
+#EXTINF:-1, RCN - La Cariñosa « Manizales - 2
+http://live3.rcnmundo.com/lacarinosamanizales.mp3
+#EXTINF:-1, RCN - La Cariñosa « Manizales - 3
+http://live4.rcnmundo.com/lacarinosamanizales.mp3
+#EXTINF:-1, RCN - La Cariñosa « Ibagué - 0
+http://live1.rcnmundo.com/lacarinosaibague.mp3
+#EXTINF:-1, RCN - La Cariñosa « Ibagué - 1
+http://live2.rcnmundo.com/lacarinosaibague.mp3
+#EXTINF:-1, RCN - La Cariñosa « Ibagué - 2
+http://live3.rcnmundo.com/lacarinosaibague.mp3
+#EXTINF:-1, RCN - La Cariñosa « Ibagué - 3
+http://live4.rcnmundo.com/lacarinosaibague.mp3
+#EXTINF:-1, RCN - La Cariñosa « Girardot - 0
+http://live1.rcnmundo.com/lacarinosagirardot.mp3
+#EXTINF:-1, RCN - La Cariñosa « Girardot - 1
+http://live2.rcnmundo.com/lacarinosagirardot.mp3
+#EXTINF:-1, RCN - La Cariñosa « Girardot - 2
+http://live3.rcnmundo.com/lacarinosagirardot.mp3
+#EXTINF:-1, RCN - La Cariñosa « Girardot - 3
+http://live4.rcnmundo.com/lacarinosagirardot.mp3
+#EXTINF:-1, RCN - La Cariñosa « Cartagena - 0
+http://live1.rcnmundo.com/lacarinosacartagena.mp3
+#EXTINF:-1, RCN - La Cariñosa « Cartagena - 1
+http://live2.rcnmundo.com/lacarinosacartagena.mp3
+#EXTINF:-1, RCN - La Cariñosa « Cartagena - 2
+http://live3.rcnmundo.com/lacarinosacartagena.mp3
+#EXTINF:-1, RCN - La Cariñosa « Cartagena - 3
+http://live4.rcnmundo.com/lacarinosacartagena.mp3
+#EXTINF:-1, RCN - La Mega « Buenaventura - 0
+http://live1.rcnmundo.com/lamegabuenaventura.mp3
+#EXTINF:-1, RCN - La Mega « Buenaventura - 1
+http://live2.rcnmundo.com/lamegabuenaventura.mp3
+#EXTINF:-1, RCN - La Mega « Buenaventura - 2
+http://live3.rcnmundo.com/lamegabuenaventura.mp3
+#EXTINF:-1, RCN - La Mega « Buenaventura - 3
+http://live4.rcnmundo.com/lamegabuenaventura.mp3
+#EXTINF:-1, RCN - Rumba « Sogamoso - 0
+http://live1.rcnmundo.com/rumbasogamoso.mp3
+#EXTINF:-1, RCN - Rumba « Sogamoso - 1
+http://live2.rcnmundo.com/rumbasogamoso.mp3
+#EXTINF:-1, RCN - Rumba « Sogamoso - 2
+http://live3.rcnmundo.com/rumbasogamoso.mp3
+#EXTINF:-1, RCN - Rumba « Sogamoso - 3
+http://live4.rcnmundo.com/rumbasogamoso.mp3
+#EXTINF:-1, RCN - Rumba « Santa Marta - 0
+http://live1.rcnmundo.com/rumbasantamarta.mp3
+#EXTINF:-1, RCN - Rumba « Santa Marta - 1
+http://live2.rcnmundo.com/rumbasantamarta.mp3
+#EXTINF:-1, RCN - Rumba « Santa Marta - 2
+http://live3.rcnmundo.com/rumbasantamarta.mp3
+#EXTINF:-1, RCN - Rumba « Santa Marta - 3
+http://live4.rcnmundo.com/rumbasantamarta.mp3
+#EXTINF:-1, RCN - Rumba « Riohacha - 0
+http://live1.rcnmundo.com/rumbariohacha.mp3
+#EXTINF:-1, RCN - Rumba « Riohacha - 1
+http://live2.rcnmundo.com/rumbariohacha.mp3
+#EXTINF:-1, RCN - Rumba « Riohacha - 2
+http://live3.rcnmundo.com/rumbariohacha.mp3
+#EXTINF:-1, RCN - Rumba « Riohacha - 3
+http://live4.rcnmundo.com/rumbariohacha.mp3
+#EXTINF:-1, RCN - Rumba « Planeta Rica - 0
+http://live1.rcnmundo.com/rumbaplanetarica.mp3
+#EXTINF:-1, RCN - Rumba « Planeta Rica - 1
+http://live2.rcnmundo.com/rumbaplanetarica.mp3
+#EXTINF:-1, RCN - Rumba « Planeta Rica - 2
+http://live3.rcnmundo.com/rumbaplanetarica.mp3
+#EXTINF:-1, RCN - Rumba « Planeta Rica - 3
+http://live4.rcnmundo.com/rumbaplanetarica.mp3
+#EXTINF:-1, RCN - Rumba « Ocaña - 0
+http://live1.rcnmundo.com/rumbaocana.mp3
+#EXTINF:-1, RCN - Rumba « Ocaña - 1
+http://live2.rcnmundo.com/rumbaocana.mp3
+#EXTINF:-1, RCN - Rumba « Ocaña - 2
+http://live3.rcnmundo.com/rumbaocana.mp3
+#EXTINF:-1, RCN - Rumba « Ocaña - 3
+http://live4.rcnmundo.com/rumbaocana.mp3
+#EXTINF:-1, RCN - Rumba « Lorica - 0
+http://live1.rcnmundo.com/rumbalorica.mp3
+#EXTINF:-1, RCN - Rumba « Lorica - 1
+http://live2.rcnmundo.com/rumbalorica.mp3
+#EXTINF:-1, RCN - Rumba « Lorica - 2
+http://live3.rcnmundo.com/rumbalorica.mp3
+#EXTINF:-1, RCN - Rumba « Lorica - 3
+http://live4.rcnmundo.com/rumbalorica.mp3
+#EXTINF:-1, Voltaje Fm
+http://5.135.183.124:8328/stream
+#EXTINF:-1, CRA - Radio Auténtica « Cali - 0
+http://radio25.virtualtronics.com:8048/stream
+#EXTINF:-1, CRA - Radio Auténtica « Cali - 1
+http://62.210.38.137:8048/stream
+#EXTINF:-1, Emitc La Salle Radio - 0
+http://emisora.itc.edu.co:8000/;
+#EXTINF:-1, Emitc La Salle Radio - 1
+http://200.122.236.135:8000/;
+#EXTINF:-1, La Voz De La Raza « Medellín - 0
+http://lavozdelaraza.com:8000/lavozdelaraza.m3u
+#EXTINF:-1, La Voz De La Raza « Medellín - 1
+http://209.126.111.166:8000/lavozdelaraza.m3u
+#EXTINF:-1, Ondas De La Montaña « Medellín - 0
+http://s1.streaming10.com:8018/stream
+#EXTINF:-1, Ondas De La Montaña « Medellín - 1
+http://62.210.209.179:8018/stream
+#EXTINF:-1, Portada Radio
+http://190.146.4.77:8081/;
+#EXTINF:-1, Pradera Online Radio - 0
+http://centova.mistreaming.com.ve:8326/stream.mp3
+#EXTINF:-1, Pradera Online Radio - 1
+http://94.23.6.53:8326/stream.mp3
+#EXTINF:-1, Onda 5 Radio « Bucaramanga - 0
+http://radio25.virtualtronics.com:8060/;
+#EXTINF:-1, Onda 5 Radio « Bucaramanga - 1
+http://62.210.38.137:8060/;
+#EXTINF:-1, Radio Cóndor « Manizales
+http://stream.codigosur.org:8000/fundeca.mp3
+#EXTINF:-1, Radio OETH - 0
+http://s9.raudiostream.com:8020/;
+#EXTINF:-1, Radio OETH - 1
+http://94.23.40.42:8020/;
+#EXTINF:-1, Granada Stereo - 0
+http://real1.streaming-co.com:8084/;
+#EXTINF:-1, Granada Stereo - 1
+http://50.30.40.140:8084/;
+#EXTINF:-1, Radio Rosa Mística Colombia - 0
+http://stream2.servercristianonetwork.com:8262/live
+#EXTINF:-1, Radio Rosa Mística Colombia - 1
+http://206.190.141.116:8262/live
+#EXTINF:-1, BR - Rock
+http://173.199.116.227:10042/;
+#EXTINF:-1, Boyacá Radio - 0
+http://virtualtronics.net:8079/;
+#EXTINF:-1, Boyacá Radio - 1
+http://62.210.141.243:8079/;
+#EXTINF:-1, Bomba FM Radio - 0
+http://totalstreaming.net:10600/;
+#EXTINF:-1, Bomba FM Radio - 1
+http://46.4.33.73:10600/;
+#EXTINF:-1, Rimix Radio - Paisa Estereo - 0
+http://radiolatina.info:7094/;
+#EXTINF:-1, Rimix Radio - Paisa Estereo - 1
+http://192.99.150.42:7094/;
+#EXTINF:-1, Rimix Radio - Estrella Internacional - 0
+http://radiolatina.info:7084/;
+#EXTINF:-1, Rimix Radio - Estrella Internacional - 1
+http://192.99.150.42:7084/;
+#EXTINF:-1, Rimix Radio - 123 Vallenato - 0
+http://radiolatina.info:7087/;
+#EXTINF:-1, Rimix Radio - 123 Vallenato - 1
+http://192.99.150.42:7087/;
+#EXTINF:-1, La Popular Stereo - 0
+http://virtualtronics.net:8225/;
+#EXTINF:-1, La Popular Stereo - 1
+http://62.210.141.243:8225/;
+#EXTINF:-1, Todelar - Radio Panamericana « Girardot
+http://192.163.226.125:8211/;
+#EXTINF:-1, Todelar - La X « Bogotá - 0
+http://99.198.110.162:7020/;
+#EXTINF:-1, Todelar - La X « Bogotá - 1
+http://184.154.28.210:1935/xmasmusica/default.stream/playlist.m3u8
+#EXTINF:-1, Todelar - Radio Unica « Pereira
+http://65.60.45.74:8096/;
+#EXTINF:-1, Todelar - Radio Unica « Cali
+http://65.60.45.74:8104/;
+#EXTINF:-1, Todelar - Radio Manizales
+http://65.60.45.74:8092/;
+#EXTINF:-1, Todelar - La Voz Del Galeras « Pasto
+http://65.60.45.74:8094/;
+#EXTINF:-1, Todelar - Radio Bucarica « Bucaramanga
+http://184.154.28.210:1935/todelarbucarica/default.stream/playlist.m3u8
+#EXTINF:-1, Colmundo Radio « Pasto - 0
+http://192.163.226.125:8047/;stream/1
+#EXTINF:-1, Colmundo Radio « Pasto - 1
+http://pablus.net:8047/;stream/1
+#EXTINF:-1, Colmundo Radio « Medellín - 0
+http://192.163.226.125:8099/;stream/1
+#EXTINF:-1, Colmundo Radio « Medellín - 1
+http://pablus.net:8099/;stream/1
+#EXTINF:-1, Colmundo Radio « Cartagena - 0
+http://192.163.226.125:8039/;stream/1
+#EXTINF:-1, Colmundo Radio « Cartagena - 1
+http://pablus.net:8039/;stream/1
+#EXTINF:-1, Colmundo Radio « Cali - 0
+http://192.163.226.125:8001/;stream/1
+#EXTINF:-1, Colmundo Radio « Cali - 1
+http://pablus.net:8001/;stream/1
+#EXTINF:-1, Colmundo Radio « Bucaramanga - 0
+http://192.163.226.125:9998/;stream/1
+#EXTINF:-1, Colmundo Radio « Bucaramanga - 1
+http://pablus.net:9998/;stream/1
+#EXTINF:-1, Colmundo Radio « Bogotá - 0
+http://192.163.226.125:9992/;stream/1
+#EXTINF:-1, Colmundo Radio « Bogotá - 1
+http://pablus.net:9992/;stream/1
+#EXTINF:-1, Colmundo Radio « Barranquilla - 0
+http://192.163.226.125:8728/;stream/1
+#EXTINF:-1, Colmundo Radio « Barranquilla - 1
+http://pablus.net:8728/;stream/1
+#EXTINF:-1, Kapital Stereo « Arauca - 0
+http://radio30.virtualtronics.com:8030/;
+#EXTINF:-1, Kapital Stereo « Arauca - 1
+http://195.154.133.107:8030/;
+#EXTINF:-1, La Voz Del Cinaruco « Arauca
+http://192.99.150.42:7438/;
+#EXTINF:-1, Emisora José Antonio Galán
+http://192.99.150.42:9906/;
+#EXTINF:-1, Blue Radio Colombia
+http://149.56.175.167:5072/stream
+#EXTINF:-1, CRBS - Melodías Del Recuerdo
+http://69.64.58.8:8009/live
+#EXTINF:-1, CRBS - Quiéreme
+http://69.64.58.8:8000/live
+#EXTINF:-1, Bogotá Beer Company Radio - 0
+http://smoke.wavestreamer.com:8502/;
+#EXTINF:-1, Bogotá Beer Company Radio - 1
+http://198.105.214.140:8502/;
+#EXTINF:-1, Radio Ipiales - 0
+http://radiolatina.info:9456/;
+#EXTINF:-1, Radio Ipiales - 1
+http://192.99.150.42:9456/;
+#EXTINF:-1, Radio Múnera « Medellín - 0
+http://radiolatina.info:9856/;
+#EXTINF:-1, Radio Múnera « Medellín - 1
+http://192.99.150.42:9856/;
+#EXTINF:-1, Arriba Colombia - 0
+http://cdn.instream.audio:9137/stream
+#EXTINF:-1, Arriba Colombia - 1
+http://158.69.225.155:9137/stream
+#EXTINF:-1, Carnavalxsiempre Radio
+http://178.32.57.127:9320/;
+#EXTINF:-1, Manzanares Stereo - 0
+http://radiolatina.info:7408/;
+#EXTINF:-1, Manzanares Stereo - 1
+http://192.99.150.42:7408/;
+#EXTINF:-1, Coca-Cola FM - Colombia - 0
+http://ic.imusicaradios.com.br:8000/colombia.stream.http?url=radiosure
+#EXTINF:-1, Coca-Cola FM - Colombia - 1
+http://ic.imusicaradios.com.br:8000/colombia.stream.http.48k?url=radiosure
+#EXTINF:-1, 306Radio
+http://163.182.175.106:8974/live
+#EXTINF:-1, Pingüino Estéreo « Cali - 0
+http://radiolatina.info:9750/;
+#EXTINF:-1, Pingüino Estéreo « Cali - 1
+http://192.99.150.42:9750/;
+#EXTINF:-1, Cauca Noticias Radio - 0
+http://streamingiba.com:7088/;
+#EXTINF:-1, Cauca Noticias Radio - 1
+http://158.69.242.119:7088/;
+#EXTINF:-1, Celestial Stereo HD - 0
+http://rcri1.com:8134/;
+#EXTINF:-1, Celestial Stereo HD - 1
+http://207.244.68.240:8134/;
+#EXTINF:-1, Cerro Azul Stereo « Yarumal - 0
+http://radiolatina.info:9025/;
+#EXTINF:-1, Cerro Azul Stereo « Yarumal - 1
+http://192.99.150.42:9025/;
+#EXTINF:-1, Colombia Sports - 0
+http://real2.streaming-co.com:8227/live
+#EXTINF:-1, Colombia Sports - 1
+http://209.126.119.28:8227/live
+#EXTINF:-1, Cool D Radio
+http://209.126.119.28:8031/live
+#EXTINF:-1, CRA - Radio Mundial « Bogotá
+http://209.126.119.28:8627/;
+#EXTINF:-1, Dorada Stereo - 0
+http://streamingiba.com:8050/;
+#EXTINF:-1, Dorada Stereo - 1
+http://158.69.242.119:8050/;
+#EXTINF:-1, Dorado Stereo « Cómbita
+http://198.27.88.38:7260/listen.pls
+#EXTINF:-1, Educación Al Día - 0
+http://s1.streaming10.com:8057/live
+#EXTINF:-1, Educación Al Día - 1
+http://62.210.209.179:8057/live
+#EXTINF:-1, Eduvisión - Sonora Stereo « Rionegro
+http://190.217.57.243:8010/sonora
+#EXTINF:-1, Eduvisión - ET De A Radio
+http://190.217.57.243:8000/etdearadio
+#EXTINF:-1, Electro Urbana Radio - 0
+http://server2.hostingpereira.com:9970/;
+#EXTINF:-1, Electro Urbana Radio - 1
+http://104.243.47.10:9970/;
+#EXTINF:-1, Emisora Cultural RAC « Pereira
+http://univirtual.utp.edu.co:8000/;
+#EXTINF:-1, Abaco Libros y Café Radio - 0
+http://radio30.virtualtronics.com:8138/;
+#EXTINF:-1, Abaco Libros y Café Radio - 1
+http://195.154.133.107:8138/;
+#EXTINF:-1, RadioRed Emisora - 0
+http://radio30.virtualtronics.com:8516/;
+#EXTINF:-1, RadioRed Emisora - 1
+http://195.154.133.107:8516/stream
+#EXTINF:-1, 3 Fronteras FM « Puerto Asís - 0
+http://giss.tv:8001/3fronteras.mp3
+#EXTINF:-1, 3 Fronteras FM « Puerto Asís - 1
+http://198.100.145.190:8001/3fronteras.mp3
+#EXTINF:-1, Univalle Estéreo « Cali - 0
+http://uv-stereo.univalle.edu.co:8000/envivo.mp3
+#EXTINF:-1, Univalle Estéreo « Cali - 1
+http://181.118.153.25:8000/envivo.mp3
+#EXTINF:-1, Popularísima Estéreo - 0
+http://radiohd.streaminghd.co:7390/;
+#EXTINF:-1, Popularísima Estéreo - 1
+http://184.171.246.192:7390/;
+#EXTINF:-1, Fiesta Stereo « La Plata - 0
+http://radiolatina.info:7838/;
+#EXTINF:-1, Fiesta Stereo « La Plata - 1
+http://192.99.150.42:7838/;
+#EXTINF:-1, Norte Stereo « Ansermanuevo - 0
+http://streamtotal.net:8265/;
+#EXTINF:-1, Norte Stereo « Ansermanuevo - 1
+http://62.210.203.78:8265/;
+#EXTINF:-1, RTVC - Radio Nacional De Colombia « Bogotá
+http://live10.cdnmedia.tv/rtvcRadioNacionallive/rtvcRadioNacional.stream/chunklist.m3u8
+#EXTINF:-1, RTVC - Señal Clásica
+http://live10.cdnmedia.tv/radionacionalClasicalive/radionacionalClasica.stream/chunklist.m3u8
+#EXTINF:-1, RTVC - Radiónica « Bogotá
+http://live10.cdnmedia.tv/rtvcRadionicalive/rtvcRadionicalive.stream/chunklist.m3u8
+#EXTINF:-1, RTVC - Radiónica 2
+http://live10.cdnmedia.tv/radionicaRockNacionallive/radionicaRockNacional.stream/chunklist.m3u8
+#EXTINF:-1, RTVC - Radiónica 3
+http://live10.cdnmedia.tv/radionica3live/rtvcRadionica3.stream/chunklist.m3u8
+#EXTINF:-1, Siloh Radio - 0
+http://radiolatina.info:9986/;
+#EXTINF:-1, Siloh Radio - 1
+http://192.99.150.42:9986/;
+#EXTINF:-1, Su Presencia Radio - 0
+http://radio.supresencia.com:8000/;
+#EXTINF:-1, Su Presencia Radio - 1
+http://54.200.205.140:8000/;
+#EXTINF:-1, Telemedellín Radio - 0
+http://s1.streaming10.com:8056/stream
+#EXTINF:-1, Telemedellín Radio - 1
+http://62.210.209.179:8056/stream
+#EXTINF:-1, Zuldemayda Radio « Armenia - 0
+http://server2.ejeserver.com:8144/live
+#EXTINF:-1, Zuldemayda Radio « Armenia - 1
+http://104.243.47.10:8144/live
+#EXTINF:-1, Voces De Occidente « Buga - 0
+http://vocesdeoccidente.com:8004/;
+#EXTINF:-1, Voces De Occidente « Buga - 1
+http://192.163.226.125:8004/;
+#EXTINF:-1, Super Buun Estéreo - 0
+http://server2.ejeserver.com:8700/live
+#EXTINF:-1, Super Buun Estéreo - 1
+http://104.243.47.10:8700/live
+#EXTINF:-1, Acinpro Radio
+http://78.129.190.50/stream.mp3?ipport=78.129.190.50_24392
+#EXTINF:-1, Vida AM 870 « Medellín - 0
+http://real2.streaming-co.com:8608/;
+#EXTINF:-1, Vida AM 870 « Medellín - 1
+http://209.126.119.28:8606/;
+#EXTINF:-1, RCN - Rumba « Bogotá - 0
+http://live4.rcnmundo.com/rumba.aac
+#EXTINF:-1, RCN - Rumba « Bogotá - 1
+http://live1.rcnmundo.com/rumba.mp3
+#EXTINF:-1, RCN - Rumba « Bogotá - 2
+http://live2.rcnmundo.com/rumba.mp3
+#EXTINF:-1, RCN - Rumba « Bogotá - 3
+http://live3.rcnmundo.com/rumba.mp3
+#EXTINF:-1, RCN - Rumba « Bogotá - 4
+http://live4.rcnmundo.com/rumba.mp3
+#EXTINF:-1, RCN - Rumba « Bogotá - 5
+http://live4.rcnmundo.com/rumba.aac
+#EXTINF:-1, RCN - La FM « Bogotá - 0
+http://live4.rcnmundo.com/lafm.aac
+#EXTINF:-1, RCN - La FM « Bogotá - 1
+http://live1.rcnmundo.com/lafm.mp3
+#EXTINF:-1, RCN - La FM « Bogotá - 2
+http://live2.rcnmundo.com/lafm.mp3
+#EXTINF:-1, RCN - La FM « Bogotá - 3
+http://live3.rcnmundo.com/lafm.mp3
+#EXTINF:-1, RCN - La FM « Bogotá - 4
+http://live4.rcnmundo.com/lafm.mp3
+#EXTINF:-1, RCN - Amor « Bogotá - 0
+http://live1.rcnmundo.com/amor.aac
+#EXTINF:-1, RCN - Amor « Bogotá - 1
+http://live1.rcnmundo.com/amor.mp3
+#EXTINF:-1, RCN - Amor « Bogotá - 2
+http://live2.rcnmundo.com/amor.mp3
+#EXTINF:-1, RCN - Amor « Bogotá - 3
+http://live3.rcnmundo.com/amor.mp3
+#EXTINF:-1, RCN - Amor « Bogotá - 4
+http://live4.rcnmundo.com/amor.mp3
+#EXTINF:-1, Radio Maria Colombia - 0
+http://dreamsiteradiocp.com:8076/
+#EXTINF:-1, Radio Maria Colombia - 1
+http://cloudrad.io/radiomariacolombia/listen.pls
+#EXTINF:-1, Radio Maria Colombia - 2
+http://cloudrad.io/radiomariacolombia/listen.asx
+#EXTINF:-1, Melodía Stereo Ambiental « Bogotá - 0
+http://i50.letio.com/7002.aac
+#EXTINF:-1, Melodía Stereo Ambiental « Bogotá - 1
+http://i60.letio.com/7002.aac
+#EXTINF:-1, Melodía Stereo « Bogotá - 0
+http://i50.letio.com/7000.aac
+#EXTINF:-1, Melodía Stereo « Bogotá - 1
+http://i60.letio.com/7000.aac
+#EXTINF:-1, Radio Tiempo - Hit - 0
+http://i30.letio.com/9160.aac
+#EXTINF:-1, Radio Tiempo - Hit - 1
+http://i50.letio.com/9160.aac
+#EXTINF:-1, Radio Tiempo - Hit - 2
+http://i60.letio.com/9160.aac
+#EXTINF:-1, Radio Tiempo - Clásica - 0
+http://i30.letio.com/9188.aac
+#EXTINF:-1, Radio Tiempo - Clásica - 1
+http://i50.letio.com/9188.aac
+#EXTINF:-1, Radio Tiempo - Clásica - 2
+http://i60.letio.com/9188.aac
+#EXTINF:-1, Radio Tiempo « Sincelejo - 0
+http://i30.letio.com/9158.aac
+#EXTINF:-1, Radio Tiempo « Sincelejo - 1
+http://i50.letio.com/9158.aac
+#EXTINF:-1, Radio Tiempo « Montería - 0
+http://i30.letio.com/9142.aac
+#EXTINF:-1, Radio Tiempo « Montería - 1
+http://i50.letio.com/9142.aac
+#EXTINF:-1, Radio Tiempo « Montería - 2
+http://i60.letio.com/9142.aac
+#EXTINF:-1, Radio Tiempo « Medellín - 0
+http://i30.letio.com/9144.aac
+#EXTINF:-1, Radio Tiempo « Medellín - 1
+http://i50.letio.com/9144.aac
+#EXTINF:-1, Radio Tiempo « Medellín - 2
+http://i60.letio.com/9144.aac
+#EXTINF:-1, Radio Tiempo « Manizales - 0
+http://i30.letio.com/9166.aac
+#EXTINF:-1, Radio Tiempo « Manizales - 1
+http://i50.letio.com/9166.aac
+#EXTINF:-1, Radio Tiempo « Manizales - 2
+http://i60.letio.com/9166.aac
+#EXTINF:-1, Radio Tiempo « Cúcuta - 0
+http://i30.letio.com/9146.aac
+#EXTINF:-1, Radio Tiempo « Cúcuta - 1
+http://i50.letio.com/9146.aac
+#EXTINF:-1, Radio Tiempo « Cúcuta - 2
+http://i60.letio.com/9146.aac
+#EXTINF:-1, Radio Tiempo « Cartagena - 0
+http://i30.letio.com/9140.aac
+#EXTINF:-1, Radio Tiempo « Cartagena - 1
+http://i50.letio.com/9140.aac
+#EXTINF:-1, Radio Tiempo « Cartagena - 2
+http://i60.letio.com/9140.aac
+#EXTINF:-1, Radio Tiempo « Cali - 0
+http://i30.letio.com/9164.aac
+#EXTINF:-1, Radio Tiempo « Cali - 1
+http://i50.letio.com/9164.aac
+#EXTINF:-1, Radio Tiempo « Barranquilla - 0
+http://i30.letio.com/9100.aac
+#EXTINF:-1, Radio Tiempo « Barranquilla - 1
+http://i50.letio.com/9100.aac
+#EXTINF:-1, Radio Tiempo « Barranquilla - 2
+http://i60.letio.com/9100.aac
+#EXTINF:-1, Blu Radio - Música - 0
+http://live2.bluradio.com/api/livestream-redirect/MUSICABLU_SC
+#EXTINF:-1, Blu Radio - Música - 1
+http://playerservices.streamtheworld.com/api/livestream-redirect/MUSICABLU_SC
+#EXTINF:-1, Blu Radio « Bogotá - 0
+http://live2.bluradio.com/api/livestream-redirect/BLURADIO_SC
+#EXTINF:-1, Blu Radio « Bogotá - 1
+http://playerservices.streamtheworld.com/api/livestream-redirect/BLURADIO_SC
+#EXTINF:-1, Superestación - 0
+http://host4.whooshserver.com:9162/live
+#EXTINF:-1, Superestación - 1
+http://radioboxhd.com:9162/live.m3u
+#EXTINF:-1, Estación Suramérica
+http://giss.tv:8000/Suramerica.mp3
+#EXTINF:-1, Yo Estoy Contigo
+http://64.37.55.231:8634/;
+#EXTINF:-1, EMD « Medellín
+http://64.37.55.231:8658/;
+#EXTINF:-1, EMD « Cartagena
+http://64.37.55.231:8640/;
+#EXTINF:-1, EMD « Bogotá
+http://64.37.55.231:8652/;
+#EXTINF:-1, EMD « Barranquilla
+http://64.37.55.231:8646/;
+#EXTINF:-1, EMD - RCC Radio
+http://64.37.55.231:8628/;
+#EXTINF:-1, Capibara Mundo Noticias « Hato Corozal
+http://radiohd.streaminghd.co:7126/;
+#EXTINF:-1, Escenario Radio
+http://s15.myradiostream.com:14852/;
+#EXTINF:-1, Colombia Salsa Rosa
+http://streaming.radionomy.com/Colombiasalsarosa?lang=en-US&appName=iTunes.m3u
+#EXTINF:-1, Colombia Romantica
+http://streaming.radionomy.com/colombiaromantica?lang=en-US&appName=iTunes.m3u
+#EXTINF:-1, Colombia Crossover
+http://streaming.radionomy.com/colombiacrossover?lang=en-US&appName=iTunes.m3u
+#EXTINF:-1, Colombia Bohemia
+http://streaming.radionomy.com/colombiabohemia?lang=en-US&appName=iTunes.m3u
+#EXTINF:-1, Radio Dance90
+http://streaming.radionomy.com/Dance90?lang=en-US&appName=iTunes.m3u
+#EXTINF:-1, Romántica Baladas Del Amor - 0
+http://streaming.radionomy.com/RomanticaBaladasdelamor?lang=en-US&appName=iTunes.m3u
+#EXTINF:-1, Romántica Baladas Del Amor - 1
+http://listen.radionomy.com/romanticabaladasdelamor
+#EXTINF:-1, Romántica Baladas Del Amor - 2
+http://listen.radionomy.com/romanticabaladasdelamor.m3u
+#EXTINF:-1, Cadena Radial Total Stereo
+http://51.15.160.78:8028/;
+#EXTINF:-1, Camara FM « Medellín - 0
+http://959camarafm.serverroom.net/;stream.nsv
+#EXTINF:-1, Camara FM « Medellín - 1
+http://38.96.175.23:80/;stream.nsv
+#EXTINF:-1, Hard Rock Heaven
+http://hydra.cdnstream.com/1521_128
+#EXTINF:-1, Guarne Stereo - 0
+http://stream2.emisorasvirtuales.com:8210/;
+#EXTINF:-1, Guarne Stereo - 1
+http://199.217.118.14:8215/stream
+#EXTINF:-1, Iefangel Radio - 0
+http://62.210.209.179:8049/live
+#EXTINF:-1, Iefangel Radio - 1
+http://199.217.118.14:8425/stream
+#EXTINF:-1, La Voz Del Joropo - 0
+http://72.29.70.22:8118/;
+#EXTINF:-1, La Voz Del Joropo - 1
+http://64.37.55.229:8270/;
+#EXTINF:-1, Radio C.I.A. - 0
+http://185.50.197.212:9366/;
+#EXTINF:-1, Radio C.I.A. - 1
+http://206.190.136.140:1827/;
+#EXTINF:-1, RadioAmiga Internacional - 0
+http://cp4.lorini.net:36265/stream?1521808891754
+#EXTINF:-1, RadioAmiga Internacional - 1
+http://94.23.40.42:8022/;
+#EXTINF:-1, Siempre Cristo Radio - 0
+http://streaming.radionomy.com/Siempre-Cristo?lang=en-US&appName=iTunes.m3u
+#EXTINF:-1, Siempre Cristo Radio - 1
+http://listen.radionomy.com/siempre-cristo
+#EXTINF:-1, Siempre Cristo Radio - 2
+http://streaming.radionomy.com/Siempre-Cristo
+#EXTINF:-1, Toca Stereo « Fusagasugá - 0
+http://real2.streaming-co.com:8048/;
+#EXTINF:-1, Toca Stereo « Fusagasugá - 1
+http://50.30.40.140:8294/;
+#EXTINF:-1, Radio Colombiana - 0
+http://streaming.radionomy.com/RadioColombiana?lang=en-US&appName=iTunes.m3u
+#EXTINF:-1, Radio Colombiana - 1
+http://listen.radionomy.com/radiocolombiana.m3u
+#EXTINF:-1, #PopHits - 0
+http://streaming.radionomy.com/-Pophits?lang=en-US&appName=iTunes.m3u
+#EXTINF:-1, #PopHits - 1
+http://listen.radionomy.com/-pophits.m3u
+#EXTINF:-1, Olímpica Stereo « Armenia 96.1 FM - 0
+http://i50.letio.com/9162.aac
+#EXTINF:-1, Olímpica Stereo « Armenia 96.1 FM - 1
+http://i30.letio.com/9162.aac
+#EXTINF:-1, Olímpica Stereo « Barranquilla 92.1 FM - 0
+http://i50.letio.com/9102.aac
+#EXTINF:-1, Olímpica Stereo « Barranquilla 92.1 FM - 1
+http://i30.letio.com/9102.aac
+#EXTINF:-1, Olímpica Stereo « Bucaramanga 97.7 FM - 0
+http://i50.letio.com/9122.aac
+#EXTINF:-1, Olímpica Stereo « Bucaramanga 97.7 FM - 1
+http://i30.letio.com/9122.aac
+#EXTINF:-1, Olímpica Stereo « Cali 104.5 FM - 0
+http://i50.letio.com/9120.aac
+#EXTINF:-1, Olímpica Stereo « Cali 104.5 FM - 1
+http://i30.letio.com/9120.aac
+#EXTINF:-1, Olímpica Stereo « Cartagena 90.5 FM - 0
+http://i50.letio.com/9108.aac
+#EXTINF:-1, Olímpica Stereo « Cartagena 90.5 FM - 1
+http://i30.letio.com/9108.aac
+#EXTINF:-1, Olímpica Stereo « Cúcuta 94.7 FM - 0
+http://i50.letio.com/9134.aac
+#EXTINF:-1, Olímpica Stereo « Cúcuta 94.7 FM - 1
+http://i30.letio.com/9134.aac
+#EXTINF:-1, Olímpica Stereo « Ibagué 94.3 FM - 0
+http://i50.letio.com/9130.aac
+#EXTINF:-1, Olímpica Stereo « Ibagué 94.3 FM - 1
+http://i30.letio.com/9130.aac
+#EXTINF:-1, Olímpica Stereo « Manizales 89.7 FM - 0
+http://i50.letio.com/9126.aac
+#EXTINF:-1, Olímpica Stereo « Manizales 89.7 FM - 1
+http://i30.letio.com/9126.aac
+#EXTINF:-1, Olímpica Stereo « Medellín 104.9 FM - 0
+http://i50.letio.com/9128.aac
+#EXTINF:-1, Olímpica Stereo « Medellín 104.9 FM - 1
+http://i30.letio.com/9128.aac
+#EXTINF:-1, Olímpica Stereo « Monteria 90.5 FM - 0
+http://i50.letio.com/9112.aac
+#EXTINF:-1, Olímpica Stereo « Monteria 90.5 FM - 1
+http://i30.letio.com/9112.aac
+#EXTINF:-1, Olímpica Stereo « Neiva 100.3 FM - 0
+http://i50.letio.com/9136.aac
+#EXTINF:-1, Olímpica Stereo « Neiva 100.3 FM - 1
+http://i30.letio.com/9136.aac
+#EXTINF:-1, Olímpica Stereo « Pereira 102.7 FM - 0
+http://i50.letio.com/9124.aac
+#EXTINF:-1, Olímpica Stereo « Pereira 102.7 FM - 1
+http://i30.letio.com/9124.aac
+#EXTINF:-1, Olímpica Stereo « Santa Marta 97.1 FM - 0
+http://i50.letio.com/9110.aac
+#EXTINF:-1, Olímpica Stereo « Santa Marta 97.1 FM - 1
+http://i30.letio.com/9110.aac
+#EXTINF:-1, Olímpica Stereo « Sincelejo 101.5 FM - 0
+http://i50.letio.com/9116.aac
+#EXTINF:-1, Olímpica Stereo « Sincelejo 101.5 FM - 1
+http://i30.letio.com/9116.aac
+#EXTINF:-1, Olímpica Stereo « Valledupar 93.7 FM - 0
+http://i50.letio.com/9118.aac
+#EXTINF:-1, Olímpica Stereo « Valledupar 93.7 FM - 1
+http://i30.letio.com/9118.aac
+#EXTINF:-1, Olímpica Stereo « Villavicencio 105.3 FM - 0
+http://i50.letio.com/9132.aac
+#EXTINF:-1, Olímpica Stereo « Villavicencio 105.3 FM - 1
+http://i30.letio.com/9132.aac
+#EXTINF:-1, Olímpica Stereo « Bogotá 105.9 FM - 0
+http://i50.letio.com/9114.aac
+#EXTINF:-1, Olímpica Stereo « Bogotá 105.9 FM - 1
+http://i30.letio.com/9114.aac
+#EXTINF:-1, Betuliana Stereo - 0
+http://149.56.134.163:9864/;
+#EXTINF:-1, Betuliana Stereo - 1
+http://198.100.145.190:8001/betuliana.mp3
+#EXTINF:-1, Radio Policía Nacional - Cartagena (Bolívar) 106.0 FM - 0
+http://radio.policia.gov.co:8081/Bolivar
+#EXTINF:-1, Radio Policía Nacional - Cartagena (Bolívar) 106.0 FM - 1
+https://radio.policia.gov.co:8080/Bolivar
+#EXTINF:-1, Radio Policía Nacional « Manizales (Caldas) 103.7 FM - 0
+http://radio.policia.gov.co:8081/manizales
+#EXTINF:-1, Radio Policía Nacional « Manizales (Caldas) 103.7 FM - 1
+https://radio.policia.gov.co:8080/manizales
+#EXTINF:-1, Radio Policía Nacional « Medellín (Antioquia) 96.4 FM - 0
+http://radio.policia.gov.co:8081/medellin
+#EXTINF:-1, Radio Policía Nacional « Medellín (Antioquia) 96.4 FM - 1
+https://radio.policia.gov.co:8080/medellin
+#EXTINF:-1, Radio Policía Nacional « Mocoa (Putumayo) 92.3 FM - 0
+http://radio.policia.gov.co:8081/mocoa
+#EXTINF:-1, Radio Policía Nacional « Mocoa (Putumayo) 92.3 FM - 1
+https://radio.policia.gov.co:8080/mocoa
+#EXTINF:-1, Radio Policía Nacional « Pasto (Nariño) 89.5 FM - 0
+http://radio.policia.gov.co:8081/pasto
+#EXTINF:-1, Radio Policía Nacional « Pasto (Nariño) 89.5 FM - 1
+https://radio.policia.gov.co:8080/pasto
+#EXTINF:-1, Radio Policía Nacional « Cali (Valle) 102.0 FM - 0
+http://radio.policia.gov.co:8081/cali
+#EXTINF:-1, Radio Policía Nacional « Cali (Valle) 102.0 FM - 1
+https://radio.policia.gov.co:8080/cali
+#EXTINF:-1, Radio Policía Nacional « Bogotá  (D.C.) 92.4 FM - 0
+http://radio.policia.gov.co:8081/bogota
+#EXTINF:-1, Radio Policía Nacional « Bogotá  (D.C.) 92.4 FM - 1
+https://radio.policia.gov.co:8080/bogota
+#EXTINF:-1, Radio Policía Nacional « Barranquilla (Atlántico) 102.6 FM - 0
+http://radio.policia.gov.co:8081/barranquilla
+#EXTINF:-1, Radio Policía Nacional « Barranquilla (Atlántico) 102.6 FM - 1
+https://radio.policia.gov.co:8080/barranquilla
+#EXTINF:-1, Radio Policía Nacional « Pereira (Risaralda) 99.1 FM - 0
+http://radio.policia.gov.co:8081/pereira
+#EXTINF:-1, Radio Policía Nacional « Pereira (Risaralda) 99.1 FM - 1
+https://radio.policia.gov.co:8080/pereira
+#EXTINF:-1, Radio Policía Nacional « Santa Rosa De Viterbo (Boyacá) 98.1 FM - 0
+http://radio.policia.gov.co:8081/santarosadeviterbo
+#EXTINF:-1, Radio Policía Nacional « Santa Rosa De Viterbo (Boyacá) 98.1 FM - 1
+https://radio.policia.gov.co:8080/santarosadeviterbo
+#EXTINF:-1, Contagio Radio
+http://podcastcdn-19.ivoox.com/audio/6/9/9/9/25299996.m4a
+#EXTINF:-1, G12 Radio « Bogotá - 0
+http://m.g12radio.com:8000/G12RADIOMP3
+#EXTINF:-1, G12 Radio « Bogotá - 1
+http://198.245.61.145:8000/G12RADIO
+#EXTINF:-1, Modernízate Radio - 0
+http://ample-zeno-15.radiojar.com/gymc175n7v5tv
+#EXTINF:-1, Modernízate Radio - 1
+http://www.radios.com.br/players/listen-radio.m3u?radio=59993
+#EXTINF:-1, La Urbana Cali
+http://91.134.208.112:8007/stream
+#EXTINF:-1, BR - Llanera
+http://178.33.113.51:8032/;
+#EXTINF:-1, Todelar - Continental « Bogotá - HJCS 930 AM
+http://99.198.110.162:7062/;
+#EXTINF:-1, Todelar - Emisoras Riomar « Barranquilla - HJAC - 1130 AM
+http://65.60.45.74:8086/;stream.mp3
+#EXTINF:-1, Todelar - La 92 « Bogotá
+http://99.198.110.162:7034/;
+#EXTINF:-1, Todelar - La X « Medellín
+http://65.60.45.74:8070/;
+#EXTINF:-1, Todelar - La Z Urbana « Medellín
+http://65.60.45.74:8072/;
+#EXTINF:-1, Todelar - Transmisora Surandes « Andes
+http://65.60.45.74:8084/;
+#EXTINF:-1, Radio Coomeva - Adulto Contemporáneo - 0
+http://playerservices.streamtheworld.com/pls/SAM06AAC156.pls
+#EXTINF:-1, Radio Coomeva - Adulto Contemporáneo - 1
+http://provisioning.streamtheworld.com/pls/SAM06AAC156.pls
+#EXTINF:-1, Radio Coomeva - Adulto Contemporáneo - 2
+http://18193.live.streamtheworld.com/SAM06AAC156_SC
+#EXTINF:-1, Radio Coomeva - Jóvenes - 0
+http://playerservices.streamtheworld.com/pls/SAM04AAC240.pls
+#EXTINF:-1, Radio Coomeva - Jóvenes - 1
+http://provisioning.streamtheworld.com/pls/SAM04AAC240.pls
+#EXTINF:-1, Radio Coomeva - Jóvenes - 2
+http://14123.live.streamtheworld.com/SAM04AAC240_SC
+#EXTINF:-1, Radio Coomeva - Instrumental - 0
+http://playerservices.streamtheworld.com/pls/SAM01AAC13.pls
+#EXTINF:-1, Radio Coomeva - Instrumental - 1
+http://provisioning.streamtheworld.com/pls/SAM01AAC13.pls
+#EXTINF:-1, Radio Coomeva - Instrumental - 2
+http://18193.live.streamtheworld.com/SAM01AAC13_SC
+#EXTINF:-1, Radio Viva « Cali
+http://195.154.133.107:8282/stream
+#EXTINF:-1, Radio Viva « Ipiales
+http://195.154.133.107:8258/stream
+#EXTINF:-1, Radio Viva « Pasto
+http://195.154.133.107:8252/stream
+#EXTINF:-1, Inrai - HJdobleK « Neiva 840 AM
+http://37.187.93.104:8292/HJKKneiva
+#EXTINF:-1, Inrai - HJdobleK « Pitalito 1280 AM
+http://149.56.147.197:9641/Pitalito
+#EXTINF:-1, Inrai - Cristalina Caquetá 101.1 FM
+http://149.56.147.197:9635/cristalinaflorencia
+#EXTINF:-1, Inrai - Cristalina Cundinamarca 102.3 FM
+http://37.187.93.104:8319/LaMesa
+#EXTINF:-1, Inrai - La Caqueteña « Florencia 93.1 FM
+http://149.56.147.197:9638/lacaquetena
+#EXTINF:-1, Inrai -  Cristalina Huila 101.3 FM
+http://149.56.147.197:9641/cNeiva
+#EXTINF:-1, Rumba Y Salsa Radio - 0
+http://209.126.119.28:8207/stream?type=http&nocache=2
+#EXTINF:-1, Rumba Y Salsa Radio - 1
+http://209.126.119.28:8669/;
+#EXTINF:-1, Sinigual FM Estéreo « Rionegro - 0
+http://real1.streaming-co.com:8646/;stream.nsv&type=mp3
+#EXTINF:-1, Sinigual FM Estéreo « Rionegro - 1
+http://50.30.40.140:8113/;
+#EXTINF:-1, RS - La Voz De Los Andes « Manizales
+http://docketworks.com:9012/;
+#EXTINF:-1, RS - Radio 1040 AM « Popayán
+http://docketworks.com:9010/;
+#EXTINF:-1, RS - Sonora 1500 AM « Cali
+http://docketworks.com:9006/;
+#EXTINF:-1, Full 80s Radio - - 0
+http://full80sradio.com/?pl=winamp&c=Full%2080%27s%20Radio
+#EXTINF:-1, Full 80s Radio - - 1
+http://162.144.38.39:9010/;
+#EXTINF:-1, Súper Clásica
+http://77.73.69.238:8000/;
+#EXTINF:-1, La Voz Del Ranchería « Distracción
+http://78.129.224.21/records/radiouser2091759/record.mp3
+#EXTINF:-1, Meridiano 70 « Arauca - 0
+http://149.56.134.163:9970/;stream.nsv
+#EXTINF:-1, Meridiano 70 « Arauca - 1
+http://97.74.4.170:8055/;
+#EXTINF:-1, Abejorral Estéreo - Rionegro – Antioquia
+http://real1.streaming-co.com:8556/;stream.nsv&type=mp3
+#EXTINF:-1, Al Aire « Puerto Salgar - 0
+http://playerservices.streamtheworld.com/pls/SAM05AAC181.pls
+#EXTINF:-1, Al Aire « Puerto Salgar - 1
+http://provisioning.streamtheworld.com/pls/SAM05AAC181.pls
+#EXTINF:-1, Al Aire « Puerto Salgar - 2
+https://18193.live.streamtheworld.com/SAM05AAC181.aac
+#EXTINF:-1, Apartadó Stereo
+http://132.148.149.111:9300/;
+#EXTINF:-1, Aviva2 Radio
+http://avivamientoradio.net:8000/;
+#EXTINF:-1, Boyacá 95.6 FM « Tunja
+http://195.154.133.107:8390/play.mp3
+#EXTINF:-1, Brisa FM « La Merced
+http://192.190.87.17:9354/;
+#EXTINF:-1, Campo Serrano Radio « Aguachica
+http://stream2.emisorasvirtuales.com:8054/;
+#EXTINF:-1, Canalete Stereo « Istmina
+http://192.99.150.42:9394/;
+#EXTINF:-1, Católica Metropolitana « Bucaramanga
+http://201.221.153.11:8000/;
+#EXTINF:-1, Colmundo Radio « Pereira
+http://192.163.226.125:9992/;stream.mp3
+#EXTINF:-1, Contando Radio - 0
+http://stream.integracionvirtual.com:8044/stream
+#EXTINF:-1, Contando Radio - 1
+http://91.134.208.112:8044/stream
+#EXTINF:-1, CRA - Radio Auténtica « Bogotá
+http://real2.streaming-co.com:8435/;
+#EXTINF:-1, CRA - Radio Auténtica « Medellín
+http://real2.streaming-co.com:8570/;stream.mp3
+#EXTINF:-1, EDM Radio Co
+http://173.208.195.26:8016/stream
+#EXTINF:-1, El Café Del Mundo
+http://radio.xtreaming.co:8010/stream
+#EXTINF:-1, El Tunel Radio
+http://163.172.198.16:8014/;stream.mp3
+#EXTINF:-1, Hefzi-bá Radio
+http://radio35.virtualtronics.com:8576/live
+#EXTINF:-1, Fundecopi Radio
+http://radio30.virtualtronics.com:8126/;
+#EXTINF:-1, ITM Radio
+http://200.13.235.193:8000/;stream.mp3
+#EXTINF:-1, La Estudiantil Estéreo
+http://209.126.119.28:8711/stream
+#EXTINF:-1, La Poderosa Del Huila « Pitalito
+http://91.121.134.23:8000/poderosa968.mp3
+#EXTINF:-1, La Voz De La Dorada
+http://stream.jach.com.co:8348/live
+#EXTINF:-1, La Voz De La Esperanza « Villavicencio
+http://streaming.hqs-la.com:8000/1063
+#EXTINF:-1, Manare Radio « Yopal
+http://51.15.160.78:8418/stream
+#EXTINF:-1, Parranda Estéreo
+http://real2.streaming-co.com:8046/live
+#EXTINF:-1, Paz De Selva Verde
+http://149.56.134.163:9990/;
+#EXTINF:-1, Popular Stereo « Barranquilla
+http://149.56.134.163:9990/;
+#EXTINF:-1, Popular Stereo BGA
+http://192.99.150.42:9304/;
+#EXTINF:-1, Prisa - HJCK El Mundo En Bogotá - 0
+http://playerservices.streamtheworld.com/asx/RADIO_HJCK.asx
+#EXTINF:-1, Prisa - HJCK El Mundo En Bogotá - 1
+http://provisioning.streamtheworld.com/asx/RADIO_HJCK.asx
+#EXTINF:-1, Prisa - HJCK El Mundo En Bogotá - 2
+http://provisioning.streamtheworld.com/pls/RADIO_HJCK.pls
+#EXTINF:-1, Prisa - HJCK El Mundo En Bogotá - 3
+http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_HJCK.mp3
+#EXTINF:-1, Prisa - HJCK El Mundo En Bogotá - 4
+http://17973.live.streamtheworld.com/RADIO_HJCK_SC
+#EXTINF:-1, Punto 4 Radio
+http://149.56.134.163:9974/;
+#EXTINF:-1, Radio Colombia Espirita
+http://radiolatina.info:9350/;
+#EXTINF:-1, Radio Colombia Internacional
+http://real2.streaming-co.com:8050/live
+#EXTINF:-1, Radio Macondo
+http://91.134.208.112:8028/autodj
+#EXTINF:-1, Radio Melodía « Bucaramanga
+http://colombiawebs.co:7112/;stream.mp3
+#EXTINF:-1, Radio Online Fusagasugá
+http://real2.streaming-co.com:8016/;
+#EXTINF:-1, Radio Planeta « Cali
+http://192.163.226.125:9308/;
+#EXTINF:-1, Radio Virtual
+http://liveapplication-ahoramedia-tv.akamaized.net/sergioarboledaradiolive/smil:live.smil/playlist.m3u8
+#EXTINF:-1, Tame FM Stereo 88.3
+http://192.99.203.81:8990/;
+#EXTINF:-1, Toca Stereo « Sogamoso
+http://ample-zeno-07.radiojar.com/sdhe4bkxrwwtv
+#EXTINF:-1, UdeC Radio « Cartagena
+http://190.242.62.236:8000/;
+#EXTINF:-1, UMNG Radio - Latino
+http://108.163.229.102:8051/stream.mp3
+#EXTINF:-1, Unicauca Estéreo « Popayán
+http://ftpemisora.unicauca.edu.co:8000/stream
+#EXTINF:-1, Vendaval Estéreo
+http://163.172.198.16:8155/;
+#EXTINF:-1, Voces Fm 96.7 « Manzanares
+http://192.190.87.17:9342/stream
+#EXTINF:-1, Volvamos A Dios
+http://96.31.83.86:8067/live
+#EXTINF:-1, YoTuve Radio
+http://192.99.14.225:9328/stream
+#EXTINF:-1, Nitro Stereo « Zapatoca - 0
+http://real2.streaming-co.com:8765/;stream.mp3
+#EXTINF:-1, Nitro Stereo « Zapatoca - 1
+http://199.217.118.14:8360/;
+#EXTINF:-1, Arenosa Estéreo
+http://163.172.198.16:8088/stream
+#EXTINF:-1, LAUD 90.4 FM Estéreo « Bogotá
+http://200.69.103.69:8000/laud
+#EXTINF:-1, BR - Instrumental
+http://62.210.141.243:8079/;stream
+#EXTINF:-1, Andina Stereo 95.1 « Ramiriquí
+http://178.33.113.51:8016/stream
+#EXTINF:-1, RCN - El Sol  « Cali - 0
+http://playerservices.streamtheworld.com/pls/EL_SOL_CLOAAC.pls
+#EXTINF:-1, RCN - El Sol  « Cali - 1
+http://playerservices.streamtheworld.com/pls/EL_SOL_CLO.pls
+#EXTINF:-1, RCN - El Sol  « Cali - 2
+http://20823.live.streamtheworld.com/EL_SOL_CLOAAC.aac
+#EXTINF:-1, RCN La FM Clásicos
+http://50.7.70.58:8945/;
+#EXTINF:-1, RCN - Radio 1 « Cali - 0
+http://playerservices.streamtheworld.com/pls/RADIO_1_CLOAAC.pls
+#EXTINF:-1, RCN - Radio 1 « Cali - 1
+http://playerservices.streamtheworld.com/pls/RADIO_1_CLO.pls
+#EXTINF:-1, RCN - Radio 1 « Cali - 2
+http://14103.live.streamtheworld.com/RADIO_1_CLOAAC.aac
+#EXTINF:-1, RCN - La FM « Cali - 0
+http://playerservices.streamtheworld.com/pls/LA_FM_CLOAAC.pls
+#EXTINF:-1, RCN - La FM « Cali - 1
+http://playerservices.streamtheworld.com/pls/LA_FM_CLO.pls
+#EXTINF:-1, RCN - La FM « Cali - 2
+http://20823.live.streamtheworld.com/LA_FM_CLOAAC.aac
+#EXTINF:-1, RCN - Radio Red « Cali - 0
+http://playerservices.streamtheworld.com/pls/RADIO_RED_CLOAAC.pls
+#EXTINF:-1, RCN - Radio Red « Cali - 1
+http://playerservices.streamtheworld.com/pls/RADIO_RED_CLO.pls
+#EXTINF:-1, RCN - Radio Red « Cali - 2
+http://17983.live.streamtheworld.com/RADIO_RED_CLOAAC.aac
+#EXTINF:-1, RCN - La Radio « Cali - 0
+http://playerservices.streamtheworld.com/pls/RCN_RADIO_CLOAAC.pls
+#EXTINF:-1, RCN - La Radio « Cali - 1
+http://playerservices.streamtheworld.com/pls/RCN_RADIO_CLO.pls
+#EXTINF:-1, RCN - La Radio « Cali - 2
+http://20823.live.streamtheworld.com/RCN_RADIO_CLOAAC.aac
+#EXTINF:-1, RCN - La Mega « Cali - 0
+http://playerservices.streamtheworld.com/pls/LA_MEGA_CLOAAC.pls
+#EXTINF:-1, RCN - La Mega « Cali - 1
+http://playerservices.streamtheworld.com/pls/LA_MEGA_CLO.pls
+#EXTINF:-1, RCN - La Mega « Cali - 2
+http://20823.live.streamtheworld.com/LA_MEGA_CLOAAC.aac
+#EXTINF:-1, RCN - Antena 2  « Cali - 0
+http://playerservices.streamtheworld.com/pls/ANTENA_2_CLOAAC.pls
+#EXTINF:-1, RCN - Antena 2  « Cali - 1
+http://playerservices.streamtheworld.com/pls/ANTENA_2_CLO.pls
+#EXTINF:-1, RCN - Rumba « Cali - 0
+http://playerservices.streamtheworld.com/pls/RUMBA_CLOAAC.pls
+#EXTINF:-1, RCN - Rumba « Cali - 1
+http://playerservices.streamtheworld.com/pls/RUMBA_CLO.pls
+#EXTINF:-1, RCN - Rumba « Cali - 2
+http://20823.live.streamtheworld.com/RUMBA_CLOAAC.aac
+#EXTINF:-1, RCN - La Cariñosa « Cali - 0
+http://playerservices.streamtheworld.com/pls/RADIO_CALIDAD_CLOAAC.pls
+#EXTINF:-1, RCN - La Cariñosa « Cali - 1
+http://playerservices.streamtheworld.com/pls/RADIO_CALIDAD_CLO.pls
+#EXTINF:-1, RCN - La Cariñosa « Cali - 2
+http://17983.live.streamtheworld.com/RADIO_CALIDAD_CLOAAC.aac
+#EXTINF:-1, RCN - RUMBA CHOKE - EMISORAS VIRTUALES
+http://live1.rcnmundo.com/rumbachoke.mp3
+#EXTINF:-1, La Kalle96.9FM Bogota - 0
+http://provisioning.streamtheworld.com/pls/LA_KALLE.pls
+#EXTINF:-1, La Kalle96.9FM Bogota - 1
+http://playerservices.streamtheworld.com/pls/LA_KALLE.pls
+#EXTINF:-1, La Kalle96.9FM Bogota - 2
+http://17973.live.streamtheworld.com/LA_KALLE.mp3
+#EXTINF:-1, Latina Stereo « Medellín
+http://142.54.176.34:8061/stream
+#EXTINF:-1, Radio Comunícate
+http://streaming.hostingfacil.co/proxy/radiocomunicate?mp=/mp3128
+#EXTINF:-1, Colmundo Radio « Cúcuta
+http://192.163.226.125:9992/;stream.mp3
+#EXTINF:-1, Sonora Stereo « Cimitarra
+http://streaming3.globalhost.net.ve:9340/;
+#EXTINF:-1, RCN Años Maravillosos - 1340 AM - 0
+http://playerservices.streamtheworld.com/pls/ANOS_MARAVILLOSOS_BOGAAC.pls
+#EXTINF:-1, RCN Años Maravillosos - 1340 AM - 1
+http://playerservices.streamtheworld.com/pls/ANOS_MARAVILLOSOS_BOG.pls
+#EXTINF:-1, RCN Años Maravillosos - 1340 AM - 2
+http://20823.live.streamtheworld.com/ANOS_MARAVILLOSOS_BOGAAC.aac
+#EXTINF:-1, RCN - Antena 2 « Bogotá  650 AM - 0
+http://playerservices.streamtheworld.com/pls/ANTENA_2_BOGAAC.pls
+#EXTINF:-1, RCN - Antena 2 « Bogotá  650 AM - 1
+http://playerservices.streamtheworld.com/pls/ANTENA_2_BOG.pls
+#EXTINF:-1, RCN - Antena 2 « Bogotá  650 AM - 2
+http://17983.live.streamtheworld.com/ANTENA_2_BOGAAC.aac
+#EXTINF:-1, RCN - Rumba « Medellín - 0
+http://live1.rcnmundo.com/rumba.mp3
+#EXTINF:-1, RCN - Rumba « Medellín - 1
+http://live2.rcnmundo.com/rumba.mp3
+#EXTINF:-1, RCN - Rumba « Medellín - 2
+http://live3.rcnmundo.com/rumba.mp3
+#EXTINF:-1, RCN - Rumba « Medellín - 3
+http://live4.rcnmundo.com/rumba.mp3
+#EXTINF:-1, RCN - Rumba « Medellín - 4
+http://live.rcnmundo.com/rumba.mp3
+#EXTINF:-1, Radio Tuciudad - La Básica
+http://167.114.219.240:9404/;
+#EXTINF:-1, Radio Tuciudad - La Urbana
+http://167.114.219.240:9364/stream
+#EXTINF:-1, Radio Tuciudad - La Vallenata
+http://167.114.219.240:9360/;
+#EXTINF:-1, BR - Musica Hispana
+http://62.210.141.243:8079/;stream
+#EXTINF:-1, BR - Colombia Radio
+http://178.33.113.51:8020/stream
+#EXTINF:-1, BP - Balada Pop
+http://178.33.113.51:8036/stream
+#EXTINF:-1, Radio Cristiacción
+http://198.49.72.250:9300/;
+#EXTINF:-1, Colmundo Radio « Ibagué
+http://192.163.226.125:9992/;stream.mp3
+#EXTINF:-1, Radionix - 0
+http://listen.shoutcast.com/radionixfm
+#EXTINF:-1, Radionix - 1
+http://streaming.shoutcast.com/RadionixFm?lang=en-US%2cen%3bq%3d0.9%2cund%3bq%3d0.8
+#EXTINF:-1, Indere Radio
+http://149.56.147.197:8720/stream
+#EXTINF:-1, La Doble L Radio « Villavicencio
+http://streaming.hqs-la.com:8000/ladoblel
+#EXTINF:-1, Nordeste Stereo « Remedios
+http://37.59.121.120:9910/stream
+#EXTINF:-1, La Superestación 98.3 « Villavicencio
+http://www.cadenasuper.com:8004/;
+#EXTINF:-1, Santa María De La Paz « Medellín
+http://181.143.60.34:8000/;
+#EXTINF:-1, Frecuencia Estéreo 88.4 FM
+http://149.56.134.163:9904/;stream.nsv
+#EXTINF:-1, Power 88 Radio (6:00 a.m. - 0:00 a.m.)
+http://71.6.165.113:9050/;
+#EXTINF:-1, Clásica 88.5 « Cali
+http://69.30.243.166:9434/;
+#EXTINF:-1, Radio Mixticius
+http://streaming.radio.co/s315d9de0d/listen
+#EXTINF:-1, RCN Vallenato Ventiao - 0
+http://live1.rcnmundo.com/vallenatoventiao.mp3
+#EXTINF:-1, RCN Vallenato Ventiao - 1
+http://live2.rcnmundo.com/vallenatoventiao.mp3
+#EXTINF:-1, RCN Vallenato Ventiao - 2
+http://live3.rcnmundo.com/vallenatoventiao.mp3
+#EXTINF:-1, RCN Vallenato Ventiao - 3
+http://live4.rcnmundo.com/vallenatoventiao.mp3
+#EXTINF:-1, RCN Ventura - 0
+http://live1.rcnmundo.com/ventura.mp3
+#EXTINF:-1, RCN Ventura - 1
+http://live2.rcnmundo.com/ventura.mp3
+#EXTINF:-1, RCN Ventura - 2
+http://live3.rcnmundo.com/ventura.mp3
+#EXTINF:-1, RCN Ventura - 3
+http://live4.rcnmundo.com/ventura.mp3
+#EXTINF:-1, RCN - La Mega « Bogotá - 0
+http://live4.rcnmundo.com/lamega.aac
+#EXTINF:-1, RCN - La Mega « Bogotá - 1
+http://live1.rcnmundo.com/lamega.mp3
+#EXTINF:-1, RCN - La Mega « Bogotá - 2
+http://live2.rcnmundo.com/lamega.mp3
+#EXTINF:-1, RCN - La Mega « Bogotá - 3
+http://live3.rcnmundo.com/lamega.mp3
+#EXTINF:-1, RCN - La Mega « Bogotá - 4
+http://live4.rcnmundo.com/lamega.mp3
+#EXTINF:-1, RCN - Radio 1 « Girardot - 0
+http://live1.rcnmundo.com/radiounogirardot.mp3
+#EXTINF:-1, RCN - Radio 1 « Girardot - 1
+http://live2.rcnmundo.com/radiounogirardot.mp3
+#EXTINF:-1, RCN - Radio 1 « Girardot - 2
+http://live3.rcnmundo.com/radiounogirardot.mp3
+#EXTINF:-1, RCN - Radio 1 « Girardot - 3
+http://live4.rcnmundo.com/radiounogirardot.mp3
+#EXTINF:-1, RCN - Radio 1 « Pasto - 0
+http://live1.rcnmundo.com/radiounopasto.mp3
+#EXTINF:-1, RCN - Radio 1 « Pasto - 1
+http://live2.rcnmundo.com/radiounopasto.mp3
+#EXTINF:-1, RCN - Radio 1 « Pasto - 2
+http://live3.rcnmundo.com/radiounopasto.mp3
+#EXTINF:-1, RCN - Radio 1 « Pasto - 3
+http://live4.rcnmundo.com/radiounopasto.mp3
+#EXTINF:-1, RCN - Radio 1 « Santa Marta - 0
+http://live1.rcnmundo.com/radiounosantamarta.mp3
+#EXTINF:-1, RCN - Radio 1 « Santa Marta - 1
+http://live2.rcnmundo.com/radiounosantamarta.mp3
+#EXTINF:-1, RCN - Radio 1 « Santa Marta - 2
+http://live3.rcnmundo.com/radiounosantamarta.mp3
+#EXTINF:-1, RCN - Radio 1 « Santa Marta - 3
+http://live4.rcnmundo.com/radiounosantamarta.mp3
+#EXTINF:-1, RCN - Radio 1 « Tunja - 0
+http://live1.rcnmundo.com/radiounotunja.mp3
+#EXTINF:-1, RCN - Radio 1 « Tunja - 1
+http://live2.rcnmundo.com/radiounotunja.mp3
+#EXTINF:-1, RCN - Radio 1 « Tunja - 2
+http://live3.rcnmundo.com/radiounotunja.mp3
+#EXTINF:-1, RCN - Radio 1 « Tunja - 3
+http://live4.rcnmundo.com/radiounotunja.mp3
+#EXTINF:-1, RCN - Radio 1 « Villa De Leyva - 0
+http://live1.rcnmundo.com/radiounovilladeleyva.mp3
+#EXTINF:-1, RCN - Radio 1 « Villa De Leyva - 1
+http://live2.rcnmundo.com/radiounovilladeleyva.mp3
+#EXTINF:-1, RCN - Radio 1 « Villa De Leyva - 2
+http://live3.rcnmundo.com/radiounovilladeleyva.mp3
+#EXTINF:-1, RCN - Radio 1 « Villa De Leyva - 3
+http://live4.rcnmundo.com/radiounovilladeleyva.mp3
+#EXTINF:-1, RCN - Radio 1 « Armenia - 0
+http://live1.rcnmundo.com/radiounoarmenia.mp3
+#EXTINF:-1, RCN - Radio 1 « Armenia - 1
+http://live2.rcnmundo.com/radiounoarmenia.mp3
+#EXTINF:-1, RCN - Radio 1 « Armenia - 2
+http://live3.rcnmundo.com/radiounoarmenia.mp3
+#EXTINF:-1, RCN - Radio 1 « Armenia - 3
+http://live4.rcnmundo.com/radiounoarmenia.mp3
+#EXTINF:-1, RCN - Radio 1 « Barranquilla - 0
+http://live1.rcnmundo.com/radiounobarranquilla.mp3
+#EXTINF:-1, RCN - Radio 1 « Barranquilla - 1
+http://live2.rcnmundo.com/radiounobarranquilla.mp3
+#EXTINF:-1, RCN - Radio 1 « Barranquilla - 2
+http://live3.rcnmundo.com/radiounobarranquilla.mp3
+#EXTINF:-1, RCN - Radio 1 « Barranquilla - 3
+http://live4.rcnmundo.com/radiounobarranquilla.mp3
+#EXTINF:-1, RCN - Radio 1 « Buenaventura - 0
+http://live1.rcnmundo.com/radiounobuenaventura.mp3
+#EXTINF:-1, RCN - Radio 1 « Buenaventura - 1
+http://live2.rcnmundo.com/radiounobuenaventura.mp3
+#EXTINF:-1, RCN - Radio 1 « Buenaventura - 2
+http://live3.rcnmundo.com/radiounobuenaventura.mp3
+#EXTINF:-1, RCN - Radio 1 « Buenaventura - 3
+http://live4.rcnmundo.com/radiounobuenaventura.mp3
+#EXTINF:-1, RCN - Radio 1 « Cúcuta - 0
+http://live1.rcnmundo.com/radiounocucuta.mp3
+#EXTINF:-1, RCN - Radio 1 « Cúcuta - 1
+http://live2.rcnmundo.com/radiounocucuta.mp3
+#EXTINF:-1, RCN - Radio 1 « Cúcuta - 2
+http://live3.rcnmundo.com/radiounocucuta.mp3
+#EXTINF:-1, RCN - Radio 1 « Cúcuta - 3
+http://live4.rcnmundo.com/radiounocucuta.mp3
+#EXTINF:-1, Todelar - La X « Cali
+http://65.60.45.74:8088/;stream.mp3
+#EXTINF:-1, La Z Urbana Cali
+http://65.60.45.74:8090/;stream.mp3
+#EXTINF:-1, RCN - Antena 2 « Barranquilla 1400 AM - 0
+http://live1.rcnmundo.com/antena2barranquilla.mp3
+#EXTINF:-1, RCN - Antena 2 « Barranquilla 1400 AM - 1
+http://live2.rcnmundo.com/antena2barranquilla.mp3
+#EXTINF:-1, RCN - Antena 2 « Barranquilla 1400 AM - 2
+http://live3.rcnmundo.com/antena2barranquilla.mp3
+#EXTINF:-1, RCN - Antena 2 « Barranquilla 1400 AM - 3
+http://live4.rcnmundo.com/antena2barranquilla.mp3
+#EXTINF:-1, RCN - Antena 2 « Bucaramanga 1480 AM - 0
+http://live1.rcnmundo.com/antena2bucaramanga.mp3
+#EXTINF:-1, RCN - Antena 2 « Bucaramanga 1480 AM - 1
+http://live2.rcnmundo.com/antena2bucaramanga.mp3
+#EXTINF:-1, RCN - Antena 2 « Bucaramanga 1480 AM - 2
+http://live3.rcnmundo.com/antena2bucaramanga.mp3
+#EXTINF:-1, RCN - Antena 2 « Bucaramanga 1480 AM - 3
+http://live4.rcnmundo.com/antena2bucaramanga.mp3
+#EXTINF:-1, RCN - El Sol « Medellín - 0
+http://playerservices.streamtheworld.com/pls/EL_SOL_MEDAAC.pls
+#EXTINF:-1, RCN - El Sol « Medellín - 1
+http://playerservices.streamtheworld.com/pls/EL_SOL_MED.pls
+#EXTINF:-1, RCN - El Sol « Medellín - 2
+http://20823.live.streamtheworld.com/EL_SOL_MEDAAC.aac
+#EXTINF:-1, RCN - El Sol « Tuluá - 0
+http://live1.rcnmundo.com/elsoltulua.mp3
+#EXTINF:-1, RCN - El Sol « Tuluá - 1
+http://live2.rcnmundo.com/elsoltulua.mp3
+#EXTINF:-1, RCN - El Sol « Tuluá - 2
+http://live3.rcnmundo.com/elsoltulua.mp3
+#EXTINF:-1, RCN - El Sol « Tuluá - 3
+http://live4.rcnmundo.com/elsoltulua.mp3
+#EXTINF:-1, RCN - El Sol «  Bogotá - 0
+http://playerservices.streamtheworld.com/pls/EL_SOL_BOGAAC.pls
+#EXTINF:-1, RCN - El Sol «  Bogotá - 1
+http://playerservices.streamtheworld.com/pls/EL_SOL_BOG.pls
+#EXTINF:-1, RCN - El Sol «  Bogotá - 2
+http://17983.live.streamtheworld.com/EL_SOL_BOGAAC.aac
+#EXTINF:-1, RCN La Instrumental - 0
+http://live1.rcnmundo.com/lainstrumental.mp3
+#EXTINF:-1, RCN La Instrumental - 1
+http://live2.rcnmundo.com/lainstrumental.mp3
+#EXTINF:-1, RCN La Instrumental - 2
+http://live3.rcnmundo.com/lainstrumental.mp3
+#EXTINF:-1, RCN La Instrumental - 3
+http://live4.rcnmundo.com/lainstrumental.mp3
+#EXTINF:-1, RCN - La Cariñosa « Duitama - 0
+http://live1.rcnmundo.com/lacarinosaduitama.mp3
+#EXTINF:-1, RCN - La Cariñosa « Duitama - 1
+http://live2.rcnmundo.com/lacarinosaduitama.mp3
+#EXTINF:-1, RCN - La Cariñosa « Duitama - 2
+http://live3.rcnmundo.com/lacarinosaduitama.mp3
+#EXTINF:-1, RCN - La Cariñosa « Duitama - 3
+http://live4.rcnmundo.com/lacarinosaduitama.mp3
+#EXTINF:-1, UMNG Radio - Anglo - 0
+http://108.163.229.102:8051/stream.mp3
+#EXTINF:-1, UMNG Radio - Anglo - 1
+http://108.163.229.102:8152/;
+#EXTINF:-1, UMNG Radio - Anglo - 2
+http://195.154.182.222:3534/;
+#EXTINF:-1, Manantial Stereo 107.7 FM
+http://209.126.119.28:8201/;
+#EXTINF:-1, Unab Radio
+http://edge.teveo.com.co/live/AeAAAgAXAALOA1IAyADIVKwAAAAAAAAAAlvInDdHrKBEAAAA/playlist.m3u8
+#EXTINF:-1, RCN - Putumayo Estéreo » Mocoa
+http://62.210.38.137:8222/;
+#EXTINF:-1, Libertad Radio « Bogotá 1130 AM
+http://master.letio.com/io/?gs=7726&type=master.m3u8
+#EXTINF:-1, La Cometa « San Gil
+http://real1.streaming-co.com:8389/stream
+#EXTINF:-1, Apartadó 100.9 FM - 0
+http://shoutcast14.rootservers.co:9802/;
+#EXTINF:-1, Apartadó 100.9 FM - 1
+http://149.56.134.163:9802/;
+#EXTINF:-1, Rumbera Stereo - 0
+http://rumberastereo.heplayer.com/?pl=winamp&c=Rumbera%20Stereo
+#EXTINF:-1, Rumbera Stereo - 1
+http://rumberastereo.heplayer.com/?pl=wmp&c=Rumbera%20Stereo
+#EXTINF:-1, Rumbera Stereo - 2
+http://centova.mistreaming.com.ve:8240/stream
+#EXTINF:-1, Prisa - W Radio » Bogotá - 0
+http://provisioning.streamtheworld.com/pls/WRADIOAAC.pls
+#EXTINF:-1, Prisa - W Radio » Bogotá - 1
+http://provisioning.streamtheworld.com/asx/WRADIOAAC.asx
+#EXTINF:-1, Prisa - W Radio » Bogotá - 2
+http://provisioning.streamtheworld.com/pls/WRADIO.pls
+#EXTINF:-1, Prisa - W Radio » Bogotá - 3
+http://provisioning.streamtheworld.com/asx/WRADIO.asx
+#EXTINF:-1, Prisa - Tropicana » Bogotá - 0
+http://provisioning.streamtheworld.com/pls/TROPICANAAAC.pls
+#EXTINF:-1, Prisa - Tropicana » Bogotá - 1
+http://provisioning.streamtheworld.com/asx/TROPICANAAAC.asx
+#EXTINF:-1, Prisa - Tropicana » Bogotá - 2
+http://provisioning.streamtheworld.com/pls/TROPICANA.pls
+#EXTINF:-1, Prisa - Tropicana » Bogotá - 3
+http://provisioning.streamtheworld.com/asx/TROPICANA.asx
+#EXTINF:-1, Prisa - Radioacktiva » Bogotá - 0
+http://provisioning.streamtheworld.com/pls/RADIO_ACTIVAAAC.pls
+#EXTINF:-1, Prisa - Radioacktiva » Bogotá - 1
+http://provisioning.streamtheworld.com/asx/RADIO_ACTIVAAAC.asx
+#EXTINF:-1, Prisa - Radioacktiva » Bogotá - 2
+http://provisioning.streamtheworld.com/pls/RADIO_ACTIVA.pls
+#EXTINF:-1, Prisa - Radioacktiva » Bogotá - 3
+http://provisioning.streamtheworld.com/asx/RADIO_ACTIVA.asx
+#EXTINF:-1, Prisa - Oxígeno » Bogotá - 0
+http://provisioning.streamtheworld.com/pls/OXIGENOAAC.pls
+#EXTINF:-1, Prisa - Oxígeno » Bogotá - 1
+http://provisioning.streamtheworld.com/asx/OXIGENOAAC.asx
+#EXTINF:-1, Prisa - Oxígeno » Bogotá - 2
+http://provisioning.streamtheworld.com/pls/OXIGENO.pls
+#EXTINF:-1, Prisa - Oxígeno » Bogotá - 3
+http://provisioning.streamtheworld.com/asx/OXIGENO.asx
+#EXTINF:-1, Prisa - Los 40 Principales » Bogotá - 0
+http://provisioning.streamtheworld.com/pls/LOS40_COLUMBIAAAC.pls
+#EXTINF:-1, Prisa - Los 40 Principales » Bogotá - 1
+http://provisioning.streamtheworld.com/asx/LOS40_COLUMBIAAAC.asx
+#EXTINF:-1, Prisa - Los 40 Principales » Bogotá - 2
+http://provisioning.streamtheworld.com/pls/LOS40_COLUMBIA.pls
+#EXTINF:-1, Prisa - Los 40 Principales » Bogotá - 3
+http://provisioning.streamtheworld.com/asx/LOS40_COLUMBIA.asx
+#EXTINF:-1, Prisa - Bésame » Medellín - 0
+http://provisioning.streamtheworld.com/pls/BESAME_NACIONALAAC.pls
+#EXTINF:-1, Prisa - Bésame » Medellín - 1
+http://provisioning.streamtheworld.com/asx/BESAME_NACIONALAAC.asx
+#EXTINF:-1, Prisa - Bésame » Medellín - 2
+http://provisioning.streamtheworld.com/pls/BESAME_NACIONAL.pls
+#EXTINF:-1, Prisa - Bésame » Medellín - 3
+http://provisioning.streamtheworld.com/asx/BESAME_NACIONAL.asx
+#EXTINF:-1, Prisa - La Vallenata » Bogotá - 0
+http://provisioning.streamtheworld.com/pls/VALLENATA_PRISAAAC.pls
+#EXTINF:-1, Prisa - La Vallenata » Bogotá - 1
+http://provisioning.streamtheworld.com/asx/VALLENATA_PRISAAAC.asx
+#EXTINF:-1, Prisa - La Vallenata » Bogotá - 2
+http://14073.live.streamtheworld.com/VALLENATA_PRISAAAC.aac
+#EXTINF:-1, Uno A Estéreo « San Agustín
+http://230.stm-ip.com:9482/;
+#EXTINF:-1, Estación V - Floridablanca, Santander (Colombia)
+http://stream.estacionv.com:8880/upb_96
+#EXTINF:-1, Pereira Al Aire - 0
+http://s2.voscast.com:9854/;stream1499174693279/1
+#EXTINF:-1, Pereira Al Aire - 1
+http://cdn.voscast.com/resources/?key=fef6efef7f94d21313f114d27b85358a&c=wmp
+#EXTINF:-1, Pereira Al Aire - 2
+http://cdn.voscast.com/resources/?key=fef6efef7f94d21313f114d27b85358a&c=quicktime
+#EXTINF:-1, Pereira Al Aire - 3
+http://cdn.voscast.com/resources/?key=fef6efef7f94d21313f114d27b85358a&c=realplayer

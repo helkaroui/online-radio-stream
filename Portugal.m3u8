@@ -1,0 +1,543 @@
+#EXTM3U
+#EXTINF:-1, Mega FM - Hits
+http://megahits.sapo.pt/live/stream_mega_stw.asx
+#EXTINF:-1, Rádio Vidigueira
+http://stream.radio.com.pt/ROLI-ENC-567
+#EXTINF:-1, Radio Amor Portugal
+http://stream.radioamorportugal.com:8000/rap.mp3
+#EXTINF:-1, TSF Madeira
+http://stream.radio.com.pt/ROLI-ENC-470
+#EXTINF:-1, 94 FM
+http://195.8.58.150:35022/;stream.mp3
+#EXTINF:-1, Antena Livre Gouveia 89.6 FM - 0
+http://stream.radio.com.pt/ROLI-ENC-456
+#EXTINF:-1, Antena Livre Gouveia 89.6 FM - 1
+mms://stream.radio.com.pt/ROLI-ENC-456
+#EXTINF:-1, Antena Livre Abrantes 89.7 FM - 0
+http://stream.radio.com.pt/ROLI-ENC-571
+#EXTINF:-1, Antena Livre Abrantes 89.7 FM - 1
+mms://stream.radio.com.pt/ROLI-ENC-571
+#EXTINF:-1, Rádio Ondas do Lima 95.0 FM - 0
+http://stream.radio.com.pt/ROLI-ENC-407
+#EXTINF:-1, Rádio Ondas do Lima 95.0 FM - 1
+mms://stream.radio.com.pt/ROLI-ENC-407
+#EXTINF:-1, Radio Cova da Beira 92.5 FM - 0
+http://stream.radio.com.pt/ROLI-ENC-467
+#EXTINF:-1, Radio Cova da Beira 92.5 FM - 1
+mms://stream.radio.com.pt/ROLI-ENC-467
+#EXTINF:-1, Radio Voz da Ria 90.2 FM - 0
+http://stream.radio.com.pt/ROLI-ENC-541
+#EXTINF:-1, Radio Voz da Ria 90.2 FM - 1
+mms://stream.radio.com.pt/ROLI-ENC-541
+#EXTINF:-1, RUA 102.7 fm - 0
+http://stream.radio.com.pt/ROLI-ENC-536
+#EXTINF:-1, RUA 102.7 fm - 1
+mms://stream.radio.com.pt/ROLI-ENC-536
+#EXTINF:-1, RUM 97.5 fm - 0
+http://stream.radio.com.pt/ROLI-ENC-558
+#EXTINF:-1, RUM 97.5 fm - 1
+mms://stream.radio.com.pt/ROLI-ENC-558
+#EXTINF:-1, Universidade 104.3 fm - 0
+http://stream.radio.com.pt/ROLI-ENC-405
+#EXTINF:-1, Universidade 104.3 fm - 1
+mms://stream.radio.com.pt/ROLI-ENC-405
+#EXTINF:-1, Rádio 5FM - 0
+http://stream.radio.com.pt/ROLI-ENC-438
+#EXTINF:-1, Rádio 5FM - 1
+mms://stream.radio.com.pt/ROLI-ENC-438
+#EXTINF:-1, Rádio Alto Minho 97.0 * 101.7
+http://stream.radio.com.pt/roli-enc-403
+#EXTINF:-1, Rádio AVFM 98.7 FM
+http://46.105.172.166:8026
+#EXTINF:-1, Rádio Barcelos 91.9 - 0
+http://stream.radio.com.pt/ROLI-ENC-563
+#EXTINF:-1, Rádio Barcelos 91.9 - 1
+mms://stream.radio.com.pt/ROLI-ENC-563
+#EXTINF:-1, Rádio do Vale do Minho - 0
+http://stream.radio.com.pt/ROLI-ENC-434
+#EXTINF:-1, Rádio do Vale do Minho - 1
+mms://stream.radio.com.pt/ROLI-ENC-434
+#EXTINF:-1, Rádio Foia 97.1 FM - 0
+http://stream.radio.com.pt/ROLI-ENC-559
+#EXTINF:-1, Rádio Foia 97.1 FM - 1
+mms://stream.radio.com.pt/ROLI-ENC-559
+#EXTINF:-1, Rádio Next
+http://46.105.172.166:8072/;stream.mp3
+#EXTINF:-1, Rádio Pax 101.4 FM - 0
+http://stream.radio.com.pt/ROLI-ENC-484
+#EXTINF:-1, Rádio Pax 101.4 FM - 1
+mms://stream.radio.com.pt/ROLI-ENC-484
+#EXTINF:-1, Rádio Portalegre 100.5 - 0
+http://stream.radio.com.pt/ROLI-ENC-492
+#EXTINF:-1, Rádio Portalegre 100.5 - 1
+mms://stream.radio.com.pt/ROLI-ENC-492
+#EXTINF:-1, Rádio Radar 97.8 FM - 0
+http://stream.radio.com.pt/ROLI-ENC-497
+#EXTINF:-1, Rádio Radar 97.8 FM - 1
+mms://stream.radio.com.pt/ROLI-ENC-497
+#EXTINF:-1, Rádio Regional de Arouca 103.2 FM - 0
+http://stream.radio.com.pt/ROLI-ENC-485/
+#EXTINF:-1, Rádio Regional de Arouca 103.2 FM - 1
+mms://stream.radio.com.pt/ROLI-ENC-485/
+#EXTINF:-1, Rádio NoAr 107.8 FM - 0
+http://stream.radio.com.pt/ROLI-ENC-472
+#EXTINF:-1, Rádio NoAr 107.8 FM - 1
+mms://stream.radio.com.pt/ROLI-ENC-472
+#EXTINF:-1, Rádio Valdevez 96.4 FM - 0
+http://stream.radio.com.pt/ROLI-ENC-508
+#EXTINF:-1, Rádio Valdevez 96.4 FM - 1
+mms://stream.radio.com.pt/ROLI-ENC-508
+#EXTINF:-1, Rádio Singa 104.0 FM - 0
+http://stream.radio.com.pt/ROLI-ENC-487
+#EXTINF:-1, Rádio Singa 104.0 FM - 1
+mms://stream.radio.com.pt/ROLI-ENC-487
+#EXTINF:-1, Terra Quente 105.5 & 105.2 FM - 0
+http://stream.radio.com.pt/ROLI-ENC-402
+#EXTINF:-1, Terra Quente 105.5 & 105.2 FM - 1
+mms://stream.radio.com.pt/ROLI-ENC-402
+#EXTINF:-1, TLA Rádio 92.6 FM - 0
+http://stream.radio.com.pt/ROLI-ENC-545
+#EXTINF:-1, TLA Rádio 92.6 FM - 1
+mms://stream.radio.com.pt/ROLI-ENC-545
+#EXTINF:-1, Ultra FM 88.2 - 0
+http://stream.radio.com.pt/ROLI-ENC-506
+#EXTINF:-1, Ultra FM 88.2 - 1
+mms://stream.radio.com.pt/ROLI-ENC-506
+#EXTINF:-1, Alvor FM 90.1 - 0
+http://stream.radio.com.pt/ROLI-ENC-469
+#EXTINF:-1, Alvor FM 90.1 - 1
+mms://stream.radio.com.pt/ROLI-ENC-469
+#EXTINF:-1, Diana 94.1 FM - 0
+http://stream.radio.com.pt/roli-enc-460
+#EXTINF:-1, Diana 94.1 FM - 1
+mms://stream.radio.com.pt/roli-enc-460
+#EXTINF:-1, Estação Diária 96.8 FM - 0
+http://stream.radio.com.pt/ROLI-ENC-430
+#EXTINF:-1, Estação Diária 96.8 FM - 1
+mms://stream.radio.com.pt/ROLI-ENC-430
+#EXTINF:-1, IRIS FM * 91.4 - 0
+http://stream.radio.com.pt/ROLI-ENC-529
+#EXTINF:-1, IRIS FM * 91.4 - 1
+mms://stream.radio.com.pt/ROLI-ENC-529
+#EXTINF:-1, Rádio Barca 99.6
+http://stream.radio.com.pt/ROLI-ENC-483
+#EXTINF:-1, Rádio Clube da Feira 104.7 FM - 0
+http://stream.radio.com.pt/ROLI-ENC-544
+#EXTINF:-1, Rádio Clube da Feira 104.7 FM - 1
+mms://stream.radio.com.pt/ROLI-ENC-544
+#EXTINF:-1, RC Alentejo 96.2 FM
+http://stream.radio.com.pt/ROLI-ENC-184
+#EXTINF:-1, Rádio Miradouro
+http://radio.miradouro.pt:8000/
+#EXTINF:-1, Emissora das Beiras 91.2 FM - 0
+http://stream.radio.com.pt/ROLI-ENC-465
+#EXTINF:-1, Emissora das Beiras 91.2 FM - 1
+mms://stream.radio.com.pt/ROLI-ENC-465
+#EXTINF:-1, Rádio Botaréu 100.0 FM - 0
+http://stream.radio.com.pt/ROLI-ENC-065
+#EXTINF:-1, Rádio Botaréu 100.0 FM - 1
+mms://stream.radio.com.pt/ROLI-ENC-065
+#EXTINF:-1, Radio Cidade de Tomar 90.5 FM
+http://193.164.131.215:9306
+#EXTINF:-1, Rádio Cidade Hoje 94.0 FM - 0
+http://stream.radio.com.pt/ROLI-ENC-119
+#EXTINF:-1, Rádio Cidade Hoje 94.0 FM - 1
+mms://stream.radio.com.pt/ROLI-ENC-119
+#EXTINF:-1, Rádio Clube da Meda 96.6 FM - 0
+http://stream.radio.com.pt/ROLI-ENC-493
+#EXTINF:-1, Rádio Clube da Meda 96.6 FM - 1
+mms://stream.radio.com.pt/ROLI-ENC-493
+#EXTINF:-1, Rádio Clube de Grândola 91.3 FM - 0
+http://stream.radio.com.pt/ROLI-ENC-474
+#EXTINF:-1, Rádio Clube de Grândola 91.3 FM - 1
+mms://stream.radio.com.pt/ROLI-ENC-474
+#EXTINF:-1, Rádio Clube de Monsanto 98.7 FM - 0
+http://stream.radio.com.pt/ROLI-ENC-424
+#EXTINF:-1, Rádio Clube de Monsanto 98.7 FM - 1
+mms://stream.radio.com.pt/ROLI-ENC-424
+#EXTINF:-1, Rádio Clube de Penafiel 91.8 FM - 0
+http://stream.radio.com.pt/roli-enc-476
+#EXTINF:-1, Rádio Clube de Penafiel 91.8 FM - 1
+mms://stream.radio.com.pt/roli-enc-476
+#EXTINF:-1, Rádio Horizonte FM 92.8 - 0
+http://stream.radio.com.pt/ROLI-ENC-436
+#EXTINF:-1, Rádio Horizonte FM 92.8 - 1
+mms://stream.radio.com.pt/ROLI-ENC-436
+#EXTINF:-1, Rádio Mar 89.0 FM - 0
+http://stream.radio.com.pt/ROLI-ENC-438
+#EXTINF:-1, Rádio Mar 89.0 FM - 1
+mms://stream.radio.com.pt/ROLI-ENC-438
+#EXTINF:-1, Radio Nova Era - 0
+http://stream.radio.com.pt/roli-enc-478
+#EXTINF:-1, Radio Nova Era - 1
+mms://stream.radio.com.pt/roli-enc-478
+#EXTINF:-1, Radio Região de Basto
+http://46.105.172.166:8104
+#EXTINF:-1, Rádio Regional Sanjoanense 88.1 FM - 0
+http://stream.radio.com.pt/ROLI-ENC-117
+#EXTINF:-1, Rádio Regional Sanjoanense 88.1 FM - 1
+mms://stream.radio.com.pt/ROLI-ENC-117
+#EXTINF:-1, Rádio Satão 89.9 FM - 0
+http://stream.radio.com.pt/roli-enc-468
+#EXTINF:-1, Rádio Satão 89.9 FM - 1
+mms://stream.radio.com.pt/roli-enc-468
+#EXTINF:-1, Tejo Rádio Jornal 102.9 FM - 0
+http://stream.radio.com.pt/ROLI-ENC-531
+#EXTINF:-1, Tejo Rádio Jornal 102.9 FM - 1
+mms://stream.radio.com.pt/ROLI-ENC-531
+#EXTINF:-1, Rádio Voz da Planície 104.5 FM - 0
+http://stream.radio.com.pt/ROLI-ENC-441
+#EXTINF:-1, Rádio Voz da Planície 104.5 FM - 1
+mms://stream.radio.com.pt/ROLI-ENC-441
+#EXTINF:-1, Radio Clube Asas do Atlântico FM 103.2
+http://centova.radios.pt:9538/stream
+#EXTINF:-1, Radio Granada FM 100.1
+http://centova.radios.pt:8549/stream
+#EXTINF:-1, Rádio Altitude FM
+http://centova.radios.pt:9034/stream
+#EXTINF:-1, Radio ABC Portugal 92.3
+http://centova.radios.pt:8547/stream
+#EXTINF:-1, Radio Vida Nova 105.5 FM
+http://centova.radios.pt:8061/stream
+#EXTINF:-1, Radio Dom Fuas FM 100.1 & 98.5
+http://centova.radios.pt:8503/stream
+#EXTINF:-1, Rádio Voz de Alenquer 93.5 & 100.6 FM
+http://centova.radios.pt:8479/stream
+#EXTINF:-1, Rádio Vida Fm 97.1
+http://centova.radios.pt:9482/stream
+#EXTINF:-1, Radio 94 Oeste
+http://centova.radios.pt:8515/stream
+#EXTINF:-1, Rádio Marginal 98.1 FM
+http://centova.radios.pt:8499/stream
+#EXTINF:-1, Rádio Amália 92.0 FM
+http://centova.radios.pt:9496/stream
+#EXTINF:-1, Rádio Oxigénio 102.6 FM
+http://centova.radios.pt:9498/stream
+#EXTINF:-1, Rádio Clube de Sintra 91.2 FM Lisboa
+http://centova.radios.pt:8445/stream
+#EXTINF:-1, Radio Posto Emissora do Funchal FM 92
+http://stream.radio.com.pt:9426/;
+#EXTINF:-1, Radio Posto Emissora do Funchal OM 1530
+http://stream.radio.com.pt:9422/;
+#EXTINF:-1, Rádio Zarco 89.6 FM
+http://radiosmadeira.net:8014/;stream.mp3
+#EXTINF:-1, Rádio Sol 103.7 FM
+http://radiosmadeira.net:8010/;stream.mp3
+#EXTINF:-1, Rádio Felgueiras 92.2 FM
+http://centova.radios.pt:8459/stream
+#EXTINF:-1, Rádio Castrense
+http://centova.radios.pt:8431/stream
+#EXTINF:-1, Raia Fm - 0
+http://eu4.fastcast4u.com:5308/
+#EXTINF:-1, Raia Fm - 1
+http://eu4.fastcast4u.com:5308/;
+#EXTINF:-1, TSF Nacional
+http://tsfdirecto.tsf.pt/tsfdirecto.mp3
+#EXTINF:-1, Radio Orbital
+http://195.23.85.126:8401
+#EXTINF:-1, CBF webradio
+http://centova.radios.pt:8575/stream
+#EXTINF:-1, Rádio Benedita FM
+http://178.32.239.25:8024/stream
+#EXTINF:-1, Gilão FM
+http://centova.radios.pt:9440/;listen.pls
+#EXTINF:-1, Rádio Campanário
+http://stream.radio.com.pt:8425/stream
+#EXTINF:-1, Rádio Caria 102.5 FM
+http://stream.radio.com.pt/ROLI-ENC-521
+#EXTINF:-1, Rádio Cister (Alcobaça)
+http://centova.radios.pt:8453/;
+#EXTINF:-1, Rádio Clube de Arganil
+http://178.32.239.25:8127/stream
+#EXTINF:-1, Rádio Horizonte Algarve (Tavira)
+http://centova.radios.pt:9458/;stream/1
+#EXTINF:-1, Rádio Lagoa
+http://centova.radios.pt:9488/stream
+#EXTINF:-1, Rádio Limite (Castro Daire)
+http://centova.radios.pt:9408
+#EXTINF:-1, Rádio Nostalgia
+http://centova.radios.pt:8435
+#EXTINF:-1, Rádio Terranova 105.0
+http://centova.radios.pt:9404/stream
+#EXTINF:-1, RADIO FAUSTEX
+http://78.129.232.162:31201
+#EXTINF:-1, algarve fm
+http://listen.shoutcast.com/algarvefm
+#EXTINF:-1, TOP80 Rádio
+http://live.top80.fm:8086/;
+#EXTINF:-1, RUC 107.9 fm
+http://ruc2.cidadedecoimbra.com:8000/
+#EXTINF:-1, Rádio Refugio Do Emigrante
+http://88.198.72.46:9878
+#EXTINF:-1, RDP África
+http://radiocast.rtp.pt/rdpafrica80a.mp3
+#EXTINF:-1, RDP Antena 1
+http://radiocast.rtp.pt/antena180a.mp3
+#EXTINF:-1, RDP Antena 1 Madeira
+http://radiocast.rtp.pt/antena1madeira80a.mp3
+#EXTINF:-1, RDP Antena 3 Madeira
+http://radiocast.rtp.pt/antena3madeira80a.mp3
+#EXTINF:-1, RDP Antena 2
+http://radiocast.rtp.pt/antena280a.mp3
+#EXTINF:-1, RDP Antena 3
+http://radiocast.rtp.pt/antena380a.mp3
+#EXTINF:-1, RDP Internacional
+http://radiocast.rtp.pt/rdpint80a.mp3
+#EXTINF:-1, RDP Rádio Lusitânia
+http://radiocast.rtp.pt/lusitania80a.mp3
+#EXTINF:-1, RDP Zig Zag
+http://radiocast.rtp.pt/zigzag80a.mp3
+#EXTINF:-1, RDP Antena 1 Fado
+http://radiocast.rtp.pt/antena1fado80a.mp3
+#EXTINF:-1, RDP Antena2 Jazzin'
+http://radiocast.rtp.pt/antena2jazzin80a.mp3
+#EXTINF:-1, All Stars Rádio
+http://s1.xps-ip.eu:8008/;
+#EXTINF:-1, Rádio Castelo Branco
+http://centova.radios.pt:9462/stream
+#EXTINF:-1, Hiper FM
+http://195.23.85.126:9500/
+#EXTINF:-1, Kiss FM - Algarve 101.2
+http://213.239.218.99:7027/stream.mp3?1495061331450
+#EXTINF:-1, 93.3 Marcoense FM
+http://137.74.160.250:8000/;stream/1
+#EXTINF:-1, Rádio Regional - Portuguesa
+http://streaming.radioregional.pt:8040/stream
+#EXTINF:-1, Rádio Regional - Pop-Rock
+http://streaming.radioregional.pt:8046/stream
+#EXTINF:-1, Rádio Regional - Oldies 80s
+http://streaming.radioregional.pt:8052/stream
+#EXTINF:-1, Rádio Regional - Love Songs
+http://streaming.radioregional.pt:8058/stream
+#EXTINF:-1, Rádio Regional - Dance & DJs
+http://streaming.radioregional.pt:8064/stream
+#EXTINF:-1, Rádio Regional - Emissão Nacional HD
+http://streaming.radioregional.pt:8002/stream
+#EXTINF:-1, Rádio Regional - Emissão Vila Real
+http://streaming.radioregional.pt:8004/stream
+#EXTINF:-1, Rádio Regional - Emissão Chaves
+http://streaming.radioregional.pt:8008/stream
+#EXTINF:-1, Rádio Regional - Emissão Bragança
+http://streaming.radioregional.pt:8012/stream
+#EXTINF:-1, Rádio * 24
+http://r24.zibiz.net:8000/stream2
+#EXTINF:-1, Rádio Comercial 97.4 FM
+http://mcrscast.mcr.iol.pt/comercial.mp3
+#EXTINF:-1, Radio Festival 94.8 FM Porto
+http://centova.radios.pt/proxy/520?mp=/stream?
+#EXTINF:-1, Radio Lisboa
+http://radiolisboa.ddns.net:8080/;stream/1
+#EXTINF:-1, Radio Renascença
+http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_RENASCENCAAAC_SC?
+#EXTINF:-1, Rádio Santana FM
+http://5.189.185.16:9000/1
+#EXTINF:-1, Rádio Sines 95.9 FM
+http://176.9.88.190:9580/
+#EXTINF:-1, RCA 94.3 FM
+http://radios.dotsi.pt:8020/;stream.nsv
+#EXTINF:-1, RFM
+http://rfm.sapo.pt/live/stream_rfm_stw.asx
+#EXTINF:-1, RFP
+http://45.43.200.42:15674/
+#EXTINF:-1, Rádio Antena Minho
+http://centova.radios.pt:9464/;
+#EXTINF:-1, Rádio Cantinho de Madeira
+http://109.71.41.6:8129/stream
+#EXTINF:-1, Rádio Popular 101 FM
+http://www.radiosmadeira.net:8008/;stream.mp3
+#EXTINF:-1, Rádio Festival 98.4 FM
+http://www.radiosmadeira.net:8012/;stream.mp3
+#EXTINF:-1, RCMafra 105.6FM
+http://link.radios.pt/rcmafra
+#EXTINF:-1, Rádio Geice FM 90.8
+http://link.radios.pt/geicefm
+#EXTINF:-1, Rádio Planície 92.8 FM - 0
+http://109.71.41.6:8026/stream
+#EXTINF:-1, Rádio Planície 92.8 FM - 1
+http://www.radioplanicie.com/radioplanicie.asx
+#EXTINF:-1, Rádio Jornal FM 103.6
+http://213.136.92.8:8006/;
+#EXTINF:-1, Rádio Mira FM 90.5
+http://stream.codigosur.org:8000/radiomira.mp3?1495228401575.mp3
+#EXTINF:-1, Rádio Montalegre 97.5 FM - 0
+http://link.radios.pt/radiomontalegre
+#EXTINF:-1, Rádio Montalegre 97.5 FM - 1
+http://centova.radios.pt:9566/;
+#EXTINF:-1, Rádio Nova 98.9 FM
+http://centova.radios.pt:9528/;
+#EXTINF:-1, Rádio nove3cinco 93.5 FM
+http://centova.radios.pt:9522/stream
+#EXTINF:-1, Rádio Palmeira 96.1 FM
+http://www.radiosmadeira.net:8018/;stream.mp3
+#EXTINF:-1, Rádio Regional do Centro 96.2 FM
+http://213.239.218.99:7084/
+#EXTINF:-1, Rádio Ritmos
+http://192.99.18.13:8233/stream
+#EXTINF:-1, Rádio Voz Esmoriz 93.1fm
+http://188.93.234.135:8001
+#EXTINF:-1, Rádio XL Romantica 98.4FM
+http://178.32.239.25:8012
+#EXTINF:-1, Smooth FM - 0
+http://mcrscast.mcr.iol.pt/smoothfm?rnd=72400.00818810178
+#EXTINF:-1, Smooth FM - 1
+http://mcrscast.mcr.iol.pt/smoothfm?
+#EXTINF:-1, Cristal Mix
+http://185.32.188.17:8017/stream
+#EXTINF:-1, RFM - 80s - 0
+http://playerservices.streamtheworld.com/pls/GR80SRFM.pls
+#EXTINF:-1, RFM - 80s - 1
+http://19553.live.streamtheworld.com:3690/GR80SRFM_SC
+#EXTINF:-1, RFM - Oceano Pacífico - 0
+http://playerservices.streamtheworld.com/pls/OCEANPACIFICAAC.pls
+#EXTINF:-1, RFM - Oceano Pacífico - 1
+http://playerservices.streamtheworld.com/pls/OCEANPACIFIC.pls
+#EXTINF:-1, RFM - Oceano Pacífico - 2
+http://19553.live.streamtheworld.com:3690/OCEANPACIFIC_SC
+#EXTINF:-1, Rádio Sim - 0
+http://playerservices.streamtheworld.com/pls/RADIO_SIMAAC.pls
+#EXTINF:-1, Rádio Sim - 1
+http://playerservices.streamtheworld.com/pls/RADIO_SIM.pls
+#EXTINF:-1, Rádio Sim - 2
+http://19573.live.streamtheworld.com:3690/RADIO_SIM_SC
+#EXTINF:-1, admiravel.net
+http://streaming.radionomy.com/admiravelnet?lang=en-US&appName=iTunes.m3u
+#EXTINF:-1, Alternativa 21
+http://streaming.radionomy.com/alternativa-21?lang=en-US&appName=iTunes.m3u
+#EXTINF:-1, Golo FM 94.8
+http://play.golo.fm:8020/stream
+#EXTINF:-1, Lifes Best Smooth Jazz - 0
+http://streaming.radionomy.com/LifesBestSmoothJazz?lang=en-US&appName=iTunes.m3u
+#EXTINF:-1, Lifes Best Smooth Jazz - 1
+http://listen.radionomy.com/lifesbestsmoothjazz
+#EXTINF:-1, Hard & Heavy Metal Hits - 0
+http://streaming.radionomy.com/Hard-HeavyMetalHits?lang=en-US&appName=iTunes.m3u
+#EXTINF:-1, Hard & Heavy Metal Hits - 1
+http://listen.radionomy.com/hard-heavymetalhits
+#EXTINF:-1, RÁDIO PÚBICA PORTUGUESA - 0
+http://streaming.radionomy.com/RADIOPUBICAPORTUGUESA?lang=en-US&appName=iTunes.m3u
+#EXTINF:-1, RÁDIO PÚBICA PORTUGUESA - 1
+http://listen.radionomy.com/radiopubicaportuguesa
+#EXTINF:-1, First Class Radio - 0
+http://streaming.radionomy.com/First-Class-Radio?lang=en-US&appName=iTunes.m3u
+#EXTINF:-1, First Class Radio - 1
+http://listen.radionomy.com/first-class-radio
+#EXTINF:-1, Noventa Radio Dance - 0
+http://streaming.radionomy.com/Remember90s?lang=en-US&appName=iTunes.m3u
+#EXTINF:-1, Noventa Radio Dance - 1
+http://listen.radionomy.com/remember90s
+#EXTINF:-1, RADIO FAUSTEX 5 - 0
+http://streaming.radionomy.com/RADIOFAUSTEX5?lang=en-US&appName=iTunes.m3u
+#EXTINF:-1, RADIO FAUSTEX 5 - 1
+http://listen.radionomy.com/radiofaustex5.m3u
+#EXTINF:-1, Solar 94 FM
+http://5.189.189.245:8006/;
+#EXTINF:-1, Rádio Soberania FM
+http://162.210.196.217:8108/stream.mp3?1522886795512
+#EXTINF:-1, Rádio Clube 106.8 FM
+http://www.serv.pt:8020/;stream.mp3?1522888959667
+#EXTINF:-1, 102 FM Rádio
+http://78.129.224.11/stream.mp3?ipport=78.129.224.11_9115
+#EXTINF:-1, Rádio Jornal da Madeira 88.8 FM
+http://194.38.136.130:8000/?type=http
+#EXTINF:-1, Rádio Elvas
+http://radios.dotsi.pt:8025/stream/1/
+#EXTINF:-1, Radio Caminha 106.2 FM
+http://212.13.41.101:11008/;
+#EXTINF:-1, Radio Clube de Lamego
+http://46.4.33.73:9300/;
+#EXTINF:-1, Rádio São Miguel 93.5 FM
+http://162.210.196.217:8146/;
+#EXTINF:-1, Rádio Europa 93.8 FM
+http://213.136.92.8:8050/;stream/1
+#EXTINF:-1, Rádio Fado de Coimbra
+http://162.210.196.217:8102/stream.mp3
+#EXTINF:-1, Rádio Nova Antena 101.3 FM
+http://radios.dotsi.pt:8023/stream
+#EXTINF:-1, Rádio Regional - Emissão Nacional - 0
+http://play1.radioregional.pt:8000/stream
+#EXTINF:-1, Rádio Regional - Emissão Nacional - 1
+http://radioregional.pt/play/generalistas/?pl=winamp&c=NACIONAL
+#EXTINF:-1, Rádio Regional - Emissão Nacional - 2
+http://radioregional.pt/play/generalistas/?pl=wmp&c=NACIONAL
+#EXTINF:-1, RCL - Rádio Clube da Lourinhã 99.0 FM - 0
+http://cast.redeiw.com:2199/tunein/nunoreis.pls
+#EXTINF:-1, RCL - Rádio Clube da Lourinhã 99.0 FM - 1
+http://cast.redeiw.com:2199/tunein/nunoreis.asx
+#EXTINF:-1, Rádio Linear FM 104.6
+http://213.136.92.8:8022/;
+#EXTINF:-1, Mehefil Radio
+http://mehefil.no-ip.com/mehefil
+#EXTINF:-1, Noite FM
+http://live.noite.pt:8080/;
+#EXTINF:-1, Popular 90.9 MHz
+http://195.8.58.141:32281/;
+#EXTINF:-1, Rádio Pernes 101.7 FM - 0
+http://213.239.218.99:7068/stream.mp3
+#EXTINF:-1, Rádio Pernes 101.7 FM - 1
+mms://stream.radio.com.pt/ROLI-ENC-423
+#EXTINF:-1, Rádio Litoral Oeste 91.0 FM
+http://94.23.76.235:9988/stream/1/
+#EXTINF:-1, Sagres FM
+http://176.61.144.80:9302/;
+#EXTINF:-1, Total FM (Loulé) 103.1 / 100.4 FM
+http://176.61.144.80:9300/;type=mp3
+#EXTINF:-1, Antena Web Desporto
+http://185.32.188.17:8008/autodj
+#EXTINF:-1, Antena Web RDL - Rádio Desporto Live
+http://185.32.188.17:8008/live
+#EXTINF:-1, Antena Web Infantil
+http://185.32.188.17:8007/live
+#EXTINF:-1, Antena Web Relax
+http://185.32.188.17:8007/autodj
+#EXTINF:-1, Antena Web - rádio central
+http://185.32.188.17:8061/live
+#EXTINF:-1, Antena Web Classics
+http://185.32.188.17:8026/autodj
+#EXTINF:-1, Passion.Love.Radio - 0
+http://streaming.radionomy.com/PassionLoveRadio?lang=en-US&appName=iTunes.m3u
+#EXTINF:-1, Passion.Love.Radio - 1
+http://listen.radionomy.com/passionloveradio
+#EXTINF:-1, Passion.Love.Radio - 2
+http://listen.radionomy.com/passionloveradio.m3u
+#EXTINF:-1, Rádio Cávado FM 102.4 - 0
+http://radiocavado.ddns.net:8080/
+#EXTINF:-1, Rádio Cávado FM 102.4 - 1
+mms://radiocavado.ddns.net:8080/
+#EXTINF:-1, Rádio Clube de Pombal 97.0 FM - 0
+http://radioclubepombal.no-ip.biz:8080/
+#EXTINF:-1, Rádio Clube de Pombal 97.0 FM - 1
+mms://radioclubepombal.no-ip.biz:8080/
+#EXTINF:-1, Antena Web Coffee House
+http://185.32.188.17:8018/autodj
+#EXTINF:-1, Antena Web Fantástica
+http://185.32.188.17:8033/autodj
+#EXTINF:-1, Antena Web História da Rádio
+http://185.32.188.17:8006/live
+#EXTINF:-1, Antena Web Informação
+http://185.32.188.17:8018/live
+#EXTINF:-1, Antena Web - Canal 2 - 0
+http://185.32.188.17:8061/stream
+#EXTINF:-1, Antena Web - Canal 2 - 1
+http://www.antenaweb.info/antenaweb/player/antenaweb.m3u
+#EXTINF:-1, Antena Web - Rádio Satélite - 0
+http://185.32.188.17:8061/autodj
+#EXTINF:-1, Antena Web - Rádio Satélite - 1
+http://www.antenaweb.info/desporto/player/desporto.m3u
+#EXTINF:-1, Antena Web História
+http://185.32.188.17:8006/autodj
+#EXTINF:-1, Arpeggio Radio
+http://146.185.18.251:7067/
+#EXTINF:-1, Antena Web - A Sexta
+http://185.32.188.17:8039/autodj
+#EXTINF:-1, Antena Web Espetacular
+http://185.32.188.17:8040/autodj
+#EXTINF:-1, Antena Web Lusitana
+http://185.32.188.17:8042/autodj
+#EXTINF:-1, Antena Web - Rádio Letra e Música
+http://185.32.188.17:8040/live
+#EXTINF:-1, Rádio Ideias - 0
+http://stm30.srvstm.com:15018/;
+#EXTINF:-1, Rádio Ideias - 1
+http://stm30.srvstm.com:15018/listen.asx?sid=1
+#EXTINF:-1, Rádio Ideias - 2
+http://player.liderstreaming.com.br/player/15018/winamp.pls

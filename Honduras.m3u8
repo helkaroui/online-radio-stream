@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1, Luna FM 98.3
+http://stream.playerlive.info:8286/lunafm.aac
+#EXTINF:-1, Musiquera FM 93.1
+http://s9.voscast.com:7584/;
+#EXTINF:-1, Radio América
+http://vtuner.com/setupapp/guide/asp/func/dynampls.asp?link=1&id=58419
+#EXTINF:-1, Radio Vision Cristiana - Tocoa, Honduras
+http://195.154.33.95:8010/;
+#EXTINF:-1, Estereo Centro 91.3 FM San Pedro Sula, Honduras - 0
+http://96.31.90.115:8228/;
+#EXTINF:-1, Estereo Centro 91.3 FM San Pedro Sula, Honduras - 1
+http://96.31.90.115:8228/;
+#EXTINF:-1, VOX FM VOX FM 101.7 FM Teg / 106.1 S.P.S.
+http://ice42.securenetsystems.net/VOXFM
+#EXTINF:-1, Estereo Genesis
+http://167.114.116.223:9308/;
+#EXTINF:-1, ABC Radio 550 AM
+http://node-02.strongradiohost.com/uaabn1w9mvduv
+#EXTINF:-1, Omega Stereo 100.3 FM - Honduras - 0
+http://184.154.90.186:8271/;
+#EXTINF:-1, Omega Stereo 100.3 FM - Honduras - 1
+https://cp6.shoutcheap.com:2199/tunein/omegaste.pls
+#EXTINF:-1, RadioActiva 99.7 FM - San Pedro Sula, Honduras
+http://s9.voscast.com:7586/;
+#EXTINF:-1, Radio Estereo Clasica
+http://streaming.radio.co/s0c06b7076/listen
+#EXTINF:-1, Radio Te amo
+http://206.190.135.28:8902/;

@@ -1,0 +1,53 @@
+#EXTM3U
+#EXTINF:-1, Heart Radio
+http://www.heartradio.net/live/100ek.asx
+#EXTINF:-1, Lucky 7 Radio 100.7 FM
+http://www.vtuner.com/vtunerweb/mms/mms25836.asx
+#EXTINF:-1, SHRS AM 729
+http://www.vtuner.com/vtunerweb/mms/mms15274.asx
+#EXTINF:-1, SHRS FM 88.1
+http://www.vtuner.com/vtunerweb/mms/mms15273.asx
+#EXTINF:-1, Taiwan Radio - Hsinchu 1206 AM
+http://www.vtuner.com/vtunerweb/mms/mms37683.asx
+#EXTINF:-1, Voice of NCCU 88.7 FM
+http://www.vtuner.com/vtunerweb/mms/mms15272.asx
+#EXTINF:-1, MhR - Anime & Games
+http://tedc.biz:8000/stream/2/
+#EXTINF:-1, Phate Radio
+http://phate.io/listen.mp3
+#EXTINF:-1, HiNet hichannel - CH01
+http://flv.ccdntech.com/live/_definst_//vod51_Live/ch01/playlist.m3u8
+#EXTINF:-1, HiNet hichannel - CH04
+http://flv.ccdntech.com/live/_definst_//vod51_Live/ch04/playlist.m3u8
+#EXTINF:-1, City FM 97.1
+http://fm901.cityfm.tw:8000/901.mp3
+#EXTINF:-1, City FM 92.9
+http://fm929.cityfm.tw:8000/929.mp3
+#EXTINF:-1, KBS AM 1089 - 0
+http://media.kbs.gov.tw/AM
+#EXTINF:-1, KBS AM 1089 - 1
+mms://media.kbs.gov.tw/AM
+#EXTINF:-1, KBS FM 94.3 - 0
+http://media.kbs.gov.tw/FM
+#EXTINF:-1, KBS FM 94.3 - 1
+mms://media.kbs.gov.tw/FM
+#EXTINF:-1, 大愛網路電台 - http://daairadio.tw
+http://38.96.148.28:8156/stream
+#EXTINF:-1, Smile Radio FM 90.5 - 0
+http://59.120.255.154/905/;
+#EXTINF:-1, Smile Radio FM 90.5 - 1
+mms://59.120.255.154:905
+#EXTINF:-1, 中華電台
+http://59.120.12.52:8080/;
+#EXTINF:-1, VOTK 淡江之聲 FM 88.7
+http://163.13.182.81:8001/votk
+#EXTINF:-1, VOTA 台藝之聲 FM 88.3
+http://video.ntua.edu.tw/live/ntua/index.m3u8
+#EXTINF:-1, Tainan Triumph Radio 97.7 - 0
+mms://60.249.208.103:8080/
+#EXTINF:-1, Tainan Triumph Radio 97.7 - 1
+http://60.249.208.103:8080/
+#EXTINF:-1, Chiayi Universal Radio FM 107.1
+mms://60.248.53.115:8080/
+#EXTINF:-1, Happy FM 105.5
+mms://59.125.41.65:8080/

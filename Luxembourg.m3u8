@@ -1,0 +1,83 @@
+#EXTM3U
+#EXTINF:-1, Radio Puls Luxembourg
+http://82.145.43.92:8312/stream
+#EXTINF:-1, Radio R.O.M. 106.5 FM
+http://rs1.radiostreamer.com:8270/
+#EXTINF:-1, Radio LRB 103.9
+http://zeus.lrb.lu:8000/lrb.live.m3u
+#EXTINF:-1, L'essentiel Radio 107.7
+http://lessentielradio.ice.infomaniak.ch/lessentielradio-128.mp3
+#EXTINF:-1, AirFM24
+http://stream.airfm24.lu:8000/airfm24.mp3
+#EXTINF:-1, 7FM
+http://7fm2.ice.infomaniak.ch/7fm2.mp3
+#EXTINF:-1, Radio MCJ
+http://173.208.193.66:9998/
+#EXTINF:-1, Radio Aktiv 106.5 FM
+http://zeus.lrb.lu:8000/stream
+#EXTINF:-1, Radio Diddeléng 103.6 FM - 0
+http://radiodudelange.ice.infomaniak.ch/radiodudelange-128.mp3
+#EXTINF:-1, Radio Diddeléng 103.6 FM - 1
+http://statslive.infomaniak.ch/playlist/radiodudelange/radiodudelange-128.mp3/playlist.m3u
+#EXTINF:-1, Eldoradio - 90s
+http://sc-eldo90s.newmedia.lu/;*.mp3
+#EXTINF:-1, Eldoradio - Top 25 - 0
+http://sc-eldotop25.newmedia.lu/;*.mp3
+#EXTINF:-1, Eldoradio - Top 25 - 1
+http://sc-eldotop25.newmedia.lu/listen.pls
+#EXTINF:-1, Eldoradio - 80s - 0
+http://sc-eldo80s.newmedia.lu/;*.mp3
+#EXTINF:-1, Eldoradio - 80s - 1
+http://sc-80s.eldoradio.lu/listen.pls
+#EXTINF:-1, Eldoradio - 80s - 2
+http://eldowebradio3.newmedia.lu
+#EXTINF:-1, Eldoradio - Alternative - 0
+http://sc-eldoalt.newmedia.lu/;*.mp3
+#EXTINF:-1, Eldoradio - Alternative - 1
+http://sc-alternative.eldoradio.lu/listen.pls
+#EXTINF:-1, Eldoradio - Alternative - 2
+http://eldowebradio1.newmedia.lu
+#EXTINF:-1, Eldoradio - Live - 0
+http://eldoradiolive.newmedia.lu/;*.mp3
+#EXTINF:-1, Eldoradio - Live - 1
+http://sc-eldolive.newmedia.lu
+#EXTINF:-1, Eldoradio - Chill - 0
+http://sc-eldochill.newmedia.lu/;*.mp3
+#EXTINF:-1, Eldoradio - Chill - 1
+http://sc-chill.eldoradio.lu/listen.pls
+#EXTINF:-1, Radio Latina 101.2 FM
+http://50.7.99.163:11291/2199/start/ckjsgxup
+#EXTINF:-1, RGL Radio Gutt Laun - 0
+http://rgl.selfip.net:8000/listen.pls
+#EXTINF:-1, RGL Radio Gutt Laun - 1
+http://rgl.selfip.net:8000/listen
+#EXTINF:-1, RGL Radio Gutt Laun - 2
+http://lush.wavestreamer.com:7168/stream/1/
+#EXTINF:-1, 103.4 Antenne Luxemburg
+http://streamplus52.leonex.de:11376
+#EXTINF:-1, RTL Radio Letzebuerg 92.5 FM - 0
+http://live.newmedia.lu:80
+#EXTINF:-1, RTL Radio Letzebuerg 92.5 FM - 1
+http://sc-rtllive.newmedia.lu
+#EXTINF:-1, Radio Luxembourg
+http://s8.mediastreaming.it:7050/;
+#EXTINF:-1, Radio Dah Luxemburg - 0
+http://45.43.200.98:26620/
+#EXTINF:-1, Radio Dah Luxemburg - 1
+http://45.43.200.98:26620/listen.pls
+#EXTINF:-1, Radio Dah Luxemburg - 2
+http://45.43.200.98:26620/listen.pls?sid=1
+#EXTINF:-1, Radio Dah Luxemburg - 3
+http://45.43.200.98:26620/listen.asx?sid=1
+#EXTINF:-1, Radio 100.7 FM
+http://100komma7.cast.addradio.de/100komma7/live/mp3/128/stream.mp3
+#EXTINF:-1, F.R.I.
+http://www.radioking.com/play/rfm-luxembourg
+#EXTINF:-1, Radio ARA - 0
+http://stream.ara.lu/stream.mp3
+#EXTINF:-1, Radio ARA - 1
+http://rs1.radiostreamer.com:8030/listen.pls
+#EXTINF:-1, RBV 107.00 FM
+http://radio.rbv.lu:8002/;stream.mp3
+#EXTINF:-1, Radio Classique Bergem
+http://rcb.zapto.org:8000/mp3

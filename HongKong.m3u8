@@ -1,0 +1,51 @@
+#EXTM3U
+#EXTINF:-1, GFM - Todays Mix
+http://gfm.rastream.com/gfm-todaysmix.m3u
+#EXTINF:-1, GFM - Asia Hits China
+http://gfm.rastream.com/gfm-asiahitzchina?
+#EXTINF:-1, GFM - Asia Hits
+http://gfm.rastream.com/gfm-asiahitz?
+#EXTINF:-1, Digital Radio HK
+http://sc.digitalradiohk.net:8394/
+#EXTINF:-1, Radio Phoenix URadio 26
+http://vtuner.com/setupapp/guide/asp/func/dynampls.asp?link=1&id=60541
+#EXTINF:-1, Apple-FM - 0
+http://server20.applesources.net:8000/apple-fm.mp3
+#EXTINF:-1, Apple-FM - 1
+http://sc.apple-fm.net:9020/
+#EXTINF:-1, Apple-FM - 2
+http://sc7b.apple-fm.net:8188/
+#EXTINF:-1, Apple-FM - 3
+http://sc.apple-fm.net:9018/
+#EXTINF:-1, Talkonly Radio - 0
+http://103.11.102.62:8000/talkonly.mp3
+#EXTINF:-1, Talkonly Radio - 1
+http://www.talkonly.net/local_live.pls
+#EXTINF:-1, Talkonly Radio - 2
+http://www.talkonly.net/overseas.pls
+#EXTINF:-1, Talkonly Radio - 3
+http://www.talkonly.net/local_live.wax
+#EXTINF:-1, Talkonly Radio - 4
+http://www.talkonly.net/local_live.ram
+#EXTINF:-1, Talkonly Radio - 5
+http://www.talkonly.net/overseas.ram
+#EXTINF:-1, RTHK.HK - 783 AM Radio 5
+http://rthkaudio5-lh.akamaihd.net/i/radio5_1@355868/master.m3u8
+#EXTINF:-1, RTHK.HK - 97.6 FM Radio 4
+http://rthkaudio4-lh.akamaihd.net/i/radio4_1@355867/master.m3u8
+#EXTINF:-1, RTHK.HK - 567 AM Radio 3
+http://rthkaudio3-lh.akamaihd.net/i/radio3_1@355866/master.m3u8
+#EXTINF:-1, RTHK.HK - 96.9 FM Radio 2
+http://rthkaudio2-lh.akamaihd.net/i/radio2_1@355865/master.m3u8
+#EXTINF:-1, RTHK.HK - 92.6 FM Radio 1
+http://rthkaudio1-lh.akamaihd.net/i/radio1_1@355864/master.m3u8
+#EXTINF:-1, RTHK.HK - 675 AM Radio 6
+http://rthkaudio6cnr-lh.akamaihd.net/i/radio6cnr_1@575604/index_56_a-p.m3u8?
+#EXTINF:-1, RTHK.HK - 621 AM Radio Putonghua
+http://rthkaudio6-lh.akamaihd.net/i/radiopth_1@355869/master.m3u8
+#EXTINF:-1, Club GFM
+http://sc.rastream.com:9050/;
+#EXTINF:-1, GFM - The 80's /90's - 0
+http://billboardradio.rastream.com/gfm-awesome80s.web.hls/playlist.m3u8
+#EXTINF:-1, GFM - The 80's /90's - 1
+http://gfm.rastream.com/gfm-awesome80s?

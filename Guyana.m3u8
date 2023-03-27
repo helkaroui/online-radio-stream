@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1, Radio Guyana Inc. 89.5 FM
+http://knight.wavestreamer.com:7641/Live
+#EXTINF:-1, NTN Radio 89.1 FM
+http://auds1.intacs.com/ntnradio
+#EXTINF:-1, HJ 94.1 Boom FM - 0
+http://192.99.8.192:3630/stream
+#EXTINF:-1, HJ 94.1 Boom FM - 1
+http://cp.usa1.fastcast4u.com:2199/tunein/hitsandj.asx
+#EXTINF:-1, NCN Fresh 100.1 FM
+http://198.27.80.205:5468/live
+#EXTINF:-1, Bhajans Radio Guyana
+http://streaming.radionomy.com/bhajansradioguyana?lang=en-US&appName=iTunes.m3u
+#EXTINF:-1, Radio Guyana International
+http://51.15.152.81:8905/stream
+#EXTINF:-1, GTriddim Guyana Radio - 0
+http://gtriddim.com/stream/listennow.pls
+#EXTINF:-1, GTriddim Guyana Radio - 1
+http://gtriddim.com/stream/wmplayer.asx
+#EXTINF:-1, National Communications Network (NCN) - VYBZ 100.1 FM Guyana
+http://198.27.80.205:5468/live
+#EXTINF:-1, National Communications Network (NCN) - 98.1 Live Hot FM Guyana
+http://198.27.80.205:5266/live

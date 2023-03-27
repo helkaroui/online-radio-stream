@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1, The Alway's Christmas Channel
+http://kea.cdnstream.com/1837_128
+#EXTINF:-1, Crime Fighters Detective Channel
+http://hemnos.cdnstream.com/1665_32
+#EXTINF:-1, America's Smooth Jazz Channel
+http://kea.cdnstream.com/1893_128
+#EXTINF:-1, America's Classic Rock
+http://kea.cdnstream.com/1892_128
+#EXTINF:-1, KKMP 1440 AM Garapan-Saipan, MP
+http://smoke.wavestreamer.com:2003/;stream.mp3
+#EXTINF:-1, KTKB 101.9 FM Agana, GU
+http://streamingv2.shoutcast.com/MEGAMIXX1019FM?lang=en-US%2cen%3bq%3d0.5
+#EXTINF:-1, KIJI 104.3 FM Tumon,GU
+http://ice10.securenetsystems.net/KIJI
+#EXTINF:-1, KUSG 1350 AM Agana, GU
+http://ice10.securenetsystems.net/KUSG
+#EXTINF:-1, Anime Para Ti - 0
+http://stream.zenolive.com/acnhrkt8c4duv
+#EXTINF:-1, Anime Para Ti - 1
+http://listen.radionomy.com/animeparati
+#EXTINF:-1, KNUT 101.1 FM Tamuning, GU
+http://ice9.securenetsystems.net/KNUT

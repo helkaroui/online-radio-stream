@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1, Radio Uzbek FM
+http://yayin.turkhosted.com:7034/
+#EXTINF:-1, Radio Navroz FM 88.4
+http://navruzfm.uz:9000/navruz_low
+#EXTINF:-1, O'zbegim Taronasi 101.1 FM
+http://fm101.uz:9900/fm101_mp3
+#EXTINF:-1, Radio A'LO FM 90
+http://tabassum.uz:9000/alo_low
+#EXTINF:-1, Radio Oriad Dono 102.4/106.5 FM
+http://oriat.mediabay.uz/oriatdono.m3u8
+#EXTINF:-1, Radio Maxima 105.4 FM
+http://80.80.222.26:8000/maximafm.ogg
+#EXTINF:-1, Classic FM 104.4 FM
+http://80.80.222.26:8000/classicfm.ogg

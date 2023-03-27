@@ -1,0 +1,159 @@
+#EXTM3U
+#EXTINF:-1, Radio 70s Arabic
+http://38.99.146.102:8000/KMsarabic.mp3
+#EXTINF:-1, Radio 0098 - 0
+http://media.radio0098.com:8000/radio
+#EXTINF:-1, Radio 0098 - 1
+http://media.radio0098.com:8000/radio1
+#EXTINF:-1, Radio Faaz - 0
+http://www.radiofaaz.com:8000/radiofaaz.m3u
+#EXTINF:-1, Radio Faaz - 1
+http://www.radiofaaz.com:8000/radiofaaz
+#EXTINF:-1, Avaz Farsi Radio
+http://avazfarsi.com:9300/
+#EXTINF:-1, mediastations
+http://31.12.64.211/mediastations
+#EXTINF:-1, Radio Internet Pop Persian
+http://majazitv.com:8000/popradio.mp3
+#EXTINF:-1, Radio Hamrahna One - 0
+http://31.12.68.212/HamrahnaLight
+#EXTINF:-1, Radio Hamrahna One - 1
+http://streaming.radionomy.com/HamrahnaLight
+#EXTINF:-1, Radio 608
+http://radio6o8.com:8000/1
+#EXTINF:-1, Radio Darvish
+http://95.154.202.117/stream.mp3?ipport=95.154.202.117_8843
+#EXTINF:-1, Radio Varzesh 92 FM
+http://cdn1.live.irib.ir:1935/channel-live/smil:r-varzesh/playlist.m3u8
+#EXTINF:-1, Radio Namayesh 107.5 FM
+http://cdn1.live.irib.ir:1935/channel-live/smil:r-namayesh/playlist.m3u8
+#EXTINF:-1, Radio Gilan 95FM & 657AM
+http://cdn1.live.irib.ir:1935/channel-live/smil:r-rasht/chunklist_b307200_slFa.m3u8
+#EXTINF:-1, Radio Semnan 1008AM & 94FM
+http://cdn1.live.irib.ir:1935/channel-live/smil:r-semnan/playlist.m3u8
+#EXTINF:-1, Radio Abadan 95.1FM & 1485AM
+http://cdn1.live.irib.ir:1935/channel-live/smil:r-abadan/chunklist_b307200_slFa.m3u8
+#EXTINF:-1, Radio KhalijeFars 1017AM & 105FM
+http://cdn1.live.irib.ir:1935/channel-live/smil:r-bandarabas/playlist.m3u8
+#EXTINF:-1, Radio Kordestan 94.6FM & 927AM
+http://cdn1.live.irib.ir:1935/channel-live/smil:r-kordestan/chunklist_b307200_slFa.m3u8
+#EXTINF:-1, Radio Mahabad 882 AM
+http://cdn1.live.irib.ir:1935/channel-live/smil:r-mahabad/playlist.m3u8
+#EXTINF:-1, RadioTehran 1332AM & 94FM
+http://cdn1.live.irib.ir:1935/channel-live/smil:r-tehran/playlist.m3u8
+#EXTINF:-1, Radio Farhang 585AM & 106FM
+http://cdn1.live.irib.ir:1935/channel-live/smil:r-farhang/playlist.m3u8
+#EXTINF:-1, Radio Iran 558AM & 90FM
+http://cdn1.live.irib.ir:1935/channel-live/smil:r-iran/chunklist_b307200_slFa.m3u8
+#EXTINF:-1, Radio Salamat 102FM
+http://cdn1.live.irib.ir:1935/channel-live/smil:r-salamat/playlist.m3u8
+#EXTINF:-1, Radio Javan 88FM
+http://cdn1.live.irib.ir:1935/channel-live/smil:r-javan/playlist.m3u8
+#EXTINF:-1, Radio Maaref 96FM
+http://cdn1.live.irib.ir:1935/channel-live/smil:r-maaref/playlist.m3u8
+#EXTINF:-1, Radio Eghtesad 98FM
+http://cdn1.live.irib.ir:1935/channel-live/smil:r-eghtesad/playlist.m3u8
+#EXTINF:-1, Radio Saba 105.5FM
+http://cdn1.live.irib.ir:1935/channel-live/smil:r-fasli/playlist.m3u8
+#EXTINF:-1, Radio AVA 93.5FM
+http://cdn1.live.irib.ir:1935/channel-live/smil:r-ava/playlist.m3u8
+#EXTINF:-1, Radio Goftegoo 103.5FM
+http://cdn1.live.irib.ir:1935/channel-live/smil:r-goftegoo/playlist.m3u8
+#EXTINF:-1, Radio Talavat 101.5FM
+http://cdn1.live.irib.ir:1935/channel-live/smil:r-talavat/playlist.m3u8
+#EXTINF:-1, Radio Quran 900AM & 100FM
+http://cdn1.live.irib.ir:1935/channel-live/smil:r-quran/playlist.m3u8
+#EXTINF:-1, Radio Hamedan 95FM & 675AM
+http://cdn1.live.irib.ir:1935/channel-live/smil:r-hamedan/playlist.m3u8
+#EXTINF:-1, Radio Kermanshah 756AM & 95.5FM
+http://cdn1.live.irib.ir:1935/channel-live/smil:r-kermanshah/playlist.m3u8
+#EXTINF:-1, Radio esfahan 95FM & 837AM
+http://cdn1.live.irib.ir:1935/channel-live/smil:r-esfahan/playlist.m3u8
+#EXTINF:-1, Radio Alborz 94.5FM
+http://cdn1.live.irib.ir:1935/channel-live/smil:r-alborz/playlist.m3u8
+#EXTINF:-1, Radio Kerman 1062 AM
+http://cdn1.live.irib.ir:1935/channel-live/smil:r-kerman/playlist.m3u8
+#EXTINF:-1, Radio Kish 94.5FM
+http://cdn1.live.irib.ir:1935/channel-live/smil:r-kish/playlist.m3u8
+#EXTINF:-1, Radio Qazvin 94.2FM
+http://cdn1.live.irib.ir:1935/channel-live/smil:r-qazvin/playlist.m3u8
+#EXTINF:-1, Radio Golestan 1368 AM
+http://cdn1.live.irib.ir:1935/channel-live/smil:r-gorgan/playlist.m3u8
+#EXTINF:-1, Radio khorasanshomali Bojnourd 94FM & 873AM
+http://cdn1.live.irib.ir:1935/channel-live/smil:r-khorsanshomali/playlist.m3u8
+#EXTINF:-1, Radio khorasan-jonoobi Birjand 621 AM
+http://cdn1.live.irib.ir:1935/channel-live/smil:r-khorasanjonoobi/chunklist_b307200_slFa.m3u8
+#EXTINF:-1, Radio Khorasanrazavi Mashhad 94FM
+http://cdn1.live.irib.ir:1935/channel-live/smil:r-khorasanrazavi/chunklist_b307200_slFa.m3u8
+#EXTINF:-1, Radio sahand Tabriz 94FM &1026AM
+http://cdn1.live.irib.ir:1935/channel-live/smil:r-tabriz/playlist.m3u8
+#EXTINF:-1, Radio azarbayjan Urmia 936AM & 94.5FM
+http://cdn1.live.irib.ir:1935/channel-live/smil:r-azgharbi/playlist.m3u8
+#EXTINF:-1, Radio mazandaran Sari 819AM & 94.7FM
+http://cdn1.live.irib.ir:1935/channel-live/smil:r-sari/playlist.m3u8
+#EXTINF:-1, Radio aftab Markazi 94.3FM
+http://cdn1.live.irib.ir:1935/channel-live/smil:r-markazi/playlist.m3u8
+#EXTINF:-1, Radio aflak Lorestan 94.5FM
+http://cdn1.live.irib.ir:1935/channel-live/smil:r-lorestan/playlist.m3u8
+#EXTINF:-1, Radio Noor Qom 94.5FM & 1467AM
+http://cdn1.live.irib.ir:1935/channel-live/smil:r-qom/playlist.m3u8
+#EXTINF:-1, Radio hamoon Zahedan 657AM & 94FM
+http://cdn1.live.irib.ir:1935/channel-live/smil:r-zahedan/playlist.m3u8
+#EXTINF:-1, Radio Fars Shiraz 94FM & 990AM
+http://cdn1.live.irib.ir:1935/channel-live/smil:r-fars/playlist.m3u8
+#EXTINF:-1, Radio eshragh Zanjan 94.5FM & 792AM
+http://cdn1.live.irib.ir:1935/channel-live/smil:r-zanjan/playlist.m3u8
+#EXTINF:-1, Radio  Jahanbin ShahreKord 94.0FM &756AM
+http://cdn1.live.irib.ir:1935/channel-live/smil:r-shahrekord/playlist.m3u8
+#EXTINF:-1, Radio Dena Yasuj 891AM & 94.5FM
+http://cdn1.live.irib.ir:1935/channel-live/smil:r-yasuj/playlist.m3u8
+#EXTINF:-1, Radio Sabalan Ardebil  512 AM
+http://cdn1.live.irib.ir:1935/channel-live/smil:r-ardebil/playlist.m3u8
+#EXTINF:-1, Radio Taban Yazd 94FM
+http://cdn1.live.irib.ir:1935/channel-live/smil:r-yazd/playlist.m3u8
+#EXTINF:-1, Radio Dari 13740 AM
+http://cdn1.live.irib.ir:1935/channel-live/smil:r-dari/playlist.m3u8
+#EXTINF:-1, Radio Turkmen Ch23
+http://cdn1.live.irib.ir:1935/channel-live/smil:r-torkaman/playlist.m3u8
+#EXTINF:-1, Radio Aran 720 AM
+http://cdn1.live.irib.ir:1935/channel-live/smil:r-aran/playlist.m3u8
+#EXTINF:-1, Radio Boroonmarzi 6
+http://cdn1.live.irib.ir:1935/channel-live/smil:r-world6/playlist.m3u8
+#EXTINF:-1, Radio Boroonmarzi 5
+http://cdn1.live.irib.ir:1935/channel-live/smil:r-world5/playlist.m3u8
+#EXTINF:-1, Radio Boroonmarzi 4
+http://cdn1.live.irib.ir:1935/channel-live/smil:r-world4/playlist.m3u8
+#EXTINF:-1, Radio Boroonmarzi 3
+http://cdn1.live.irib.ir:1935/channel-live/smil:r-world3/playlist.m3u8
+#EXTINF:-1, Radio Boroonmarzi 1
+http://cdn1.live.irib.ir:1935/channel-live/smil:r-world1/playlist.m3u8
+#EXTINF:-1, Radio Boroonmarzi 2
+http://cdn1.live.irib.ir:1935/channel-live/smil:r-world2/playlist.m3u8
+#EXTINF:-1, Radio Pars Today Arabic
+http://stream.parstoday.com:1935/ws/irib3/playlist.m3u8
+#EXTINF:-1, Radio Pars Today English 91.5FM
+http://stream.parstoday.com:1935/ws/irib8/playlist.m3u8
+#EXTINF:-1, Radio Fasli 95.5FM
+http://cdn1.live.irib.ir:1935/channel-live/smil:r-fasli/playlist.m3u8
+#EXTINF:-1, Radio Tartil
+http://cdn1.live.irib.ir:1935/events/r-tartil.stream/playlist.m3u8
+#EXTINF:-1, Radio Payam 1188AM &104FM
+http://cdn1.live.irib.ir:1935/channel-live/smil:r-payam/chunklist_b307200_slFa.m3u8
+#EXTINF:-1, Radio Varzesh 92FM
+http://cdn1.live.irib.ir:1935/channel-live/smil:r-varzesh/playlist.m3u8
+#EXTINF:-1, Radio Zanjan 94.5FM & 792AM
+http://cdnlive.irib.ir/live-channels/smil:r-zanjan/chunklist_b307200_slFa.m3u8?
+#EXTINF:-1, Radio Sabalan Ardebil 512 AM
+http://cdn1.live.irib.ir:1935/channel-live/smil:r-ardebil/playlist.m3u8
+#EXTINF:-1, Radio Khoozestan ch56 &26
+http://cdn1.live.irib.ir:1935/channel-live/smil:r-khoozestan/playlist.m3u8
+#EXTINF:-1, Radio Qom 94.5FM
+http://cdn1.live.irib.ir:1935/channel-live/smil:r-qom/playlist.m3u8
+#EXTINF:-1, Radio ShahreKord 94.0FM &756AM
+http://cdn1.live.irib.ir:1935/channel-live/smil:r-shahrekord/playlist.m3u8
+#EXTINF:-1, Radio Urmia 936AM & 94.5FM
+http://cdn1.live.irib.ir:1935/channel-live/smil:r-azgharbi/playlist.m3u8
+#EXTINF:-1, Radio Yasuj 891AM & 94.5FM
+http://cdn1.live.irib.ir:1935/channel-live/smil:r-yasuj/playlist.m3u8
+#EXTINF:-1, Radio Markazi 94.3FM
+http://cdn1.live.irib.ir:1935/channel-live/smil:r-markazi/playlist.m3u8

@@ -1,0 +1,493 @@
+#EXTM3U
+#EXTINF:-1, Brun og blid
+http://212.33.133.195:8000/BOB1.m3u
+#EXTINF:-1, NRK Sami Radio - 0
+http://lyd.nrk.no/nrk_radio_sami_mp3_h
+#EXTINF:-1, NRK Sami Radio - 1
+http://lyd.nrk.no/nrk_radio_sami_wma_h
+#EXTINF:-1, NRK Sami Radio - 2
+mms://straumr.nrk.no/nrk_radio_sami_h
+#EXTINF:-1, NRK P3 Urørt - 0
+http://lyd.nrk.no/nrk_radio_p3_urort_mp3_h
+#EXTINF:-1, NRK P3 Urørt - 1
+http://lyd.nrk.no/nrk_radio_p3_urort_wma_h
+#EXTINF:-1, NRK P3 National Rap Show
+http://lyd.nrk.no/nrk_radio_p3_national_rap_show_mp3_h.m3u
+#EXTINF:-1, NRK Super - 0
+http://lyd.nrk.no/nrk_radio_super_mp3_h
+#EXTINF:-1, NRK Super - 1
+http://lyd.nrk.no/nrk_radio_super_wma_h
+#EXTINF:-1, NRK Super - 2
+http://lyd.nrk.no/nrk_radio_super_mp3_m
+#EXTINF:-1, NRK Super - 3
+http://lyd.nrk.no/nrk_radio_super_wma_m
+#EXTINF:-1, NRK Super - 4
+http://lyd.nrk.no/nrk_radio_super_mp3_l
+#EXTINF:-1, NRK Super - 5
+http://lyd.nrk.no/nrk_radio_super_wma_l
+#EXTINF:-1, NRK P1 Finnmark - 0
+http://lyd.nrk.no/nrk_radio_p1_finnmark_mp3_h
+#EXTINF:-1, NRK P1 Finnmark - 1
+http://lyd.nrk.no/nrk_radio_p1_finnmark_mp3_m
+#EXTINF:-1, NRK P1 Finnmark - 2
+http://lyd.nrk.no/nrk_radio_p1_finnmark_mp3_l
+#EXTINF:-1, NRK P1 Vestfold
+http://lyd.nrk.no/nrk_radio_p1_vestfold_mp3_h
+#EXTINF:-1, NRK P2 - 0
+http://lyd.nrk.no/nrk_radio_p2_mp3_h
+#EXTINF:-1, NRK P2 - 1
+http://lyd.nrk.no/nrk_radio_p2_mp3_m
+#EXTINF:-1, NRK P2 - 2
+http://lyd.nrk.no/nrk_radio_p2_mp3_l
+#EXTINF:-1, NRK P2 - 3
+http://nettradio.nrk.no/php/includes/channelstreamingurl.php?pichannel=p2&quality=h
+#EXTINF:-1, NRK P3 - 0
+http://lyd.nrk.no/nrk_radio_p3_mp3_h
+#EXTINF:-1, NRK P3 - 1
+http://lyd.nrk.no/nrk_radio_p3_mp3_m
+#EXTINF:-1, NRK P3 - 2
+http://lyd.nrk.no/nrk_radio_p3_mp3_l
+#EXTINF:-1, NRK P3 Radioresepsjonen - 0
+http://lyd.nrk.no/nrk_radio_p3_radioresepsjonen_mp3_h
+#EXTINF:-1, NRK P3 Radioresepsjonen - 1
+http://lyd.nrk.no/nrk_radio_p3_radioresepsjonen_mp3_m
+#EXTINF:-1, NRK P3 Radioresepsjonen - 2
+http://lyd.nrk.no/nrk_radio_p3_radioresepsjonen_mp3_l
+#EXTINF:-1, NRK P3 Radioresepsjonen - 3
+http://nettradio.nrk.no/php/includes/channelstreamingurl.php?pichannel=p3radioresepsjonen&quality=h
+#EXTINF:-1, Radio Rox 90.1
+http://stream.radiorox.no:8040/
+#EXTINF:-1, NRK P1+ - 0
+http://lyd.nrk.no/nrk_radio_p1pluss_mp3_h
+#EXTINF:-1, NRK P1+ - 1
+http://lyd.nrk.no/nrk_radio_p1pluss_mp3_m
+#EXTINF:-1, NRK P1+ - 2
+http://lyd.nrk.no/nrk_radio_p1pluss_mp3_l
+#EXTINF:-1, NRK P1+ - 3
+http://lyd.nrk.no/nrk_radio_p1pluss_aac_h
+#EXTINF:-1, NRK P1+ - 4
+http://lyd.nrk.no/nrk_radio_p1pluss_aac_l
+#EXTINF:-1, Radio3 fm 104.9
+http://wms.yourstation.com:8000/Radio3Bodo
+#EXTINF:-1, Radio Haugaland
+http://stream.radioh.no:443/rh.mp3
+#EXTINF:-1, Radio Kongsvinger FM 100.8
+http://stream.radiokongsvinger.no:8000/stream128.mp3
+#EXTINF:-1, Nærkanalen 105.5 FM
+http://stream.radiomeloy.no:8001/128
+#EXTINF:-1, Radio Øst
+http://stream.radio-ost.no:8002/
+#EXTINF:-1, Radio Grenland
+http://stream.jaerradiogruppen.no:8020/
+#EXTINF:-1, Radio Revolt
+http://streamer.radiorevolt.no:8000/revolt
+#EXTINF:-1, Radio Nova (Norway)
+http://stream.radionova.no/fm993.mp3
+#EXTINF:-1, JærRadioen
+http://stream.jaerradiogruppen.no:8018/
+#EXTINF:-1, Radio Ålesund
+http://stream.jaerradiogruppen.no:8008
+#EXTINF:-1, Radio Atlantic
+http://stream.jaerradiogruppen.no:8018/
+#EXTINF:-1, Radio Sandnes
+http://stream.jaerradiogruppen.no:8016/
+#EXTINF:-1, NRK P1 Sørlandet - 0
+http://lyd.nrk.no/nrk_radio_p1_sorlandet_mp3_h
+#EXTINF:-1, NRK P1 Sørlandet - 1
+http://lyd.nrk.no/nrk_radio_p1_sorlandet_mp3_m
+#EXTINF:-1, NRK P1 Sørlandet - 2
+http://lyd.nrk.no/nrk_radio_p1_sorlandet_mp3_l
+#EXTINF:-1, NRK P1 Telemark - 0
+http://lyd.nrk.no/nrk_radio_p1_telemark_mp3_h
+#EXTINF:-1, NRK P1 Telemark - 1
+http://lyd.nrk.no/nrk_radio_p1_telemark_mp3_m
+#EXTINF:-1, NRK P1 Telemark - 2
+http://lyd.nrk.no/nrk_radio_p1_telemark_mp3_l
+#EXTINF:-1, NRK P1 Telemark - 3
+http://mms-live.online.no/nrk_radio_p1_telemark_mp3_h
+#EXTINF:-1, NRK P1 Troms - 0
+http://lyd.nrk.no/nrk_radio_p1_troms_mp3_h
+#EXTINF:-1, NRK P1 Troms - 1
+http://lyd.nrk.no/nrk_radio_p1_troms_mp3_m
+#EXTINF:-1, NRK P1 Troms - 2
+http://lyd.nrk.no/nrk_radio_p1_troms_mp3_l
+#EXTINF:-1, NRK P1 Trøndelag - 0
+http://lyd.nrk.no/nrk_radio_p1_trondelag_mp3_h
+#EXTINF:-1, NRK P1 Trøndelag - 1
+http://lyd.nrk.no/nrk_radio_p1_trondelag_mp3_m
+#EXTINF:-1, NRK P1 Trøndelag - 2
+http://lyd.nrk.no/nrk_radio_p1_trondelag_mp3_l
+#EXTINF:-1, NRK P1 Østfold - 0
+http://lyd.nrk.no/nrk_radio_p1_ostfold_mp3_h
+#EXTINF:-1, NRK P1 Østfold - 1
+http://lyd.nrk.no/nrk_radio_p1_ostfold_mp3_m
+#EXTINF:-1, NRK P1 Østfold - 2
+http://lyd.nrk.no/nrk_radio_p1_ostfold_mp3_l
+#EXTINF:-1, NRK P1 Rogaland - 0
+http://lyd.nrk.no/nrk_radio_p1_rogaland_mp3_h
+#EXTINF:-1, NRK P1 Rogaland - 1
+http://lyd.nrk.no/nrk_radio_p1_rogaland_mp3_m
+#EXTINF:-1, NRK P1 Rogaland - 2
+http://lyd.nrk.no/nrk_radio_p1_rogaland_mp3_l
+#EXTINF:-1, NRK P1 Sogn og Fjordane - 0
+http://lyd.nrk.no/nrk_radio_p1_sogn_og_fjordane_mp3_h
+#EXTINF:-1, NRK P1 Sogn og Fjordane - 1
+http://lyd.nrk.no/nrk_radio_p1_sogn_og_fjordane_mp3_m
+#EXTINF:-1, NRK P1 Sogn og Fjordane - 2
+http://lyd.nrk.no/nrk_radio_p1_sogn_og_fjordane_mp3_l
+#EXTINF:-1, NRK P1 Nordland - 0
+http://lyd.nrk.no/nrk_radio_p1_nordland_mp3_h
+#EXTINF:-1, NRK P1 Nordland - 1
+http://lyd.nrk.no/nrk_radio_p1_nordland_mp3_m
+#EXTINF:-1, NRK P1 Nordland - 2
+http://lyd.nrk.no/nrk_radio_p1_nordland_mp3_l
+#EXTINF:-1, NRK P1 Møre og Romsdal - 0
+http://lyd.nrk.no/nrk_radio_p1_more_og_romsdal_mp3_h
+#EXTINF:-1, NRK P1 Møre og Romsdal - 1
+http://lyd.nrk.no/nrk_radio_p1_more_og_romsdal_mp3_m
+#EXTINF:-1, NRK P1 Møre og Romsdal - 2
+http://lyd.nrk.no/nrk_radio_p1_more_og_romsdal_mp3_l
+#EXTINF:-1, NRK P1 Hordaland - 0
+http://lyd.nrk.no/nrk_radio_p1_hordaland_mp3_h
+#EXTINF:-1, NRK P1 Hordaland - 1
+http://lyd.nrk.no/nrk_radio_p1_hordaland_mp3_m
+#EXTINF:-1, NRK P1 Hordaland - 2
+http://lyd.nrk.no/nrk_radio_p1_hordaland_mp3_l
+#EXTINF:-1, NRK P1 Hedmark og Oppland - 0
+http://lyd.nrk.no/nrk_radio_p1_hedmark_og_oppland_mp3_h
+#EXTINF:-1, NRK P1 Hedmark og Oppland - 1
+http://lyd.nrk.no/nrk_radio_p1_hedmark_og_oppland_mp3_m
+#EXTINF:-1, NRK P1 Hedmark og Oppland - 2
+http://lyd.nrk.no/nrk_radio_p1_hedmark_og_oppland_mp3_l
+#EXTINF:-1, NRK P1 Buskerud - 0
+http://lyd.nrk.no/nrk_radio_p1_buskerud_mp3_h
+#EXTINF:-1, NRK P1 Buskerud - 1
+http://lyd.nrk.no/nrk_radio_p1_buskerud_mp3_m
+#EXTINF:-1, NRK P1 Buskerud - 2
+http://lyd.nrk.no/nrk_radio_p1_buskerud_mp3_l
+#EXTINF:-1, NRK mP3 - 0
+http://lyd.nrk.no/nrk_radio_mp3_mp3_h
+#EXTINF:-1, NRK mP3 - 1
+http://lyd.nrk.no/nrk_radio_mp3_mp3_m
+#EXTINF:-1, NRK mP3 - 2
+http://lyd.nrk.no/nrk_radio_mp3_mp3_l
+#EXTINF:-1, NRK Klassisk - 0
+http://lyd.nrk.no/nrk_radio_klassisk_mp3_h
+#EXTINF:-1, NRK Klassisk - 1
+http://lyd.nrk.no/nrk_radio_klassisk_mp3_m
+#EXTINF:-1, NRK Klassisk - 2
+http://lyd.nrk.no/nrk_radio_klassisk_mp3_l
+#EXTINF:-1, NRK Folkemusikk - 0
+http://lyd.nrk.no/nrk_radio_folkemusikk_mp3_h
+#EXTINF:-1, NRK Folkemusikk - 1
+http://lyd.nrk.no/nrk_radio_folkemusikk_mp3_m
+#EXTINF:-1, NRK Folkemusikk - 2
+http://lyd.nrk.no/nrk_radio_folkemusikk_mp3_l
+#EXTINF:-1, NRK Alltid Nyheter
+http://lyd.nrk.no/nrk_radio_alltid_nyheter_mp3_h
+#EXTINF:-1, ElverumsRadioen 88.2 FM
+http://109.169.96.11:8000/elverum.mp3
+#EXTINF:-1, Radio Hallingdal 106.7 FM
+http://audio.visto.no/radiohallingdal
+#EXTINF:-1, Radio Modum 101.8 FM - 0
+http://media.radiomodum.no/radio_modum
+#EXTINF:-1, Radio Modum 101.8 FM - 1
+http://media.radiomodum.no/radio_modum_mp3
+#EXTINF:-1, TrysilRadionen 103.7
+http://109.169.96.11:8000/trysil.mp3
+#EXTINF:-1, SolørRadioen+
+http://109.169.96.11:8000/solorpluss.mp3
+#EXTINF:-1, ØsterdalsRadioen
+http://109.169.96.11:8000/osterdal.mp3
+#EXTINF:-1, Radio Laagendalen
+http://91.189.181.115:8000
+#EXTINF:-1, Studentradioen Bergen 106.1 FM
+http://radio.srib.no:8888/srib.mp3
+#EXTINF:-1, Misjonsradioen Grimstad FM 107.7
+http://5195.cloudrad.io:8136/
+#EXTINF:-1, NRK Jazz - 0
+http://lyd.nrk.no/nrk_radio_jazz_mp3_h.m3u
+#EXTINF:-1, NRK Jazz - 1
+http://lyd.nrk.no/nrk_radio_jazz_mp3_l
+#EXTINF:-1, NRJ Norway - 0
+http://stream.p4.no/nrj_aac_hq
+#EXTINF:-1, NRJ Norway - 1
+http://stream.p4.no/nrj_aac_lq
+#EXTINF:-1, NRJ Norway - 2
+http://stream.p4.no/nrj_aac_mq
+#EXTINF:-1, NRJ Norway - 3
+http://stream.p4.no/nrj_mp3_hq
+#EXTINF:-1, NRJ Norway - 4
+http://stream.p4.no/nrj_mp3_mq
+#EXTINF:-1, Gimlekollen Radio FM 101.2
+http://149.202.22.75:8028/
+#EXTINF:-1, Metal Express Radio
+http://s39.myradiostream.com:11590/;
+#EXTINF:-1, Norea Hope Radio
+http://149.202.22.75:8140/;
+#EXTINF:-1, Radio Norea Pluss
+http://149.202.22.75:8168/;
+#EXTINF:-1, Radio Lyngdal
+http://live.radiolyngdal.com:5000/netradio
+#EXTINF:-1, Voice of Tibet
+http://www.vot.org/wp-content/uploads/2016/11/tib_24_11_2016.mp3?_=1
+#EXTINF:-1, Scansat
+http://stream.radioh.no:443/scan128
+#EXTINF:-1, Radio PS Molde
+http://149.202.22.75:8072/
+#EXTINF:-1, Radio Nordvest
+http://ipradio.no:8000/FM101
+#EXTINF:-1, Radio Sunnmøre
+http://ipradio.no:8000/RadioSunnmore
+#EXTINF:-1, Radio Kvinesdal
+http://stream.radiosor.no/kvinesdal64.aac
+#EXTINF:-1, The Beat
+http://stream.thebeat.no/beat128.mp3
+#EXTINF:-1, Jæren Misjonsradio
+http://nettradio.jmradio.no:8010
+#EXTINF:-1, KSU 24/7
+http://85.25.237.157:8170/stream
+#EXTINF:-1, Radio Metro Ringerike
+http://stream.radiometro.no/ringerike128.mp3
+#EXTINF:-1, Nea Radio Holtålen
+http://nettradio.nearadio.no:8003/stream
+#EXTINF:-1, Nea Radio Roros
+http://nettradio.nearadio.no:8001/stream
+#EXTINF:-1, Nea Radio Selbu
+http://nettradio.nearadio.no:8000/stream
+#EXTINF:-1, Radio E6
+http://93.89.112.234:88/broadwave.mp3
+#EXTINF:-1, Radio L
+http://stream.radiosor.no/radiol128.mp3
+#EXTINF:-1, Radio Latin-Amerika
+http://stream.radiolab.no/radiolatinamerika.mp3
+#EXTINF:-1, Radio Nordsjø
+http://stream.jaerradiogruppen.no:8010
+#EXTINF:-1, Radio Toten 104.4 FM
+http://streamer.nextnet.no:8000/radiototen-mp3
+#EXTINF:-1, Radio Trondheim
+http://nettradio.radiotrondheim.no:8000/lytte
+#EXTINF:-1, radiOrakel FM 99.3
+http://stream.radionova.no/fm993.mp3
+#EXTINF:-1, Valdres Radio
+http://stream.east.no:8000/valdres.mp3
+#EXTINF:-1, Våler Nærradio
+http://109.169.96.11:8000/vaaler.mp3
+#EXTINF:-1, Radio Rana 89.1 & 93.2
+http://77.110.230.210:8000/live.mp3
+#EXTINF:-1, Radio Zëri i Arbërit
+http://s8.streammonster.com:8210/;
+#EXTINF:-1, KNH Webradio
+http://64.150.176.42:8058/
+#EXTINF:-1, Guodageainnu Lagasradio
+http://62.63.40.146:8000/listen.m3u
+#EXTINF:-1, Radio DSF
+http://listen.shoutcast.com/radiodsf/;
+#EXTINF:-1, P4.no - Bandit - 0
+http://www.p4.no/lyttesenter/p4_bandit.m3u
+#EXTINF:-1, P4.no - Bandit - 1
+http://stream.p4.no/bandit_mp3_mq?Nettplayer_P4.no
+#EXTINF:-1, P4.no - Bandit - 2
+http://stream.p4.no/bandit_mp3_mq
+#EXTINF:-1, P4.no - Lyden av Norge - 0
+http://www.p4.no/lyttesenter/p4_norge.m3u
+#EXTINF:-1, P4.no - Lyden av Norge - 1
+http://stream.p4.no/p4_mp3_mq?Nettplayer_P4.no
+#EXTINF:-1, P4.no - Lyden av Norge - 2
+http://stream.p4.no/p4_mp3_mq
+#EXTINF:-1, P5.no - Bergen - 0
+http://stream.p4.no/p5bergen_aac_hq
+#EXTINF:-1, P5.no - Bergen - 1
+http://stream.p4.no/p5bergen_mp3_hq
+#EXTINF:-1, P5.no - Bergen - 2
+http://stream.p4.no/p5bergen_aac_mq
+#EXTINF:-1, P5.no - Bergen - 3
+http://stream.p4.no/p5bergen_mp3_mq?Nettplayer_Bergen.P5.no
+#EXTINF:-1, P5.no - Bergen - 4
+http://stream.p4.no/p5bergen_mp3_mq
+#EXTINF:-1, P5.no - Bergen - 5
+http://stream.p4.no/p5bergen_aac_lq
+#EXTINF:-1, P5.no - Oslo - 0
+http://stream.p4.no/p5oslo_aac_hq
+#EXTINF:-1, P5.no - Oslo - 1
+http://stream.p4.no/p5oslo_mp3_hq
+#EXTINF:-1, P5.no - Oslo - 2
+http://stream.p4.no/p5oslo_aac_mq
+#EXTINF:-1, P5.no - Oslo - 3
+http://stream.p4.no/p5oslo_mp3_mq?Nettplayer_Oslo.P5.no
+#EXTINF:-1, P5.no - Oslo - 4
+http://stream.p4.no/p5oslo_mp3_mq
+#EXTINF:-1, P5.no - Oslo - 5
+http://stream.p4.no/p5oslo_aac_lq
+#EXTINF:-1, P5.no - Nonstop Hits - 0
+http://stream.p4.no/p5nonstophits_aac_hq
+#EXTINF:-1, P5.no - Nonstop Hits - 1
+http://stream.p4.no/p5nonstophits_mp3_hq
+#EXTINF:-1, P5.no - Nonstop Hits - 2
+http://stream.p4.no/p5nonstophits_aac_mq
+#EXTINF:-1, P5.no - Nonstop Hits - 3
+http://stream.p4.no/p5nonstophits_mp3_mq?Nettplayer_Oslo.P5.no
+#EXTINF:-1, P5.no - Nonstop Hits - 4
+http://stream.p4.no/p5nonstophits_mp3_mq
+#EXTINF:-1, P5.no - Nonstop Hits - 5
+http://stream.p4.no/p5nonstophits_aac_lq
+#EXTINF:-1, P6.no - Rock - 0
+http://stream.p4.no/p6_aac_hq
+#EXTINF:-1, P6.no - Rock - 1
+http://stream.p4.no/p6_mp3_hq
+#EXTINF:-1, P6.no - Rock - 2
+http://stream.p4.no/p6_aac_mq
+#EXTINF:-1, P6.no - Rock - 3
+http://stream.p4.no/p6_mp3_mq?Nettplayer_P6.no
+#EXTINF:-1, P6.no - Rock - 4
+http://stream.p4.no/p6_mp3_mq
+#EXTINF:-1, P6.no - Rock - 5
+http://stream.p4.no/p6_aac_lq
+#EXTINF:-1, P7.no - Evangeliske Sanger
+http://391.cloudrad.io:8006/p7_evangeliske_sanger.mp3
+#EXTINF:-1, P7.no - Klem - 0
+http://stream.p4.no/p7_mp3_hq
+#EXTINF:-1, P7.no - Klem - 1
+http://stream.p4.no/p7_aac_hq
+#EXTINF:-1, P7.no - Klem - 2
+http://stream.p4.no/p7_mp3_mq
+#EXTINF:-1, P7.no - Klem - 3
+http://stream.p4.no/p7_mp3_mq?Nettplayer_P7Klem.no
+#EXTINF:-1, P7.no - Klem - 4
+http://stream.p4.no/p7_aac_lq
+#EXTINF:-1, P7.no - Kristen Pop
+http://380.cloudrad.io:8036/p7_kristen_pop.mp3
+#EXTINF:-1, P8.no - Pop - 0
+http://stream.p4.no/p8_aac_hq
+#EXTINF:-1, P8.no - Pop - 1
+http://stream.p4.no/p8_mp3_hq
+#EXTINF:-1, P8.no - Pop - 2
+http://stream.p4.no/p8_aac_mq
+#EXTINF:-1, P8.no - Pop - 3
+http://stream.p4.no/p8_mp3_mq?Nettplayer_P8Pop.no
+#EXTINF:-1, P8.no - Pop - 4
+http://stream.p4.no/p8_mp3_mq
+#EXTINF:-1, P8.no - Pop - 5
+http://stream.p4.no/p8_aac_lq
+#EXTINF:-1, P9.no - Retro - 0
+http://stream.p4.no/p9_aac_hq
+#EXTINF:-1, P9.no - Retro - 1
+http://stream.p4.no/p9_mp3_hq
+#EXTINF:-1, P9.no - Retro - 2
+http://stream.p4.no/p9_aac_mq
+#EXTINF:-1, P9.no - Retro - 3
+http://stream.p4.no/p9_mp3_mq?Nettplayer_P9Retro.no
+#EXTINF:-1, P9.no - Retro - 4
+http://stream.p4.no/p9_mp3_mq
+#EXTINF:-1, P9.no - Retro - 5
+http://stream.p4.no/p9_aac_lq
+#EXTINF:-1, P4.no - Country - 0
+http://stream.p4.no/p10_aac_hq
+#EXTINF:-1, P4.no - Country - 1
+http://stream.p4.no/p10_mp3_hq
+#EXTINF:-1, P4.no - Country - 2
+http://stream.p4.no/p10_aac_mq
+#EXTINF:-1, P4.no - Country - 3
+http://stream.p4.no/p10_mp3_mq?Nettplayer_P4.no
+#EXTINF:-1, P4.no - Country - 4
+http://stream.p4.no/p10_mp3_mq
+#EXTINF:-1, P4.no - Country - 5
+http://stream.p4.no/p10_aac_lq
+#EXTINF:-1, HamarRadioen
+http://109.169.96.11:8000/hamar.mp3
+#EXTINF:-1, Radio Nordkapp 1
+http://live.radionordkapp.no
+#EXTINF:-1, Radio Randsfjord - 0
+http://stream.radiorandsfjord.no/randsfjord128.mp3
+#EXTINF:-1, Radio Randsfjord - 1
+http://stream.radiorandsfjord.no/randsfjord64.mp3
+#EXTINF:-1, Radio Riks Oslo FM 101.1 - 0
+http://mms-live.online.no/radioriksoslo_1_h
+#EXTINF:-1, Radio Riks Oslo FM 101.1 - 1
+http://vtuner.com/setupapp/guide/asp/func/dynampls.asp?link=1&id=80836
+#EXTINF:-1, Radio Tromsø
+http://wms.yourstation.com:8000/RadioTromso
+#EXTINF:-1, Radio Tønsberg
+http://stream.jaerradiogruppen.no:8004
+#EXTINF:-1, SolørRadioen FM 105.1 - 0
+http://109.169.96.11:8000/solor.mp3
+#EXTINF:-1, SolørRadioen FM 105.1 - 1
+http://vtuner.com/setupapp/guide/asp/func/dynampls.asp?link=1&id=21628
+#EXTINF:-1, Metro Sør Kristiansand  98.6 FM - 0
+http://stream.radiosor.no/rsk128.mp3
+#EXTINF:-1, Metro Sør Kristiansand  98.6 FM - 1
+http://stream.radiosor.no/rsk64.aac
+#EXTINF:-1, Metro Sør Lindesnes
+http://stream.radiosor.no/rsl128.mp3
+#EXTINF:-1, Radio Trøndelag
+http://148.252.81.205:8000/radio_trondelag
+#EXTINF:-1, P5.no - Hits Trondheim - 0
+http://stream.p4.no/p5oslo_mp3_mq
+#EXTINF:-1, P5.no - Hits Trondheim - 1
+http://stream.p4.no/p5oslo_mp3_mq?Nettplayer_Oslo.P5.no
+#EXTINF:-1, P7.no - Kystradioen - 0
+http://stream.p4.no/p7_mp3_mq
+#EXTINF:-1, P7.no - Kystradioen - 1
+http://stream.p4.no/p7_mp3_mq?Nettplayer_P7Klem.no
+#EXTINF:-1, Radio Loland 104.4 FM
+http://stream.radiololand.no:5000/loland128
+#EXTINF:-1, 1FM 104.8 FM Molde, Norway
+http://5.153.107.45:2016/mp3_ultra
+#EXTINF:-1, pTro
+http://5186.cloudrad.io:8048
+#EXTINF:-1, FM 8000
+http://stream.radiomeloy.no:8001/8000bodo
+#EXTINF:-1, Radio Hari
+http://stm33.srvstm.com:32890/
+#EXTINF:-1, NRK P1 Oslo og Akerhus - 0
+http://lyd.nrk.no/nrk_radio_p1_ostlandssendingen_mp3_h
+#EXTINF:-1, NRK P1 Oslo og Akerhus - 1
+http://lyd.nrk.no/nrk_radio_p1_ostlandssendingen_mp3_m
+#EXTINF:-1, NRK P1 Oslo og Akerhus - 2
+http://lyd.nrk.no/nrk_radio_p1_ostlandssendingen_mp3_l
+#EXTINF:-1, Radio Bø - 0
+http://nettradio.radiobo.com/radiobo-high
+#EXTINF:-1, Radio Bø - 1
+http://nettradio.radiobo.com/radiobo-med
+#EXTINF:-1, Radio Bø - 2
+http://nettradio.radiobo.com/radiobo-low
+#EXTINF:-1, NRK P13
+http://lyd.nrk.no/nrk_radio_p13_mp3_h
+#EXTINF:-1, NRK Sport - 0
+http://lyd.nrk.no/nrk_radio_weblyd01_mp3_h
+#EXTINF:-1, NRK Sport - 1
+http://lyd.nrk.no/nrk_radio_weblyd01_aac_h
+#EXTINF:-1, NRK Sport - 2
+http://lyd.nrk.no/nrk_radio_weblyd01_mp3_m
+#EXTINF:-1, NRK Sport - 3
+http://lyd.nrk.no/nrk_radio_weblyd01_aac_l
+#EXTINF:-1, NRK Sport - 4
+http://lyd.nrk.no/nrk_radio_weblyd01_mp3_l
+#EXTINF:-1, Ordentlig Radio
+http://mms-live.online.no/oradio_mp3_m
+#EXTINF:-1, Radio Nano - 0
+http://s2.yesstreaming.net:7157/stream
+#EXTINF:-1, Radio Nano - 1
+http://s2.yesstreaming.net:7157/mobile
+#EXTINF:-1, Scandinavian Satellite Radio
+http://srv1.dab.no:2051/;
+#EXTINF:-1, Larvik Kristne Radio 107.1 FM
+http://80.212.173.139:8000/lkradio
+#EXTINF:-1, Radio Harstad 101.9 FM
+http://84.49.36.82:8000/;stream.mp3
+#EXTINF:-1, Radio 102 - 0
+http://downstream.radio.raw.no:8000/radio102
+#EXTINF:-1, Radio 102 - 1
+http://downstream.radio.raw.no:8000/radio102.m3u
+#EXTINF:-1, Thuthi FM
+https://streams.radio.co/s790fe269d/listen
+#EXTINF:-1, Radio Metro Oslo
+http://stream.radiometro.no/metro64.aac
+#EXTINF:-1, Radio Metro Romerike
+http://stream.radiometro.no/romerike64.aac
+#EXTINF:-1, Radio Metro Mjøsbyene
+http://stream.radiometro.no/mjos64.aac
+#EXTINF:-1, Radio Metro Østfold
+http://stream.radiometro.no/follo64.aac
+#EXTINF:-1, Radio Metro Buskerud
+http://stream.radiometro.no/buskerud64.aac

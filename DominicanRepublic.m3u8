@@ -1,0 +1,81 @@
+#EXTM3U
+#EXTINF:-1, Radio Impacto - 0
+http://www.servercristiano.com/radios/radiowindowsmediaimpactodominicana.asx
+#EXTINF:-1, Radio Impacto - 1
+http://www.servercristiano.com/radios/winampimpactodominicana.pls
+#EXTINF:-1, Radio Perla 106.3 FM
+http://perla.domint.net:8216/
+#EXTINF:-1, Radio Maria Dominican Republic - 0
+http://88.208.232.166:11170/
+#EXTINF:-1, Radio Maria Dominican Republic - 1
+http://cloudrad.io/radiomariadominicana/listen.asx
+#EXTINF:-1, Suspiro 102.5 FM
+http://suspiro.domint.net:8228/
+#EXTINF:-1, Prisa - Los 40 Principales » Republica Dominicana - 0
+http://199.217.118.215:8016
+#EXTINF:-1, Prisa - Los 40 Principales » Republica Dominicana - 1
+http://199.217.118.215:8092
+#EXTINF:-1, Caliente 104.1 FM
+http://radio7.domint.net:8064
+#EXTINF:-1, Escandalo 102.5 FM
+http://radio.domint.net:8062/
+#EXTINF:-1, KV 94.7 FM
+http://kv94.domint.net:8198
+#EXTINF:-1, Radio Kool 106.9 FM
+http://s2.voscast.com:8584
+#EXTINF:-1, RAICES 102.9 FM
+http://radio.domint.net:8120
+#EXTINF:-1, Radio Movida 106
+http://stream.zenolive.com/uktkysdf3twtv
+#EXTINF:-1, Nativa 103.5 FM
+http://192.187.112.50:8142/stream
+#EXTINF:-1, Radio Disney República Dominicana
+http://radio.domint.net:8026
+#EXTINF:-1, Latina 104 FM - 0
+http://173.212.215.227:9056/stream
+#EXTINF:-1, Latina 104 FM - 1
+http://173.212.215.227:9056/listen.pls
+#EXTINF:-1, Radio Bavaro 92.9 FM
+http://81.169.223.197:5594/;
+#EXTINF:-1, Estrella 92.3 FM
+http://81.169.223.197:5586/;
+#EXTINF:-1, Magio 90.3 FM
+http://81.169.223.197:5592/;
+#EXTINF:-1, LatinaMix
+http://81.169.223.197:5596/;
+#EXTINF:-1, El Bloke 106.7 FM - 0
+http://radio7.domint.net:8214/listen.pls
+#EXTINF:-1, El Bloke 106.7 FM - 1
+http://radio7.domint.net:8214/;.mp3
+#EXTINF:-1, La Meta 809 - 0
+http://streaming.radionomy.com/LaMeta809?lang=en-US&appName=iTunes.m3u
+#EXTINF:-1, La Meta 809 - 1
+http://listen.radionomy.com/lameta809.m3u
+#EXTINF:-1, Arca de Salvación Radio 95.3 FM
+http://puertoplataradio.com:8000/;
+#EXTINF:-1, EXA FM 96.9 - República Dominicana
+http://72.29.70.22:8007/;
+#EXTINF:-1, Genesis 97.5 FM
+http://audio.domiradio.com:9374/;
+#EXTINF:-1, La Luz FM - 88.7 FM
+http://s5.voscast.com:8106/;
+#EXTINF:-1, La N103 EL Monstruo Musical del Cibao
+http://rgradio.net:10100/lan103.ogg
+#EXTINF:-1, Radio Cima 100.5 FM - 0
+http://audio.domiradio.com:9384/;
+#EXTINF:-1, Radio Cima 100.5 FM - 1
+http://167.114.223.51:9384/;
+#EXTINF:-1, La Nexia Fm
+http://isrd.internetsolutionsrd.com:8022/stream
+#EXTINF:-1, Radio Util FM 102.9
+http://util.serverroom.us:4096/;
+#EXTINF:-1, Supra HD
+http://stream2.domint.net:8022/;stream.nsv
+#EXTINF:-1, Radio Amanecer Internacional
+http://cast.multimediadominicana.com:9035/;
+#EXTINF:-1, Radio Santo Domingo 106.5
+http://ample-zeno-08.radiojar.com/uktkysdf3twtv
+#EXTINF:-1, Amor FM 91.9 - La Romana, Rep. Dominicana
+http://radio.domiplay.net:9190/;
+#EXTINF:-1, Pura Vida FM
+http://162.219.28.116:9700/;

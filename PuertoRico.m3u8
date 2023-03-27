@@ -1,0 +1,61 @@
+#EXTM3U
+#EXTINF:-1, Católica Radio 88.9 FM
+http://stream.rarserver.net:8078/catolicapr
+#EXTINF:-1, Salsoul 98.5 FM
+http://68.235.35.243:8001/;stream.mp3
+#EXTINF:-1, WOYE 97.3 FM Rio Grande, PR
+http://ice.eleden.com:8000/magic.aac
+#EXTINF:-1, WRTU 89.7 FM San Juan, PR
+http://streaming.radiouniversidad.pr:8062/;
+#EXTINF:-1, WMEG 106.9 FM Guayama, PR
+http://stream.abacast.net/playlist/sbsystems-wmegfmaac-ib-64.m3u
+#EXTINF:-1, WODA - La Nueva 94 94.7 FM Bayamón, PR
+http://stream.abacast.net/playlist/sbsystems-wodafmaac-ib-64.m3u
+#EXTINF:-1, WZNT - La Zeta 93 93.7 FM San Juan, PR
+http://stream.abacast.net/playlist/sbsystems-wzntfmaac-ib-64.m3u
+#EXTINF:-1, 104.1fm Redentor
+http://unoredradio.com:9996/
+#EXTINF:-1, Radio Voz De Gracia
+http://www.streamlicensing.com/directory/index.cgi/playlist.asx?action=playlist&type=asx&sid=2199&stream_id=3775
+#EXTINF:-1, WBMJ 1190 AM San Juan, PR
+http://192.241.185.108:8000/1/stream
+#EXTINF:-1, WIOA 99.9 FM San Juan, PR
+http://70.35.204.175:8002/stream
+#EXTINF:-1, WIPR 91.3 FM San Juan, PR
+http://192.254.105.36:8080/broadwave.mp3
+#EXTINF:-1, WIPR 940 AM San Juan, PR
+http://192.254.105.36:8080/broadwavehigh.mp3?src=2
+#EXTINF:-1, WOLA 1380 AM Barranquitas, PR
+http://unoredradio.com:9698/;stream.mp3
+#EXTINF:-1, WOQI 1020 AM Adjuntas, PR
+http://s1.voscast.com:9906/;
+#EXTINF:-1, WQBS 107.7 FM Carolina, PR
+http://70.35.204.175:8004/stream
+#EXTINF:-1, Renacer 106.1 FM
+http://166.88.21.98:9850/;
+#EXTINF:-1, WVUS 106.1 FM Vieques, PR
+http://s8.myradiostream.com:7808/;livestream.mp3
+#EXTINF:-1, WTOK 102.5 FM San Juan, PR
+http://server7.servistreaming.com:10024/stream
+#EXTINF:-1, WRXD 96.5 FM Fajardo, PR - 0
+http://stream.abacast.net/playlist/sbsystems-wrxdfmaac1-ib-64.m3u
+#EXTINF:-1, WRXD 96.5 FM Fajardo, PR - 1
+http://54.224.206.115/sbsystems-wrxdfmaac1-ib-64
+#EXTINF:-1, WRXD 96.5 FM Fajardo, PR - 2
+http://www.lamusica.com/sbsplayer-play.php
+#EXTINF:-1, WRXD 96.5 FM Fajardo, PR - 3
+http://www.play96fm.lamusica.com/radio/wrxd
+#EXTINF:-1, WKAQ 104.7 FM San Juan, PR - 0
+http://stream.abacast.net/playlist/univision-wkaqfmaac-ibc1.m3u
+#EXTINF:-1, WKAQ 104.7 FM San Juan, PR - 1
+http://stream.abacast.net/playlist/univision-wkaqfmmp3-ibc1.m3u
+#EXTINF:-1, WKAQ 104.7 FM San Juan, PR - 2
+http://54.80.214.162/univision-wkaqfmaac-ibc1
+#EXTINF:-1, WYAS 92.1 FM Luquillo, PR
+http://ice.eleden.com:8000/laestaciondelafamiliapr.mp3
+#EXTINF:-1, WPRA 990 AM Mayaguez, PR - 0
+http://192.240.102.2:8431/;
+#EXTINF:-1, WPRA 990 AM Mayaguez, PR - 1
+http://www.wpra990.com/wprastream.wax
+#EXTINF:-1, WVID 90.3 FM Anasco, PR
+http://s3.voscast.com:7720/;

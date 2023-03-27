@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1, Rádio Antena Nove
+http://stream.radio.com.pt/ROLI-ENC-565
+#EXTINF:-1, TSF Açores - 0
+http://stream.radio.com.pt/ROLI-ENC-243
+#EXTINF:-1, TSF Açores - 1
+mms://stream.radio.com.pt/ROLI-ENC-243
+#EXTINF:-1, Rádio Atlântida 106.3 - 0
+http://stream.radio.com.pt/ROLI-ENC-505
+#EXTINF:-1, Rádio Atlântida 106.3 - 1
+mms://stream.radio.com.pt/ROLI-ENC-505
+#EXTINF:-1, Radio Lumena 107.1 FM
+http://178.32.239.25:8018/;?1415662866690.mp3
+#EXTINF:-1, Rádio Nova Cidade (RCN) 105.5 FM - 0
+http://94.23.76.235:9878
+#EXTINF:-1, Rádio Nova Cidade (RCN) 105.5 FM - 1
+http://www.radionovacidade.pt/player/media/playlist.asx
+#EXTINF:-1, Rádio Comercial dos Açores FM 99.4
+http://centova.radios.pt:8243/stream
+#EXTINF:-1, Rádio Horizonte FM 107.2
+http://195.8.58.150:35000/;
+#EXTINF:-1, Radio Graciosa 107.9 FM
+http://178.32.239.25:8025/stream
+#EXTINF:-1, RDP Antena 1 Acores
+http://radiocast.rtp.pt/antena1acores80a.mp3
+#EXTINF:-1, Rádio Club Angra
+http://213.239.218.99:7130/stream.mp3?1496440304396
+#EXTINF:-1, 105FM
+http://195.8.58.150:34179
+#EXTINF:-1, Radio Lajes
+http://213.239.218.99:7152/
+#EXTINF:-1, Rádio Pico 100.2 FM
+http://stream.radio.com.pt/ROLI-ENC-420

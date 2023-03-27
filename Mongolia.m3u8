@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1, Family Radio FM 104.5 - 0
+http://78.129.228.187:8070/
+#EXTINF:-1, Family Radio FM 104.5 - 1
+http://sh-uk.audio-stream.com:2199/tunein/sc_3jsnz-stream.asx
+#EXTINF:-1, MNB - Radio 1
+http://202.70.34.35:1935/radio/radio1.stream/playlist.m3u8
+#EXTINF:-1, MNB - Radio 2
+http://202.70.34.35:1935/radio/radio2.stream/playlist.m3u8
+#EXTINF:-1, MNB - Р3 FM 100.9
+http://202.70.34.35:1935/radio/radio3.stream/playlist.m3u8
+#EXTINF:-1, Best FM 98.5 - 0
+http://103.48.116.109:9000
+#EXTINF:-1, Best FM 98.5 - 1
+http://81.4.120.154:8000
+#EXTINF:-1, MglRadio FM 88.3 - 0
+http://stream10.shoutcastsolutions.com:4036/mountpoint
+#EXTINF:-1, MglRadio FM 88.3 - 1
+http://mglradio.com/player_pop/?pl=vlc&c=%D0%94%D1%8D%D0%BB%D1%85%D0%B8%D0%B9%D0%BD%20%D0%9C%D0%BE%D0%BD%D0%B3%D0%BE%D0%BB%D1%87%D1%83%D1%83%D0%B4%D1%8B%D0%BD%20MGLRADIO%20-%20FM-88.3
+#EXTINF:-1, Арга Билиг Радио 95.7 FM
+http://96.31.83.94:8026/;stream.mp3

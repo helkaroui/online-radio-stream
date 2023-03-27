@@ -1,0 +1,1345 @@
+#EXTM3U
+#EXTINF:-1, Casa de Oración - Guadalajara
+http://wm6.spacialnet.com/acadenaDC133713
+#EXTINF:-1, La Estacion Del Amor - LaEstacionDelAmor.net - 0
+http://mp3hd.estaciondelamor.com
+#EXTINF:-1, La Estacion Del Amor - LaEstacionDelAmor.net - 1
+http://mp3.estaciondelamor.com
+#EXTINF:-1, La Estacion Del Amor - LaEstacionDelAmor.net - 2
+http://aac.estaciondelamor.com
+#EXTINF:-1, MMMX Mexico City (approach) - 0
+http://d.liveatc.net/mmmx2
+#EXTINF:-1, MMMX Mexico City (approach) - 1
+http://www.liveatc.net/play/mmmx2.pls
+#EXTINF:-1, MMGL Guadalajara - 0
+http://d.liveatc.net/mmgl
+#EXTINF:-1, MMGL Guadalajara - 1
+http://www.liveatc.net/play/mmgl.pls
+#EXTINF:-1, MMUN Cancun (approach/departure) - 0
+http://d.liveatc.net/mmmd2
+#EXTINF:-1, MMUN Cancun (approach/departure) - 1
+http://www.liveatc.net/play/mmmd2.pls
+#EXTINF:-1, Radio Extremo - 0
+http://www.radioextremo.com/rx.pls
+#EXTINF:-1, Radio Extremo - 1
+http://www.radioextremo.com/rx.m3u
+#EXTINF:-1, Radio Extremo - 2
+http://www.radioextremo.com/rx.asx
+#EXTINF:-1, RadioAMLO » México
+http://stream.radioamlo.info:8010/
+#EXTINF:-1, Radio Universidad 105.3 FM * 1310 AM
+http://148.229.18.29:8000/ru.mp3
+#EXTINF:-1, 770 La Ranchera XEML
+http://radio.promosat.com:8118/listen.pls
+#EXTINF:-1, ALEGRIA MEXICANA
+http://www.kvoz.com:8080/alegriamexicana
+#EXTINF:-1, XEU 98.1 FM Veracruz, Ver.
+http://gpazos.centrocibernetico.com:20000/
+#EXTINF:-1, XHHV La FIERA 94.1 Veracruz, Ver.
+http://gpazos.centrocibernetico.com:21000/
+#EXTINF:-1, Amor 103.3 fm
+http://provisioning.streamtheworld.com/pls/XHRHFMAAC.pls
+#EXTINF:-1, XHXAL Radio Mas (Gobierno de Veracruz) 107.7 FM Xalapa, Ver.
+http://50.7.98.234:8644/
+#EXTINF:-1, XHFU La Nueva Voz 103.3 FM Cosamaloapan, Ver.
+http://www.xefuradio.com.mx/radio/playlist.asx
+#EXTINF:-1, XHQO Stereo Romance 90.7 FM Cosamaloapan, Ver.
+http://www.xefuradio.com.mx/radioqo/playlist.asx
+#EXTINF:-1, XHTP HD Sensación 95.5 FM Xalapa, Ver.
+http://www.955sensacionfm.com/radio/955hd/wax
+#EXTINF:-1, XHTP HD Sensación Beat 95.5/2 Xalapa, Ver.
+http://www.955sensacionfm.com/radio/beat/wax
+#EXTINF:-1, Radio Mexico para Cristo
+http://50.7.77.114:8550/listen.pls
+#EXTINF:-1, eCatolico Radio - 0
+http://cp.usa4.fastcast4u.com:2199/tunein/ecatolic.asx
+#EXTINF:-1, eCatolico Radio - 1
+http://cp.usa4.fastcast4u.com:2199/tunein/ecatolic.pls
+#EXTINF:-1, eCatolico Radio - 2
+http://cp.usa4.fastcast4u.com:2199/tunein/ecatolic.ram
+#EXTINF:-1, eCatolico Radio - 3
+http://cp.usa4.fastcast4u.com:2199/tunein/ecatolic.qtl
+#EXTINF:-1, eCatolico Radio - 4
+http://198.27.83.198/stream/ecatolic.pls?mp=/stream
+#EXTINF:-1, eCatolico Radio - 5
+http://usa4.fastcast4u.com:5946
+#EXTINF:-1, Miled Music - Musica Clasica
+http://192.99.34.205:8126/stream
+#EXTINF:-1, XHLL Fusión 90.1 FM Veracruz, Ver.
+http://gpazos.centrocibernetico.com:22000/
+#EXTINF:-1, XHQT La Poderosa 106.9 FM Veracruz, Ver.
+http://s1.radiorama.com.mx:7566/;
+#EXTINF:-1, Miled Music - Elvis Presley
+http://192.99.34.205:8453/stream
+#EXTINF:-1, Miled Music - Cubana
+http://192.99.34.205:8400/stream
+#EXTINF:-1, Radio AWP
+http://67.212.189.122:8031/
+#EXTINF:-1, IMAGEN RADIO
+http://playerservices.streamtheworld.com/api/livestream-redirect/XEDAFM.mp3
+#EXTINF:-1, XEBBB - Radio Mujer 1040 AM
+http://streaming.promomedios.com:8002/;
+#EXTINF:-1, XHANU-FM 102.3 Autlán de Navarro
+http://148.202.114.39:8000/
+#EXTINF:-1, XHUGP - 104.3 FM Puerto Vallarta
+http://148.202.110.152:8000/
+#EXTINF:-1, XHUGO - 107.9 FM Ocotlán
+http://148.202.148.5:4040/
+#EXTINF:-1, XHUGL - 104.7 Lagos de Moreno
+http://148.202.62.3:8000/
+#EXTINF:-1, XHUGA - 105.5 FM Ameca
+http://148.202.87.222:8000/
+#EXTINF:-1, XHUGG - UDG 94.3 FM Ciudad Guzmán
+http://148.202.119.233:8080/listen.pls
+#EXTINF:-1, Radio la Nueva República - 0
+http://167.114.131.90:5200/
+#EXTINF:-1, Radio la Nueva República - 1
+http://167.114.131.90:2199/tunein/pdelgado.asx
+#EXTINF:-1, EXA FM 93.5 - Irapuato
+http://exairapuato.streaming4.mx:8000/exairapuato
+#EXTINF:-1, iWey Radio
+http://192.96.217.230:8080/;
+#EXTINF:-1, BEAT 90.1
+http://playerservices.streamtheworld.com/pls/XHCHFMAAC.pls
+#EXTINF:-1, XHMBM - Milenio Bella Musica 105.1 FM - 0
+http://streaming.promomedios.com:8008/
+#EXTINF:-1, XHMBM - Milenio Bella Musica 105.1 FM - 1
+http://www.milenio.fm/radio_plugs/wmp.asx
+#EXTINF:-1, XHMBM - Milenio Bella Musica 105.1 FM - 2
+http://streaming.promomedios.com:8018/
+#EXTINF:-1, XHQRV Imagen 92.5 FM Veracruz, Ver.
+http://veracruz.radio.wnsol.com:8310/;stream.mp3
+#EXTINF:-1, XHPR Ke Buena 101.7 FM Veracruz, Ver.
+http://streamingenmexico.com:7002/;stream.mp3
+#EXTINF:-1, XHIL Mix 88.5 FM Veracruz, Ver.
+http://playerservices.streamtheworld.com/api/livestream-redirect/XEILFM.mp3
+#EXTINF:-1, Tempo-Radio - Tempo Channel - 0
+http://tempo.tempo-radio.com/listen.m3u
+#EXTINF:-1, Tempo-Radio - Tempo Channel - 1
+http://stream.tempo-radio.com:8730/192
+#EXTINF:-1, Tempo-Radio - Tempo Channel - 2
+http://stream.tempo-radio.com:8730/128
+#EXTINF:-1, Tempo-Radio - Tempo Channel - 3
+http://stream.tempo-radio.com:8730/64
+#EXTINF:-1, Tempo-Radio - Party Channel - 0
+http://party.tempo-radio.com/listen.m3u
+#EXTINF:-1, Tempo-Radio - Party Channel - 1
+http://stream.tempo-radio.com:8734/192
+#EXTINF:-1, Tempo-Radio - Party Channel - 2
+http://stream.tempo-radio.com:8734/64
+#EXTINF:-1, Litibú Fm
+http://91.121.155.204:8004/stream
+#EXTINF:-1, Nueve Nueves
+http://listen.shoutcast.com/clasicosnuevenueves
+#EXTINF:-1, Heart Radio MX
+http://204.12.193.98:8371/
+#EXTINF:-1, XEHRM - Magic 92.5
+http://provisioning.streamtheworld.com/pls/XHRMFMAAC.pls
+#EXTINF:-1, XHRN Más Latina 96.5 FM Veracruz, Ver.
+http://mmk2.radiomx.org:9994/
+#EXTINF:-1, Tokyo Radio 80.6
+http://94.23.6.53:8302/
+#EXTINF:-1, Cofradia Station
+http://67.159.10.149:8004/
+#EXTINF:-1, Radio Maria Mexico - 0
+http://dreamsiteradiocp4.com:8004/
+#EXTINF:-1, Radio Maria Mexico - 1
+http://cloudrad.io/radiomariamexico/listen.asx
+#EXTINF:-1, Miled Music - Alternativo
+http://192.99.34.205:8201/stream
+#EXTINF:-1, Miled Music - Baladas
+http://192.99.34.205:8095/stream
+#EXTINF:-1, Miled Music - Banda
+http://192.99.34.205:8401/stream
+#EXTINF:-1, Miled Music - Bebop
+http://192.99.34.205:8450/stream
+#EXTINF:-1, Miled Music - Blues
+http://192.99.34.205:8144/stream
+#EXTINF:-1, Miled Music - Bolero
+http://192.99.34.205:8444/stream
+#EXTINF:-1, Miled Music - Bossa Nova
+http://192.99.34.205:8399/stream
+#EXTINF:-1, Miled Music - Classic Rock
+http://192.99.34.205:8127/stream
+#EXTINF:-1, Miled Music - Cumbia
+http://192.99.34.205:8445/stream
+#EXTINF:-1, Miled Music - Dance
+http://192.99.34.205:8448/stream
+#EXTINF:-1, Miled Music - Disco
+http://192.99.34.205:8202/stream
+#EXTINF:-1, Miled music - Drum and Bass
+http://192.99.34.205:8446/stream
+#EXTINF:-1, Miled Music - EBM
+http://192.99.34.205:8227/stream
+#EXTINF:-1, Miled Music - Electro- house
+http://192.99.34.205:8460/stream
+#EXTINF:-1, Miled Music - Exitos en ingles
+http://192.99.34.205:8454/stream
+#EXTINF:-1, Miled Music - Gospel
+http://192.99.34.205:8449/stream
+#EXTINF:-1, Miled Music - Hard Rock
+http://192.99.34.205:8456/stream
+#EXTINF:-1, Miled Music - Heavy Metal
+http://192.99.34.205:8109/stream
+#EXTINF:-1, Miled Music - Hip-Hop
+http://192.99.34.205:8125/stream
+#EXTINF:-1, Miled Music - Indie rock
+http://192.99.34.205:8455/stream
+#EXTINF:-1, Miled Music - Juan Gabriel
+http://192.99.34.205:8451/stream
+#EXTINF:-1, Miled Music - Mambo
+http://192.99.34.205:8443/stream
+#EXTINF:-1, Miled Music - Mariachi
+http://192.99.34.205:8165/stream
+#EXTINF:-1, Miled Music - Ambiental
+http://192.99.34.205:8079/stream
+#EXTINF:-1, Miled Music - Árabe
+http://192.99.34.205:8094/stream
+#EXTINF:-1, Miled Music - Country
+http://192.99.34.205:8145/stream
+#EXTINF:-1, Miled Music - Electrónica
+http://192.99.34.205:8096/stream
+#EXTINF:-1, Miled Music - Jazz
+http://192.99.34.205:8108/stream
+#EXTINF:-1, Miled Music - New Age
+http://192.99.34.205:8222/stream
+#EXTINF:-1, Miled Music - Oldies
+http://192.99.34.205:8146/stream
+#EXTINF:-1, Miled Music - Opera
+http://192.99.34.205:8203/stream
+#EXTINF:-1, Miled Music - Pedro Infante
+http://192.99.34.205:8452/stream
+#EXTINF:-1, Miled Music - Pop
+http://192.99.34.205:8147/stream
+#EXTINF:-1, Miled Music - Psycho
+http://192.99.34.205:8148/stream
+#EXTINF:-1, Miled Music - Punk
+http://192.99.34.205:8168/stream
+#EXTINF:-1, Miled Music - Rat Pack
+http://192.99.34.205:8238/stream
+#EXTINF:-1, Miled Music - Reggae
+http://192.99.34.205:8143/stream
+#EXTINF:-1, Miled Music - Reggaeton
+http://192.99.34.205:8466/stream
+#EXTINF:-1, Miled Music - 80’s
+http://192.99.34.205:8030/stream
+#EXTINF:-1, Miled Music - 90’s
+http://192.99.34.205:8046/stream
+#EXTINF:-1, Miled Music - Rock Español
+http://192.99.34.205:8457/stream
+#EXTINF:-1, Miled Music - Salsa
+http://192.99.34.205:8239/stream
+#EXTINF:-1, Miled Music - Ska
+http://192.99.34.205:8458/stream
+#EXTINF:-1, Miled Music - Soul
+http://192.99.34.205:8167/stream
+#EXTINF:-1, Miled Music - Soundtrack
+http://192.99.34.205:8484/stream
+#EXTINF:-1, Miled Music - Tango
+http://192.99.34.205:8240/stream
+#EXTINF:-1, Miled Music - Trova
+http://192.99.34.205:8173/stream
+#EXTINF:-1, Miled Music - Bachata
+http://192.99.34.205:8465/stream
+#EXTINF:-1, Miled Music - Rock
+http://192.99.34.205:8175/stream
+#EXTINF:-1, Miled Music - Tribal
+http://192.99.34.205:8471/stream
+#EXTINF:-1, Miled Music - World
+http://192.99.34.205:8174/stream
+#EXTINF:-1, Miled Music - 50’s
+http://192.99.34.205:8005/stream
+#EXTINF:-1, Miled Music - 60’s
+http://192.99.34.205:8007/stream
+#EXTINF:-1, Miled Music - 70’s
+http://192.99.34.205:8008/stream
+#EXTINF:-1, Miled Music - Americano
+http://192.99.34.205:8021/stream
+#EXTINF:-1, Miled Music - Bandas
+http://192.99.34.205:8480/stream
+#EXTINF:-1, Miled Music - Castro
+http://192.99.34.205:8483/stream
+#EXTINF:-1, Miled Music - Enrique Batiz
+http://192.99.34.205:8476/stream
+#EXTINF:-1, Miled Music - Fernández
+http://192.99.34.205:8478/stream
+#EXTINF:-1, Miled Music - Fiesta Mexicana
+http://192.99.34.205:8073/stream
+#EXTINF:-1, Miled Music - Grupera
+http://192.99.34.205:8472/stream
+#EXTINF:-1, Miled Music - Solis
+http://192.99.34.205:8473/stream
+#EXTINF:-1, Miled Music - Jorge Negrete
+http://192.99.34.205:8474/stream
+#EXTINF:-1, Miled Music - José Alfredo
+http://192.99.34.205:8477/stream
+#EXTINF:-1, Miled Music - Julio Iglesias
+http://192.99.34.205:8479/stream
+#EXTINF:-1, Miled Music - Kids
+http://192.99.34.205:8042/stream
+#EXTINF:-1, Miled Music - Las Sonoras
+http://192.99.34.205:8475/stream
+#EXTINF:-1, Miled Music - Mijares & Emmanuel
+http://192.99.34.205:8031/stream
+#EXTINF:-1, Miled Music - Navideña
+http://192.99.34.205:8237/stream
+#EXTINF:-1, Miled Music - Norteña
+http://192.99.34.205:8469/stream
+#EXTINF:-1, Miled Music - Social Club
+http://192.99.34.205:8482/stream
+#EXTINF:-1, Miled Music - The Beatles
+http://192.99.34.205:8481/stream
+#EXTINF:-1, IMER Fusión
+http://imer-edge1.cdnstream.com/1510_64?cb=279265.mp3
+#EXTINF:-1, IMER Estéreo Istmo
+http://imer-edge1.cdnstream.com/1509_64?cb=250541.mp3
+#EXTINF:-1, IMER Opus 94
+http://imer-edge1.cdnstream.com/1501_64
+#EXTINF:-1, IMER Jazz Digital
+http://imer-edge1.cdnstream.com/1518_64
+#EXTINF:-1, IMER La Poderosa
+http://imer-edge1.cdnstream.com/1517_64?cb=286769.mp3
+#EXTINF:-1, IMER La Popular
+http://imer-edge1.cdnstream.com/1514_64?cb=291505.mp3
+#EXTINF:-1, IMER Órbita
+http://imer-edge1.cdnstream.com/1511_64?cb=292752.mp3
+#EXTINF:-1, IMER Radio IMER
+http://imer-edge1.cdnstream.com/1512_64?cb=299656.mp3
+#EXTINF:-1, IMER Radio Lagarto
+http://imer-edge1.cdnstream.com/1515_64?cb=300033.mp3
+#EXTINF:-1, IMER La FQ
+http://imer-edge1.cdnstream.com/1513_64?cb=312866.mp3
+#EXTINF:-1, IMER Radio 710
+http://imer-edge1.cdnstream.com/1505_64?cb=314326.mp3
+#EXTINF:-1, IMER Tropicalísima 13-50
+http://imer-edge1.cdnstream.com/1507_64?cb=354119.mp3
+#EXTINF:-1, IMER Horizonte
+http://imer-edge1.cdnstream.com/1503_64?cb=356558.mp3
+#EXTINF:-1, IMER Radio Azul
+http://imer-edge1.cdnstream.com/1516_64?cb=357417.mp3
+#EXTINF:-1, IMER Radio Ciudadana
+http://imer-edge1.cdnstream.com/1504_64?cb=359642.mp3
+#EXTINF:-1, IMER Reactor
+http://imer-edge1.cdnstream.com/1502_64?cb=360920.mp3
+#EXTINF:-1, IMER La B Grande de México
+http://imer-edge1.cdnstream.com/1506_64?cb=362105.mp3
+#EXTINF:-1, IMER Yucatán FM
+http://imer-edge1.cdnstream.com/1508_64?cb=365037.mp3
+#EXTINF:-1, IMER Radio México Internacional
+http://imer-edge1.cdnstream.com/1500_64?cb=366472.mp3
+#EXTINF:-1, IMER Interferencia
+http://imer-edge1.cdnstream.com/1519_64?cb=371190.mp3
+#EXTINF:-1, IMER Música del Mundo
+http://imer-edge1.cdnstream.com/1520_64?cb=372120.mp3
+#EXTINF:-1, Radio Disney México
+http://disneymxradio-lh.akamaihd.net/i/MXDisneyRADIO_1@147029/master.m3u8
+#EXTINF:-1, XTRA 1360 AM Tijuana, BC (San Diego, CA USA market)
+http://c13icy.prod.playlists.ihrhls.com/249_icy
+#EXTINF:-1, XHPOP digital 99.3 - 0
+http://playerservices.streamtheworld.com/pls/XHPOPFMAAC.pls
+#EXTINF:-1, XHPOP digital 99.3 - 1
+http://playerservices.streamtheworld.com/pls/XHPOPFM.pls
+#EXTINF:-1, XHCUT La Comadre 101.7 FM - 0
+http://playerservices.streamtheworld.com/pls/XHCLIFMAAC.pls
+#EXTINF:-1, XHCUT La Comadre 101.7 FM - 1
+http://playerservices.streamtheworld.com/pls/XHCLIFM.pls
+#EXTINF:-1, XEFR 1180 AM Mexico City, DF - 0
+http://playerservices.streamtheworld.com/pls/XEFRAMAAC.pls
+#EXTINF:-1, XEFR 1180 AM Mexico City, DF - 1
+http://playerservices.streamtheworld.com/pls/XEFRAM.pls
+#EXTINF:-1, XHPI 93.1 FM GUADALAJARA - 0
+http://playerservices.streamtheworld.com/pls/XHPIFMAAC.pls
+#EXTINF:-1, XHPI 93.1 FM GUADALAJARA - 1
+http://playerservices.streamtheworld.com/pls/XHPIFM.pls
+#EXTINF:-1, XHSH 95.3 FM Mexico City, DF - 0
+http://playerservices.streamtheworld.com/pls/XHSHFMAAC.pls
+#EXTINF:-1, XHSH 95.3 FM Mexico City, DF - 1
+http://playerservices.streamtheworld.com/pls/XHSHFM.pls
+#EXTINF:-1, XHRJ 92.5 FM Toluca, Mexico - 0
+http://playerservices.streamtheworld.com/pls/XHRJFMAAC.pls
+#EXTINF:-1, XHRJ 92.5 FM Toluca, Mexico - 1
+http://playerservices.streamtheworld.com/pls/XHRJFM.pls
+#EXTINF:-1, XHCNA 100.1 FM Culiacán, Sinaloa - 0
+http://playerservices.streamtheworld.com/pls/XHCNAFMAAC.pls
+#EXTINF:-1, XHCNA 100.1 FM Culiacán, Sinaloa - 1
+http://playerservices.streamtheworld.com/pls/XHCNAFM.pls
+#EXTINF:-1, XHRS 90.1 FM Puebla, Puebla - 0
+http://playerservices.streamtheworld.com/pls/XHRSFMAAC.pls
+#EXTINF:-1, XHRS 90.1 FM Puebla, Puebla - 1
+http://playerservices.streamtheworld.com/pls/XHRSFM.pls
+#EXTINF:-1, XHRC 91.7 FM Puebla, Puebla - 0
+http://playerservices.streamtheworld.com/pls/XHRCFMAAC.pls
+#EXTINF:-1, XHRC 91.7 FM Puebla, Puebla - 1
+http://playerservices.streamtheworld.com/pls/XHRCFM.pls
+#EXTINF:-1, XHMVS 102.5 FM Mexico D.F. - 0
+http://playerservices.streamtheworld.com/pls/XHMVSFMAAC.pls
+#EXTINF:-1, XHMVS 102.5 FM Mexico D.F. - 1
+http://playerservices.streamtheworld.com/pls/XHMVSFM.pls
+#EXTINF:-1, XHPJ 106.9 FM Monterrey, NL - 0
+http://playerservices.streamtheworld.com/pls/CLASSIC106AAC.pls
+#EXTINF:-1, XHPJ 106.9 FM Monterrey, NL - 1
+http://playerservices.streamtheworld.com/pls/CLASSIC106.pls
+#EXTINF:-1, XHJD 98.9 FM Monterrey, NL - 0
+http://playerservices.streamtheworld.com/pls/D99AAC.pls
+#EXTINF:-1, XHJD 98.9 FM Monterrey, NL - 1
+http://playerservices.streamtheworld.com/pls/D99.pls
+#EXTINF:-1, XET 94.1 FM Monterrey, NL - 0
+http://playerservices.streamtheworld.com/pls/XETFMAAC.pls
+#EXTINF:-1, XET 94.1 FM Monterrey, NL - 1
+http://playerservices.streamtheworld.com/pls/XETFM.pls
+#EXTINF:-1, XERG 690 AM Monterrey, NL - 0
+http://playerservices.streamtheworld.com/pls/RG690AAC.pls
+#EXTINF:-1, XERG 690 AM Monterrey, NL - 1
+http://playerservices.streamtheworld.com/pls/RG690.pls
+#EXTINF:-1, XET 990 AM Monterrey, NL - 0
+http://playerservices.streamtheworld.com/pls/XETAM.pls
+#EXTINF:-1, XET 990 AM Monterrey, NL - 1
+http://provisioning.streamtheworld.com/pls/XETAM.pls
+#EXTINF:-1, XHHEM 103.7 FM Chihuahua, Chihuahua - 0
+http://playerservices.streamtheworld.com/pls/XHHEMFM.pls
+#EXTINF:-1, XHHEM 103.7 FM Chihuahua, Chihuahua - 1
+http://provisioning.streamtheworld.com/pls/XHHEMFM.pls
+#EXTINF:-1, XHPAG 105.3 FM Monterrey, NL - 0
+http://playerservices.streamtheworld.com/pls/XHPAGFM.pls
+#EXTINF:-1, XHPAG 105.3 FM Monterrey, NL - 1
+http://provisioning.streamtheworld.com/pls/XHPAGFM.pls
+#EXTINF:-1, XENL 860 AM Monterrey, NL - 0
+http://playerservices.streamtheworld.com/pls/XENLAM.pls
+#EXTINF:-1, XENL 860 AM Monterrey, NL - 1
+http://provisioning.streamtheworld.com/pls/XENLAM.pls
+#EXTINF:-1, XETKR 1480 AM Guadalupe-Monterrey, NL - 0
+http://playerservices.streamtheworld.com/pls/XETKRAM.pls
+#EXTINF:-1, XETKR 1480 AM Guadalupe-Monterrey, NL - 1
+http://provisioning.streamtheworld.com/pls/XETKRAM.pls
+#EXTINF:-1, XHAW 103.1 FM Monterrey, NL - 0
+http://playerservices.streamtheworld.com/pls/XHAWFMAAC.pls
+#EXTINF:-1, XHAW 103.1 FM Monterrey, NL - 1
+http://playerservices.streamtheworld.com/pls/XHAWFM.pls
+#EXTINF:-1, XHTRR 92.3 FM Torreón, Coahuila - 0
+http://playerservices.streamtheworld.com/pls/XHTRRFMAAC.pls
+#EXTINF:-1, XHTRR 92.3 FM Torreón, Coahuila - 1
+http://playerservices.streamtheworld.com/pls/XHTRRFM.pls
+#EXTINF:-1, XHCTO 93.1 FM Torreón, Coahuila - 0
+http://playerservices.streamtheworld.com/pls/XHCTOFMAAC.pls
+#EXTINF:-1, XHCTO 93.1 FM Torreón, Coahuila - 1
+http://playerservices.streamtheworld.com/pls/XHCTOFM.pls
+#EXTINF:-1, XEGZ 99.5 FM Gómez Palacio, Durango - 0
+http://playerservices.streamtheworld.com/pls/XEGZFMAAC.pls
+#EXTINF:-1, XEGZ 99.5 FM Gómez Palacio, Durango - 1
+http://playerservices.streamtheworld.com/pls/XEGZFM.pls
+#EXTINF:-1, XHBP 90.3 FM Gómez Palacio, Durango - 0
+http://playerservices.streamtheworld.com/pls/XEBPFMAAC.pls
+#EXTINF:-1, XHBP 90.3 FM Gómez Palacio, Durango - 1
+http://playerservices.streamtheworld.com/pls/XEBPFM.pls
+#EXTINF:-1, XHHPR 101.7 FM Hidalgo del Parral, Chihuahua - 0
+http://playerservices.streamtheworld.com/pls/XHHPRFM.pls
+#EXTINF:-1, XHHPR 101.7 FM Hidalgo del Parral, Chihuahua - 1
+http://provisioning.streamtheworld.com/pls/XHHPRFM.pls
+#EXTINF:-1, XHAT 101.1 FM Ensenada, BC - 0
+http://playerservices.streamtheworld.com/pls/XHATFM.pls
+#EXTINF:-1, XHAT 101.1 FM Ensenada, BC - 1
+http://provisioning.streamtheworld.com/pls/XHATFM.pls
+#EXTINF:-1, XHLRS 95.3 FM Linares, Nuevo León/Villagrán, Tamaulipas - 0
+http://playerservices.streamtheworld.com/pls/XHLRSFM.pls
+#EXTINF:-1, XHLRS 95.3 FM Linares, Nuevo León/Villagrán, Tamaulipas - 1
+http://provisioning.streamtheworld.com/pls/XHLRSFM.pls
+#EXTINF:-1, XERAM 1310 AM Betania, Chiapas - 0
+http://playerservices.streamtheworld.com/pls/XERAM.pls
+#EXTINF:-1, XERAM 1310 AM Betania, Chiapas - 1
+http://provisioning.streamtheworld.com/pls/XERAM.pls
+#EXTINF:-1, XHRYS 90.1 FM Reynosa, Tamaulipas - 0
+http://playerservices.streamtheworld.com/pls/XHRYSFM.pls
+#EXTINF:-1, XHRYS 90.1 FM Reynosa, Tamaulipas - 1
+http://provisioning.streamtheworld.com/pls/XHRYSFM.pls
+#EXTINF:-1, LA CALIENTE REYNOSA 93.1 FM - 0
+http://provisioning.streamtheworld.com/pls/XHAAAFM.pls
+#EXTINF:-1, LA CALIENTE REYNOSA 93.1 FM - 1
+http://playerservices.streamtheworld.com/pls/XHAAAFM.pls
+#EXTINF:-1, XHTPO 94.5 FM Tampico, Tamaulipas, Mexico - 0
+http://playerservices.streamtheworld.com/pls/XHTPOFM.pls
+#EXTINF:-1, XHTPO 94.5 FM Tampico, Tamaulipas, Mexico - 1
+http://provisioning.streamtheworld.com/pls/XHTPOFM.pls
+#EXTINF:-1, XHSNP 97.7 FM San Luis Potosí, San Luis Potosí - 0
+http://playerservices.streamtheworld.com/pls/XHSNPFM.pls
+#EXTINF:-1, XHSNP 97.7 FM San Luis Potosí, San Luis Potosí - 1
+http://provisioning.streamtheworld.com/pls/XHSNPFM.pls
+#EXTINF:-1, XHVTH 107.1 FM Matamoros, Tamaulipas - 0
+http://playerservices.streamtheworld.com/pls/XHVTHFM.pls
+#EXTINF:-1, XHVTH 107.1 FM Matamoros, Tamaulipas - 1
+http://provisioning.streamtheworld.com/pls/XHVTHFM.pls
+#EXTINF:-1, XHCLO 107.1 FM Monclova, Coahuila - 0
+http://playerservices.streamtheworld.com/pls/XHCLOFM.pls
+#EXTINF:-1, XHCLO 107.1 FM Monclova, Coahuila - 1
+http://provisioning.streamtheworld.com/pls/XHCLOFM.pls
+#EXTINF:-1, XHHIT 95.3 FM Tecate, BC - 0
+http://playerservices.streamtheworld.com/pls/LACALIENTE.pls
+#EXTINF:-1, XHHIT 95.3 FM Tecate, BC - 1
+http://provisioning.streamtheworld.com/pls/LACALIENTE.pls
+#EXTINF:-1, XHSAC 99.3 FM Saltillo, Coahuila - 0
+http://playerservices.streamtheworld.com/pls/XESACFM.pls
+#EXTINF:-1, XHSAC 99.3 FM Saltillo, Coahuila - 1
+http://provisioning.streamtheworld.com/pls/XESACFM.pls
+#EXTINF:-1, XHSHT 102.5 FM Saltillo, Coahuila - 0
+http://playerservices.streamtheworld.com/pls/XHSHTFM.pls
+#EXTINF:-1, XHSHT 102.5 FM Saltillo, Coahuila - 1
+http://provisioning.streamtheworld.com/pls/XHSHTFM.pls
+#EXTINF:-1, XHNLO 97.1 FM Nuevo Laredo, Tamaulipas - 0
+http://playerservices.streamtheworld.com/pls/XHNLOFM.pls
+#EXTINF:-1, XHNLO 97.1 FM Nuevo Laredo, Tamaulipas - 1
+http://provisioning.streamtheworld.com/pls/XHNLOFM.pls
+#EXTINF:-1, XHCTC 99.9 FM Ciudad Cuauhtémoc, Chihuahua - 0
+http://playerservices.streamtheworld.com/pls/XHCTCFM.pls
+#EXTINF:-1, XHCTC 99.9 FM Ciudad Cuauhtémoc, Chihuahua - 1
+http://provisioning.streamtheworld.com/pls/XHCTCFM.pls
+#EXTINF:-1, XHGDA 89.1 FM Guadalajara - 0
+http://playerservices.streamtheworld.com/pls/XHGDAFMAAC.pls
+#EXTINF:-1, XHGDA 89.1 FM Guadalajara - 1
+http://playerservices.streamtheworld.com/pls/XHGDAFM.pls
+#EXTINF:-1, XHAW 101.3 FM Guadalupe, NL - 0
+http://provisioning.streamtheworld.com/pls/XEAWAM.pls
+#EXTINF:-1, XHAW 101.3 FM Guadalupe, NL - 1
+http://playerservices.streamtheworld.com/pls/XEAWAM.pls
+#EXTINF:-1, XHCHH 94.9 FM Chihuahua, Chihuahua - 0
+http://playerservices.streamtheworld.com/pls/XHCHHFM.pls
+#EXTINF:-1, XHCHH 94.9 FM Chihuahua, Chihuahua - 1
+http://provisioning.streamtheworld.com/pls/XHCHHFM.pls
+#EXTINF:-1, XHCHA 104.5 FM Chihuahua, Chihuahua - 0
+http://playerservices.streamtheworld.com/pls/XHCHAFM.pls
+#EXTINF:-1, XHCHA 104.5 FM Chihuahua, Chihuahua - 1
+http://provisioning.streamtheworld.com/pls/XHCHAFM.pls
+#EXTINF:-1, XHAHC 90.9 FM Chihuahua, Chihuahua - 0
+http://playerservices.streamtheworld.com/pls/XHAHCFM.pls
+#EXTINF:-1, XHAHC 90.9 FM Chihuahua, Chihuahua - 1
+http://provisioning.streamtheworld.com/pls/XHAHCFM.pls
+#EXTINF:-1, XHFMTU 103.7 FM Monterrey, Nuevo León - 0
+http://playerservices.streamtheworld.com/pls/FMTUAAC.pls
+#EXTINF:-1, XHFMTU 103.7 FM Monterrey, Nuevo León - 1
+http://playerservices.streamtheworld.com/pls/FMTU.pls
+#EXTINF:-1, XHFTI Vive FM 89.5 Fortín, Ver. - 0
+http://playerservices.streamtheworld.com/pls/TORREON.pls
+#EXTINF:-1, XHFTI Vive FM 89.5 Fortín, Ver. - 1
+http://provisioning.streamtheworld.com/pls/TORREON.pls
+#EXTINF:-1, XHFTI Vive FM 89.5 Fortín, Ver. - 2
+http://15233.live.streamtheworld.com/TORREON_SC
+#EXTINF:-1, XHCS 103.7 FM Veracruz, Ver. - 0
+http://playerservices.streamtheworld.com/pls/XHCSFMAAC.pls
+#EXTINF:-1, XHCS 103.7 FM Veracruz, Ver. - 1
+http://playerservices.streamtheworld.com/pls/XHCSFM.pls
+#EXTINF:-1, XHITS 106.1 FM Monterrey, Nuevo León - 0
+http://playerservices.streamtheworld.com/pls/HITS106AAC.pls
+#EXTINF:-1, XHITS 106.1 FM Monterrey, Nuevo León - 1
+http://playerservices.streamtheworld.com/pls/HITS106.pls
+#EXTINF:-1, XHCT 95.7 FM Cuernavaca, Morelos - 0
+http://playerservices.streamtheworld.com/pls/XHCTAAC.pls
+#EXTINF:-1, XHCT 95.7 FM Cuernavaca, Morelos - 1
+http://playerservices.streamtheworld.com/pls/XHCT.pls
+#EXTINF:-1, XHNQ 99.3 FM Acapulco, Guerrero - 0
+http://playerservices.streamtheworld.com/pls/XHNQAAC.pls
+#EXTINF:-1, XHNQ 99.3 FM Acapulco, Guerrero - 1
+http://playerservices.streamtheworld.com/pls/XHNQ.pls
+#EXTINF:-1, XHMI 100.3 FM Campeche, Campeche - 0
+http://playerservices.streamtheworld.com/pls/XHMIAAC.pls
+#EXTINF:-1, XHMI 100.3 FM Campeche, Campeche - 1
+http://playerservices.streamtheworld.com/pls/XHMI.pls
+#EXTINF:-1, XHSBT 99.5 FM San Buenaventura, Chihuahua - 0
+http://playerservices.streamtheworld.com/pls/XHSBTAAC.pls
+#EXTINF:-1, XHSBT 99.5 FM San Buenaventura, Chihuahua - 1
+http://playerservices.streamtheworld.com/pls/XHSBT.pls
+#EXTINF:-1, XHMA 101.1 FM Zapopan, Jalisco - 0
+http://playerservices.streamtheworld.com/pls/XHMAAAC.pls
+#EXTINF:-1, XHMA 101.1 FM Zapopan, Jalisco - 1
+http://playerservices.streamtheworld.com/pls/XHMA.pls
+#EXTINF:-1, XHGLX 91.7 FM Tijuana, BC - 0
+http://playerservices.streamtheworld.com/pls/XHGLXAAC.pls
+#EXTINF:-1, XHGLX 91.7 FM Tijuana, BC - 1
+http://playerservices.streamtheworld.com/pls/XHGLX.pls
+#EXTINF:-1, XHEXA 104.9 FM Ciudad de México, DF - 0
+http://playerservices.streamtheworld.com/pls/XHEXAAAC.pls
+#EXTINF:-1, XHEXA 104.9 FM Ciudad de México, DF - 1
+http://playerservices.streamtheworld.com/pls/XHEXA.pls
+#EXTINF:-1, XHSR 97.3 FN Monterrey, NL - 0
+http://playerservices.streamtheworld.com/pls/XHRSMTYFMAAC.pls
+#EXTINF:-1, XHSR 97.3 FN Monterrey, NL - 1
+http://playerservices.streamtheworld.com/pls/XHRSMTYFM.pls
+#EXTINF:-1, XHQT 102.7 FM Nogales, Sonora - 0
+http://playerservices.streamtheworld.com/pls/XHQTAAC.pls
+#EXTINF:-1, XHQT 102.7 FM Nogales, Sonora - 1
+http://playerservices.streamtheworld.com/pls/XHQT.pls
+#EXTINF:-1, XHJC 91.5 FM Mexicali, BC - 0
+http://playerservices.streamtheworld.com/pls/XHJCFMAAC.pls
+#EXTINF:-1, XHJC 91.5 FM Mexicali, BC - 1
+http://playerservices.streamtheworld.com/pls/XHJCFM.pls
+#EXTINF:-1, XHMD 104.1 FM León, Guanajuato - 0
+http://playerservices.streamtheworld.com/pls/XHMDFMAAC.pls
+#EXTINF:-1, XHMD 104.1 FM León, Guanajuato - 1
+http://playerservices.streamtheworld.com/pls/XHMDFM.pls
+#EXTINF:-1, XHOX 95.3 FM Tampico, Tamaulipas - 0
+http://playerservices.streamtheworld.com/pls/XHOXAAC.pls
+#EXTINF:-1, XHOX 95.3 FM Tampico, Tamaulipas - 1
+http://playerservices.streamtheworld.com/pls/XHOX.pls
+#EXTINF:-1, XHRIC 101.9 FM Poza Rica, Veracruz - 0
+http://playerservices.streamtheworld.com/pls/XHRICAAC.pls
+#EXTINF:-1, XHRIC 101.9 FM Poza Rica, Veracruz - 1
+http://playerservices.streamtheworld.com/pls/XHRIC.pls
+#EXTINF:-1, XHPS 93.3 FM Veracruz, eracruz - 0
+http://playerservices.streamtheworld.com/pls/XHPSFMAAC.pls
+#EXTINF:-1, XHPS 93.3 FM Veracruz, eracruz - 1
+http://playerservices.streamtheworld.com/pls/XHPSFM.pls
+#EXTINF:-1, XHADA 106.9 FM Ensenada, BC - 0
+http://playerservices.streamtheworld.com/pls/XHADAAAC.pls
+#EXTINF:-1, XHADA 106.9 FM Ensenada, BC - 1
+http://playerservices.streamtheworld.com/pls/XHADA.pls
+#EXTINF:-1, XHSE 100.1 FM Acapulco, Guerrero - 0
+http://playerservices.streamtheworld.com/pls/XHSEAAC.pls
+#EXTINF:-1, XHSE 100.1 FM Acapulco, Guerrero - 1
+http://playerservices.streamtheworld.com/pls/XHSE.pls
+#EXTINF:-1, XHVZ 97.3 FM Cuernavaca, Morelos - 0
+http://playerservices.streamtheworld.com/pls/XHVZAAC.pls
+#EXTINF:-1, XHVZ 97.3 FM Cuernavaca, Morelos - 1
+http://playerservices.streamtheworld.com/pls/XHVZ.pls
+#EXTINF:-1, XHENA 103.3 FM Ensenada, BC - 0
+http://playerservices.streamtheworld.com/pls/XHENAAAC.pls
+#EXTINF:-1, XHENA 103.3 FM Ensenada, BC - 1
+http://playerservices.streamtheworld.com/pls/XHENA.pls
+#EXTINF:-1, XHRO 95.5 FM Zapopan, Jalisco - 0
+http://playerservices.streamtheworld.com/pls/XHROAAC.pls
+#EXTINF:-1, XHRO 95.5 FM Zapopan, Jalisco - 1
+http://playerservices.streamtheworld.com/pls/XHRO.pls
+#EXTINF:-1, XHBH 98.5 FM Hermosillo, Sonora - 0
+http://playerservices.streamtheworld.com/pls/XHBHAAC.pls
+#EXTINF:-1, XHBH 98.5 FM Hermosillo, Sonora - 1
+http://playerservices.streamtheworld.com/pls/XHBH.pls
+#EXTINF:-1, XHSO 99.9 FM León, Guanajuato - 0
+http://playerservices.streamtheworld.com/pls/XHSOFMAAC.pls
+#EXTINF:-1, XHSO 99.9 FM León, Guanajuato - 1
+http://playerservices.streamtheworld.com/pls/XHSOFM.pls
+#EXTINF:-1, XHQW 90.1 FM Mérida, Yucatán - 0
+http://playerservices.streamtheworld.com/pls/XHQWAAC.pls
+#EXTINF:-1, XHQW 90.1 FM Mérida, Yucatán - 1
+http://playerservices.streamtheworld.com/pls/XHQW.pls
+#EXTINF:-1, XHVG FM 103.3 FM Mexicali, BC - 0
+http://playerservices.streamtheworld.com/pls/XHVGFMAAC.pls
+#EXTINF:-1, XHVG FM 103.3 FM Mexicali, BC - 1
+http://playerservices.streamtheworld.com/pls/XHVGFM.pls
+#EXTINF:-1, XHSRO 92.5 FM Monterrey, NL - 0
+http://playerservices.streamtheworld.com/pls/XHSROFMAAC.pls
+#EXTINF:-1, XHSRO 92.5 FM Monterrey, NL - 1
+http://playerservices.streamtheworld.com/pls/XHSROFM.pls
+#EXTINF:-1, XHNGS 96.7 FM Nogales, Sonora - 0
+http://playerservices.streamtheworld.com/pls/XHNGSAAC.pls
+#EXTINF:-1, XHNGS 96.7 FM Nogales, Sonora - 1
+http://playerservices.streamtheworld.com/pls/XHNGS.pls
+#EXTINF:-1, XHCJX  99.9 FM Bahía de Banderas, Nayarit - 0
+http://playerservices.streamtheworld.com/pls/XHCJXAAC.pls
+#EXTINF:-1, XHCJX  99.9 FM Bahía de Banderas, Nayarit - 1
+http://playerservices.streamtheworld.com/pls/XHCJX.pls
+#EXTINF:-1, XHJT 100.1 FM Tampico, Tamaulipas - 0
+http://playerservices.streamtheworld.com/pls/XHJTAAC.pls
+#EXTINF:-1, XHJT 100.1 FM Tampico, Tamaulipas - 1
+http://playerservices.streamtheworld.com/pls/XHJT.pls
+#EXTINF:-1, XHTIM 90.7 FM Tijuana, BC - 0
+http://playerservices.streamtheworld.com/pls/XHTIMAAC.pls
+#EXTINF:-1, XHTIM 90.7 FM Tijuana, BC - 1
+http://playerservices.streamtheworld.com/pls/XHTIM.pls
+#EXTINF:-1, XHPE 97.1 FM Torreón, Coahuila - 0
+http://playerservices.streamtheworld.com/pls/XHPEAAC.pls
+#EXTINF:-1, XHPE 97.1 FM Torreón, Coahuila - 1
+http://playerservices.streamtheworld.com/pls/XHPE.pls
+#EXTINF:-1, XHXP 106.5 FM Tuxtepec, Oaxaca - 0
+http://playerservices.streamtheworld.com/pls/XHXPAAC.pls
+#EXTINF:-1, XHXP 106.5 FM Tuxtepec, Oaxaca - 1
+http://playerservices.streamtheworld.com/pls/XHXP.pls
+#EXTINF:-1, XHVE 100.5 FM Veracruz, Veracruz - 0
+http://playerservices.streamtheworld.com/pls/XHVEFMAAC.pls
+#EXTINF:-1, XHVE 100.5 FM Veracruz, Veracruz - 1
+http://playerservices.streamtheworld.com/pls/XHVEFM.pls
+#EXTINF:-1, Hojarasca Radio
+http://streaming.radionomy.com/LatvianDanceMusic?lang=en-US&appName=iTunes.m3u
+#EXTINF:-1, XEJP 93.7 FM Mecico City, DF - 0
+http://playerservices.streamtheworld.com/pls/XEJP_FMAAC.pls
+#EXTINF:-1, XEJP 93.7 FM Mecico City, DF - 1
+http://playerservices.streamtheworld.com/pls/XEJP_FM.pls
+#EXTINF:-1, XEJP 93.7 FM Mecico City, DF - 2
+http://17813.live.streamtheworld.com/XEJP_FMAAC.aac
+#EXTINF:-1, XEPRS 1090 AM Rosarito, B.C. - 0
+http://playerservices.streamtheworld.com/pls/XPRSAMAAC.pls
+#EXTINF:-1, XEPRS 1090 AM Rosarito, B.C. - 1
+http://playerservices.streamtheworld.com/pls/XPRSAM.pls
+#EXTINF:-1, XEPRS 1090 AM Rosarito, B.C. - 2
+http://19213.live.streamtheworld.com/XPRSAMAAC.aac
+#EXTINF:-1, XEAW 1280 AM Guadalupe, NL - 0
+http://playerservices.streamtheworld.com/pls/XEAWAM.pls
+#EXTINF:-1, XEAW 1280 AM Guadalupe, NL - 1
+http://provisioning.streamtheworld.com/pls/XEAWAM.pls
+#EXTINF:-1, XHXT 107.3 FM Tepic, Nayarit. - 0
+http://playerservices.streamtheworld.com/pls/XHXTFM.pls
+#EXTINF:-1, XHXT 107.3 FM Tepic, Nayarit. - 1
+http://provisioning.streamtheworld.com/pls/XHXTFM.pls
+#EXTINF:-1, Sintonia X-OYMEtu radio - 0
+http://frecuencia.x-oymetu.com/tunein/xoymetu.pls
+#EXTINF:-1, Sintonia X-OYMEtu radio - 1
+http://frecuencia.x-oymetu.com/tunein/xoymetu.asx
+#EXTINF:-1, XEX TDW 730 Khz. México, D.F. - 0
+http://playerservices.streamtheworld.com/pls/TDW730AMAAC.pls
+#EXTINF:-1, XEX TDW 730 Khz. México, D.F. - 1
+http://playerservices.streamtheworld.com/pls/TDW730AM.pls
+#EXTINF:-1, XEX TDW 730 Khz. México, D.F. - 2
+http://17963.live.streamtheworld.com/TDW730AMAAC.aac
+#EXTINF:-1, XEPE 1700 AM Tecate, BC  (San Diego, CA area) - 0
+http://playerservices.streamtheworld.com/pls/XEPNAMAAC.pls
+#EXTINF:-1, XEPE 1700 AM Tecate, BC  (San Diego, CA area) - 1
+http://playerservices.streamtheworld.com/pls/XEPNAM.pls
+#EXTINF:-1, XEPE 1700 AM Tecate, BC  (San Diego, CA area) - 2
+http://17833.live.streamtheworld.com:3690/XEPNAMAAC_SC
+#EXTINF:-1, La Tremenda AM - XESDD
+http://67.212.189.122:8272/stream?type=.mp3
+#EXTINF:-1, Grupo Radio Centro - El Fonografo - XECMQ - 0
+http://playerservices.streamtheworld.com/pls/XEJP_AMAAC.pls
+#EXTINF:-1, Grupo Radio Centro - El Fonografo - XECMQ - 1
+http://playerservices.streamtheworld.com/pls/XEJP_AM.pls
+#EXTINF:-1, Grupo Radio Centro - El Fonografo - XECMQ - 2
+http://provisioning.streamtheworld.com/pls/XEJP_AM.pls
+#EXTINF:-1, Grupo Radio Centro - El Fonografo - XECMQ - 3
+http://17403.live.streamtheworld.com/XEJP_AMAAC.aac
+#EXTINF:-1, Grupo Radio Centro - El Fonografo - XECMQ - 4
+http://17403.live.streamtheworld.com:3690/XEJP_AMAAC.aac
+#EXTINF:-1, Grupo Radio Centro - El Fonografo - XECMQ - 5
+http://14613.live.streamtheworld.com/XEJP_AM.mp3
+#EXTINF:-1, XEPJ Frecuencia Deportiva 1370 AM Guadalajara, Jal.
+http://stream2.dyndns.org:8000/xepj.mp3/
+#EXTINF:-1, XEAAA 880 AM Santa Ana Tepetitlán, Zapopan, Jalisco
+http://streaming.promomedios.com:8000/;stream.mp3
+#EXTINF:-1, XHBIO 92.3 FM Guadalajara
+http://streaming1.promomedios.com:8004/;
+#EXTINF:-1, XHCDS 94.5 FM Ciudad Delicias, Chihuahua
+http://radio.promosat.com:8122/;
+#EXTINF:-1, XHGEO 91.5 FM Guadalajara
+http://streaming.promomedios.com:8006/;
+#EXTINF:-1, XECL 990 AM Mexicali, Baja California
+http://sts.aplradiorama.mx/xecl.mp3/;stream/1
+#EXTINF:-1, XHMSL 101.3 FM Los Mochis, Sinaloa
+http://149.202.198.86:1031/;
+#EXTINF:-1, XEDA 1290 AM La Magdalena Atlazol, Mexico City
+http://www.tuasesorweb.com:8050/;
+#EXTINF:-1, XEOC 560 AM Mexico City, DF - 0
+http://163.182.175.106:8089/;stream.mp3
+#EXTINF:-1, XEOC 560 AM Mexico City, DF - 1
+http://163.182.175.106:8089/;
+#EXTINF:-1, XHOF 105.7 FM Ciudad de México
+http://imer-edge1.cdnstream.com/1502_64
+#EXTINF:-1, Radio Metropoli 1150 AM - 0
+http://noti-notisistema.netdna-ssl.com/radioenvivo/rm_playlist.pls
+#EXTINF:-1, Radio Metropoli 1150 AM - 1
+http://206.190.133.196:7088/stream
+#EXTINF:-1, Formula Melodica 97.9 FM - 0
+http://noti-notisistema.netdna-ssl.com/radioenvivo/fm_playlist.pls
+#EXTINF:-1, Formula Melodica 97.9 FM - 1
+http://206.190.133.196:7085/stream
+#EXTINF:-1, Radio Vital 1310 AM - 0
+http://noti-notisistema.netdna-ssl.com/radioenvivo/rv_playlist.pls
+#EXTINF:-1, Radio Vital 1310 AM - 1
+http://206.190.133.196:7097/stream
+#EXTINF:-1, Señal 90
+http://206.190.133.196:7042/;
+#EXTINF:-1, XEQ 940 AM - Mexico City, Mexico - 0
+http://playerservices.streamtheworld.com/pls/BESAMEAAC.pls
+#EXTINF:-1, XEQ 940 AM - Mexico City, Mexico - 1
+http://playerservices.streamtheworld.com/pls/BESAME.pls
+#EXTINF:-1, XEQ 940 AM - Mexico City, Mexico - 2
+http://14073.live.streamtheworld.com/BESAMEAAC
+#EXTINF:-1, Radio Union Adventista - 0
+http://playerservices.streamtheworld.com/pls/SAM10AAC064.pls
+#EXTINF:-1, Radio Union Adventista - 1
+http://provisioning.streamtheworld.com/pls/SAM10AAC064.pls
+#EXTINF:-1, Radio Union Adventista - 2
+http://14123.live.streamtheworld.com/SAM10AAC064.aac
+#EXTINF:-1, Radio Latin Jazz - 0
+http://server3.sit-mexico.com:8114/;
+#EXTINF:-1, Radio Latin Jazz - 1
+http://96.56.32.46:8002/listen.pls
+#EXTINF:-1, XHLI 94.7 FM / XELI 1580 AM Chilpancingo, Guerrero
+http://www.tuasesorweb.com:8010/;
+#EXTINF:-1, Radio Calcetin
+http://67.159.10.149:8008/;
+#EXTINF:-1, XHLG 98.3 FM León, Guanajuato
+http://radio.promosat.com:8104/;
+#EXTINF:-1, Radio Pepito - 0
+http://usa2.fastcast4u.com/proxy/radiopepito?mp=/1
+#EXTINF:-1, Radio Pepito - 1
+http://usa2.fastcast4u.com:3236/1/
+#EXTINF:-1, Radio Salem Cancún
+http://167.114.117.133:8241/stream/1/
+#EXTINF:-1, XHAP 96.9 FM  Ciudad Obregon, Sonora
+http://198.27.64.106:3070/;stream.mp3
+#EXTINF:-1, XHOS 105.7 FM Ciudad Obregón, Sonora
+http://50.7.29.178:9114/;
+#EXTINF:-1, XHM 88.9 FM Mexico City, DF - 0
+http://playerservices.streamtheworld.com/pls/XHMFMAAC.pls
+#EXTINF:-1, XHM 88.9 FM Mexico City, DF - 1
+http://playerservices.streamtheworld.com/pls/XHMFM.pls
+#EXTINF:-1, XHM 88.9 FM Mexico City, DF - 2
+http://19813.live.streamtheworld.com/.aac
+#EXTINF:-1, XERC 97.7 FM Grupo Radio Centro Mexico, DF - 0
+http://playerservices.streamtheworld.com/pls/XERC_FMAAC.pls
+#EXTINF:-1, XERC 97.7 FM Grupo Radio Centro Mexico, DF - 1
+http://playerservices.streamtheworld.com/pls/XERC_FM.pls
+#EXTINF:-1, XERC 97.7 FM Grupo Radio Centro Mexico, DF - 2
+http://17813.live.streamtheworld.com/XERC_FMAAC.aac
+#EXTINF:-1, XERC 97.7 FM Grupo Radio Centro Mexico, DF - 3
+http://14543.live.streamtheworld.com:3690/XERC_FMAAC_SC
+#EXTINF:-1, XEN Grupo Radio Centro - La 69 690 AM - 0
+http://playerservices.streamtheworld.com/pls/XEN_AMAAC.pls
+#EXTINF:-1, XEN Grupo Radio Centro - La 69 690 AM - 1
+http://playerservices.streamtheworld.com/pls/XEN_AMAAC.pls
+#EXTINF:-1, XEN Grupo Radio Centro - La 69 690 AM - 2
+http://17403.live.streamtheworld.com/XEN_AMAAC.aac
+#EXTINF:-1, XEQR 107.3 FM México, D.F - 0
+http://playerservices.streamtheworld.com/pls/XEQR_FMAAC.pls
+#EXTINF:-1, XEQR 107.3 FM México, D.F - 1
+http://playerservices.streamtheworld.com/pls/XEQR_FM.pls
+#EXTINF:-1, XEQR 107.3 FM México, D.F - 2
+http://20283.live.streamtheworld.com:3690/XEQR_FMAAC_SC
+#EXTINF:-1, Radio Centro 107.3 HD2 - 0
+http://playerservices.streamtheworld.com/pls/XEQR_AMAAC.pls
+#EXTINF:-1, Radio Centro 107.3 HD2 - 1
+http://playerservices.streamtheworld.com/pls/XEQR_AM.pls
+#EXTINF:-1, Radio Centro 107.3 HD2 - 2
+http://17403.live.streamtheworld.com/XEQR_AMAAC.aac
+#EXTINF:-1, XHCAH 1350 AM /  89.1 FM Cacahoatán, Chiapas
+http://imer-edge1.cdnstream.com/1514_64?cb=523001.mp3
+#EXTINF:-1, XERED 1110 AM / 88.1 HD2 Tlalnepantla, State of Mexico - 0
+http://playerservices.streamtheworld.com/pls/XERED_AMAAC.pls
+#EXTINF:-1, XERED 1110 AM / 88.1 HD2 Tlalnepantla, State of Mexico - 1
+http://playerservices.streamtheworld.com/pls/XERED_AM.pls
+#EXTINF:-1, XERED 1110 AM / 88.1 HD2 Tlalnepantla, State of Mexico - 2
+http://17403.live.streamtheworld.com:3690/XERED_AMAAC_SC
+#EXTINF:-1, XHFO 92.1 FM, D.F. - 0
+http://playerservices.streamtheworld.com/pls/XHFO_FMAAC.pls
+#EXTINF:-1, XHFO 92.1 FM, D.F. - 1
+http://playerservices.streamtheworld.com/pls/XHFO_FM.pls
+#EXTINF:-1, XHFO 92.1 FM, D.F. - 2
+http://18323.live.streamtheworld.com/XHFO_FMAAC.aac
+#EXTINF:-1, XHFAJ 91.3 FM Mexico, DF  -  Alfa Radio - 0
+http://playerservices.streamtheworld.com/pls/XHFAJ_FMAAC.pls
+#EXTINF:-1, XHFAJ 91.3 FM Mexico, DF  -  Alfa Radio - 1
+http://playerservices.streamtheworld.com/pls/XHFAJ_FMAAC.pls
+#EXTINF:-1, XHFAJ 91.3 FM Mexico, DF  -  Alfa Radio - 2
+http://18533.live.streamtheworld.com:3690/XHFAJ_FMAAC_SC
+#EXTINF:-1, Hits and Mix - 0
+http://streaming.radionomy.com/HITSANDMIX?lang=en-US&appName=iTunes.m3u
+#EXTINF:-1, Hits and Mix - 1
+http://listen.radionomy.com/hitsandmix.m3u
+#EXTINF:-1, Hits and Mix - 2
+http://listen.radionomy.com/hitsandmix.m3u
+#EXTINF:-1, Hits and Mix - 3
+http://listen.radionomy.com/hitsandmix.m3u
+#EXTINF:-1, Hits and Mix - 4
+http://listen.radionomy.com/hitsandmix.m3u
+#EXTINF:-1, XEDB 101.5  FM Tonalá, Chiapas
+http://216.55.186.61:8035/stream
+#EXTINF:-1, XHTS 102.9 FM Veracruz, Veracruz
+http://cdn.centrocibernetico.com:28000/;stream.nsv
+#EXTINF:-1, XHBD 104.9 FM Xalapa, Ver.
+http://ssc.cnwks.ws:8365/;
+#EXTINF:-1, XEUN 96.1 FM Mexico City, DF Mexico
+http://server1.usatelk.com:27547/;
+#EXTINF:-1, XEUN 860 AM Mexico City, DF Mexico
+http://server1.usatelk.com:25224/;
+#EXTINF:-1, XEHS 540 AM / 90.9 FM - Los Mochis, Sinaloa
+http://167.114.116.223:9370/;stream/1
+#EXTINF:-1, XHESA 101.7 FM - Culiacán, Sinaloa
+http://167.114.116.223:1082/;
+#EXTINF:-1, XHHW 102.7 FM Mazatlán
+http://167.114.116.223:1093/;stream/1
+#EXTINF:-1, XHERJ 107.5 FM Mazatlán,  Sinaloa
+http://audioout.gvstream.net/gpm-rj.mp3
+#EXTINF:-1, XHECQ 104.1 FM Culiacán,  Sinaloa (SI)
+http://audioout.gvstream.net/gpm-cq.aac
+#EXTINF:-1, XHCAA 100.9 FM Aguascalientes, Ags
+http://tunein.gvstream.net:9036/;
+#EXTINF:-1, XHPLA 91.3 FM  Aguascalientes, Aguascalientes, Mexico
+http://tunein.gvstream.net:9040/;
+#EXTINF:-1, XHEML 98.3 FM Apatzingán, Michoacán
+http://167.114.116.223:6784/;
+#EXTINF:-1, XHK-FM 90.9 FM Nuevo Laredo, TAM
+http://216.251.89.229:9000/;
+#EXTINF:-1, XHVER Bella Música 90.9 Veracruz, Ver.
+http://streamingenmexico.com:7062/;
+#EXTINF:-1, XEEP 1060 AM Mexico City, DF - Radio Educación - 0
+http://play.gvstream.net/radio-educa/default.stream/playlist.m3u8
+#EXTINF:-1, XEEP 1060 AM Mexico City, DF - Radio Educación - 1
+http://74.124.214.83:9998/;
+#EXTINF:-1, XHAVR 89.1 FM Veracruz, Ver. - Radio Fórmula Veracruz
+http://201.148.65.132:8000/veracruz1
+#EXTINF:-1, XHTF 106.1 FM Veracruz, Ver. - Fórmula Veracruz
+http://201.148.65.132:8000/veracruz2
+#EXTINF:-1, XHTIX 100.1 FM Temixco, Morelos - 0
+http://149.202.198.86:9998/;
+#EXTINF:-1, XHTIX 100.1 FM Temixco, Morelos - 1
+http://node-03.strongradiohost.com/u89a46x9gm5tv
+#EXTINF:-1, XHMPM 98.9 FM - Los Mochis, Sinaloa  - EXA
+http://149.202.198.86:1062/;
+#EXTINF:-1, XHGSE 98.1 FM - Guasave, Sinaloa - Exa
+http://192.99.16.17:7841/stream
+#EXTINF:-1, XHZN 104.5 FM Celaya, Guanajuato -  Exa
+http://144.217.67.108:9148/;
+#EXTINF:-1, XHVI 99.1 FM San Juan del Río, Querétaro
+http://192.99.2.48:8352/;
+#EXTINF:-1, XHOPE 89.7 FM Mazatlán, Sinaloa
+http://audioout.gvstream.net/gpm-exa897.mp3
+#EXTINF:-1, XHAGR 105.5 FM XEAGR 810 AM Acuapulco, Guerrero
+http://201.148.65.132:8000/acapulco1
+#EXTINF:-1, XHACA 106.3 FM Acapulco, Guerrero
+http://201.148.65.132:8000/acapulco2
+#EXTINF:-1, XHCVC 106.9 FM Cuernavaca, Morelos
+http://201.148.65.132:8000/cuernavaca
+#EXTINF:-1, XHEDT 93.3 FM Toluca, State of Mexico
+http://radio.spiritmedia.mx:8000/xhedt
+#EXTINF:-1, XHMLO 104.9 FM Malinalco, State of Mexico
+http://radio.spiritmedia.mx:8000/xhmlo
+#EXTINF:-1, XHCME 103.7 FM Melchor Ocampo, State of Mexico - - La jefa
+http://radio.spiritmedia.mx:8000/xhcme
+#EXTINF:-1, XHENX 104.3 FM Mazatlán, Sinaloa
+http://radio.spiritmedia.mx:8000/xhenx
+#EXTINF:-1, XHVV 101.7 FM Tuxtla Gutiérrez, Chiapas,
+http://streamingenmexico.com:7030/;
+#EXTINF:-1, XHLI 98.3 FM Villahermosa, Tabasco
+http://streamingenmexico.com:7056/;
+#EXTINF:-1, XHEDO 94.1 FM Puerto Escondido, Oaxaca
+http://192.99.14.225:9830/;
+#EXTINF:-1, XHEFG 89.1 FM Celaya, Guanajuato
+http://144.217.67.108:8018/;
+#EXTINF:-1, XHHTY 107.1 FM Tlapacoyan, Veracruz
+http://192.99.16.17:1632/;
+#EXTINF:-1, XHVJS 103.3 FM Cd. Obregón, Sonora
+http://50.7.29.178:8199/;
+#EXTINF:-1, XHJY 101.5 FM Autlán de Navarro, Jalisco
+http://72.47.252.150:8020/;
+#EXTINF:-1, XHDGO 103.7 FM Durango, Durango
+http://ignacio.serverroom.us:9000/;
+#EXTINF:-1, XHAGT 93.7 FM Aguascalientes, Aguascalientes
+http://tunein.gvstream.net:9232/;
+#EXTINF:-1, XEUU 1080 AM / XHUU 92.5 FM Colima, Colima
+http://72.29.70.22:8102/;
+#EXTINF:-1, XHEMA 107.9 FM Fresnillo, Zacatecas
+http://live.zuperdns.net:8120/;
+#EXTINF:-1, XHSL 99.1 FM Piedras Negras, Coahuila
+http://192.187.112.50:8204/;
+#EXTINF:-1, XHGY 100.7 FM Tehuacan, Puebla
+http://www.pump.com.mx:8030/;
+#EXTINF:-1, XHZB 101.7 FM Oaxaca, Oaxaca
+http://ororadio.serverroom.us:9142/;
+#EXTINF:-1, XHOU 105.3 FM Huajuapan de León, Oaxaca
+http://50.7.29.178:9992/;
+#EXTINF:-1, XHAWD 107.1  FM San Luis Potosí, San Luis Potosí,
+http://158.69.225.238:4187/Live
+#EXTINF:-1, XHEMAX 105.3 FM Tecomán, CL - 0
+http://playerservices.streamtheworld.com/pls/A1061AAC.pls
+#EXTINF:-1, XHEMAX 105.3 FM Tecomán, CL - 1
+http://playerservices.streamtheworld.com/pls/A1061.pls
+#EXTINF:-1, XHEMAX 105.3 FM Tecomán, CL - 2
+http://17843.live.streamtheworld.com/A1061AAC.aac
+#EXTINF:-1, XHZZZ 93.7 FM Manzanillo, CL - 0
+http://playerservices.streamtheworld.com/pls/A937AAC.pls
+#EXTINF:-1, XHZZZ 93.7 FM Manzanillo, CL - 1
+http://playerservices.streamtheworld.com/pls/A937.pls
+#EXTINF:-1, XHZZZ 93.7 FM Manzanillo, CL - 2
+http://14023.live.streamtheworld.com/A937AAC.aac
+#EXTINF:-1, XHERL 98.9 FM Colima, CL - 0
+http://playerservices.streamtheworld.com/pls/A989AAC.pls
+#EXTINF:-1, XHERL 98.9 FM Colima, CL - 1
+http://playerservices.streamtheworld.com/pls/A989.pls
+#EXTINF:-1, XHERL 98.9 FM Colima, CL - 2
+http://14643.live.streamtheworld.com/A989AAC.aac
+#EXTINF:-1, XEHR 1090 AM Puebla, Puebla - 0
+http://184.172.111.126:8000/hr-mp3
+#EXTINF:-1, XEHR 1090 AM Puebla, Puebla - 1
+http://184.172.111.126:8000/hr-acc.aac
+#EXTINF:-1, XEPOP 1120 AM San Jose Xilotzingo, Puebla
+http://184.172.111.126:8000/formula-mp3
+#EXTINF:-1, XEPUE 1210 AM Puebla, Puebla
+http://184.172.111.126:8000/mexicana-mp3
+#EXTINF:-1, XHNP 89.3 FM Puebla, Puebla
+http://184.172.111.126:8000/grupera-mp3
+#EXTINF:-1, XHJE 94.1 FM Puebla, Puebla
+http://184.172.111.126:8000/mas94-mp3
+#EXTINF:-1, XHMAXX 98.1 FM San Martín Texmelucan, Puebla
+http://184.172.111.126:8000/stereomax-mp3
+#EXTINF:-1, XHVP 101.3 FM Atlixco, Puebla
+http://184.172.111.126:8000/movidita-mp3
+#EXTINF:-1, XHETE 106.3 FM Tehuacán, Puebla
+http://184.172.111.126:8000/puntodigital-mp3
+#EXTINF:-1, XHVC 102.1 FM Puebla, Puebla
+http://184.173.22.60:9081/live.mp3
+#EXTINF:-1, nonsolo
+http://stream.radio.co/sad1e2c386/listen
+#EXTINF:-1, SalsaMexico - 0
+http://colombiawebs.com.co:8106/;
+#EXTINF:-1, SalsaMexico - 1
+http://192.99.18.107:8106/;
+#EXTINF:-1, RTV México - 0
+http://stream.miradio.in:2199/tunein/rtv2.pls
+#EXTINF:-1, RTV México - 1
+http://stream.miradio.in:2199/tunein/rtv2.ram
+#EXTINF:-1, RTV México - 2
+http://184.154.45.106:8104/live
+#EXTINF:-1, XENK 620 AM Mexico City, DF
+http://s4.mexside.net:2102/;
+#EXTINF:-1, XHLY 92.3 FM Morelia, Michoacán
+http://s4.mexside.net:7040/;
+#EXTINF:-1, XHCAL 94.5 FM Calpulalpan, Tlaxcala - 0
+http://198.50.152.227:8014/;
+#EXTINF:-1, XHCAL 94.5 FM Calpulalpan, Tlaxcala - 1
+http://198.50.152.227:8014/;stream/1
+#EXTINF:-1, XHTD 101.7 FM Coatzacoalcos, Ver
+http://streamingenmexico.com:7008/;
+#EXTINF:-1, Tu Musica FM Tijuana, BC
+http://192.254.193.215:8007/;
+#EXTINF:-1, Tu Musica FM Con Banda Tijuana, BC
+http://192.254.193.215:8011/;
+#EXTINF:-1, Super Radio Azul - Tijuana, BC
+http://192.254.193.215:8009/;
+#EXTINF:-1, XHLIA 93 1 FM Morelia Michoacan
+http://www.tuasesorweb.com:8000/;
+#EXTINF:-1, XHESL 102.1 FM Soledad Diez Gutiérrez/San Luis Potosí, San Luis Potosí
+http://158.69.253.153:5883/stream
+#EXTINF:-1, XHSH-FM 95.3 FM Ciudad de México, DF - 0
+http://playerservices.streamtheworld.com/pls/XHSHFMAAC.pls
+#EXTINF:-1, XHSH-FM 95.3 FM Ciudad de México, DF - 1
+http://playerservices.streamtheworld.com/pls/XHSHFM.pls
+#EXTINF:-1, XHSH-FM 95.3 FM Ciudad de México, DF - 2
+http://18323.live.streamtheworld.com/XHSHFMAAC.aac
+#EXTINF:-1, XHTOM 102.1 FM Toluca, Mexico
+http://radio.spiritmedia.mx:8000/xhtom
+#EXTINF:-1, Radio La Luz del Mundo - Guadalajara, Jalisco, México
+http://144.217.67.108:9281/;stream.mp3
+#EXTINF:-1, Miled Music - Latina
+http://192.99.34.205:8166/stream
+#EXTINF:-1, Radio Morir - 0
+http://giss.tv:8000/radiomorir.mp3
+#EXTINF:-1, Radio Morir - 1
+http://78.129.224.15:22440/;stream.mp3
+#EXTINF:-1, Panda FM - 0
+http://tunein.streamguys1.com/pandafm.mp3
+#EXTINF:-1, Panda FM - 1
+https://streaming.shoutcast.com/pandafm
+#EXTINF:-1, Panda Pop Radio - 0
+http://tunein.streamguys1.com/pandapopradio.mp3
+#EXTINF:-1, Panda Pop Radio - 1
+https://streaming.shoutcast.com/pandapopradio
+#EXTINF:-1, Tempo-Radio - Relax Channel
+http://www.tempo-radio.com/status/tempo/listen.pls
+#EXTINF:-1, Radio Mexico - 0
+http://209.42.195.216:9892/;
+#EXTINF:-1, Radio Mexico - 1
+http://192.187.112.50:2199/tunein/radiomexico.pls
+#EXTINF:-1, XEUR 1530 AM Mexico City, DF
+http://stream2.dyndns.org:8000/xeur.mp3
+#EXTINF:-1, XECO 1380 AM Mexico City, DF
+http://stream2.dyndns.org:8000/xeco.mp3/
+#EXTINF:-1, XHMC 104.9 FM Mexicali, Baja California
+http://stream2.dyndns.org:8000/xhmc.mp3
+#EXTINF:-1, XHMMF 92.3 FM Mexicali, BN
+http://stream2.dyndns.org:8000/xhmmf.mp3
+#EXTINF:-1, XHSU 105.9 FM XESU 790 AM Mexicali
+http://stream2.dyndns.org:8000/xhsu.mp3
+#EXTINF:-1, XHCBR 100.1 FM Caborca Sonora Mexico - 0
+http://199.15.251.230:8039/;stream.mp3
+#EXTINF:-1, XHCBR 100.1 FM Caborca Sonora Mexico - 1
+http://199.15.251.230:8039/stream
+#EXTINF:-1, RedCM - Red Católica en Monterrey
+http://scapp.smartcast.com.mx/p/641/sp/64100/playManifest/entryId/0_g83fosgs/format/applehttp/protocol/http/uiConfId/11632061/a.m3u8
+#EXTINF:-1, RedCM Musical - Red Católica en Monterrey
+http://scapp.smartcast.com.mx/p/641/sp/64100/playManifest/entryId/0_kqa33wop/format/applehttp/protocol/http/uiConfId/11632061/a.m3u8
+#EXTINF:-1, XHKV 88.5 FM / XEKV 740 AM  Villahermosa, Tabasco
+http://192.99.44.11:9935/;
+#EXTINF:-1, XETAC 1000 AM / XHTAC 91.5 FM Tapachula, Chiapas,
+http://144.217.67.108:9248/;
+#EXTINF:-1, XHOE 95.5 FM Santiago de Querétaro, Querétaro
+http://144.217.67.108:9260/;
+#EXTINF:-1, XHCTS 95.7 FM Comitán de Domínguez, Chiapas
+http://144.217.67.108:8046/;stream/1
+#EXTINF:-1, XHCQ 98.5 FM Tuxtla, Gutiérrez
+http://streamingenmexico.com:7010/;
+#EXTINF:-1, XHNNO 99.9 FM Agua Prieta, Sonora
+http://zer.zuperdns.net:9990/;
+#EXTINF:-1, XHTEC  94.9 FM Frecuencia Tec
+http://198.16.70.98:8155/live
+#EXTINF:-1, XHUDG 104.3 FM Guadalajara, Jalisco
+http://guadalajara.radioudg.okhosting.com:8000/;
+#EXTINF:-1, XHUGC 104.7 FM Colotlán, Jalisco - 0
+http://148.202.77.155:8000/;
+#EXTINF:-1, XHUGC 104.7 FM Colotlán, Jalisco - 1
+http://148.202.77.155:8000/;stream/1
+#EXTINF:-1, XHUM 92.7 FM Valladolid, Yucatán
+http://5.79.86.158:8209/listen.pls
+#EXTINF:-1, XHMH 95.3 FM Mérida, YC
+http://5.79.86.158:8197/listen.pls
+#EXTINF:-1, XEUP  96.3 FM Tizimin, YC
+http://5.79.86.158:8203/listen.pls
+#EXTINF:-1, XHMQM 90.9 FM Mérida, YC
+http://5.79.86.158:8185/listen.pls
+#EXTINF:-1, XHUL 96.9 FM Mérida, YC
+http://5.79.86.158:8179/listen.pls
+#EXTINF:-1, XHPYM 103.1 FM Yucatan, YC
+http://5.79.86.158:8191/listen.pls
+#EXTINF:-1, Radio CROC
+http://streaming.radiocroc.com:8000/live
+#EXTINF:-1, XEC 1310 AM Tijuana, BC
+http://192.187.112.50:8218/;
+#EXTINF:-1, XHRASA  94.1 FM San Luis Potosi, San Luis Potosi - 0
+http://s4.mexside.net:2098/;
+#EXTINF:-1, XHRASA  94.1 FM San Luis Potosi, San Luis Potosi - 1
+http://s4.mexside.net:2098/;stream.mp3
+#EXTINF:-1, XEZJ 2480 AM San Miguel, Jalisco
+http://192.99.16.17:3361/;
+#EXTINF:-1, Estereo Catolica
+http://stream77.estereocatolica.com:8026/;
+#EXTINF:-1, XHAMO 98.9 FM Irapuato, Guanajuato
+http://192.187.112.50:8359/;
+#EXTINF:-1, XHANV 90.9 FM Autlan de Navarro, Jalisco
+http://radio.promosat.com:8128/;
+#EXTINF:-1, XHNUC 105.1 FM Cancún, Quintana Roo
+http://184.154.45.106:8414/live
+#EXTINF:-1, Genesis Disco
+http://shoutcast.uplinkmx.com:8086/;
+#EXTINF:-1, XHEPS 102.1 FM Guaymas, Sonora
+http://173.244.209.219:8438/;
+#EXTINF:-1, XECN 88.5 FM Irapuato, Guanajuato - 0
+http://192.187.112.50:8174/;
+#EXTINF:-1, XECN 88.5 FM Irapuato, Guanajuato - 1
+http://192.187.112.50:8174/;stream.mp3
+#EXTINF:-1, Multi Anime Radio
+http://67.20.61.70:8301/;stream.mp3
+#EXTINF:-1, Radio Latina - radiolatina.org
+http://s1.xps-ip.eu:8050/;
+#EXTINF:-1, Radio Tepejillo
+http://server3.sit-mexico.com:8218/stream
+#EXTINF:-1, XHEPC 89.9 FM Zacatecas, Zacatecas
+http://cast.zuperdns.net:8400/;stream/1
+#EXTINF:-1, XEZF 850 AM Mexicali, Baja California
+http://stream2.dyndns.org:8000/xezf.mp3
+#EXTINF:-1, liveatc.net - MMMX Approach
+http://yyz.liveatc.net/mmmx2
+#EXTINF:-1, Tempo-Radio - Club Channel - 0
+http://stream2.tempo-radio.com:8730/192
+#EXTINF:-1, Tempo-Radio - Club Channel - 1
+http://54.38.159.96:8730/320
+#EXTINF:-1, XEWW 690 AM Rosarito, BC - 0
+http://playerservices.streamtheworld.com/pls/WRADIOAAC.pls
+#EXTINF:-1, XEWW 690 AM Rosarito, BC - 1
+http://playerservices.streamtheworld.com/pls/WRADIO.pls
+#EXTINF:-1, HITS AND MIX RADIO
+http://stream.zenolive.com/4rd0aff2e4duv
+#EXTINF:-1, CANCÚN FM
+http://ample-zeno-10.radiojar.com/678c0ra8vs5tv
+#EXTINF:-1, XLNC1  Tijuana, BC (web radio)
+http://edge1-a.exa.live365.net/a08040
+#EXTINF:-1, Radio Anime Nexus
+http://radio.animenexus.mx:8000/animenexus
+#EXTINF:-1, XEDF 1500 AM Mexico City, DF
+http://wms10.tecnoxia.com/radiofaudio/RF.AM1500/playlist.m3u8
+#EXTINF:-1, XERFR 970 AM Mexico City, DF
+http://wms10.tecnoxia.com/radiofaudio/RF.AM970/playlist.m3u8
+#EXTINF:-1, XERFR 103.3 FM Mexico City, DF
+http://wms10.tecnoxia.com/radiofaudio/RF.FM103.3/playlist.m3u8
+#EXTINF:-1, XEDF 104.1 FM Mexico City, DF
+http://wms10.tecnoxia.com/radiofaudio/RF.FM104.1/playlist.m3u8
+#EXTINF:-1, XEAI 1470 AM Mexico City, DF
+http://wms10.tecnoxia.com/radiofaudio/RF.AM1470/playlist.m3u8
+#EXTINF:-1, XHESOL 103.9 FM Cuidad Hidalgo, Michoacán
+http://72.47.252.150:8002/;
+#EXTINF:-1, XEAD 101.9 FM Guadalajara - 0
+http://noti-notisistema.netdna-ssl.com/radioenvivo/bo_playlist.pls
+#EXTINF:-1, XEAD 101.9 FM Guadalajara - 1
+https://noti-notisistema.netdna-ssl.com/radioenvivo/bo_playlist.pls
+#EXTINF:-1, Frecuencia Libre 99.1 - 0
+http://frecuencialibre.info:8000/stream
+#EXTINF:-1, Frecuencia Libre 99.1 - 1
+https://stream.frecuencialibre.info/stream
+#EXTINF:-1, XHBI 88.7 FM Aguascalientes, Aguascalientes,
+http://201.159.48.107:2860/
+#EXTINF:-1, Mix Hits Radio México
+http://streaming.wp-m.com:9766/;
+#EXTINF:-1, INFINITO MÁGICO
+http://96.31.83.86:8010/;
+#EXTINF:-1, XEEW 97.7 FM - Matamoros, Tamaulipas
+http://radio.alphamx.net:8104/;
+#EXTINF:-1, XHEEM 94.5 FM Ríoverde, San Luis Potosí
+http://hd.digitalradio.mx:6011/;
+#EXTINF:-1, código ciudad de méxico
+http://189.240.62.237:9000/;
+#EXTINF:-1, G3 Radio * Música sin Limite
+http://g3servinet.dyndns.info:8000/;
+#EXTINF:-1, Rock 101  - Radio Alicia
+http://s2.radio.co/sa199443d4/listen
+#EXTINF:-1, XHHX 101.7 FM Cd Obregon Mx
+http://50.7.29.178:9573/;
+#EXTINF:-1, XHSAV 92.7 FM San Andrés Tuxtla, Ver.
+http://50.7.70.66:8585/;
+#EXTINF:-1, XHTZ 96.9 FM Xalapa, Ver.
+http://72.29.70.19:8034/;
+#EXTINF:-1, XHGR 104.1 FM Xalapa, Ver.
+http://72.29.70.19:8044/;
+#EXTINF:-1, XHJA 102.5 FM Xalapa, Ver.
+http://72.29.70.19:8040/;
+#EXTINF:-1, XHKL 93.7 FM Xalapa, Ver.
+http://72.29.70.19:8042/;
+#EXTINF:-1, XHWA FM 98.5 Xalapa, Ver.
+http://72.29.70.19:8038/;
+#EXTINF:-1, XHOT 97.7 FM Xalapa, Ver.
+http://72.29.70.19:8036/;
+#EXTINF:-1, Radio Cristo en Linea
+http://www.tuasesorweb.com:8048/;
+#EXTINF:-1, XHRLM 91.9 FM - Ciudad Mante, Tamaulipas
+http://69.30.238.18:8034/;
+#EXTINF:-1, XHCAV 101.3 FM - Durango, Durango
+http://38.96.148.18:9178/;
+#EXTINF:-1, XHAGC 97.3 FM - Aguascalientes
+http://192.99.125.194:9046/;
+#EXTINF:-1, K-Rock Europe (from Mexico, Spain and the Netherlands) - 0
+http://www.radiohosting.audio:8982/;
+#EXTINF:-1, K-Rock Europe (from Mexico, Spain and the Netherlands) - 1
+http://192.99.1.139:8982/;
+#EXTINF:-1, XEXXX 840 AM Tamazula de Gordiano, Jalisco - 0
+http://138.128.173.122:8110/;
+#EXTINF:-1, XEXXX 840 AM Tamazula de Gordiano, Jalisco - 1
+http://radio.promosat.com:8110/listen.pls
+#EXTINF:-1, XHMEX 104.9 FM / XEMEX 950 AM Ciudad Guzmán, Jalisco - 0
+http://142.4.216.91:8012/;
+#EXTINF:-1, XHMEX 104.9 FM / XEMEX 950 AM Ciudad Guzmán, Jalisco - 1
+http://lamexicana.servemp3.com:8002/;
+#EXTINF:-1, XELEO 105.1 FM - 1110 AM León, GT
+http://radio.promosat.com:8106/;
+#EXTINF:-1, XHIS 106.3 FM Ciudad Guzmán, Jalisco
+http://zer.zuperdns.net:2063/;
+#EXTINF:-1, XEBC 990 AM / XHBC 95.1 FM Ciudad Guzmán, Jalisco
+http://zer.zuperdns.net:9510/;
+#EXTINF:-1, XHEXL 94.9 FM Pátzcuaro, Michoacán
+http://72.47.252.150:8006/;
+#EXTINF:-1, XHIQ 102.5 FM - Cd Obregon Mx
+http://198.27.64.106:3050/;stream.mp3
+#EXTINF:-1, XHUSH 107.5 FM Hermosillo Mx - 0
+http://148.225.54.10/broadwave.mp3
+#EXTINF:-1, XHUSH 107.5 FM Hermosillo Mx - 1
+http://148.225.54.10/broadwavehigh.mp3?src=1
+#EXTINF:-1, XETRA 91.1 FM Tijuana - 0
+http://provisioning.streamtheworld.com/pls/XTRAFMAAC.pls
+#EXTINF:-1, XETRA 91.1 FM Tijuana - 1
+http://provisioning.streamtheworld.com/pls/XTRAFM.pls
+#EXTINF:-1, XETRA 91.1 FM Tijuana - 2
+http://playerservices.streamtheworld.com/pls/XTRAFMAAC.pls
+#EXTINF:-1, XHLL 90.1 FM - Boca del Río, Veracruz - 0
+http://gpazos.centrocibernetico.com:22000/;
+#EXTINF:-1, XHLL 90.1 FM - Boca del Río, Veracruz - 1
+https://fusion.centrocibernetico.com/
+#EXTINF:-1, XEMW 1260 AM / XHEMW 91.1 FM - San Luis Río Colorado, Sonora
+http://64.202.98.133:3110/;
+#EXTINF:-1, XECB 1460 AM - San Luis Rio Colorado, Mexico
+http://64.202.98.133:3060/;
+#EXTINF:-1, Radio Efimera (web radio)
+http://radioefimera.com:8080/;
+#EXTINF:-1, XEDKT 1340 AM Guadalajara, Jalisco
+http://192.99.16.17:9882/;
+#EXTINF:-1, XEL 1260 AM Los Reyes Acaquilpan, Mexico, Mexico - 0
+http://provisioning.streamtheworld.com/pls/XELAMAAC.pls
+#EXTINF:-1, XEL 1260 AM Los Reyes Acaquilpan, Mexico, Mexico - 1
+http://playerservices.streamtheworld.com/pls/XELAMAAC.pls
+#EXTINF:-1, XEL 1260 AM Los Reyes Acaquilpan, Mexico, Mexico - 2
+http://playerservices.streamtheworld.com/pls/XELAM.pls
+#EXTINF:-1, XESURF 540 AM Tijuana
+http://166.88.21.98:9736/;
+#EXTINF:-1, XEKQ 680 AM /  XHKQ 93.1 FM Tapachula, Chiapas
+http://s1.audiorama.com.mx:9176/stream
+#EXTINF:-1, XHTAP 98.7 FM Tapachula, Chiapas,
+http://s1.radiorama.com.mx:9170/;
+#EXTINF:-1, XHUE 99.3 FM Tuxtla Gutiérrez
+http://192.99.16.17:7541/;
+#EXTINF:-1, XHMK 104.3 FM Huixtla, Chiapas
+http://s1.audiorama.com.mx:9518/;
+#EXTINF:-1, XHKY 97.1 FM - Huixtla, Chiapas
+http://s1.audiorama.mx:9148/;
+#EXTINF:-1, XHRPR 88.3  FM - Tuxtla, Gutiérrez
+http://s1.audiorama.com.mx:9194/;
+#EXTINF:-1, EXA FM 89.3 - Morelia
+http://204.12.193.98:8393/stream
+#EXTINF:-1, XHBCC 100.5 FM Ciudad del Carmen, Campeche
+http://198.154.246.178:8050/;
+#EXTINF:-1, XHNOE 91.3 FM  Nuevo Laredo, Tamaulipas
+http://216.251.65.74:8000/;
+#EXTINF:-1, Psiconauta Radio
+http://192.187.112.50:2199/tunein/psiconauta.pls
+#EXTINF:-1, XHFM One FM 94.9 Veracruz, Ver. - 0
+http://192.99.150.52:7708/stream?type=http&nocache=15
+#EXTINF:-1, XHFM One FM 94.9 Veracruz, Ver. - 1
+http://192.99.150.52:7708/;
+#EXTINF:-1, Panda Show Radio
+http://streamingv2.shoutcast.com/pandashowradio
+#EXTINF:-1, La Nueva Voz Radio
+http://nuevavoz.radioca.st/;:8628/;
+#EXTINF:-1, XEX 101.7 FM Ciudad de México, D.F. - 0
+http://provisioning.streamtheworld.com/pls/LOS40_MEXICOAAC.pls
+#EXTINF:-1, XEX 101.7 FM Ciudad de México, D.F. - 1
+http://provisioning.streamtheworld.com/asx/LOS40_MEXICOAAC.asx
+#EXTINF:-1, XEX 101.7 FM Ciudad de México, D.F. - 2
+http://provisioning.streamtheworld.com/pls/LOS40_MEXICO.pls
+#EXTINF:-1, XEX 101.7 FM Ciudad de México, D.F. - 3
+http://provisioning.streamtheworld.com/asx/LOS40_MEXICO.asx
+#EXTINF:-1, XEW 900 AM / XEW 96.9 FM Mexico City - 0
+http://provisioning.streamtheworld.com/pls/W_RADIOAAC.pls
+#EXTINF:-1, XEW 900 AM / XEW 96.9 FM Mexico City - 1
+http://provisioning.streamtheworld.com/asx/W_RADIOAAC.asx
+#EXTINF:-1, XEW 900 AM / XEW 96.9 FM Mexico City - 2
+http://provisioning.streamtheworld.com/pls/W_RADIO.pls
+#EXTINF:-1, XEW 900 AM / XEW 96.9 FM Mexico City - 3
+http://provisioning.streamtheworld.com/asx/W_RADIO.asx
+#EXTINF:-1, XEQ 92.9 FM Ciudad de México, D.F. - 0
+http://provisioning.streamtheworld.com/pls/KEBUENAAAC.pls
+#EXTINF:-1, XEQ 92.9 FM Ciudad de México, D.F. - 1
+http://provisioning.streamtheworld.com/asx/KEBUENAAAC.asx
+#EXTINF:-1, XEQ 92.9 FM Ciudad de México, D.F. - 2
+http://provisioning.streamtheworld.com/pls/KEBUENA.pls
+#EXTINF:-1, XEQ 92.9 FM Ciudad de México, D.F. - 3
+http://provisioning.streamtheworld.com/asx/KEBUENA.asx
+#EXTINF:-1, XEQ 940 AM Ciudad de México, D.F. - 0
+http://provisioning.streamtheworld.com/pls/BESAMEAAC.pls
+#EXTINF:-1, XEQ 940 AM Ciudad de México, D.F. - 1
+http://provisioning.streamtheworld.com/asx/BESAMEAAC.asx
+#EXTINF:-1, XEQ 940 AM Ciudad de México, D.F. - 2
+http://provisioning.streamtheworld.com/pls/BESAME.pls
+#EXTINF:-1, XEQ 940 AM Ciudad de México, D.F. - 3
+http://provisioning.streamtheworld.com/asx/BESAME.asx
+#EXTINF:-1, XEDA 90.5 FM Mexico, D.F. - 0
+http://provisioning.streamtheworld.com/pls/XEDAFMAAC.pls
+#EXTINF:-1, XEDA 90.5 FM Mexico, D.F. - 1
+http://provisioning.streamtheworld.com/pls/XEDAFM.pls
+#EXTINF:-1, XHPRS 105.7 FM Tecate, Baja California - 0
+http://provisioning.streamtheworld.com/pls/XPRSFMAAC.pls
+#EXTINF:-1, XHPRS 105.7 FM Tecate, Baja California - 1
+http://provisioning.streamtheworld.com/pls/XPRSFM.pls
+#EXTINF:-1, XEPH 590 AM Mexico City, DF - 0
+http://provisioning.streamtheworld.com/asx/XEPHAMAAC.asx
+#EXTINF:-1, XEPH 590 AM Mexico City, DF - 1
+http://provisioning.streamtheworld.com/asx/XEPHAM.asx
+#EXTINF:-1, XHENO 90.1 FM Santa María Ocotitlán, Metepec, State of Mexico - 0
+http://provisioning.streamtheworld.com/pls/XHENOFMAAC.pls
+#EXTINF:-1, XHENO 90.1 FM Santa María Ocotitlán, Metepec, State of Mexico - 1
+http://provisioning.streamtheworld.com/pls/XHENOFM.pls
+#EXTINF:-1, XHFMTU 103.7 FM Monterrey, NL - 0
+http://provisioning.streamtheworld.com/pls/MMRDO.pls
+#EXTINF:-1, XHFMTU 103.7 FM Monterrey, NL - 1
+http://playerservices.streamtheworld.com/pls/MMRDO.pls
+#EXTINF:-1, XHRV 89.5 FM Valle Hermoso, Tamaulipas - 0
+http://playerservices.streamtheworld.com/pls/XHRVAAC.pls
+#EXTINF:-1, XHRV 89.5 FM Valle Hermoso, Tamaulipas - 1
+http://playerservices.streamtheworld.com/pls/XHRV.pls
+#EXTINF:-1, XEFD 590 AM Rio Bravo, Tamaulipas - 0
+http://playerservices.streamtheworld.com/pls/XEFDAAC.pls
+#EXTINF:-1, XEFD 590 AM Rio Bravo, Tamaulipas - 1
+http://playerservices.streamtheworld.com/pls/XEFD.pls
+#EXTINF:-1, XHUH 96.9 FM Tuxtepec, Oaxaca
+http://192.187.116.210:9994/;stream.mp3
+#EXTINF:-1, XHHB 94.7 FM Hermosillo Son Mx
+http://s1.radiosonorense.com:2150/stream
+#EXTINF:-1, Ah!WorldMusic!
+http://usa1.fastcast4u.com/proxy/lzayxsqp?mp=/1

@@ -1,0 +1,97 @@
+#EXTM3U
+#EXTINF:-1, Yerevan Nights
+http://Radio.YerevanNights.com:81/YerevanNights
+#EXTINF:-1, Mega Armenia
+http://media.rcn.com.co/audios/lamega/Daniel_tres_palacios.mp3
+#EXTINF:-1, RadioYerevan FM 102 MHZ
+http://199.195.194.92:8029/;stream.mp3
+#EXTINF:-1, Radio Maria Armenia - 0
+http://dreamsiteradiocp.com:8056/
+#EXTINF:-1, Radio Maria Armenia - 1
+http://cloudrad.io/radiomariaarmenia/listen.asx
+#EXTINF:-1, Radio Van FM 103.0 MHZ - 0
+http://media.radiovan.am:8000/96_stereo
+#EXTINF:-1, Radio Van FM 103.0 MHZ - 1
+http://media.radiovan.am:8000/64_stereo
+#EXTINF:-1, Radio Van FM 103.0 MHZ - 2
+http://media.radiovan.am:8000/32_stereo
+#EXTINF:-1, Radio Marshall 103.5 FM
+http://eu.stream4cast.com:8030/stream?type=http&nocache=14
+#EXTINF:-1, Radio Azalia
+http://radioazalia.out.airtime.pro:8000/radioazalia_b
+#EXTINF:-1, Radio Menq
+http://109.68.120.226:8000/menq128
+#EXTINF:-1, Radio Mix.am - Mix 1
+http://mix.am:8000/mix1
+#EXTINF:-1, Radio Mix.am - Mix 2
+http://mix.am:8000/mix2
+#EXTINF:-1, Radio Mix.am - Anr
+http://mix.am:8000/anr
+#EXTINF:-1, Radio Mix.am - Mix 3
+http://mix.am:8000/mix3
+#EXTINF:-1, Radio YAN - Patriotic - 0
+http://83.169.36.75:8001/stream?1510053520731
+#EXTINF:-1, Radio YAN - Patriotic - 1
+http://83.169.36.75:8001/stream
+#EXTINF:-1, Radio YAN - Armenian - 0
+http://83.169.36.75:8000/stream?1510053708096
+#EXTINF:-1, Radio YAN - Armenian - 1
+http://83.169.36.75:8000/stream
+#EXTINF:-1, Ar Radio Intercontinetal FM 102.0 Yerevan
+http://199.195.194.92:8029/
+#EXTINF:-1, Lav Radio 106.9 FM - 0
+http://laradiofm.com/download/1141-en-pls/
+#EXTINF:-1, Lav Radio 106.9 FM - 1
+http://163.172.7.220:8000/stream2
+#EXTINF:-1, Lav Radio 106.9 FM - 2
+http://163.172.7.220:8000/stream
+#EXTINF:-1, Lav Radio Mix Yerevan - 0
+http://laradiofm.com/download/1142-en-pls/
+#EXTINF:-1, Lav Radio Mix Yerevan - 1
+http://163.172.7.220:8006/stream2
+#EXTINF:-1, Lav Radio Mix Yerevan - 2
+http://163.172.7.220:8006/stream
+#EXTINF:-1, MFM Music Radio
+http://163.172.7.220:8012/stream/1/
+#EXTINF:-1, Public Radio of Armenia 107.7 FM - 0
+http://163.172.7.166:8052/stream
+#EXTINF:-1, Public Radio of Armenia 107.7 FM - 1
+http://163.172.7.166:8064/stream
+#EXTINF:-1, Public Radio of Armenia 107.7 FM - 2
+http://163.172.7.166:8044/stream
+#EXTINF:-1, Public Radio of Armenia 107.7 FM - 3
+http://163.172.7.166:8058/stream
+#EXTINF:-1, Radio Hay Yerevan 105.5 FM - 0
+http://mix.am:8000/rhyerevan
+#EXTINF:-1, Radio Hay Yerevan 105.5 FM - 1
+http://radiohay.am:7777/radiohay
+#EXTINF:-1, Radio Yeraz
+http://217.28.20.27:8026/stream
+#EXTINF:-1, Style FM
+http://www.litesoundsession.com:8000/best
+#EXTINF:-1, Radio Hay Fm Armenia
+http://radiohay.am:7777/radiohay
+#EXTINF:-1, Mix.am - Artooradio
+http://mix.am:8000/mix25.m3u
+#EXTINF:-1, Mix.am - Radio XMD - 0
+http://mix.am:8000/mix27.m3u
+#EXTINF:-1, Mix.am - Radio XMD - 1
+http://radiohay.am:7777/XND.m3u
+#EXTINF:-1, MFM
+http://163.172.7.220:8012/stream/1/
+#EXTINF:-1, Mix.am - Karas
+http://mix.am:8000/mix40.m3u
+#EXTINF:-1, Mix.am - Karas USA
+http://mix.am:8000/mix41.m3u
+#EXTINF:-1, Mix.am - Tumanyan Shaurma
+http://mix.am:8000/mix44.m3u
+#EXTINF:-1, Radio Vatican News Armenian (daily new podcast)
+http://www2.vaticanwebradio.org/webcasting/armeno_1.mp3
+#EXTINF:-1, Mix.am - HA
+http://live.mix.am:8000/mix45
+#EXTINF:-1, Radio Mix.am - Mix 1 FM 105.0, Արցախ
+http://live.mix.am:8000/mix1
+#EXTINF:-1, Radio Aurora 100.7 FM Yerevan
+http://am.radioaurora.am:8010/al.mp3
+#EXTINF:-1, News Radio Impuls
+http://212.34.233.78:8000/live.m3u

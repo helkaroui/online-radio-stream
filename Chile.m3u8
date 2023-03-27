@@ -1,0 +1,657 @@
+#EXTM3U
+#EXTINF:-1, FM Joven - 91.5 FM - Valparaíso
+http://200.24.229.253:8040/
+#EXTINF:-1, Radioemisora UTFSM - 99.7 FM - Valparaíso
+http://mozart.usm.cl:8000/
+#EXTINF:-1, Universidad de Talca Clásica - 102.1 FM - Talca
+http://iradio.utalca.cl:8000/fm
+#EXTINF:-1, Universidad de Talca Folclore - 1210 AM - Talca
+http://iradio.utalca.cl:8000/am
+#EXTINF:-1, Valparaíso - 1210 AM - Valparaíso
+http://200.24.229.253:8250/
+#EXTINF:-1, SCEL - Online - Santiago - 0
+http://d.liveatc.net/scel
+#EXTINF:-1, SCEL - Online - Santiago - 1
+http://www.liveatc.net/play/scel.pls
+#EXTINF:-1, Ser FM - 103.1 FM - San Felipe
+http://200.24.229.253:8060/
+#EXTINF:-1, Sol - 97.7 FM - Antofagasta
+http://online.radiosol.cl:8000/
+#EXTINF:-1, Radio Condell
+http://cast.radioservicios.cl:50037/radio
+#EXTINF:-1, Valparaíso - 105.9 FM - Valparaíso
+http://200.24.229.253:8250/stream
+#EXTINF:-1, Radio Universidad de Concepción
+http://radio.udec.cl:8000/radioudec
+#EXTINF:-1, RNE Radio
+http://usa4.fastcast4u.com:5500/stream
+#EXTINF:-1, Radio Z
+http://sonando.us.digitalproserver.com/radioz_aac
+#EXTINF:-1, Radio Genesis FM
+http://stream5.eltelon.com/genesis-andacollo.aac
+#EXTINF:-1, Positiva - 101.3 FM - Copiapó
+http://mimix.mercurio.cl:8000/copiapo2
+#EXTINF:-1, Positiva - 105.5 FM - Concepción
+http://mimix.mercurio.cl:8000/concepcion2
+#EXTINF:-1, Positiva - 105.7 FM - Castro
+http://mimix.mercurio.cl:8000/castro
+#EXTINF:-1, Positiva - 92.7 FM - Iquique - 0
+http://mimix.mercurio.cl:8000/iquique2
+#EXTINF:-1, Positiva - 92.7 FM - Iquique - 1
+http://mimix.mercurio.cl:8000/iquique3
+#EXTINF:-1, Positiva - 98.5 FM - Temuco
+http://mimix.mercurio.cl:8000/temuco2
+#EXTINF:-1, Positiva - 99.5 FM - Antofagasta - 0
+http://mimix.mercurio.cl:8000/antofagasta2.m3u
+#EXTINF:-1, Positiva - 99.5 FM - Antofagasta - 1
+http://mimix.mercurio.cl:8000/antofagasta2.xspf
+#EXTINF:-1, Positiva - 93.9 FM - La Ligua - 0
+http://mimix.mercurio.cl:8000/laligua2.m3u
+#EXTINF:-1, Positiva - 93.9 FM - La Ligua - 1
+http://mimix.mercurio.cl:8000/laligua2.xspf
+#EXTINF:-1, Positiva - 91.1 FM - Osorno - 0
+http://mimix.mercurio.cl:8000/osorno2.m3u
+#EXTINF:-1, Positiva - 91.1 FM - Osorno - 1
+http://mimix.mercurio.cl:8000/osorno2.xspf
+#EXTINF:-1, Positiva - 102.5 FM - San Antonio - 0
+http://mimix.mercurio.cl:8000/sanantonio2.m3u
+#EXTINF:-1, Positiva - 102.5 FM - San Antonio - 1
+http://mimix.mercurio.cl:8000/sanantonio2.xspf
+#EXTINF:-1, Positiva - 98.5 FM - Valdivia - 0
+http://mimix.mercurio.cl:8000/valdivia2.m3u
+#EXTINF:-1, Positiva - 98.5 FM - Valdivia - 1
+http://mimix.mercurio.cl:8000/valdivia2.xspf
+#EXTINF:-1, Carnaval La Ligua
+http://200.24.229.253:8090
+#EXTINF:-1, UVM - 96.3 FM - Viña del Mar
+http://200.24.229.253:8020/
+#EXTINF:-1, Radio Estrella del Mar de Ancud
+http://stream5.eltelon.com:8000/estrella-del-mar-ancud.aac
+#EXTINF:-1, Radio Estrella del Mar de Castro
+http://stream5.eltelon.com:8000/estrella-del-mar-castro.aac
+#EXTINF:-1, Radio Estrella del Mar de Futaleufu
+http://stream5.eltelon.com:8000/estrella-del-mar-futaleufu.aac
+#EXTINF:-1, Radio Estrella del Mar de Quellon
+http://stream5.eltelon.com:8000/estrella-del-mar-quellon.aac
+#EXTINF:-1, Radio Atractiva - 0
+http://www.atractiva.cl/atractiva.asx
+#EXTINF:-1, Radio Atractiva - 1
+http://www.atractiva.cl/atractiva.pls
+#EXTINF:-1, Radio Atractiva - 2
+http://www.atractiva.cl/atractiva.ram
+#EXTINF:-1, Radio Atractiva - 3
+http://www.atractiva.cl/atractiva.qtl
+#EXTINF:-1, Radio Quillota
+http://stream5.eltelon.com/radio-quillota.aac
+#EXTINF:-1, Radio Picarona 102.5 FM Panguipulli
+http://192.99.150.234:9882/listen.pls
+#EXTINF:-1, Radio Picarona 97.7 FM Villarrica-Pucon
+http://192.99.150.234:9890/listen.pls
+#EXTINF:-1, Radio Picarona 101.7 FM Chiloe
+http://192.99.150.234:9884/listen.pls
+#EXTINF:-1, Radio Picarona Solo Musica
+http://192.99.150.234:9888/listen.pls
+#EXTINF:-1, Radio Nexo CB 153 AM
+http://stream5.eltelon.com/radio-nexo.aac
+#EXTINF:-1, Radio Libra FM 104.7
+http://stream5.eltelon.com/radio-libra.aac
+#EXTINF:-1, Dixi - 90.1 FM - Lo Barnechea, Santiago
+http://192.99.150.234:9940/
+#EXTINF:-1, Canal 95 - 88.1 FM - Antofagasta
+http://sonando.us.digitalproserver.com/canal95_aac
+#EXTINF:-1, Alas de Aguila - 95.3 FM - Puerto Montt
+http://s3.medionline.cl:8056/;stream.mp3
+#EXTINF:-1, Alborada - 107.7 FM - Chillán
+http://stream5.eltelon.com/alborada.aac
+#EXTINF:-1, Radio Copihue F.M. Victoria Araucanía
+http://stream5.eltelon.com:8000/copihue.aac
+#EXTINF:-1, Radio Pilmaiquén « Valdivia
+http://streaming.chiloestreaming.com:9190/;
+#EXTINF:-1, Radio Nuevo Tiempo « Santiago
+http://streaming.nuevotiempo.cl:8000/;
+#EXTINF:-1, Radio Portales « Santiago
+http://s6.jcwebnew.com:8060/stream
+#EXTINF:-1, Prisa - Radio Uno « Santiago - 0
+http://provisioning.streamtheworld.com/pls/RADIO_UNOAAC.pls
+#EXTINF:-1, Prisa - Radio Uno « Santiago - 1
+http://provisioning.streamtheworld.com/asx/RADIO_UNOAAC.asx
+#EXTINF:-1, Prisa - Radio Uno « Santiago - 2
+http://provisioning.streamtheworld.com/pls/RADIO_UNO.pls
+#EXTINF:-1, Prisa - Radio Uno « Santiago - 3
+http://provisioning.streamtheworld.com/asx/RADIO_UNO.asx
+#EXTINF:-1, Prisa - Radio Uno « Santiago - 4
+http://1071.live.streamtheworld.com:80/RADIO_UNOCMP3
+#EXTINF:-1, Radio Caricia FM
+http://192.99.150.234:9752
+#EXTINF:-1, Movistar - 2000
+http://radio-cl.origin.mdstrm.com:8000/movistar-2000.aac
+#EXTINF:-1, Movistar - 70
+http://radio-cl.origin.mdstrm.com:8000/movistar-70.aac
+#EXTINF:-1, Movistar - 80
+http://radio-cl.origin.mdstrm.com:8000/movistar-80.aac
+#EXTINF:-1, Movistar - 90
+http://radio-cl.origin.mdstrm.com:8000/movistar-90.aac
+#EXTINF:-1, Movistar - Actualidad Nacional
+http://radio-cl.origin.mdstrm.com:8000/movistar-actualidad-nacional.aac
+#EXTINF:-1, Movistar - Clasico Espanol
+http://radio-cl.origin.mdstrm.com:8000/movistar-clasico-espanol.aac
+#EXTINF:-1, Movistar - Cuecas
+http://radio-cl.origin.mdstrm.com:8000/movistar-cuecas.aac
+#EXTINF:-1, Movistar - Dance
+http://radio-cl.origin.mdstrm.com:8000/movistar-dance.aac
+#EXTINF:-1, Movistar - Electronica
+http://radio-cl.origin.mdstrm.com:8000/movistar-electronica.aac
+#EXTINF:-1, Movistar - Fiesta
+http://radio-cl.origin.mdstrm.com:8000/movistar-fiesta.aac
+#EXTINF:-1, Movistar - Folklore Nacional
+http://radio-cl.origin.mdstrm.com:8000/movistar-folklore-nacional.aac
+#EXTINF:-1, Movistar - Oldies
+http://radio-cl.origin.mdstrm.com:8000/movistar-oldies.aac
+#EXTINF:-1, Movistar - Pop Britanico
+http://radio-cl.origin.mdstrm.com:8000/movistar-pop-britanico.aac
+#EXTINF:-1, Movistar - Rock Clasico
+http://radio-cl.origin.mdstrm.com:8000/movistar-rock-clasico.aac
+#EXTINF:-1, Movistar - Rock Heavy
+http://radio-cl.origin.mdstrm.com:8000/movistar-rock-heavy.aac
+#EXTINF:-1, Movistar - Rock Tracks
+http://radio-cl.origin.mdstrm.com:8000/movistar-rock-tracks.aac
+#EXTINF:-1, Movistar - Romantico Latino
+http://radio-cl.origin.mdstrm.com:8000/movistar-romantico-latino.aac
+#EXTINF:-1, Movistar - Romantico
+http://radio-cl.origin.mdstrm.com:8000/movistar-romantico.aac
+#EXTINF:-1, Movistar - Teens
+http://radio-cl.origin.mdstrm.com:8000/movistar-teens.aac
+#EXTINF:-1, Movistar - Top 40
+http://radio-cl.origin.mdstrm.com:8000/movistar-top-40.aac
+#EXTINF:-1, Movistar - Urbano Latino
+http://radio-cl.origin.mdstrm.com:8000/movistar-urbano-latino.aac
+#EXTINF:-1, Movistar - Vanguardia
+http://radio-cl.origin.mdstrm.com:8000/movistar-vanguardia.aac
+#EXTINF:-1, Radio Soberanía FM 94.1 - Punta Arenas
+http://stream5.eltelon.com/radio-soberania.aac?
+#EXTINF:-1, UTSFM 99.7 FM & 1450 AM
+http://mozart.usm.cl:8000
+#EXTINF:-1, Chilena del Maule AM, Talca - 1090 Khz
+http://stream5.eltelon.com/radio-chilena-del-maule.aac
+#EXTINF:-1, Radio Corporacion - Concepcion 550 AM
+http://streaming.megaram.in:9994/;audio.mp3?hash=1459725722672
+#EXTINF:-1, Coca-Cola FM - Chile - 0
+http://ic.imusicaradios.com.br:8000/chile.stream.http?url=radiosure
+#EXTINF:-1, Coca-Cola FM - Chile - 1
+http://ic.imusicaradios.com.br:8000/chile.stream.http.48k?url=radiosure
+#EXTINF:-1, Radio Austral - 970 AM - Valdivia
+http://stream5.eltelon.com/austral-am.aac
+#EXTINF:-1, Universidad de Los Lagos - 95.7 FM - Osorno
+http://radio.ulagos.cl:8000/radio_ulagos
+#EXTINF:-1, Radio Universidad Tecnica Federico Santa Maria
+http://mozart.usm.cl:8000/
+#EXTINF:-1, Radio 1290 AM « Los Angeles
+http://online.radio1290am.cl:5064/radio1290
+#EXTINF:-1, 106.9 FM Plus, Antofagasta
+http://sonando.us.digitalproserver.com/fmplus_aac
+#EXTINF:-1, Alegria del transporte FM - 90.7 MHz - Calama
+http://s6.medionline.cl:9364/;stream.nsv
+#EXTINF:-1, Ancoa FM  -  103.5 MHz -  Linares
+http://s6.jcwebnew.com:7560/stream
+#EXTINF:-1, Anglo Latina - Online - Antofagasta
+http://streaming.radioanglolatina.com/;stream.mp3
+#EXTINF:-1, Caribe - 104.9 FM - Iquique
+http://198.50.154.235:10248
+#EXTINF:-1, Cariñosa - 92.1 FM - Chillán
+http://stream5.eltelon.com/carinosa-chillan.aac
+#EXTINF:-1, Cobremar - 89.9 FM - Chañaral
+http://stream5.eltelon.com/cobremar.aac
+#EXTINF:-1, De Culto FM - Online - Valdivia
+http://sscl.denialstream.com:8004/stream2
+#EXTINF:-1, Faraonica - 105.7 FM - Puerto Natales
+http://server3.veemesoft.com.ar:27712/;stream.mp3
+#EXTINF:-1, Fiessta - 90.9 FM - Rancagua
+http://5.9.65.9:8174
+#EXTINF:-1, Radio María Chile - 0
+http://dreamsiteradiocp.com:8066/
+#EXTINF:-1, Radio María Chile - 1
+http://cloudrad.io/radiomariachile/listen.asx
+#EXTINF:-1, Prisa - ADN Radio « Santiago - 0
+http://playerservices.streamtheworld.com/api/livestream-redirect/ADNAAC_SC
+#EXTINF:-1, Prisa - ADN Radio « Santiago - 1
+http://playerservices.streamtheworld.com/api/livestream-redirect/ADN_SC
+#EXTINF:-1, Prisa - RadioActiva « Santiago - 0
+http://playerservices.streamtheworld.com/api/livestream-redirect/ACTIVAAAC_SC
+#EXTINF:-1, Prisa - RadioActiva « Santiago - 1
+http://playerservices.streamtheworld.com/api/livestream-redirect/ACTIVA_SC
+#EXTINF:-1, Prisa - Rock & Pop « Santiago - 0
+http://playerservices.streamtheworld.com/api/livestream-redirect/ROCK_AND_POPAAC_SC
+#EXTINF:-1, Prisa - Rock & Pop « Santiago - 1
+http://playerservices.streamtheworld.com/api/livestream-redirect/ROCK_AND_POP_SC
+#EXTINF:-1, Prisa - FMDos « Santiago - 0
+http://playerservices.streamtheworld.com/api/livestream-redirect/FMDOSAAC_SC
+#EXTINF:-1, Prisa - FMDos « Santiago - 1
+http://playerservices.streamtheworld.com/api/livestream-redirect/FMDOS_SC
+#EXTINF:-1, Prisa - Corazón « Santiago - 0
+http://playerservices.streamtheworld.com/api/livestream-redirect/CORAZONAAC_SC
+#EXTINF:-1, Prisa - Corazón « Santiago - 1
+http://playerservices.streamtheworld.com/api/livestream-redirect/CORAZON_SC
+#EXTINF:-1, Prisa - Los 40 « Chile - 0
+http://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CHILEAAC_SC
+#EXTINF:-1, Prisa - Los 40 « Chile - 1
+http://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CHILE_SC
+#EXTINF:-1, Prisa - Radio Pudahuel « Santiago - 0
+http://playerservices.streamtheworld.com/api/livestream-redirect/PUDAHUELAAC_SC
+#EXTINF:-1, Prisa - Radio Pudahuel « Santiago - 1
+http://playerservices.streamtheworld.com/api/livestream-redirect/PUDAHUEL_SC
+#EXTINF:-1, Prisa - Radio Imagina « Santiago - 0
+http://playerservices.streamtheworld.com/api/livestream-redirect/IMAGINAAAC_SC
+#EXTINF:-1, Prisa - Radio Imagina « Santiago - 1
+http://playerservices.streamtheworld.com/api/livestream-redirect/IMAGINA_SC
+#EXTINF:-1, Prisa - Concierto « Santiago - 0
+http://playerservices.streamtheworld.com/api/livestream-redirect/CONCIERTOAAC_SC
+#EXTINF:-1, Prisa - Concierto « Santiago - 1
+http://playerservices.streamtheworld.com/api/livestream-redirect/CONCIERTO_SC
+#EXTINF:-1, Prisa - Futuro « Santiago - 0
+http://playerservices.streamtheworld.com/api/livestream-redirect/FUTUROAAC_SC
+#EXTINF:-1, Prisa - Futuro « Santiago - 1
+http://playerservices.streamtheworld.com/api/livestream-redirect/FUTURO_SC
+#EXTINF:-1, Cooperativa - 93.3 FM - Santiago - 0
+http://redirector.dps.live/cooperativafm/aac/icecast.audio
+#EXTINF:-1, Cooperativa - 93.3 FM - Santiago - 1
+http://redirector.dps.live/cooperativafm/mp3/icecast.audio
+#EXTINF:-1, Radio Unión 571.18 FO
+http://176.31.241.17:8028/stream
+#EXTINF:-1, Agricultura - 92.1 FM - Santiago
+http://redirector.dps.live/agricultura/mp3/icecast.audio
+#EXTINF:-1, Estilo FM - Santiago - Nationwide Signal
+http://s6.jcwebnew.com:7870/stream
+#EXTINF:-1, Radio Universo - 93.7 FM - Clasicos del Pop y el Rock - 0
+http://redirector.dps.live/universo/aac/icecast.audio
+#EXTINF:-1, Radio Universo - 93.7 FM - Clasicos del Pop y el Rock - 1
+http://redirector.dps.live/universo/mp3/icecast.audio
+#EXTINF:-1, Radio Disney Chile - 0
+http://redirector.dps.live/disney/aac/icecast.audio
+#EXTINF:-1, Radio Disney Chile - 1
+http://redirector.dps.live/disney/mp364k/icecast.audio
+#EXTINF:-1, Solo-Rock - 0
+http://solorock.deivid.cl
+#EXTINF:-1, Solo-Rock - 1
+http://solorock2.deivid.cl
+#EXTINF:-1, Solo-Rock - 2
+http://solorock3.deivid.cl
+#EXTINF:-1, Solo-Rock - 3
+http://solorock4.deivid.cl
+#EXTINF:-1, Solo-Rock - 4
+http://solorock5.deivid.cl
+#EXTINF:-1, Radio Corazon 101.3 FM - 0
+http://playerservices.streamtheworld.com/pls/CORAZONAAC.pls
+#EXTINF:-1, Radio Corazon 101.3 FM - 1
+http://playerservices.streamtheworld.com/pls/CORAZON.pls
+#EXTINF:-1, Radio Corazon 101.3 FM - 2
+http://listen.radionomy.com/CorazonFM
+#EXTINF:-1, rompecorazones
+http://streaming.radionomy.com/rompecorazones?lang=en-US&appName=iTunes.m3u
+#EXTINF:-1, Niu - 80s
+http://live-origin.us.niu.cl/niu_80s.mp3
+#EXTINF:-1, Niu - 90s
+http://live-origin.us.niu.cl/niu_90s.mp3
+#EXTINF:-1, Niu - Indie
+http://live-origin.us.niu.cl/niu_indie.mp3
+#EXTINF:-1, Niu - Pop
+http://live-origin.us.niu.cl/niu_pop.mp3
+#EXTINF:-1, Niu - Rock
+http://live-origin.us.niu.cl/niu_rock.mp3
+#EXTINF:-1, Niu - CL
+http://live-origin.us.niu.cl/niu_cl.mp3
+#EXTINF:-1, Niu - Live
+http://live-origin.us.niu.cl/niu_live.mp3
+#EXTINF:-1, Niu - NM
+http://live-origin.us.niu.cl/niu_radio.mp3
+#EXTINF:-1, Radio Isla Negra - 0
+http://66.228.60.216:2199/tunein/rinshoutcast-stream.pls
+#EXTINF:-1, Radio Isla Negra - 1
+http://66.228.60.216:2199/tunein/rinshoutcast-stream2.pls
+#EXTINF:-1, Radio Isla Negra - 2
+http://66.228.60.216:2199/tunein/rinshoutcast-stream3.pls
+#EXTINF:-1, Radio Isla Negra - 3
+http://66.228.60.216:8002/;
+#EXTINF:-1, Radio Para Ti 96.5 FM Puerto Montt
+http://104.131.43.160:7208/;
+#EXTINF:-1, Radio Renacer 101.7 FM Hualañe
+http://stream5.eltelon.com/archi-renacer.aac
+#EXTINF:-1, Millaray - 91.9 FM - Parral
+http://www.jplayer.org/audio/mp3/TSP-01-Cro_magnon_man.mp3
+#EXTINF:-1, Monte Carlo - La Serena 102.7FM
+http://montecarloradiostation2.better-than.tv/listen.pls
+#EXTINF:-1, Universidad de Antofagasta - 99.9 FM - Antofagasta
+http://185.105.4.100/proxy/radioua?mp=/stream
+#EXTINF:-1, Regina Coeli - 95.3 FM - Los Angeles, Los Lagos, Chile
+http://173.233.72.82:9342/;
+#EXTINF:-1, Punto 9 - 90.9 FM - San Fernando - 0
+http://164.77.84.69:8000/punto9
+#EXTINF:-1, Punto 9 - 90.9 FM - San Fernando - 1
+http://164.77.84.69:8000/punto9
+#EXTINF:-1, Maray - 90.9 FM - Copiapó
+http://184.154.173.147:8000/;stream.mp3
+#EXTINF:-1, Nueva Coya - 92.5 FM - María Elena
+http://play.radiocoya.cl/?pl=winamp&c=Radio%20Nueva%20Coya%20FM
+#EXTINF:-1, Mi - 107.9 FM - Paillaco
+http://stream5.eltelon.com/mi-radio.aac
+#EXTINF:-1, Radio Placeres De Valparaiso - 87.7 FM
+http://192.99.18.164:9856/;
+#EXTINF:-1, Radio Erchegoyen de Talcahuano
+http://s3.medionline.cl:9960/;stream.nsv
+#EXTINF:-1, Pinamar - 107.9 FM - La Serena
+http://s02.midns.net:8034/listen.pls?sid=1
+#EXTINF:-1, Radio Colo-Colo 880 AM
+http://186.103.213.249:9988/;
+#EXTINF:-1, Radio Marcela de Vallenar  Huasco, Chile  99.1 FM
+http://stream5.eltelon.com/archi-marcela.aac
+#EXTINF:-1, Pudeto - 98.1 FM - Ancud
+http://stream5.eltelon.com/pudeto.aac
+#EXTINF:-1, Radio Amiga « Calbuco
+http://stream5.eltelon.com/amiga-fm.aac
+#EXTINF:-1, Radio Gratissima 97.7 FM
+http://104.156.247.103:8006/;*.aac
+#EXTINF:-1, Radio Miramar
+http://5.189.171.80:2199/tunein/radmiramar.pls
+#EXTINF:-1, Radio San Joaquin 107.9 FM
+http://giss.tv:8000/radiosanjoaquin.mp3
+#EXTINF:-1, Tornagaleones - 105.3 FM - Valdivia
+http://s40.myradiostream.com:17202/;
+#EXTINF:-1, casadeshalom Vida Nueva 98.7 FM
+http://ample-zeno-07.radiojar.com/ynpbahkc574tv
+#EXTINF:-1, Demente.cl - 0
+http://centova.crearchile.info:2199/tunein/aestevez.pls
+#EXTINF:-1, Demente.cl - 1
+http://centova.crearchile.info:2199/tunein/aestevez.asx
+#EXTINF:-1, Demente.cl - 2
+http://centova.crearchile.info:2199/tunein/aestevez.ram
+#EXTINF:-1, Demente.cl - 3
+http://190.3.169.36:8098/stream
+#EXTINF:-1, Radio La Mejor
+http://s3.medionline.cl:7702/;
+#EXTINF:-1, Universal - 94.7 FM - Pitrufquen-Temuco
+http://s00.midns.net/pitrufquenApp
+#EXTINF:-1, Radio Chilena « Concepción - 0
+http://redirector.dps.live/chilena/aac/icecast.audio
+#EXTINF:-1, Radio Chilena « Concepción - 1
+http://unlimited1-cl.digitalproserver.com/chilena/mp3/icecast.audio
+#EXTINF:-1, Radio Distorsión Fm
+http://sc.distorsion.fm:8100/;
+#EXTINF:-1, Radio Kayros FM 95.7 Los Andes - 0
+http://s6.jcwebnew.com:7020/stream
+#EXTINF:-1, Radio Kayros FM 95.7 Los Andes - 1
+http://s1.streamhostnew.com/cast/tunein.php/kayros/playlist.asx
+#EXTINF:-1, Universal - 104.3 FM - Villarrica
+http://s01.midns.net/villarrica
+#EXTINF:-1, Universal - 105.1 FM - Loncoche
+http://s01.midns.net/loncoche
+#EXTINF:-1, Universal - 90.7 FM - SeñalDOS
+http://s01.midns.net/universaldos-aac
+#EXTINF:-1, Universal - Radio Universal FM
+http://s01.midns.net/universal-aac
+#EXTINF:-1, Universal - 90.3 FM - Panguipulli
+http://s01.midns.net/universal-aac
+#EXTINF:-1, Universal - Victoria 106.1 / Ercilla Collipulli 102.9
+http://s01.midns.net/victoria
+#EXTINF:-1, El Conquistador - 91.3 FM - Santiago
+http://cp.elconquistador.usastreams.com:9314/;
+#EXTINF:-1, El Conquistador - 98.1 FM - Osorno
+http://195.154.167.62:9314/stream/1/
+#EXTINF:-1, El Conquistador Fina Tradición - Online - Santiago
+http://195.154.167.62:9314/stream
+#EXTINF:-1, Digital FM - 103.9 FM - Temuco
+http://unlimited1-us.dps.live/agricultura/go/audio/now/livestream1.m3u8
+#EXTINF:-1, FM Ok - 101.3 FM - San Felipe
+http://streaming.fmokey.cl/FmOkLA.mp3
+#EXTINF:-1, FM Ok - 103.7 FM - Arica
+http://streaming.fmokey.cl/FmOkAR.mp3
+#EXTINF:-1, FM Ok - 89.3 FM - Antofagasta
+http://streaming.fmokey.cl/FmOkAT.mp3
+#EXTINF:-1, FM Ok - 97.7 FM - Quillota y Calera
+http://streaming.fmokey.cl/FmOkQ.mp3
+#EXTINF:-1, FM Ok - 102.1 FM - La Serena y Coquimbo
+http://streaming.fmokey.cl/FmOkLS.mp3
+#EXTINF:-1, FM Ok - 88.1 FM Iquique
+http://streaming.fmokey.cl/FmOkIQ.mp3
+#EXTINF:-1, FM Ok - 95.7 FM Calama
+http://streaming.fmokey.cl/FmOkCL.mp3
+#EXTINF:-1, FM Ok - 103.1 FM  Copiapo
+http://streaming.fmokey.cl/FmOkCP.mp3
+#EXTINF:-1, FM Ok - 93.9 FM La Ligua
+http://streaming.fmokey.cl/FmOkLL.mp3
+#EXTINF:-1, FM Ok - 89.9 FM Valparaiso / Viña del Mar
+http://streaming.fmokey.cl/FmOkValpo.mp3
+#EXTINF:-1, 95.7 FM Radio El Faro, La Serena
+http://184.154.173.147:8030/;
+#EXTINF:-1, FM 96.9 Mhz,  Millaray, Señal Online Curanilahue
+http://173.233.72.82:9378/;
+#EXTINF:-1, Madero - 102.5 FM - Antofagasta
+http://unlimited1-cl.digitalproserver.com/madero_antofagasta/mp3/icecast.audio
+#EXTINF:-1, Madero - 93.5 FM - La Serena
+http://unlimited1-cl.digitalproserver.com/madero_serena/mp3/icecast.audio
+#EXTINF:-1, Madero - 94.1 FM - Copiapó
+http://unlimited1-cl.digitalproserver.com/madero_copiapo/mp3/icecast.audio
+#EXTINF:-1, Musicoop - 96.5 FM - Osorno
+http://stream01.doblea.cl:8002/;
+#EXTINF:-1, Quiero FM
+http://sonando.us.digitalproserver.com/fmquiero_aac
+#EXTINF:-1, Radio Atractiva 101.3 FM - Los Lagos
+http://stream5.eltelon.com/atractiva-fm.aac
+#EXTINF:-1, Radio Calipso FM
+http://186.103.213.249:9300/;
+#EXTINF:-1, Radio Corporación Talca 102.5 FM
+http://s6.jcwebnew.com:8011/stream
+#EXTINF:-1, Radio FM Siempre 94.3 - Valdivia
+http://167.114.119.122:9946/;
+#EXTINF:-1, Radio Folclor de Chile
+http://janus.shoutca.st:8837/;
+#EXTINF:-1, Radio Invasion Chile - 0
+http://185.105.4.100/proxy/radioinv?mp=/stream
+#EXTINF:-1, Radio Invasion Chile - 1
+http://185.105.4.100:8025/stream
+#EXTINF:-1, Radio Nativa 90.7 FM Panguipulli
+http://stream5.eltelon.com:8000/archi-nativan.aac
+#EXTINF:-1, Radio Pentagrama de Constitución
+http://s6.jcwebnew.com:7260/stream
+#EXTINF:-1, Radio Plenitud 98.7 FM Panguipulli
+http://audio.crearchile.info:9342/;
+#EXTINF:-1, Radio Universidad Austral de Chile (Radio UACH)- 90.1 FM - Valdivia
+http://centova.uach.cl:8000/centova.uach.cl
+#EXTINF:-1, Sonar FM - 105.7 FM - Santiago - 0
+http://mp3.sonarfm.cl/;?sid=1
+#EXTINF:-1, Sonar FM - 105.7 FM - Santiago - 1
+mms://wms02.mediastream.cl/sonarfm?MSWMExt=.asf
+#EXTINF:-1, Sonar FM - 105.7 FM - Santiago - 2
+http://201.238.223.162/sonarfm
+#EXTINF:-1, Santo Tomás - 107.5 FM - La Florida, Santiago
+http://radio.santotomas.cl:8000/;
+#EXTINF:-1, Radio Topater FM  -  105.7  MHz  -  Calama, Región de Antofagasta
+http://cdn.instream.audio:9103/;
+#EXTINF:-1, Infinita - 100.1 FM - Santiago
+http://unlimited1-us.dps.live/infinita/go/audio/now/livestream1.m3u8
+#EXTINF:-1, Tu sana adicción en la web. * POP DANCE 24/7
+http://170.239.84.251:8010/lasenal-high
+#EXTINF:-1, Radio Universidad de Santiago
+http://158.170.20.250:8000/usach1
+#EXTINF:-1, Puerto Rock Cristiano
+http://188.165.187.84:8107/
+#EXTINF:-1, Radio Nonguén
+http://192.99.18.164:9432/;
+#EXTINF:-1, Radio Riquelme « Coquimbo
+http://184.154.173.147:8004/stream?1529543008219
+#EXTINF:-1, Radio Nueve Veinte « Temuco
+http://188.165.187.84:8123/stream
+#EXTINF:-1, Positiva - Santiago - Nationwide signal
+http://mimix.mercurio.cl:8000/positivafm
+#EXTINF:-1, Radio Gabriela Online
+http://192.99.18.164:9436/;
+#EXTINF:-1, Redgeminis - 93.3 FM - Pelluhue
+http://186.67.202.188:8002/live?1529544243950
+#EXTINF:-1, El Conquistador Temuco
+http://167.114.219.240:9326/;
+#EXTINF:-1, My Radio.cl - AM
+http://37.187.79.93:8030/live
+#EXTINF:-1, My Radio.cl - FM
+http://37.187.79.93:8408/myradio
+#EXTINF:-1, Tropical Latina  FM  RTL    Curico
+http://cast.radioservicios.cl:8300/curico
+#EXTINF:-1, Contacto FM   103.9   Talagante
+http://s02.midns.net:8697/stream/1/
+#EXTINF:-1, Radio Bknes - Online - Santiago
+http://stream.radiobknes.cl:8080/stream?type=http&nocache=47;
+#EXTINF:-1, La Mega FM - 102.7 FM - Iquique
+http://192.99.18.164:9704/;stream.aac
+#EXTINF:-1, Isluga - Online - Iquique
+http://server2.mundonline.cl:9316/;
+#EXTINF:-1, En Linea Radio - Online - Isla FM
+http://104.131.243.43:8880/;
+#EXTINF:-1, Santuario - 91.5 FM - Copiapó
+http://186.103.174.173:8000/;
+#EXTINF:-1, Santa María - 840 AM - Coyhaique
+http://stream5.eltelon.com/santa-maria.aac
+#EXTINF:-1, San Bartolome - 96.7 FM - La Serena
+http://190.3.169.87:9968/;
+#EXTINF:-1, Romántica - 104.1 FM - Santiago
+http://redirector.dps.live/romantica/aac/icecast.audio
+#EXTINF:-1, Radio Optima FM De Parral
+http://104.131.43.160:7560/;
+#EXTINF:-1, Ufro Radio
+http://edge-np.cdn.mdstrm.com/59b2a5f59e1aa08b110000a8.aac
+#EXTINF:-1, FM Tiempo Online
+http://redirector.dps.live/fmtiempo/mp3/icecast.audio
+#EXTINF:-1, Duna - 89.7 FM - Santiago
+http://unlimited2-cl.dps.live/duna/go/audio/now/livestream1.m3u8
+#EXTINF:-1, Maxima FM 99.1
+http://cast3.serverhost.cl:8760/;
+#EXTINF:-1, Nahuelbuta - 88.3 FM - Curanilahue
+http://s3.mediostream.cl:7001/;
+#EXTINF:-1, Portales Valparaíso - 840 AM / 89.5 FM - Valparaíso
+http://stream5.eltelon.com/archi-portales.aac
+#EXTINF:-1, Radio Interamericana « Concepción
+http://stream5.eltelon.com/archi-interamericana.aac
+#EXTINF:-1, RADIO DOÑA NUEVA JAVIERA EN LA 92.7 FM DESDE LOS ALAMOS
+http://78.129.224.13:12858/;
+#EXTINF:-1, Rancagua - 99.5 FM - Rancagua
+http://audio.crearchile.info:9402/;
+#EXTINF:-1, UCSC Radio « Concepción
+http://radio.ucsc.cl:8067/;
+#EXTINF:-1, Universidad de Santiago - 94.5 FM - Santiago
+http://158.170.20.250:8000/usach1
+#EXTINF:-1, Radio Vacaciones - 97.5 FM - El Quisco
+http://184.154.173.147:8005/stream
+#EXTINF:-1, Carolina FM 99.3 Santiago Chile
+http://unlimited1-cl.dps.live/carolina/go/audio/now/livestream1.m3u8
+#EXTINF:-1, Radio Nostalgica de Atacama
+http://unlimited4-us.dps.live/nostalgica/aac/icecast.audio
+#EXTINF:-1, Radio El Carbón de Lota
+http://tunein.digitalproserver.com/el_carbonbb.aac
+#EXTINF:-1, Radio Vida FM, Curico 103.7 Mhz
+http://live.tustreaming.cl/playerhtml5-ts/?pl=winamp&c=radiovidacurico
+#EXTINF:-1, Armonía - 106.3 FM - Santiago - 0
+http://encoder.armonia.cl:2032/;
+#EXTINF:-1, Armonía - 106.3 FM - Santiago - 1
+http://audio.armonia.cl:3032/1.mp3
+#EXTINF:-1, Artesanía - 100.5 FM - Chimbarongo
+http://200.24.229.253:8010/;
+#EXTINF:-1, Aconcagua - 91.7 FM - San Felipe
+http://atanua.broadcastchile.cl:4080/;
+#EXTINF:-1, Universidad Técnica Federico Santa María - 99.7 FM - Valparaíso
+http://mozart.usm.cl:8000/;
+#EXTINF:-1, Camara de Diputados - Online - Valparaíso
+http://www.radiocamara.cl:8000/;
+#EXTINF:-1, Superandina - 88.5 FM - Los Andes
+http://atanua.broadcastchile.cl:8009/;
+#EXTINF:-1, Gennesis - 92.7 FM - Copiapó
+http://atanua.broadcastchile.cl:7000/;
+#EXTINF:-1, Radio Corporacion 1380
+http://s6.jcwebnew.com:8024/;
+#EXTINF:-1, El Salitre
+http://67.212.166.178:7010/;
+#EXTINF:-1, Radio Sol FM 97.7
+http://online.radiosol.cl:8000/;
+#EXTINF:-1, Radio Bío-Bío Concepción 98.1
+http://redirector.dps.live/biobioconcepcion/aac/icecast.audio
+#EXTINF:-1, Radio Bío-Bío Los Ángeles 96.7
+http://redirector.dps.live/biobiolosangeles/aac/icecast.audio
+#EXTINF:-1, Radio Bío-Bío Osorno 106.5
+http://redirector.dps.live/biobioosorno/aac/icecast.audio
+#EXTINF:-1, Radio Bío-Bío Puerto Montt 94.9
+http://redirector.dps.live/biobiopuertomontt/aac/icecast.audio
+#EXTINF:-1, Radio Bío-Bío Santiago 99.7
+http://redirector.dps.live/biobiosantiago/aac/icecast.audio
+#EXTINF:-1, Radio Bío-Bío Temuco 88.1
+http://redirector.dps.live/biobiotemuco/aac/icecast.audio
+#EXTINF:-1, Radio Bío-Bío Valdivia 88.9
+http://redirector.dps.live/biobiovaldivia/aac/icecast.audio
+#EXTINF:-1, Radio Bío-Bío Valparaíso 94.5
+http://redirector.dps.live/biobiovalparaiso/aac/icecast.audio
+#EXTINF:-1, Punto 7 - 90.9 FM - Concepción
+http://unlimited4-us.dps.live/p7concepcion/mp3/icecast.audio
+#EXTINF:-1, Punto 7 - 101.7 FM - Los Ángeles
+http://unlimited4-us.dps.live/p7losangeles/aac/icecast.audio
+#EXTINF:-1, Punto 7 - 101.7 FM - Temuco
+http://unlimited4-us.dps.live/p7temuco/aac/icecast.audio
+#EXTINF:-1, Punto 7 - 97.9 FM - Valdivia
+http://unlimited4-us.dps.live/p7valdivia/aac/icecast.audio
+#EXTINF:-1, Punto 7 - 100.1 FM - Valparaíso
+http://unlimited4-us.dps.live/p7valparaiso/aac/icecast.audio
+#EXTINF:-1, Punto 7 - 101.9 FM - Puerto Montt - 0
+http://unlimited4-us.dps.live/p7puertomontt/aac/icecast.audio
+#EXTINF:-1, Punto 7 - 101.9 FM - Puerto Montt - 1
+http://unlimited4-us.dps.live/p7puertomontt/mp3/icecast.audio
+#EXTINF:-1, Punto 7 - 105.5 FM - Osorno
+http://unlimited4-us.dps.live/p7osorno/aac/icecast.audio
+#EXTINF:-1, Radio Bahia Caldera 99.7
+http://195.154.182.222:3297/stream
+#EXTINF:-1, Radio Bahia Chañaral 105.1
+http://195.154.182.222:3430/stream
+#EXTINF:-1, Radio Bahia Copiapo 104.5 FM
+http://195.154.182.222:3297/stream
+#EXTINF:-1, Radio Festival « Viña del Mar  1270 AM 93.7 FM
+https://stream.festival.cl/;audio.mp3
+#EXTINF:-1, Radio Bahia Diego de Almagro 98.3 FM
+http://195.154.182.222:3440/stream
+#EXTINF:-1, Radio Bahia Taltal 91.3 FM
+http://195.154.182.222:3439/stream
+#EXTINF:-1, Radio Uchile
+http://200.89.71.21:8000/;
+#EXTINF:-1, Radio Chilefolklore
+http://5.9.65.9:8236/stream/2/
+#EXTINF:-1, Definitiva - 90.5 FM - Tocopilla
+http://cast3.serverhost.cl:8772/;
+#EXTINF:-1, Radio Javiera De San Javier
+http://104.236.248.181:9382/;
+#EXTINF:-1, MASFM 107.7
+http://s1.listenlive.digital:7412/stream.mp3
+#EXTINF:-1, Koinonia Cambé Radio
+http://stm29.sacraweb.com.br:14836/;
+#EXTINF:-1, Universitaria - 94.5 FM - La Serena
+http://radio.cic.userena.cl:8000/radio-uls
+#EXTINF:-1, X - 104.9 FM - La Serena
+http://cdn.akausa240.usastreams.com:9312/;
+#EXTINF:-1, Radio Isabel Contulmo 94.7 FM
+http://192.151.158.42:9558/;
+#EXTINF:-1, Radio Aguamarina FM 100.5 - 0
+http://sonando.us.digitalproserver.com/aguamarina.aac
+#EXTINF:-1, Radio Aguamarina FM 100.5 - 1
+http://sc.digitalproserver.com:9460/
+#EXTINF:-1, Beethoven 96.5 FM - Santiago
+http://unlimited4-us.dps.live/beethovenfm/aac/icecast.audio
+#EXTINF:-1, Paula FM - 106.9 FM - Santiago
+http://unlimited3-cl.dps.live/radiopaula/go/audio/now/livestream1.m3u8
+#EXTINF:-1, Digital FM - 99.1 FM - Iquique
+http://mimix.mercurio.cl:8000/iquique1
+#EXTINF:-1, Digital FM - 98.3 FM - Puerto Montt
+http://mimix.mercurio.cl:8000/puertomontt1
+#EXTINF:-1, Digital FM - 94.9 FM - Valparaíso
+http://mimix.mercurio.cl:8000/valparaiso1
+#EXTINF:-1, Digital FM - 107.7 FM - Osorno
+http://mimix.mercurio.cl:8000/osorno1
+#EXTINF:-1, Digital FM - 104.1 FM - Arica
+http://mimix.mercurio.cl:8000/arica
+#EXTINF:-1, Digital FM - Santiago - Nationwide Signal
+http://mimix.mercurio.cl:8000/digitalfm
+#EXTINF:-1, Digital FM - 89.5 FM - Calama
+http://mimix.mercurio.cl:8000/calama1
+#EXTINF:-1, Digital FM - 97.1 FM - Antofagasta
+http://mimix.mercurio.cl:8000/antofagasta1
+#EXTINF:-1, Digital FM - 105.5 FM - Concepción
+http://mimix.mercurio.cl:8000/concepcion1

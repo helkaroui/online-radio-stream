@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1, GPB Radio 1
+http://live.radio1.ge:8000/live
+#EXTINF:-1, Radio Amra Channel One
+http://majestic.wavestreamer.com:7311/
+#EXTINF:-1, Radio Kavkaz
+http://radio.alania.net:8000/kvk
+#EXTINF:-1, Tbilisi FM 93.5
+http://iis.ge:8000/radiotbilisi.mp3
+#EXTINF:-1, Hereti FM 102.8
+http://iis.ge:8000/hereti.mp3
+#EXTINF:-1, Radio SOMA Sukhumi 107.9 - 0
+http://www.radiosoma.com/RadioSoma_107.9_MHz.m3u
+#EXTINF:-1, Radio SOMA Sukhumi 107.9 - 1
+http://91.207.180.75/
+#EXTINF:-1, Jako FM  96.3
+http://81.16.244.251:8000/jako.fm
+#EXTINF:-1, Radio Rioni Kutaisi 105.5 FM - 0
+http://92.241.73.182:8000/;stream.nsv
+#EXTINF:-1, Radio Rioni Kutaisi 105.5 FM - 1
+http://92.241.73.182:8000/
+#EXTINF:-1, NRJ.ge
+http://shaincast.caster.fm:24734/listen.mp3?type=.mp3
+#EXTINF:-1, Radio Ajara - FM 104.5
+http://listen1.mixlr.com/a5dd050d4e4e8db97a0217e2e1e51459
+#EXTINF:-1, Star FM Tbilisi 93.9
+http://stream.it-solutions.ge:8000/mp3-starfm
+#EXTINF:-1, GPB Radio 2
+http://tv.cdn.xsg.ge/gpb-2tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Voice of Abkhazia 98.9 FM
+http://109.172.182.119:8098/stream

@@ -1,0 +1,151 @@
+#EXTM3U
+#EXTINF:-1, Laluna FM 94.9 - 0
+http://stream.laluna.lt/laluna/high.m3u
+#EXTINF:-1, Laluna FM 94.9 - 1
+http://stream.laluna.lt/laluna/low.m3u
+#EXTINF:-1, Laluna FM 94.9 - 2
+http://stream.laluna.lt/laluna/medium.m3u
+#EXTINF:-1, Laluna FM 94.9 - 3
+http://stream.m-1.fm:80/laluna/medium
+#EXTINF:-1, M-1 Plius - 0
+http://stream.m-1.fm/m1plius/mp3.m3u
+#EXTINF:-1, M-1 Plius - 1
+http://stream.m-1.fm/m1plius/aacp64.m3u
+#EXTINF:-1, M-1 - 0
+http://radio.m-1.fm/m1/mp3.m3u
+#EXTINF:-1, M-1 - 1
+http://radio.m-1.fm/m1/aacp64.m3u
+#EXTINF:-1, Radio Stotis Lietus 91.4 FM - 0
+http://radio.m-1.fm/lietus/mp3.m3u
+#EXTINF:-1, Radio Stotis Lietus 91.4 FM - 1
+http://radio.m-1.fm/lietus/aacp.m3u
+#EXTINF:-1, Radio Stotis Lietus 91.4 FM - 2
+http://www.vtuner.com/vtunerweb/asp/dynampls.asp?SID=14180&link=http://stream.m-1.fm:80/lietus/aacp
+#EXTINF:-1, Rock FM - 0
+http://5.20.223.18/crf128.mp3.m3u
+#EXTINF:-1, Rock FM - 1
+http://5.20.223.18/crf64.mp3.m3u
+#EXTINF:-1, Rock FM - 2
+http://5.20.223.18/crf64.aac.m3u
+#EXTINF:-1, Rock FM - 3
+http://5.20.223.18/crf32.aac.m3u
+#EXTINF:-1, Radijas Tau 102.9 fm
+http://radijas.tau.lt:8000/stream
+#EXTINF:-1, Radio VUR - StartFM 94.2
+http://www.startfm.lt/startfm.m3u
+#EXTINF:-1, European Hit Radio - 0
+http://84.46.162.57:8000/ehr
+#EXTINF:-1, European Hit Radio - 1
+http://84.46.162.57:8000/ehr2
+#EXTINF:-1, European Hit Radio - 2
+http://82.135.234.194/EHR
+#EXTINF:-1, Easy FM
+http://netradio.ziniur.lt/easyfm.mp3
+#EXTINF:-1, Radio Znad Wilii ZW 103.8 FM
+http://zw.lt:8000/zw128
+#EXTINF:-1, RS2 Lithuania
+http://77.79.33.225:8000/rs2.lt.aac
+#EXTINF:-1, Žiniu Radijas - 0
+http://sradio.tv/stream/1268.m3u
+#EXTINF:-1, Žiniu Radijas - 1
+http://213.197.129.62:8000/ziniur.mp3
+#EXTINF:-1, Russkoye Radio Baltija Lithuania 105 FM
+http://5.20.223.18/rrb128.mp3
+#EXTINF:-1, Pūkas - Radijo stotis 103.7 FM - 0
+http://82.135.234.195:8000/pukas.aac.m3u
+#EXTINF:-1, Pūkas - Radijo stotis 103.7 FM - 1
+http://82.135.234.195:8000/pukas.aac
+#EXTINF:-1, Pūkas - Radijo stotis Pūkas-2 92.4 FM - 0
+http://82.135.234.195:8000/pukas2.mp3.m3u
+#EXTINF:-1, Pūkas - Radijo stotis Pūkas-2 92.4 FM - 1
+http://82.135.234.195:8000/pukas2.aac
+#EXTINF:-1, Pūkas - Radijo stotis Pūkas-2 92.4 FM - 2
+http://82.135.234.195:8000/pukas2.aac.m3u
+#EXTINF:-1, Radijo stotis Lietus - 0
+http://radio.lietus.fm/LIETUS.m3u
+#EXTINF:-1, Radijo stotis Lietus - 1
+http://stream.m-1.fm:80/LIETUS
+#EXTINF:-1, Radio Maria Lithuania
+http://dreamsiteradiocp.com:8010/
+#EXTINF:-1, Radijo Stotis Klaipeda 99.8 FM
+http://82.135.234.195:8000/kelyje_klaipeda.mp3
+#EXTINF:-1, Radio Pukas2 92.4 FM
+http://82.135.234.195:8000/pukas2.mp3
+#EXTINF:-1, Radio Saules 102.5 FM
+http://saule-mp3.vinlita.lt:8008/stream.mp3
+#EXTINF:-1, Utenos Radijas
+http://gyvai.utenosradijas.lt:8010/;
+#EXTINF:-1, Fix FM Lithuania
+http://194.135.94.12:2008/fixfm_192
+#EXTINF:-1, Extra FM Lithuania
+http://82.135.234.195:8000/extrafm.mp3
+#EXTINF:-1, Upso radijas - 0
+http://upsas.eu:8000/upsas_320
+#EXTINF:-1, Upso radijas - 1
+http://upsas.eu:8000/upsas_128
+#EXTINF:-1, Upso radijas - 2
+http://upsas.eu:8000/upsas_64
+#EXTINF:-1, Radio Start FM 94.2 - 0
+http://www.startfm.lt/startfm.m3u
+#EXTINF:-1, Radio Start FM 94.2 - 1
+http://radijas2.vu.lt:8000/startfm.ogg
+#EXTINF:-1, Radio Start FM 94.2 - 2
+http://radijas2.vu.lt:8000/startfm.mp3
+#EXTINF:-1, Taurages Radijas
+http://stream.tauragesradijas.lt:8000/tr1
+#EXTINF:-1, Radijo Stotis Kaunas 105.9 FM
+http://82.135.234.195:8000/kelyje_kaunas.mp3.m3u
+#EXTINF:-1, Radijo Stotis Vilnius 107.7 FM
+http://82.135.234.195:8000/kelyje_vilnius.mp3.m3u
+#EXTINF:-1, Radijo Stotis Klaipėda 99,8 MHz
+http://82.135.234.195:8000/kelyje_klaipeda.mp3.m3u
+#EXTINF:-1, Kelyje (Klaipeda) 99.8 FM
+http://82.135.234.195:8000/kelyje_kaunas.mp3.m3u
+#EXTINF:-1, Kelyje (Vilnius)
+http://82.135.234.195:8000/kelyje_vilnius.mp3.m3u
+#EXTINF:-1, Kelyje (Kaunas)
+http://82.135.234.195:8000/kelyje_kaunas.mp3.m3u
+#EXTINF:-1, Geras FM Lithuania
+http://82.135.234.195:8000/gerasfm.mp3
+#EXTINF:-1, FM99 lithuania
+http://www.fm99.lt/FM99.m3u
+#EXTINF:-1, Laisvoji Banga 102.6 FM
+http://82.135.234.195:8000/goldfm.mp3
+#EXTINF:-1, Radijo Stotis Pulsas
+http://185.36.81.85:8000/;
+#EXTINF:-1, Radio Vatican News Latvian (daily new podcast)
+http://www2.vaticanwebradio.org/webcasting/lituano_1.mp3
+#EXTINF:-1, Power Hit Radio Lithuania
+http://power-stream.tv3.lt:8000/PHR.mp3
+#EXTINF:-1, Radio Centras RC 91.2 FM - 0
+http://84.46.205.13/rc128.mp3
+#EXTINF:-1, Radio Centras RC 91.2 FM - 1
+http://84.46.205.13/rc64.mp3
+#EXTINF:-1, Radio Neringa FM 89.8 - 0
+http://streamer.midiaudio.com/ner
+#EXTINF:-1, Radio Neringa FM 89.8 - 1
+http://radio.15min.lt:8000/neringa_ogg
+#EXTINF:-1, Radio Neringa FM 89.8 - 2
+http://185.11.24.72:8000/neringafm
+#EXTINF:-1, 104.3 FM - Relax FM Lithuania
+http://5.20.223.18/relaxfm128.mp3
+#EXTINF:-1, ZIP FM Lithuania - 0
+http://84.46.205.13/zipfm128.mp3
+#EXTINF:-1, ZIP FM Lithuania - 1
+http://84.46.205.13/zipfm64.mp3
+#EXTINF:-1, ZIP FM Lithuania - 2
+http://84.46.205.13/zipfm64.aac
+#EXTINF:-1, ZIP FM Lithuania - 3
+http://84.46.205.13/zipfm32.aac
+#EXTINF:-1, LRT Klasika
+http://lrt-klasika.data.lt/lrt_klasika/radio/playlist.m3u8
+#EXTINF:-1, LRT Radijas
+http://lrt-radijas.data.lt/lrt_radijas/radio/playlist.m3u8
+#EXTINF:-1, LRT Opus 3
+http://lrt-opus.data.lt/lrt_opus/radio/playlist.m3u8
+#EXTINF:-1, Super FM 100.5 FM
+http://84.46.162.57:8000/superfm.mp3
+#EXTINF:-1, Radijo Stotis SVETUR - 0
+http://svetur.intellmedia.lt:8282/tiesiogiai.mp3
+#EXTINF:-1, Radijo Stotis SVETUR - 1
+http://www.svetur.co.uk/play/index.php?pl=vlc&c=svetur

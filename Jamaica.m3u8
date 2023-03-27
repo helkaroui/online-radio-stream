@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1, Pondends Radio Real YAAD - 0
+http://s7.voscast.com:7000/
+#EXTINF:-1, Pondends Radio Real YAAD - 1
+http://s7.voscast.com:7000/;?1400536222906.mp3
+#EXTINF:-1, Prayz FM 98.5, 92.5 - 0
+http://media.carib.pro/prayz?1423866722567.mp3
+#EXTINF:-1, Prayz FM 98.5, 92.5 - 1
+http://media.carib.pro/prayz.m3u
+#EXTINF:-1, TUN-IT-UP RADIO
+http://50.7.99.155:7441
+#EXTINF:-1, BLITZ RADIO 2000
+http://usa12.fastcast4u.com:5080
+#EXTINF:-1, NCU Radio 91.1FM
+http://s4.voscast.com:8180/stream/1/
+#EXTINF:-1, NewsTalk 93 - 0
+http://ample-zeno-11.radiojar.com/2f9c52at55vtv
+#EXTINF:-1, NewsTalk 93 - 1
+http://ample-zeno-13.radiojar.com/494pg37zmd5tv
+#EXTINF:-1, Reggae141
+http://hestia2.cdnstream.com/1301_128
+#EXTINF:-1, Revive Us Radio
+http://108.178.14.74/
+#EXTINF:-1, Love 101 FM
+http://ample-zeno-14.radiojar.com/webzstrtpy5tv
+#EXTINF:-1, Talk Jamaica Radio
+http://stream.radio.co/s865966bbf/listen
+#EXTINF:-1, Power 106FM Jamaica - 0
+http://go-jamaica.com/power/jplayer/stream.php
+#EXTINF:-1, Power 106FM Jamaica - 1
+http://war.str3am.com:7550/
+#EXTINF:-1, Power 106FM Jamaica - 2
+http://war.str3am.com:7550

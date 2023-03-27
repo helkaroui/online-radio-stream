@@ -1,0 +1,43 @@
+#EXTM3U
+#EXTINF:-1, Caribbean Hot FM 105.3 / 96.1 FM
+http://auds2.intacs.com/caribbeanhotfm
+#EXTINF:-1, Helen radio
+http://media.carib.pro/radio100
+#EXTINF:-1, Prayz FM 98.5 & 92.5
+http://media.carib.pro/prayz
+#EXTINF:-1, The Wave - Saint Lucia
+http://ice66.securenetsystems.net/THEWAVE
+#EXTINF:-1, Vybe Radio - 0
+http://us2.internet-radio.com:8103/live
+#EXTINF:-1, Vybe Radio - 1
+http://www.vyberadio.com/files/sound/VybeRadio_live.m3u
+#EXTINF:-1, Vybe Radio - 2
+http://45.79.186.124/proxy/vyberadio?mp=/stream
+#EXTINF:-1, Fire Online Radio
+http://192.95.39.65:5132/;
+#EXTINF:-1, 92.3 Liberty FM
+http://69.80.26.23:8000/libertyfm
+#EXTINF:-1, RFI 102.1 FM
+http://167.114.131.90:5908/;
+#EXTINF:-1, Blazin 99.3
+http://stereo.wavestreamer.com:3439/1
+#EXTINF:-1, Real Strong Radio
+http://sc9.mystreamserver.com:8028
+#EXTINF:-1, Star 983 FM
+http://starradio.serverroom.net:6688
+#EXTINF:-1, Relaxing Jazz - 0
+http://www.relaxingjazz.com/iTunesRadio.pls
+#EXTINF:-1, Relaxing Jazz - 1
+http://www.relaxingjazz.com/realplayer128.ram
+#EXTINF:-1, Relaxing Jazz - 2
+http://www.relaxingjazz.com/iTunesRadio32.pls
+#EXTINF:-1, Relaxing Jazz - 3
+http://www.relaxingjazz.com/realplayer32.ram
+#EXTINF:-1, Radio Caribbean International
+http://media.carib.pro/RCI
+#EXTINF:-1, Caribbean Kiss FM
+http://auds1.intacs.com/caribbeankissfm
+#EXTINF:-1, Caribbean Power Jam Radio
+http://auds1.intacs.com/caribbeanpowerjamradio
+#EXTINF:-1, Unity FM 90.5
+http://142.54.176.34:8638/;stream/1
