@@ -55,3 +55,9 @@ http://rtstream.tanitweb.com/culturelle
 http://178.32.253.134:8000/stream?type=.mp3
 #EXTINF:-1, Radio Babnet
 http://193.95.93.29:8080/;
+#EXTINF:0, IFM
+https://live.ifm.tn/radio/8000/ifmlive?1585267848
+#EXTINF:0, Diwan FM
+https://streaming.diwanfm.net/stream
+#EXTINF:0, Radio Zitouna
+https://stream.radiozitouna.tn/radio/8030/radio.mp3
